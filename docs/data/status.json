@@ -1,11 +1,27 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-08-22T16:06:49.479581+00:00",
   "baseline_mode": true,
-  "sources": {},
+  "sources": {
+    "gdelt": {
+      "name": "GDELT",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22Cymodocea+nodosa%22+OR+%22Cymodocea+serrulata%22+OR+%22Enhalus+acoroides%22+OR+%22Syringodium+filiforme%22+OR+Phyllospadix%29&mode=artlist&format=json&maxrecords=250&timespan=30d&sort=datedesc"
+    },
+    "google_news_rss": {
+      "name": "Google News RSS",
+      "ok": true,
+      "fetched": 3232,
+      "kept": 131,
+      "feeds": 58,
+      "errors": []
+    }
+  },
   "coverage": {
     "gdelt_translingual_languages": 65,
     "explicit_google_language_routes": 25,
     "explicit_google_locales": 29,
-    "note": "Run the GitHub Action once to perform the first live harvest."
+    "note": "GDELT provides translingual global search; Google News RSS adds explicit native-language searches."
   }
 }

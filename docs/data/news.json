@@ -1,9 +1,3458 @@
 {
-  "generated_at": null,
-  "baseline_complete": false,
-  "article_count": 0,
+  "generated_at": "2026-08-22T16:06:49.479581+00:00",
+  "baseline_complete": true,
+  "article_count": 126,
   "new_today": 0,
-  "lookback_days_this_run": null,
-  "articles": [],
-  "stats": {"languages": [], "countries": [], "outlets": [], "themes": [], "discovery_sources": []}
+  "lookback_days_this_run": 30,
+  "articles": [
+    {
+      "id": "440baf360849039d46",
+      "title": "Free talk in Mevagissey to explore Cornwall’s hidden seagrass - CornishStuff",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2JHMWwwd0dnZ3g0NVpPa1plOWxuMm9xNFVuN1hybXZ2Z2lZd3NWYldZUkZfQWhhLUYwMVlnOW1Od1RFb2dIc0Q3LU5jb2hScjhjMGFQaFZCSDFlSXNJU29yVFJmY2JvZEJlbGd5Zk1JcHppbTc3VGJGTHdJOExzdVVLLWlKdk1leU1FcUZnN29wX1pmdnFGeXpMbmtaZw?oc=5",
+      "outlet": "CornishStuff",
+      "domain": "news.google.com",
+      "published_at": "2026-08-22T07:16:01+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Free talk in Mevagissey to explore Cornwall’s hidden seagrass CornishStuff",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "b5c6fb98513ab8e2f2",
+      "title": "Seagrass and the Waves Memaknai Perjalanan Hidup Melalui Album “SELF EQUALIZER” - RRI.co.id",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1htNDNtd09weFB1bTRYc19sSjVuYlVhTmR3RHlPUjZUeDBQckNZSjBjR1BxYW1lell3QkpMSnE0REpXTWNYNjdLdjk3SXBFb0dZTG5yMi1HN2ZBVDNMdXhYWnZGTzl3aUIzSXNWTVdid0hFZU1BdkJoQlduRko2X00tS29OYzhZT0NIX0VCTTNxTnllb2d5UFVOOGo1akZkcHJNRlNac2xHMUtnMTZ6bE5NV1lfVXVaZnFpLQ?oc=5",
+      "outlet": "RRI.co.id",
+      "domain": "news.google.com",
+      "published_at": "2026-08-21T23:43:00+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Seagrass and the Waves Memaknai Perjalanan Hidup Melalui Album “SELF EQUALIZER” RRI.co.id",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "dff3d17d259504a9f3",
+      "title": "\"Alga a chi?\": a Castelsardo in spiaggia per studiare la posidonia oceanica - L'Unione Sarda.it",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcTJXaU1JaEh0R1hTMnJMaURyWU1sZWoyWUM2Y0I0eU42Y19VRDZQUmtFcU53bzZVWlpxRWc4czdma05iYUJQcnRtdndITDlwa2xpTU9uRVNsSjZCaFpoaFNKVEJDN01VNUtmY2dWdkVCY2pCZ3dkYTVFQmJ6aVl6cWwwd2NVbXc5bXkzNUxSY0J3YTNVRURCWktTYVJQMzRJa0NNV2tzdXhSby0xWjI0cExXYWJiZGtQQ0VtU1NiLXJCZllYMjJ6N2xva0NvLWx3MlFGbHN30gHeAUFVX3lxTE9VOExHUzB5d0FEa0RyaXRlSkJUWXVSenVUX0RxYUdvY3pGdWVSTFJoRmdXX0h2QTlYUThSQ210VkxTZmZIUkVBbEdJNXNLRE1IUzZJd0FuV2pOSFNaaEFUTVhseVF3ZmtwMm5rclJFZ09icmV1ckJKM0hnMlZYZnFSQXBoRE1Ga0hnU2VXc3FHSVFQT2NaR1FtazF0ZlZaTW9PdUlNWmxwN3ZRc0hYa3BEanVnNGZpYzlQRnVUd2hUbUhzOUhpeFBSM3Bsa3p1a0o5RWNqX05tSFlDbGFHQQ?oc=5",
+      "outlet": "L'Unione Sarda.it",
+      "domain": "news.google.com",
+      "published_at": "2026-08-21T17:33:00+00:00",
+      "language": "Italian",
+      "source_country": "IT",
+      "image": "",
+      "description": "\"Alga a chi?\": a Castelsardo in spiaggia per studiare la posidonia oceanica L'Unione Sarda.it",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Italian (IT)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "4e516a42a89bd685b2",
+      "title": "Mapping Indonesian seagrass quality to target blue carbon conservation - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91LU1LLWNORmMzMTA1TUxKV3NXRkJ4VndiTXFpOWRpdDd0cThTbG1KUnpDSVp0NnlRNUtmbEhxTkdfNmt2Q0dUZ28tRklUS21CMXdqd2ROVjJkNk9DX1lvVUhjckppWl9kaDQ0X000UUFpdHU0alpnWkxqNzZ3eHc?oc=5",
+      "outlet": "Phys.org",
+      "domain": "news.google.com",
+      "published_at": "2026-08-21T16:00:05+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Mapping Indonesian seagrass quality to target blue carbon conservation Phys.org",
+      "themes": [
+        "Conservation & policy",
+        "Blue carbon",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "b41675da8ab37666cf",
+      "title": "Hasanuddin University Study Maps Indonesia's Seagrass Ecosystems from Hotspots to Refugia - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdjM0UFlSNjlGQWxxeWp1V2g4WHBQcC1FNlRsQ2dLVExTbmQyRVE5c3VibGV4ZHlCUWF5QV9rTkhWR0Y4TEllMEd2QV8zNHVRT1hKM0Y2aWNNTWFQYk1BVHptbTg2dmFDOENBVE9NZ3lTSEtzQUF1S05CeWV5WmowN0JSMHQ2aTVWSEZlNEE5NWJDQ19acUQ0eGZWR1NpMW1jSWpVaV9RTUpxMVVyMkNxN2JFUmF0TkxQMVc5dTZWSmlBaWtjdFVTaDV1MGJ3TmVGdlNTUXo1TzdHN3Yt?oc=5",
+      "outlet": "PR Newswire",
+      "domain": "news.google.com",
+      "published_at": "2026-08-21T12:36:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Hasanuddin University Study Maps Indonesia's Seagrass Ecosystems from Hotspots to Refugia PR Newswire",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "ea1771c16496d09cd0",
+      "title": "Mapping Indonesia’s seagrass quality: Blue carbon conservation - Open Access Government",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXA0RXUzY0puWEZXdVVDN3lSZ0hVU1JiU3BYbUF5V3hEeS0xNnNGaDRDZ1lVbXNoQmlTRHRuSGJ4SUdLZ3BVMHV4VXZHR0tkUGZ4NnFabFVNcWtuSlZuYnp1dnRDVXFraVdGenQzRVdiV1M3UmY0Uy1QdUFHUDJNbDV5MDFaWXJ0NTU2SGNvMWZVQVpLeTZheVFGb2NhRG8tTGdtcldDSUI?oc=5",
+      "outlet": "Open Access Government",
+      "domain": "news.google.com",
+      "published_at": "2026-08-21T11:22:21+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Mapping Indonesia’s seagrass quality: Blue carbon conservation Open Access Government",
+      "themes": [
+        "Conservation & policy",
+        "Blue carbon",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "5a5280e01842ef9b13",
+      "title": "Mapping Indonesia’s seagrass quality, revealing priorities for blue carbon conservation - EurekAlert!",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWU2JtZkRtWnlRcGF3QWI5MUhSQ3c1LWJsRlg2OHY0SmphMTVpNW1sMjFGdzFKWDgwQnVfQnJMRktPUFNIT0VvOERsOEVnZG1lV0d2S0UyX192dTV0?oc=5",
+      "outlet": "EurekAlert!",
+      "domain": "news.google.com",
+      "published_at": "2026-08-21T10:31:32+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Mapping Indonesia’s seagrass quality, revealing priorities for blue carbon conservation EurekAlert!",
+      "themes": [
+        "Conservation & policy",
+        "Blue carbon",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "17b3e25b8080d6e1d7",
+      "title": "清偿海洋生态债，除了放鱼还能买碳！山东首例购买海草床碳汇进行替代性修复案件执行完毕 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY3JLa3pCT2xyQjA4MkdmX3RwT0U5YmQ3c2VTVktEdVAtcjB2azI5NHpZbDQwYkZhSU9BWFNqZnZWYW85a1N1V1JDUEY0WnZ3YUk0UEZ1TjlPX1NGRzAtc2MySXowVVVCSjZVM0JUSUI5SUR4TEtPemZnbExjdkJZTTVpZW54aFp6U3ZxZA?oc=5",
+      "outlet": "搜狐网",
+      "domain": "news.google.com",
+      "published_at": "2026-08-21T08:08:01+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "清偿海洋生态债，除了放鱼还能买碳！山东首例购买海草床碳汇进行替代性修复案件执行完毕 搜狐网",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "6e068e5a232c31df3f",
+      "title": "Seegras in der Ostsee: So kann ich Natur und Klima schützen - chrismon.de",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnpZT045Qm9Ib3BadEFEcUVONjRjUFl6bFRxRnRfbHluNFNGMGNWSXhiLWY1R3V0QzJqYkxZRmxuQ2E3TThHX2lHeTFzLUtZS0xsR0JTWUdHeHpRWnRueEFySHZLT3F0WjNVQXBnYTFoX0FkMVU3VzNIa091aG9LaVVNYXh0NUlZTWlxeDdMQXQ4Ulo4?oc=5",
+      "outlet": "chrismon.de",
+      "domain": "news.google.com",
+      "published_at": "2026-08-21T08:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegras in der Ostsee: So kann ich Natur und Klima schützen chrismon.de",
+      "themes": [
+        "Climate & heat"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "dc3c33ffb18707c578",
+      "title": "Virginia restored 12,000 acres of seagrass. Can Maine also stem the decline? - Bangor Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHBnRnJkZkx1WE4zM25aZldKdGQzaEFCMGZqeUJCYVJkb0xmQ0owN0s5RmJIN2pzMlZQOVo1QjhGcVdlanNJRTZ2Z1NkcEI4R2ZrVXJ1X1JaOHdzUExCUmpwVC1CdXFnQWlkcjhuenB2Y0ZEbXRzSHpqa3M3QWJka2tTMWEyM0VzbjhPVERqY1Rtc05TLXpwazBJQ3A5WWplTmRLNk9KZ2RpTGpxY1Q5YzRqamtMSkZFazR0OW5zU1lvaEl0NFMzWXppSHFrN0pWRmlzaTZNR3Y?oc=5",
+      "outlet": "Bangor Daily News",
+      "domain": "news.google.com",
+      "published_at": "2026-08-20T23:57:20+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Virginia restored 12,000 acres of seagrass. Can Maine also stem the decline? Bangor Daily News",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "cf444c0a76425bf8ff",
+      "title": "Seagrass and the Waves Rilis “Self Equalizer” Dengan Konsep Five Stages of Grief - Gigsplay",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaU1ZU0x2UE5uVXB3SURINTU5a1lSN3RwaHljZFBwZE02WkZMRHY1YXhxTGhrWXdKOW1CUmlvSkhQUTUxV0g0cWk0OVhBNlU2U3FUSFR1SXVPRjZhUndubHdGVEtSdzhxTVVwOXRaUVBTaVlESUpmMFBtSlMyWmNVY1dSMnN3YUxHaW5pNWYyc2d0Rzh6RG96eE9WQ2NJNXlXVVE?oc=5",
+      "outlet": "Gigsplay",
+      "domain": "news.google.com",
+      "published_at": "2026-08-20T23:05:38+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Seagrass and the Waves Rilis “Self Equalizer” Dengan Konsep Five Stages of Grief Gigsplay",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "7a3442fd49b9f26c05",
+      "title": "Rising ocean temperatures reduce the natural carbon storage capacity of seagrass meadows - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSnhPYm9xVFlqWnU3V1BzcEwyQnl5TjR2ZE5MX3VOOW55V3Q0TzVtdG5jc0ZVSUxOSXFYQW9pbmYzT3ZmOGFXbTQxd2F1Vy1UWGd0WlFCQ1QwOE9tMHZCcE5na2tnNm4wdG1JVU83T0pzLTVzc1Zna1liNEtYOGJsMUxB?oc=5",
+      "outlet": "Phys.org",
+      "domain": "news.google.com",
+      "published_at": "2026-08-20T20:40:01+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Rising ocean temperatures reduce the natural carbon storage capacity of seagrass meadows Phys.org",
+      "themes": [
+        "Climate & heat",
+        "Blue carbon"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "55ad815fcbf2c7c77a",
+      "title": "Posidonia Oceanica, неизведанное. Aglientu – лидер в защите прибрежной экосистемы. - L'Unione Sarda.it",
+      "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxPVFN3WlMzX3hsZ01NMXFPRXZXVWUwNGVmY0NTM2NPdkk5bzdDMDNoU0VoUVQ0RVdybFlmbkRrUVpKeVU2VFltLURjaW9hWHBMbG9OdUxUWXJ5ekkxeU04OElPdEp5TGxNd2EtREliZlk3OGEtRFpWY09CbUZpTmxzckJ6MVU5MXpmaWg2UUpkZ1JacHdlRVZxNVZ1aVNUcExBdjJjOFE5RGd1SHpueUM4Z0lxTUEyTUs4VktSdGthNGpUaXFYeXl3TVF1aVVMcmJ5UFNhYm9vbmw2anFuU2tkYXpDcDJjT0xhbllkbDMyMW1vODJtRGp5UUZNNHBPTmRDdVRRMm9EM3Vualh5YnNpXzdES2F1RS1Hc0p3ek5PYkJhckRIdDhjMkduMUNrWjNFV05KVVMwemtqZlVBSGdDVmpfRHc0Y2FOYWFmUW40S0ZqVTdZdndORVk1REE4M2xSX3YtVVZrY1R3OGVZRzFfeG9aSlhKVnhRLXAyVmFBRXBtY0xSMGFTc19tMDFvcjlEVTFwRjU1blpaUjdQSllLdE8yVzRoaGlRRGdjd1F4OGJqWEZ2dnJpbnA0b1NsMjF3ay0tY0ZuWDZvVUxqUUdOTk14S3RwNzRqRTByZXBqQm1JU05fek9KRkRLXzVVbHVFNFV3R3lDaXVfQVpTQi0tYnlYRFJrbnRXdEs5bFFsN2NMZnhwNGliMnNpcEJtZ9IBpgRBVV95cUxPS2Yxem50S0VnRktOQVdYSFl6QWdtQzhvaThCX2lVRGVXT2hzMFNDb1NhTjQtX3R0SXFURjVJV3hRa0RFNDd1RFpEb1BTRzIzMmlqM0hmVFBxeEM5azBteGRSSTJCZ0FNT0RBNzdEajhGXzFYSzRpVFdTWHBTczlidWhWZnZveU5nSmhFRTkzZnRUMjhVSFh3VWI3VllYb0hfZ1F2eTI3dDY5SHhuQTJqRE5lQVJ3bW81WW9nY0c1Y3JScDNkMnZaemlqLXRjV0FkSUg3VFFMOU13QnlWV0xodEJLZjhGZGdEQ1I0STRKVWJXRjBXdTcwVTQ5ZXJxRFh0STFuNFFJQzVaUjhDNjJ6VjUxalI4di1DUzZoNmpORDItRWFRN2lKalcyWE1jTnJZT09fVGhESzdPN2NUeVJmZWJpSU5CUDgyWUw1WFRVb3BPUWY3N25UMExkcWtDb2tDZHVLSVk3MUJVN2VaYkpCRU5qX0Raazl6WHNIQVR1VlNHQ0I1Z21hYTNOTFFMcTF1cmhUb0xyU2JMM1VlRTg3T1VMMmoyWWlELUlORTBMNkdrZkVSZmVsdnVQN0VTSHZlUEJXUFE5TTI2czJtY2p1UFlUWE1hVFcwNmQ3cWtIZ2Z6Z1hVaV91dXJHXzVUR2xGNWtsem9nWWpaVFIxZy1iWElzNndMSE5WNDcwTzRVRXZ2alJQTUVQOGMyX2ZxajZvZmhuRk9n?oc=5",
+      "outlet": "L'Unione Sarda.it",
+      "domain": "news.google.com",
+      "published_at": "2026-08-20T16:13:33+00:00",
+      "language": "Russian",
+      "source_country": "RU",
+      "image": "",
+      "description": "Posidonia Oceanica, неизведанное. Aglientu – лидер в защите прибрежной экосистемы. L'Unione Sarda.it",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Russian (RU)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "79de72afbb110a67c5",
+      "title": "Marine Hitzewellen: Wärmeres Meerwasser schwächt die natürliche Kohlenstoffspeicherung von Seegraswiesen - openPR.de",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTG1LUjlrXzBIUWJNQWhnbDRReEhtb2NobzRuaFRiU0VwOFk1NC1MTWVOVlJPcVBNR3JMSVBzaDdrUkhLOHZEbFBBRkZlQmU5b1A5eHZXRkt1SmY5bU90ZmJTODdZWmxEMVo2cE5TNWdwQmV4cTNPQTBZUG01S01FU1hHcTExYVlpREppZngyZVdLaHhGUGwyQXFXbzBuUV9US09qTGZfNndESWZBT2d1a2tWX1FHVjl3UXkzX1BqNHpOczhvUGx6S1NjUzBnT2xNZ0pkTEFRR2FWMmltNHJBQ0NuVmk?oc=5",
+      "outlet": "openPR.de",
+      "domain": "news.google.com",
+      "published_at": "2026-08-20T08:07:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Marine Hitzewellen: Wärmeres Meerwasser schwächt die natürliche Kohlenstoffspeicherung von Seegraswiesen openPR.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "fc4f24c41e847daa62",
+      "title": "Marine heatwaves: Rising ocean temperatures reduce the natural carbon storage capacity of seagrass meadows - idw - Informationsdienst Wissenschaft",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81RXZ5dnFUdWFHMU56c3lNYm9uXzFsZVpnRXYyU3FjYl9XYzNyY1NyRVpxQmlnZW5JQm5GVkx1QXo4c3ZzNDBucFRZWQ?oc=5",
+      "outlet": "idw - Informationsdienst Wissenschaft",
+      "domain": "news.google.com",
+      "published_at": "2026-08-20T08:06:00+00:00",
+      "language": "English",
+      "source_country": "US",
+      "image": "",
+      "description": "Marine heatwaves: Rising ocean temperatures reduce the natural carbon storage capacity of seagrass meadows idw - Informationsdienst Wissenschaft",
+      "themes": [
+        "Climate & heat",
+        "Blue carbon"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (US)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "cbc9d1441ec2eb01bd",
+      "title": "Seegraswachstum Bodensee: Hard räumt permanent auf - MeinBezirk.at",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWTdpbFRNQ0dOWVlnYkZHUkZMemF4MHpmMWRrUFhUWG9hUE5kOG9NRm5vSE1raXJxcHpTTXBVVmxHdW44RGItZEtEb2dZYWZNUFhieVY3cXNNQkFPWUdVc2JrQXBNWmYyWDJMU01QcVhDR0djck5QclBQTUlRLWVRdnItQU8?oc=5",
+      "outlet": "MeinBezirk.at",
+      "domain": "news.google.com",
+      "published_at": "2026-08-20T07:40:52+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegraswachstum Bodensee: Hard räumt permanent auf MeinBezirk.at",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "fafee5182b86229442",
+      "title": "深圳近十年来首次发现连片分布天然海草床 - rmzxw.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVjN1ZTlhZGUzWUZpby1mem1kN0lqYjVsSkkyemZPdEI4SGw2Y01NajUxNDAtM2RxUHQ5SThLeXZHelJhNXBxMjNYSlNReGdMWDN2N2t6eUVFRmk4MlJz?oc=5",
+      "outlet": "rmzxw.com.cn",
+      "domain": "news.google.com",
+      "published_at": "2026-08-20T02:26:51+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "深圳近十年来首次发现连片分布天然海草床 rmzxw.com.cn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "0887f351786fb3ad29",
+      "title": "一粒の種から、未来の海へ。江田島でアマモの種子62,780粒を回収--高校生と地域が力を合わせ、海のゆりかご再生へ - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qOXUxTVVRQWQwZ1dhZUR5QWdqZW9ibWZGSHBDREtwTEZFc2R6WUJtMHNIVDVHanloNzFfQVhVbjladlFWY29RUG1TZmswN1VUMFdmTjI4eWZja1hrR21JRENHejNmeUE?oc=5",
+      "outlet": "山陽新聞",
+      "domain": "news.google.com",
+      "published_at": "2026-08-19T17:30:06+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "一粒の種から、未来の海へ。江田島でアマモの種子62,780粒を回収--高校生と地域が力を合わせ、海のゆりかご再生へ 山陽新聞",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "9c41dce1408c0b8649",
+      "title": "Conserving seagrass meadows is crucial for ‘blue carbon’ climate strategies - environment.ec.europa.eu",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXFXZ2hjODc4aTUwNWI2c2JPMUYwT0ZQNHhLR1pIZUFLdEpOenpNZk1KMUQwRGtrWXVMRHI0OUt5T0JISk9fLW5pRmdvcjBQdF9jN0FMWG54N0ZXRXZWVVh3TVlwMDZrcDRLb3AxcGhvU2txcUM1MkpxOHk1ZnJCTkR5TEExWXNIN2FselFxZTdnbEwweDFQa0t1cTdMaklQWnpMNm1hcVBhMFNTNnduYk5td0U3WnpjYXc?oc=5",
+      "outlet": "environment.ec.europa.eu",
+      "domain": "news.google.com",
+      "published_at": "2026-08-19T12:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Conserving seagrass meadows is crucial for ‘blue carbon’ climate strategies environment.ec.europa.eu",
+      "themes": [
+        "Conservation & policy",
+        "Climate & heat",
+        "Blue carbon"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "1099d77d237b052b62",
+      "title": "Neue Studie: Invasive Algen bedrohen Seegraswiesen vor Mallorca - Mallorca Magazin",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc0YxdjRGWjhWb19pdzRBR1luWlpRT05FeTMzdkVHMlRVbm9oaHRabFFVSm5BWlNIZU5jemt4TFkwQmEzYkZtNk1paHJzTm01T1dpZGo5eHRsak90VUE1MWdzY1FFTk84cC14OXVaSEJSbDVJYjFqTFF0cVYxakl5aGhHS0FqWHJFaWtOSGdiVDl4RDlDLThpenVKTXNwVUl1c3dwZVlaUV9jcHhhWXFvZTFCdG9kTFJRY1Z5TnNPQVFtSkROZVFkQ3l6R2kxa0EtZXM00gHTAUFVX3lxTE9VRlk3ZnRCeUhHSTNzWG9LRmF4ZG1TZzJXU19RNTFybjNVcVk2Zy1fcENrVTdiQXhkV3BXQ0JTVmhYal9DZGhyNzlLR2NDbmRobnVwZWo3YndkcHowOUdhYkRRblFITWh0S2pHSXgzTE5vZUVvY2EzVkh6bVk2Z3FtdFRsNFhRTjA3ZnhiQWEyYzdoTS1SWnFTeXNKdmRXLVdFZjBuWUM1N2tKR0VvOTE0N2tBR1BKUjZVTElmQklNb2FLaVVaWUdoRDdjSU52QW02akE?oc=5",
+      "outlet": "Mallorca Magazin",
+      "domain": "news.google.com",
+      "published_at": "2026-08-19T09:17:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Neue Studie: Invasive Algen bedrohen Seegraswiesen vor Mallorca Mallorca Magazin",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "63d67bbbc92aad476b",
+      "title": "深圳近十年首次记录到珍稀海草床 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdXpwNVdJNUJtTlc5ZUstSW1DWmtIbkdTX0cxN3Z0NnR5U1Q0bXBKZFo4b0FsTUVWNk91dTVRU1JfVWZqSkZmNkhwV0VtVmg3amNpQV9kTWF1RXVMZlJTSjZmUW5ubG1yX1g1Z0ZROUEzdHBhektISGl0U014WnpDUE1FYkI1NmRz?oc=5",
+      "outlet": "搜狐网",
+      "domain": "news.google.com",
+      "published_at": "2026-08-18T23:04:34+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "深圳近十年首次记录到珍稀海草床 搜狐网",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "ff0962abbef8774b80",
+      "title": "Mühsames Seegras kostet Gemeinde 20'000 Franken - Blick",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeFY4VzRkbEdKUW1Xa2hHMXI1ck5kSk9ENkUzSUFvVUw5RXp0bHlaNExUSmoySlJTQVc4R2Z0SGtIMkJ3MUFzUk9LLUFGbTdObDJXR0JJRWVWNTRHN2RwQ1hrR3pDbzZWVjZoQXJzUmNuWWNYOG5PTldHTUlXdnlKT0dwek5DQVVQa280UTVPTFhmNVNHTmNjSmZ5d2RJRklwZE1STm1YWVhmWlFXMTVCTURHLTRwbXVB?oc=5",
+      "outlet": "Blick",
+      "domain": "news.google.com",
+      "published_at": "2026-08-18T17:29:51+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Mühsames Seegras kostet Gemeinde 20'000 Franken Blick",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "3d4b39629d2b47596c",
+      "title": "Rekord beim Seegras im Obersee? Das sind die wichtigsten Fakten zur grünen Flut - Südostschweiz",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQlBrQlJRdmN2clhvWWtiR24yWGNQN2RpOV9xeGlXTjJaZUZWcWxXWEEtZlEzZFFUZ0JvZ1kzQm9aMk5qNXBMRmFYdGlUc1YxalJZcTYtMUppWmloM3Vvb1RNOFE2V1Z0OXRTZjVCZVZyLWdBd2xxeEt4QlpNQTNlSTUyMnBsTG5KN1ZOTGJ5OGFKWmt5OGY3ZmR4aG5jNUxFV1RKd3dZWFRHeXZkdXNqTTlpRHVhYmFqMTZLYm53dDR4TFI1Q0VfejUwZTRtcm05ekIwN2hOSjhfdlNrVTFYNFFwTWhJcEp2cUZDakxicw?oc=5",
+      "outlet": "Südostschweiz",
+      "domain": "news.google.com",
+      "published_at": "2026-08-18T12:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Rekord beim Seegras im Obersee? Das sind die wichtigsten Fakten zur grünen Flut Südostschweiz",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "68de4acc47e621b2a1",
+      "title": "The AMAZING Microbiome of Seagrass - ArcGIS StoryMaps",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UbUtVbXoyaTM2ZHNEX01SNmx6ajRfdTBJMkNZTzd1cDhnUEVHeDF3dERiZTRrS3NfcVlWdEFYQllWd3QweG5sel9MRGZMMGJxMnZWejRRRVRlekNUSXBGY3NNNjdPZU1rLTVpNF9wYm0wcXcyLVk5bw?oc=5",
+      "outlet": "ArcGIS StoryMaps",
+      "domain": "news.google.com",
+      "published_at": "2026-08-18T11:45:35+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "The AMAZING Microbiome of Seagrass ArcGIS StoryMaps",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "a119e101740c51cabc",
+      "title": "Portekiz'in Castro Marim tuzlalarına deniz çayırı dikilecek – Portekiz Sakini - Portugal Resident",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkJ1ZGtTdEM5cE1MV0lSdEo2bTR2MXotYzdaYy1DQTN3Y29wRk81YUx5a1RvLUdyQWJCRWZsQk5IMmhJSW5sRndScWRqNG1HUURzbkp0cDRSb0lnQ2JISk5ReEx6aXJCbUNmNWNKSDBZdDNLeTdPdkRXZGdZbXNDRkM4ZzJXQThNUnU4c0Y1YWpvRmcxT0FqaFlEelZvWUpzQzI3b1NRYnJnanZx?oc=5",
+      "outlet": "Portugal Resident",
+      "domain": "news.google.com",
+      "published_at": "2026-08-18T11:00:27+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Portekiz'in Castro Marim tuzlalarına deniz çayırı dikilecek – Portekiz Sakini Portugal Resident",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "e7e16312eb9ab83b4c",
+      "title": "경기도 갯벌·잘피림도 조례로 관리한다…이은미 의원 탄소흡수원 조례안 발의 - NANOOM ENERGY",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0ZWRoWkFJNXBLRXgwV2FoeHdiM1AxOC12RHozN3ptT3lKRUFqY1d6RmJtdU9rSlROX2RSMEJUVFk2bTZJUTdpUkNlcWFVakdqQS1YUko5M0FIa3lGdTlOa283LXZLTXBEdWtr?oc=5",
+      "outlet": "NANOOM ENERGY",
+      "domain": "news.google.com",
+      "published_at": "2026-08-18T09:24:11+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "경기도 갯벌·잘피림도 조례로 관리한다…이은미 의원 탄소흡수원 조례안 발의 NANOOM ENERGY",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "7dbc85bf9cbd85d7aa",
+      "title": "수산자원공단 남해본부, 잘피 씨앗 심기 행사 - 수산인신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BWEd0TWlpMm9yMklGT3hvWnlfLWlBZVo5b2VKOXFacW1VRW9WWXZCVWhqcjlGMTZPbm9wa2Z2RHBsSHFzbjNFWUh2UFVkQlo3R2Z5eTYtT2JGMk8zU3ZkWmZYM2VUcTJkNUE?oc=5",
+      "outlet": "수산인신문",
+      "domain": "news.google.com",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "수산자원공단 남해본부, 잘피 씨앗 심기 행사 수산인신문",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "baf3d0a0fad6f17d85",
+      "title": "一粒の種から、未来の海へ。江田島でアマモの種子62,780粒を回収——高校生と地域が力を合わせ、海のゆりかご再生へ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55bGVxUlJ3NjZyd0hTMGFMLU0yMTdYUEloVFFTMVQ5N0d5UDVLXzRMdkZrZVRhUnhPYmtKNUp1cV9XTjNOZ05yUk52UjlNZno2U1ZRWnY0b3JPR1ZGQWk0b1FJU2NHQkVHOUE?oc=5",
+      "outlet": "PR TIMES",
+      "domain": "news.google.com",
+      "published_at": "2026-08-18T06:20:20+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "一粒の種から、未来の海へ。江田島でアマモの種子62,780粒を回収——高校生と地域が力を合わせ、海のゆりかご再生へ PR TIMES",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "0afe2ea14c10e1a2be",
+      "title": "深圳近十年首次记录到珍稀海草床！“深聊会”开进坝光滩涂 - 奥一网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90WjY2YUdDcmwza1ZUaHBuUm4zNTFySXlkbHlfUHc3d1k4bGp6czh2bEFwYkhyU1ZOREo0TVUwQW1rNEJyOVdKSjVzX2FxcmZWT1lXYnFQZUdFQ24yR1hLdDJISlZCQQ?oc=5",
+      "outlet": "奥一网",
+      "domain": "news.google.com",
+      "published_at": "2026-08-18T03:50:27+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "深圳近十年首次记录到珍稀海草床！“深聊会”开进坝光滩涂 奥一网",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "7f7c4eb791cb320df7",
+      "title": "Group restoring Casco Bay’s eelgrass meadows one seed at a time - The Portland Press Herald",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzVwLVBhaXVKMjl3N1Y4ZjZ3T2t6V1FPQUdjU0psSzB0UkJ2bTZoTkVrcjNnZERQWHN3ZTRwR2xZQ0FDMjlHdjZvVVJxN3o1aFlxN3pfZG5yVmZ6OHp4RGRpU3FJS2tPMkZvd0pWZkl4OTdUMkZIQk5PdDN1Q1pPbDhsTVJuRzVZQkVVWUJwRVNFcGZJTVh6b0x3U0gxZ1ZtLS0wRQ?oc=5",
+      "outlet": "The Portland Press Herald",
+      "domain": "news.google.com",
+      "published_at": "2026-08-17T19:11:40+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Group restoring Casco Bay’s eelgrass meadows one seed at a time The Portland Press Herald",
+      "themes": [
+        "Restoration",
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "669399e753785c6ef8",
+      "title": "山东首例购买“海草床碳汇”替代性修复案在荣成落地 - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IcC1EbGJ6YkNDTEJ1NHJhUmMxX3dYVnJ6OUlCeGZtd05vWms2XzZfdnpQaXo1ejJ3NTJxNnVyQ3JWWmV4M0FlN2Jwemp2M2tKdEstbElGbm5RaklkX1lWeVJR?oc=5",
+      "outlet": "手机网易网",
+      "domain": "news.google.com",
+      "published_at": "2026-08-17T10:56:09+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "山东首例购买“海草床碳汇”替代性修复案在荣成落地 手机网易网",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "1a462e4f4f9a706e4e",
+      "title": "7 ปีหลัง ‘มาเรียม’ พะยูนไทยยังวิกฤต หญ้าทะเลหาย 77% - เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TSU5WZ0pKYmc4N1hzc2pzNGdMYnlWUUZ1alV5Ti1oS3FjY0JGMmw4ZjJfbXRTMC1kQzBfV2RHQktvb05LbG55SFdBQVZFdmozN2lr?oc=5",
+      "outlet": "เดลินิวส์",
+      "domain": "news.google.com",
+      "published_at": "2026-08-17T09:31:00+00:00",
+      "language": "Thai",
+      "source_country": "TH",
+      "image": "",
+      "description": "7 ปีหลัง ‘มาเรียม’ พะยูนไทยยังวิกฤต หญ้าทะเลหาย 77% เดลินิวส์",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Thai (TH)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "3d262cf23561020561",
+      "title": "Coastal blue carbon (seagrass) and climate change - Landscape Alliance",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5INnJCSHAzUEx1ZktySFhqSGI0QzFDR0hWMWpBR041X0FGek9aZ2s3dndYUFdEeW5HYS1MclFpbmpzWnZuMWR3VnBZd0tkRWEzN29uS1RNd2FOQWdpYkM3ZW8zVFNIVVU3NlVVZ0daTC1RTllDR0NQR013?oc=5",
+      "outlet": "Landscape Alliance",
+      "domain": "news.google.com",
+      "published_at": "2026-08-17T07:00:00+00:00",
+      "language": "Spanish",
+      "source_country": "MX",
+      "image": "",
+      "description": "Coastal blue carbon (seagrass) and climate change Landscape Alliance",
+      "themes": [
+        "Climate & heat",
+        "Blue carbon"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (MX)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "88780bf8127441c8eb",
+      "title": "Seegras kostet die Gemeinden Geld - Aarau24",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HMjZEYkJiWFk2YXAzdzNCdTdQa2JlMGN0U2k5MjNvU0g3OGJHX2s1RDVTLWw5aTN0X1dOaGhQMVNiVFNGVElzeHFIU3BqWnR2SUNEblN1dmxrLWRBUFNoWHdpeVF2d3JzZllXRlROZUNUWVQ1WDVR?oc=5",
+      "outlet": "Aarau24",
+      "domain": "news.google.com",
+      "published_at": "2026-08-17T05:55:48+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegras kostet die Gemeinden Geld Aarau24",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "41118e78fa2d961b2f",
+      "title": "Wahlplakat-Flut in Greifswald + Alte Mauer bleibt erhalten + Seegras für die Ostsee - Ostsee Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQYmgyalFsQjhJQ2d1U1pheGpic3dSR3VqeVJUcEZWSEx6NnpKRDhqSDJQNWIxa3Q1WVhDUlBGOEJCamtjbV9lSVN4MHJPNkkweS0tcl95U0sySUJOY1lZd1l4cS1uMDRsWlRIR0tObWZSUTh6RGt3V1hNVmJ5U3ZPR2lkZk1kRjdNRHc1SGdiZ2t4bG5XQV9wWXlJQkVTVXpaTnNIVVVuVUs5M1Q3OXdMR0FVcVJyUW42aTNEY2F1QVBxdmk2cDRLYXF1S2ZnZU14RzRqci0xLWo3QkdUR3J3eXZMUmRFVksyMmpBZ09XRENWTWU4ZGlFdkVycUs3ZzRndnJ6WEdURzBWa0xPRGdQRNIBrAJBVV95cUxOWDhsSktjOTZVQTlQQURVMG4wQ1NiV1AxM3lFVlo0d3JpZ01pakRDVGRmakNkOExZVW84dXZOX0JVcWFCN1VRejhjdXlKRXFDRmpZb1ZoV1lWVklRS01fRjcybEtGa0dUSk50X0xOamNRa0hMbWJvOFZ5M21MSUJyVDZaZm0xR0d6cER1b1ZscHBpWC1JajB0WVJfa1k1WFVnelZCMEZmVWtzLURhQ1BES3RfektmaTBxZ1V6MU1OUzdEb2JyWWYtNGp6SWV3Z1ladmtVTTZVRVp4S0hEYnNBRjFtRnF3YmhTbFpaT1BxWUYxbEZLU2F0MUVMcFJpeE45ZUoxQURITnJxTW9iVmVCbWpDdWl5YW1scXBUaDRNVVh3c3ZKMUlLWFFfWFU?oc=5",
+      "outlet": "Ostsee Zeitung",
+      "domain": "news.google.com",
+      "published_at": "2026-08-17T02:55:13+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Wahlplakat-Flut in Greifswald + Alte Mauer bleibt erhalten + Seegras für die Ostsee Ostsee Zeitung",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "97a070aceca89951c2",
+      "title": "ดรามาประกวดภาพ AI ชาวเน็ตสงสัย \"พะยูนมีขา-หญ้าทะเลแปลก\" - pptvhd36",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObElnRThVVW8wQVVMbUxidzB1VVZOUkJpOEZTUHpCTC1Nc1VVVVlsTm8zR3hDTU94SUw3YzV5eElQLTdnX0RJdXp3b3NGQnQxWF9EV3QtUFUwYkozLVduRWcyNGZjZmt0ZmRjY2ZWR2RaUEdqN1U0aXRmemgzUDBaUk5udVU0VHh4S1E?oc=5",
+      "outlet": "pptvhd36",
+      "domain": "news.google.com",
+      "published_at": "2026-08-17T01:36:00+00:00",
+      "language": "Thai",
+      "source_country": "TH",
+      "image": "",
+      "description": "ดรามาประกวดภาพ AI ชาวเน็ตสงสัย \"พะยูนมีขา-หญ้าทะเลแปลก\" pptvhd36",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Thai (TH)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "70e8500ddbfb8a28b6",
+      "title": "Seagrass: the meadows beneath the sea - The Morning",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04QlBoTnpsU1dVRmZnbmpZRVBNTjVzTjV4Y0NZS0prOEdvTFpFZlJ3NXlPSEE0UXJRdTJaejQwdlM2cXMtb3JqTW5QMFRVamxRQ1VkZDNyUVA0TkVsUDJSM1ZJejhfUQ?oc=5",
+      "outlet": "The Morning",
+      "domain": "news.google.com",
+      "published_at": "2026-08-16T19:01:34+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass: the meadows beneath the sea The Morning",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "beb9b6ccc2ae8cb667",
+      "title": "Seagrass conservation creates multi-sector benefits - vietnamnews.vn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa1R6bUdlYzBlR3A2M2lBLTVMc2J0UFpvNzZJV1dvNm16WDZLMVNiZjdLOTd5TVhNRk5tU1Znek9KSFNuTzd1dm82LTRubnJaRHZiSXRwcXl4UUd2RmtHZkE4bG1nSWJ3Mk5obXhlNW1MRGtBY095VklxajFnYi1EMGZNenFJX2w1Y1FzOHlkSUd6Z01mOWN1N3M5dzdwX3du?oc=5",
+      "outlet": "vietnamnews.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-08-16T00:34:00+00:00",
+      "language": "Vietnamese",
+      "source_country": "VN",
+      "image": "",
+      "description": "Seagrass conservation creates multi-sector benefits vietnamnews.vn",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Vietnamese (VN)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "a25ad1e25c8cbd7249",
+      "title": "환경재단·코오롱인더스트리·수산자원공단, 가로림만 잘피 이식 - ecojournal.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95c29JU0VOYXRjMkdEMEg4RDhha21kNXVvWmx6VG1GaFo5Wjg4Z28wMlZtcjdyQkVxOXhFcnY1V1BtUXZicFlDOXpGQnlORFZWaW5PejlxQzd6NTF0ZGowbWhaamdfbXB4VkhJTFRKZ0RmaFVndXc?oc=5",
+      "outlet": "ecojournal.co.kr",
+      "domain": "news.google.com",
+      "published_at": "2026-08-15T20:39:06+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "환경재단·코오롱인더스트리·수산자원공단, 가로림만 잘피 이식 ecojournal.co.kr",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "6726584cfcb7633c89",
+      "title": "Marine heatwave devastates seagrass conservation project on Welsh coast - ITVX",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZm5OSi1vR2J0WF9ITFFOZEpMQ3hFeGV0eEN3Skd4cDRhaldGa3Q5ZmM0cGIwdHZWdEE0eDZCUG9EbmdQMzI0TTlBQVJBSkEtcHNiM1hMdlhZMGJ0dVVXRkE2NWZTanphNXZReHJNd2pLclhLTUdNVDRJNndEWkZlaWJkS1lwSVBmaWlhQUluNWtwNjBwbmJTVVRBNFBuOW04bF81WVR3VkNXNjA?oc=5",
+      "outlet": "ITVX",
+      "domain": "news.google.com",
+      "published_at": "2026-08-14T22:46:33+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Marine heatwave devastates seagrass conservation project on Welsh coast ITVX",
+      "themes": [
+        "Conservation & policy",
+        "Climate & heat"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "56cbdefef265f18c79",
+      "title": "Göcek’te 14 Bin 800 Deniz Çayırı Fidesi Ekildi - Fethiye TV",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4Xy1BcUhkSmw3NFpRV3piWnBnQXN3bi1sRWxSUHlMNkNCdU1oUUNFVXZHcTNzNWxJT0dsMk04dHdsOGE1TWVoZkJfZ2wtWV9SSUc0cnVwQ1pfTEIzaTJEdmdLeERReEQ3NVdWRUhDUWlCTHNRbFRFZktTc9IBgAFBVV95cUxNZS1aUEpGQ3dlaVJQNlAtam5pMGo4SldPaXdnZVFUYVh4Ui0wUVlSejRUSExjRnhSZV9UTGIyZTlmS0NhV0xQaDAxM2pYaG9rWEc0SWdqbWhwTjRkZ1BnTGhZak85TVFLMEw4bUVEWDNpeW5lNnl1ZXVKX2ltVGp6OA?oc=5",
+      "outlet": "Fethiye TV",
+      "domain": "news.google.com",
+      "published_at": "2026-08-14T12:31:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Göcek’te 14 Bin 800 Deniz Çayırı Fidesi Ekildi Fethiye TV",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "2a92a0ab8df1e35e43",
+      "title": "สทช.7 ออกลาดตระเวน SMART Marine Patrol ใช้ Drone บินสำรวจแหล่งหญ้าทะเล พื้นที่ อ.สิเกา และ อ.กันตัง จ.ตรัง - NBT CONNEXT",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0ZWZVVkdTVUhkaTBBbjk3UnRGeWNPQnJJUU9lY0h1Uk8ySUVOamRyWVNZV09FM3Jma20xY1NpemozSTc0M3g3SUdTTVpyV2dIRks4YVJ2djZGbXZYVzlRUG5vdWhNT1lObU1EbA?oc=5",
+      "outlet": "NBT CONNEXT",
+      "domain": "news.google.com",
+      "published_at": "2026-08-14T12:12:07+00:00",
+      "language": "Thai",
+      "source_country": "TH",
+      "image": "",
+      "description": "สทช.7 ออกลาดตระเวน SMART Marine Patrol ใช้ Drone บินสำรวจแหล่งหญ้าทะเล พื้นที่ อ.สิเกา และ อ.กันตัง จ.ตรัง NBT CONNEXT",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Thai (TH)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "c49a1cd4907a41e369",
+      "title": "累计修复海草床1167公顷！《2025年北海区海洋生态保护修复公报》发布 - 观海新闻",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GX0V1dGJFRnZKVm1LbVNVa0FNaXo0YmY5YkJiNy14OXBlcFk4UThUNks3RzZtOHFzRlNjemhBOXhXelR0THcyeXNrVXRXR00?oc=5",
+      "outlet": "观海新闻",
+      "domain": "news.google.com",
+      "published_at": "2026-08-14T10:30:00+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "累计修复海草床1167公顷！《2025年北海区海洋生态保护修复公报》发布 观海新闻",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "e9198b48228a1e580b",
+      "title": "アマモ場再生支援に２０万円寄付 県におかやまコープ - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wejVxMlJwX0E4cl81N2ZFNUtCYWtWS1NUVmNla2V1djBadHFjRnQ4dHJOa00tSmQ1aUJkZGdJbU1BdWNXTGdrQ0dVQnJpZUpGa1E?oc=5",
+      "outlet": "山陽新聞",
+      "domain": "news.google.com",
+      "published_at": "2026-08-14T07:00:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "アマモ場再生支援に２０万円寄付 県におかやまコープ 山陽新聞",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "7054cb8dcf6037d50c",
+      "title": "岡山県のアマモ場 5年前と比べて約3割増加 2025年度調査 - KSBニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OWldIMzBrZ25LVWNoXzl2U2tUc1FwMkJ6MkJHa0czTHFGWTk3WjBsNmxCMjB5SU13anJTeDZCLXBIVEY5eTR3TWJTNkJ0dE5L?oc=5",
+      "outlet": "KSBニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-08-14T05:07:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "岡山県のアマモ場 5年前と比べて約3割増加 2025年度調査 KSBニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "49afd3fe26abf0bf70",
+      "title": "Seegras-Experiment vor Usedom: Neuer Lebensraum für Hering und Ostsee-Tiere - Ostsee Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNclBoN2d4QjhyVk5fczdHRkFkZEpMWXhMakNINGVYX3hfc1B3alBEcFdDYWJ3bWFPRm9qMXZySXk1eXk5VFVSZ1JQTWtFOFZrVG5zSXB6NmlmLU8ydlNEU1FGS0tqalRGamUtUzYzQnd2cVRCT2lyNEoycDBKM0VCSlZGa1V1akJqdEFLZEtZNThYczFCRktPb2ZJTTBaalpEbmZwTm9sdnNUQzdpRVktb1BTbnBzUmdhY2dLTVNORnJDcDk2ZG5Sb2plaG05Nzdrblh2Mm92VWU4N3ZSbXh1SE9NdVRrT2ZydTRZc201aW5xVHRLYzdhWXo4TEFRWFZiUnNDQ09rNzlZZ9IBpgJBVV95cUxPby1ONDJER3RGRC1UeWlNMDd6SmYyOWo1YURadFFoODBrVWtTUlhNVjM2aXJOUUVFSmVmQ0FNNFFUb2Z0RXNiQW00ZGtKYU9nRlhOSXc4WGwta0VvcVF5Tk44ekJ0bnBtQ29xTnRQZTQ5TXVfdUl6d0NIZVF4NEdkNGxzVDQxWTNjNjQxWVh4NlV3bWc0Q2g1U3I5RUVQVFRwUUxCSDlVSl9WdjEyYlZTTC1VT1hnWW9XRDhPRm9RRU54UzlMa3F3VWczQThjMElrM193S0NLQjduYWlUamw5alJOdDdfRGVwa3EyT01JeC1kVkY5MTM1ZFlaN1ViaDBjbUVSRncxbzV4MEJyRGpHdG5jT3E4Nkt3OFBJb2xHRWhucEhrcWc?oc=5",
+      "outlet": "Ostsee Zeitung",
+      "domain": "news.google.com",
+      "published_at": "2026-08-14T02:05:53+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegras-Experiment vor Usedom: Neuer Lebensraum für Hering und Ostsee-Tiere Ostsee Zeitung",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "48cf455c9cd394d267",
+      "title": "Weaving Traditional Ecological Knowledge Into Eelgrass Restoration - National Audubon Society",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEx4WTJ2aV9RWkIyU0xvTEN6bFB5S1RhcjZDT2dkQVVpQjIzUzhtLWtmR1VIWlZVUnRCX1ZOWGJlaXQtMko1Z1BIYjJmRXZ2Ri1OS2lsQWhadUM1bzVycHc1ZmZFWEhaRHpsLU1sajBQUDg0WFVBS1JHckx6WjlRNi02ZXBvT2N1b0U3TFZZdFNpYTlaUzc5dk1VNjJpWFhmLVZr?oc=5",
+      "outlet": "National Audubon Society",
+      "domain": "news.google.com",
+      "published_at": "2026-08-13T22:43:21+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Weaving Traditional Ecological Knowledge Into Eelgrass Restoration National Audubon Society",
+      "themes": [
+        "Restoration",
+        "Community & culture"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "03be14b24c85863b83",
+      "title": "Valorization of Posidonia oceanica balls: sustainable simultaneous synthesis of green de-icer and eco-friendly adsorbent for saline water treatment from methylene blue - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wM0FhZzdLdkxuaC02RUV1Vmt6WnprS2FJX3VybEhBUG5fa2sybTVaMmowd2hiWW0xNGNMRnlTYkFmV3ZoT2dycUwwTUlTcjFVNVhzbFpZa0ZXSGp0NDcw?oc=5",
+      "outlet": "Nature",
+      "domain": "news.google.com",
+      "published_at": "2026-08-13T19:09:09+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Valorization of Posidonia oceanica balls: sustainable simultaneous synthesis of green de-icer and eco-friendly adsorbent for saline water treatment from methylene blue Nature",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "3f7fabb63282b9d153",
+      "title": "Seegras wird zur Kostenfrage - Toggenburg24",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fNjA3Z3pob0ZNZUR2RjR0MXdZeGt0Q1ptdmpKOEhuSnJfS3dpNjdOOXN0NjJNUnJFMHZLbGJGUm9iOG5wTkZZUllLUFp1NWhhbG4zWVFwX3Rpa0V3UWNKeWlwWDlzNlZtSE5USTZyVWJaRThCYkM0?oc=5",
+      "outlet": "Toggenburg24",
+      "domain": "news.google.com",
+      "published_at": "2026-08-13T15:00:34+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegras wird zur Kostenfrage Toggenburg24",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "b5462642265843bc2f",
+      "title": "The race to save Maine’s seagrass meadows - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbjY3QnYwQWxvYzJlM1FRT0I3UkNvWkY5bFRzYU9aOVRyX0RzNWFmb25Od3dVUzNoeWxwQmtaN3RyYkZKZHZ0SVJpRG4xV0JOS20yNGo1bVB2RjlEQnpfOUNmWE40TjRHX3NIbWdfVFhkRGhhYy1VWk9oc1VVYmlma1BMay1XMHlReWFJeUpXckdiQm91bEU2WkRibVNRbjJwX1VjTXdfTDY?oc=5",
+      "outlet": "AP News",
+      "domain": "news.google.com",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "The race to save Maine’s seagrass meadows AP News",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "6940fc11378192f60f",
+      "title": "Seegrasteppiche setzen dem Ufer zu - Linth24",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MLWNlNDdIVzhUcDk3a2FOU1A2WExOOC1QYTVKVk9oekhJMk1BNS1SNm9FYUxGUFAydURfZHdFamN4RXM2RXBWUHQ0Sm5PYnhzTVFYNm1Cc3h5WVlLUlloQ2ZkUF9lNkpuXzdwMmFJa2d3NmRQMkttYw?oc=5",
+      "outlet": "Linth24",
+      "domain": "news.google.com",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegrasteppiche setzen dem Ufer zu Linth24",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "008f5117537e7ad654",
+      "title": "İklim Masası | Akdeniz deniz çayırları risk altında: Yüzyıl sonuna kadar beşte biri yok olabilir - T24",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQVNZem1od01nRnNEbTVNaWRXT2huR1RsSTJNQmVyT1F5X1hOMlBYWll0V2RWMUU0eTFzaVZmdzJReXJPVklrME1aMTNobThuYlJYMGhxMnNHbzVyQkFhSjItc09UTlJZVTRKTDBXcGJPcVlDV2xjaHRLYm40UGRvWFRpcDJDVTM2UkFmWjFUSDN5VEFNaWhCZDFvOURKU1FVZThWSTlRX1ZsZFlaV3RHbXJ6U2VoREJVMjNUcVlUeE54N2pmd0E?oc=5",
+      "outlet": "T24",
+      "domain": "news.google.com",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "İklim Masası | Akdeniz deniz çayırları risk altında: Yüzyıl sonuna kadar beşte biri yok olabilir T24",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "eba25f28f5052f68af",
+      "title": "Akdeniz deniz çayırları risk altında: Yüzyıl sonuna kadar beşte biri yok olabilir - Bianet",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaU1RY1N3T3Z1Z1VPbXpCODFtc3oxa2ZmcGdmbWZkSTFuV3hRdlVyYVBQdUhpcHd2eHVKRHYyaWx6MU1ReUtlcW1vMDZLaUM0S0ViTHV2akNIR2R2SlNzUmxuM1hVbDNSdWh4ckJxRmw4ZUxsMFlfX2tjX25lWVk3cmxfZ0dIVWpfajdZYk9MWHZFcmVJZU5zRmozMDRCdVJJbzc3Q1F4LWtPLXgzUGE0T3Rn?oc=5",
+      "outlet": "Bianet",
+      "domain": "news.google.com",
+      "published_at": "2026-08-13T04:00:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Akdeniz deniz çayırları risk altında: Yüzyıl sonuna kadar beşte biri yok olabilir Bianet",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "06a810b51ce2f85be8",
+      "title": "アマモが一面に広がる？厚岸調査レポート - クラウドファンディング - READYFOR",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0ZjdQdTkxRjJKZnRQYUhZZjJCbktfdTZQMWlTV1JYSkdHLUhremtsOTRVYWRZTE9BUEFWcjhvZlQzVFBFTlRTWnVUc1UtSWQ1NlNwSzlvZkY4ZUdYUGJ4UjA5SmQ4SVUxekpLdk5BcDZPUnB6eDlN?oc=5",
+      "outlet": "クラウドファンディング - READYFOR",
+      "domain": "news.google.com",
+      "published_at": "2026-08-12T19:09:41+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "アマモが一面に広がる？厚岸調査レポート クラウドファンディング - READYFOR",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "0e4042fa6fffe9630b",
+      "title": "Deniz çayırı projesinde yüzde 90 başarı - mugladevrim.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGdvcVh5eVJtS1VPaG5ZWEhDR2Jvd29OamFyUTV6MjY5LTlqN2ZUaGZuMDM0LU04NWEza1FOZngtVktGTVZmYWdsLVJfOTFBVnpDaVQ4ZVpOZF9COG9JMC1vMW5pZ3dlQjkybEY0angtZV9CTmZWeGw4TU45UTA1NGtyaEhmUW9EU2UxRkRxZVBrcDEzTlNFdFF6TQ?oc=5",
+      "outlet": "mugladevrim.com.tr",
+      "domain": "news.google.com",
+      "published_at": "2026-08-12T13:59:54+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Deniz çayırı projesinde yüzde 90 başarı mugladevrim.com.tr",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "d0eb989fc83d465371",
+      "title": "Milas'tan Akdeniz'e örnek Deniz çayırı Modeli - Analiz Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOXzBTVFYyTHlpYzY2djA5ZkVRZVQ1UmJWRjBvVkhlQ1REemZEa2pGSm9mWGp2OU1IbGRZdDFQVUlMU2xtcjlxRVBoY2pQZU5JSjZrMWdNbXdnVnlYZGY1VHNJSEhfbU51SEx6a09MWnN3dU5yalpZM21tNWtObVYxdGEzeDMyNUgxMVRjclRzc05PYnc?oc=5",
+      "outlet": "Analiz Gazetesi",
+      "domain": "news.google.com",
+      "published_at": "2026-08-12T10:12:30+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Milas'tan Akdeniz'e örnek Deniz çayırı Modeli Analiz Gazetesi",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "e659bbae97486e71f5",
+      "title": "深圳大鹏发现珍稀海草床 执法部门清理滩涂废弃笼具 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0aXhFQTRiekZMVkUwYWhtck5OSkw3MmdSdUFfUDczRXdnWmhWcEEzV0pYRzl0b29xOXpjYjNTVUw5NVlQSGlIY2I0MkpzdVNvT1E?oc=5",
+      "outlet": "搜狐网",
+      "domain": "news.google.com",
+      "published_at": "2026-08-12T07:41:12+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "深圳大鹏发现珍稀海草床 执法部门清理滩涂废弃笼具 搜狐网",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "7dec81f72bd90bdb81",
+      "title": "Prof. Dr. Sarı: \"Deniz çayırı candır, korumak zorundayız\" - bansesgazetesi.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb000Sjg3QVMxU1RaR3AtWlgwLTVnZG5OdXQ4TWMzM0pidDM5eGJoTnNGbVByNHVlTm05QUdVT2NuUXhkcWFhYXcyUkdaNVpfTm9NdVZPSkR4QUFMSVQ2Z3U2LWMydHFEVmpVUWtzUXh6Q09XUnFqbS1kMDNqY0tKbEdiRENWVkFibnpaTmdzamwwdE9Wc1RZ?oc=5",
+      "outlet": "bansesgazetesi.com",
+      "domain": "news.google.com",
+      "published_at": "2026-08-12T07:26:16+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Prof. Dr. Sarı: \"Deniz çayırı candır, korumak zorundayız\" bansesgazetesi.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "516de9151a35f0eec4",
+      "title": "Über Seegras geankert: Anwohner schwimmen zu Megayacht und fordern sie zum Verlassen auf - Mallorca Magazin",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUl8ySmlSaHhwVWVKMzRlR1JKdFJnaHQycjQtODE2SmpCM3dLYlJPV3ZKTHIxQUczS196N0VQZWVyS1U4S1RlVllUMEVVOTR1SFhRN09WWFVzT0g2TzQwWkRfcENKQkpyS3ByTHFoaVU0Q041aGVQU1FXMTZZVlJuTXBXYnZHMmtKQUl2Z0QxNnJoNWdPRzdrVndVUU9vcmdLU3Nic3BRVS1ManFWZXRTdjhkTkw3NE4yZ1V3a2VPekpGX2dleUNCZ0RiNk51NEJEa21pUDVOdHNJX2lqbEZ4SVZvdWYxTjdpY3FuLW9UVjROWnJ0Q1dJMVhkRUl3SDZBM2fSAYICQVVfeXFMTWtkbHJJVG1NQjhlVXE3R3pSTmgyekozbGhRQVRkVkpUTFV1YWR6aVRKMHVxeXE1Y085UkpSRFJicGhqczdTdF9YckpQU00xcWp2OGZ1ZllGa0ptOU1lMEgtVGFxcXgxVFpOQS1pWkxLVWRlcjExNWMtZ0dOMHB2M0NKV1pMTVdqRHRxV1QyQXp6aVdNQ1AzNnRuMFI0Vy1IbzBWSXBodHJ3YTVYSUpta3pVdkw1WmJ5ek9RblVvY2Nvb1g5cTd5YUpXQXYwUEtBQTJnYjAwdmVueUU3bHpJSmNPeVpaWFBFVndIY19CaGFEdzBtT3dILVBNQWhSVGxKUm53?oc=5",
+      "outlet": "Mallorca Magazin",
+      "domain": "news.google.com",
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Über Seegras geankert: Anwohner schwimmen zu Megayacht und fordern sie zum Verlassen auf Mallorca Magazin",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "481df21d68c327ad22",
+      "title": "Seegras wuchert im Obersee – die Nachfrage nach Spezialgeräten ist riesig - Südostschweiz",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OQWk5V3dmOFE3S3J5Y1Z0THVFMF96emNJalBrSjN1Vlk2NEFEM0VMNWs1Yl9mRG1vNncxQ0VFejNialBpRWQ2OWhSRC1JSGRMUmZSRE5laXNXZFQxa3VkQms2cWgtZHFFVTJn?oc=5",
+      "outlet": "Südostschweiz",
+      "domain": "news.google.com",
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegras wuchert im Obersee – die Nachfrage nach Spezialgeräten ist riesig Südostschweiz",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "1febdee01e849c9b2d",
+      "title": "Telkom Tanam 10.000 Bibit Lamun di Situbondo, Dorong Ekosistem Pesisir untuk Masa Depan Berkelanjutan - SurabayaPost",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU3lDT09uSS1tbGRSTVFWczhvdVdCT0xTVnNsbzduNEI2RllMN2NwRlQ0MkNsUHVDbndDb3A2TGxkWU9CQ3JwRGJuNHRIQV84T2c2Q1NHbl9GcEZCcGtHUFdxN2ZIekFZeWVZZzhwdFRHNHNvNmNjUlNKWWp0M3lvVjREVkVadGxoNUwwYkVnRXNid2RZWWhSY3JXY2JudFlYa1NzcVI3UHpDYkhqenZlbUx1b29pWTFOQ3FoYmlWaTgyd0U?oc=5",
+      "outlet": "SurabayaPost",
+      "domain": "news.google.com",
+      "published_at": "2026-08-12T06:47:04+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Telkom Tanam 10.000 Bibit Lamun di Situbondo, Dorong Ekosistem Pesisir untuk Masa Depan Berkelanjutan SurabayaPost",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "9133f11674bce70d98",
+      "title": "Milas kıyılarında deniz çayırlarında yüzde 90 başarı - 7deniz Haber",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzZ6MXVpUVFEb3k0bmFuS2lwTFdfYjF2WE9fWW9yaFctU19yb0ZyYlFKb1BZOVd5N3ZONTdpYk1nS1ZhQUFuQmFPQXRnd1NVMFVjSmd4TnVId0RkTXFpMll6YlRrSUp2YjFjS3MxRVNtaHl1c0VsNEhXMElGX0JRR9IBhgFBVV95cUxQVmtTWXp4YzRwOWFNTS12b2Vsbk45My1mdTkxSFBLNFVLOXB5SEgzbVRzMVhwemM1QUdMQmZKMXV3VmZfYWZFeGFNYTFHN2FtejV3SzlYcjZIMzZuNVZIaHVEYWRlaHl4Z3l4aFBkcUNxYlFqRFRmaHQtTnAzZGtwUDdzOWt6UQ?oc=5",
+      "outlet": "7deniz Haber",
+      "domain": "news.google.com",
+      "published_at": "2026-08-12T06:00:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Milas kıyılarında deniz çayırlarında yüzde 90 başarı 7deniz Haber",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "2fe268d72f59a77906",
+      "title": "Set De 3 Decoraciones Murales De Seagrass ATMOSPHERA, Diámetros 18, 28 Y 38 Cm, Color Beige Lino, Estilo Natural - CASAG – OAB Goiás",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajJmNmdwWDVZdUFPVmNBeF9GN05xSUJZcnV2OGpiQTgwaW01M1RGNjl2RUZJMlRfNjl2QkpmNE10VUN0ZWQ2YVE4M05zUnZpNlJsRFg0UVNWUEVmdG11Y0pKb0ZkNXRkako5T3pFenJSUXpsSzFKbXdjMjZZWm1iXzIxZGVXZDVVNnA4NFJURlhzdw?oc=5",
+      "outlet": "CASAG – OAB Goiás",
+      "domain": "news.google.com",
+      "published_at": "2026-08-11T19:36:20+00:00",
+      "language": "Spanish",
+      "source_country": "MX",
+      "image": "",
+      "description": "Set De 3 Decoraciones Murales De Seagrass ATMOSPHERA, Diámetros 18, 28 Y 38 Cm, Color Beige Lino, Estilo Natural CASAG – OAB Goiás",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (MX)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "82314265e8fdc1aaf4",
+      "title": "Milas kıyılarında deniz çayırları rehabilitasyon projesinde yüzde 90 başarı: Bilimsel yöntem Akdeniz’e örnek olacak - Gazete Vatan",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQzlfMU16RHMzZDZFSDd5STQ5SklaZnF6UGU0YmNRdzdFUS1tTlAtbzI2VW90SUlUeTR3VGJTWEUyQTJQOVdYVzNzb09XWWE2Yy1KeWhLdENhY1NyY0R3RVVaakNSaXU4V3VqMnA2dXJuR3cwNTdNOXZGTUxxRTlVX01KWDAxZTFONm96OGliNWdWMURqWGRQd09CVzVwZVdPZnJzUjBHSnE2TTR2ZEZydjhwY0Q4M1lQdUo4TWs3ZnZkeS0tRUZBYk1yWG9ybjZZaW12VFlON2dTV1ZJcXhPU2RNWWZlenhkVGRhaGJqVmRaeWc?oc=5",
+      "outlet": "Gazete Vatan",
+      "domain": "news.google.com",
+      "published_at": "2026-08-11T17:22:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Milas kıyılarında deniz çayırları rehabilitasyon projesinde yüzde 90 başarı: Bilimsel yöntem Akdeniz’e örnek olacak Gazete Vatan",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "9bfc6036d0dc855f8a",
+      "title": "Milas Kıyılarında Deniz Çayırı Projesinde Yüksek Başarı - Habername.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUY1ekFoaGQwalFCUjRwaHFiLUMtWkdKY2lHWUh5WWhRU2ptYnVyV0VRdDJ6ZFJlQU9qcjFuRkMxNVJUcG5qSWlpUDdBM1dKMVhnNkNwUkpuMVlQNkFETlRWcE05cnFkVWE4WWlrVlVrdFliVGpKZVVscGhZZUNzZlFKYW5tZlhUYzhaTjNHT0Z5T3lXSEZ1ZTNfV2RTU0HSAa8BQVVfeXFMTlduSnJTUnZOQlNaal96MjF6MFVtUWRrV0hWMUJmOTQ3MVZ2YWFCWmppVDQ5cnVXZDlYTnlubE4wVVQwMmRIQk0zcnhVUmlpeWxpVkg1NlFWb0ctSjBxeDgwbHZwcnNxVFVMT3NQV3ZZTkZZX3BGUmlIMzVsNjlvMkx1dGFuUGlUQ1VYRHFrR0hPdEhHOEg4NjQ1RTdHVGZVR1dFQjhUTXpPRU1QWmQ4TQ?oc=5",
+      "outlet": "Habername.com",
+      "domain": "news.google.com",
+      "published_at": "2026-08-11T14:25:17+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Milas Kıyılarında Deniz Çayırı Projesinde Yüksek Başarı Habername.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "08e2fde82fe54e7ab8",
+      "title": "Yeniköy Kemerköy Enerji'nin deniz çayırları projesinde yüzde 90 başarı sağlandı - Tek Referans",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdG5hMk5qSExmYkhUOGdxdlk3SFdjMWc2a1E0Y2RpcndLN0Z3THRFeXpQUld6RkFvVUdlU0RqUlFXU3FiZmc1YlF0SzNTSVRlTjNUeEVaLVNaR1RCbUxTYlY4dzhHSE8wZHpzdTN3cFBaOVBMeEp3d042VFViaTNuUzN5RzA3TkRUaldSRXE1Y1VLRWNkUTk0c3FTaWJ0R0RtWHJLeGJfc1JRWEhEeEE?oc=5",
+      "outlet": "Tek Referans",
+      "domain": "news.google.com",
+      "published_at": "2026-08-11T14:04:37+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Yeniköy Kemerköy Enerji'nin deniz çayırları projesinde yüzde 90 başarı sağlandı Tek Referans",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "edefb01c5e2faf3280",
+      "title": "Milas kıyılarında bilimsel yöntemle deniz çayırı rehabilitasyonunda yüzde 90 başarı - Aksiyon.com.TR",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOam1uVFJRamQxaWFxN3ZJRXVQVEtiRml4MzhEV2VOOGt5NUxhRUxvVDc5YkJVODNDOXdzRVA1QzNBTFB2bFJOTl9odnNRQjAyOWRLTmxwRnV3ZXdPalZSXzl1X2hwbGtyQ0dVNVl0Vk9wUTMtRzB4SmR2c29vNHRmRlh1dzFOdUpjQ1FDQzZHcThRV2hLd0N0bHZsb1ZqM09yTkE2OG9BaHFDU2RuZk9NYTFRMU9pNUts0gG-AUFVX3lxTE1wYl80V25XRHZFS05IVjhiemtPRk1CUzhkX1dJZ3dFdWRKaHhjaVZSTDlIM1pXallQQVVidzBGS21LWEhQQjhJQ0VDRnFZUkp4MHR2WHJXdnp5dW9oSGFPQ3Nrc2p6SlZfOUVONTZqYkk4ZjBUS0JYWHFUdDdadzQ0YTVWOU9wdnRieWtwZ2Zoam0yWThoWnZIWTcwT3cxdEdxS2RieEJMT3NZQ3Z1TjJfZW5VWl9Dak80UDV1U3c?oc=5",
+      "outlet": "Aksiyon.com.TR",
+      "domain": "news.google.com",
+      "published_at": "2026-08-11T13:44:47+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Milas kıyılarında bilimsel yöntemle deniz çayırı rehabilitasyonunda yüzde 90 başarı Aksiyon.com.TR",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "249e63998b8362b61b",
+      "title": "Milas kıyılarında deniz çayırlarında yüzde 90 başarı: Bilimsel yöntem Akdenize örnek olacak - Medya Gazete",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3NRMC1neTlka2hucENJWXJnM0JydzBDUDc3X1VmVHVLZ1FZU0hTZTREeTRlZ0JUTl93VnBtUnlNYVcyZndBMmRCb05RU0I2eVZZMVdwLV8xa3E2WEN3YzVDRkdfS0VaSVQ3b2N3VVMyOFN0ZDhpSFRUWEp1dnA0cUN3WkRhNnpYdlBNN3ZQaWlWUmFFcndhb2c3b0FCdGNlblRZMDFzWkpZa2pDTmdCODFYNEZodVRTZ0gtQ1Q3QVpTT000emJQclY2aDg?oc=5",
+      "outlet": "Medya Gazete",
+      "domain": "news.google.com",
+      "published_at": "2026-08-11T13:43:09+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Milas kıyılarında deniz çayırlarında yüzde 90 başarı: Bilimsel yöntem Akdenize örnek olacak Medya Gazete",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "fe33ddfbbbabcd2d31",
+      "title": "Muğla Milas'ta Uygulanan Deniz Çayırı Projesi Yüzde 90 Başarı Elde Etti - Mersin Haber",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaHpuTmZtbDBuNjZNeHdfUzhDcEtWNHBJZVlXS3h2dVRGd3ZIUWl6eUc4a3ZmSjFkMXQwRUQ3SWVUSFppWm1ReHlNTFd6VVFCdklySDNaVHVkRGMybTRQVl9OWkNxLXVobFB0VEVoVUxEZ3NuTkl0UzgySDE4RjF3dWhpNWJnNTB4UUdQTGNSd1NVSGVwcEtzWlB5S2FkNmVFcmpHS2xTb3dZdERCbFRLUtIBV0FVX3lxTE1KdFZTdkVyNlVWQ3dUVWdBWENzcXhSc05JdXE0ZEp0RTNhdU52cDNVdU1RTkRvUVE5ZVFMdE9zM3hfZDlyX1BiM2xaQnFzZFBFd1hZNnN0QQ?oc=5",
+      "outlet": "Mersin Haber",
+      "domain": "news.google.com",
+      "published_at": "2026-08-11T13:37:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Muğla Milas'ta Uygulanan Deniz Çayırı Projesi Yüzde 90 Başarı Elde Etti Mersin Haber",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "051f426da6ad665aff",
+      "title": "Milas kıyılarında deniz çayırları için umut veren sonuç: Rehabilitasyonda yüzde 90’ın üzerinde başarı - Ege Alternatif",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU19pcndBb2tUTUdZZmRMNnRMMjJFZXJtM1RVZnEteVplRmFXci1BZ1NjQS1OTTVxU1F1dHo0aDBCZmpzVWdIN2tIY1FFdHpKRkNEYzBTV3NMZmc0WVN0dmhxNGNleEVhX0NDWnVuVmhMM1VzM2JvRHhOM2JsU1ZZNTZ5UjR3TXRwSU50VXQzTGhpS1RuSlRhTDczVmlNUHQ5NlA5V0x0YVhHTTZodTB4a3h4RnJKd0pTYkNrWWpuNUR4Smkxa19lTEtXT1YtTFpLYkVydXpBZUJDaTA?oc=5",
+      "outlet": "Ege Alternatif",
+      "domain": "news.google.com",
+      "published_at": "2026-08-11T13:26:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Milas kıyılarında deniz çayırları için umut veren sonuç: Rehabilitasyonda yüzde 90’ın üzerinde başarı Ege Alternatif",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "14d25b772a9ff22cb8",
+      "title": "Deniz çayırları rehabilitasyon projesinde yüzde 90 başarı - DHA | Demirören Haber Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUNLb3IxTTBNNnFpa0Z4OXdnOWRXVEVPa3ZqVE9nRUxHWTZ0MmdtSlNWRTktYTlUbU5sMmFxa0ROdEkzb0RENTY5cUpSTTVFU01taFFsQmhGLXhQWVEzVGgtbkcyd1RqS3NENkZHMmRTM0Jyd2F4aHFwVF94c1J3ZGxNbXpMTUk4XzJMZHl0UzFBWndvMTI4Rm52TzBEZFdWUUHSAaYBQVVfeXFMTzBUUlo3SE5KaFhyQTF4M1BOa0VacHhqNkhnM3JQQkRqRUFJNTdTOTJLaWxOWkNGay1QekxzZHJxNWctRGdmUVJQSmxFTW4yOXVfQU1wajcwTGFxWUpLb0ZRaV9Td0FSRGRpbXVFYUdIQmtLREhYV25jb3JDcnZHQ1p6T0VyMUdheWJuTDhpTTdUcloyckhaLVlNMElsZ0lJSmFoNThQZw?oc=5",
+      "outlet": "DHA | Demirören Haber Ajansı",
+      "domain": "news.google.com",
+      "published_at": "2026-08-11T13:06:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Deniz çayırları rehabilitasyon projesinde yüzde 90 başarı DHA | Demirören Haber Ajansı",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "e59ce369ea901392ef",
+      "title": "Monitoring Anna Maria Sound’s seagrass loss - AMI Sun",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OZ2o2dkN6REhYdV94MVFDQ0p5aUMwYThDNnptbXJKN1dESnktX2dkMXRhUGxnVGUyQjdndnJxd1QzYzJfeFVfX1VybjRVeWRQek1neUhnZzBoQ3UxOHhXa0hhaF9DYnlHNHkzTHJZUQ?oc=5",
+      "outlet": "AMI Sun",
+      "domain": "news.google.com",
+      "published_at": "2026-08-11T13:00:45+00:00",
+      "language": "English",
+      "source_country": "US",
+      "image": "",
+      "description": "Monitoring Anna Maria Sound’s seagrass loss AMI Sun",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (US)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "115b9745ec441d29e0",
+      "title": "Hochhaus aus Holz, Seegras vom Strand und Bio-Beton: Wie wir künftig radikal anders bauen - NDR.de",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZlBlZVlNVDN2bEY5dENVNktrQ2FFSG5uZjhPdGc3ZnVuY3NYekFjYTZWWU1DUURIMTFWYVU4LVFrbFhCUGd3a01RT1ZtdmU0X3d3WG5remhZRkllZXhMOVpMSEdleExkR3g2MWxHcktNVTJ0TGkxNS1BRkt5dlVHeXVjR0VaT09MeG9IUjN0bkNpSDAtTTIxWHNvZkpEcXBSQVdBbFVIOW1wQVFnMWM5c2tGT2F3ZlMwZUoxUnJ4cnAwV2Zt?oc=5",
+      "outlet": "NDR.de",
+      "domain": "news.google.com",
+      "published_at": "2026-08-11T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Hochhaus aus Holz, Seegras vom Strand und Bio-Beton: Wie wir künftig radikal anders bauen NDR.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "ab2774b78f31c9d1a3",
+      "title": "Taburete Reposapiés Rectangular YMYNY De Seagrass – Tejido A Mano, Patas De Madera, 42x30x26 Cm, Blanco Y Otros Colores - CASAG – OAB Goiás",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3ZCQVdYb3czdmN6SmljbGp6cnR0Y0F0TEliTnVQNUtyVTkzZHdWdEpJYklrTjk0U05ya0xvZ1VwUFI4d3lOdHFQZWFKOG0tZ0JSVXgyaDVIN29HeEVZb0ZJUUNhckRxeXdvRWw4ZU8tLVU0dERQVV9vQ1JaREhyVDFpU3MxN1FMM2Zld2xuTQ?oc=5",
+      "outlet": "CASAG – OAB Goiás",
+      "domain": "news.google.com",
+      "published_at": "2026-08-11T06:17:36+00:00",
+      "language": "Spanish",
+      "source_country": "MX",
+      "image": "",
+      "description": "Taburete Reposapiés Rectangular YMYNY De Seagrass – Tejido A Mano, Patas De Madera, 42x30x26 Cm, Blanco Y Otros Colores CASAG – OAB Goiás",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (MX)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "76db8e7887224901a8",
+      "title": "Eelgrass-friendly mooring project underway in Nantucket Harbor - capeandislands.org",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVld3eFduQ2MxTUJEbV9jZ0VyOXAtVV9qTnAtclBmVTk5c1lFQ3hIczk0YS1SNlVVeGx5QTYzS1A2ZWxrQTVsdjFzNEpkSW55OTRHcVA0TzZUVTRSd3g3ZUQtNWYyMFlYM2p1UjA5aVRhSjNIbllsb21RUnVpdmE5bWxGTEFVVDhyVzdiU2tzdnFYQ2UyQXpRSTZTVmhJcWhqbElPTXBIUWFhTmkwSUJmUmVBeVJ3dw?oc=5",
+      "outlet": "capeandislands.org",
+      "domain": "news.google.com",
+      "published_at": "2026-08-10T20:09:00+00:00",
+      "language": "English",
+      "source_country": "US",
+      "image": "",
+      "description": "Eelgrass-friendly mooring project underway in Nantucket Harbor capeandislands.org",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (US)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "f86717fc6bab63b0d9",
+      "title": "Posidonia oceanica, the hidden treasure of the Balearic Islands - Forbes España",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0Z4bHV4cVI2QmNmT05MSWdvZ3Rva0RCOUlIMWQzS1N4ckFodlZGQm1KMl9lYlU5X0Z0U3Jha1pENGcyWUppLWY5Rm8xazlVVjlaeTFBZzRScXVHUnV3RUJWVGtlZjJIeWo0QUJiZm5MbFhRWDVHN2ZIVmJsNGowczlkUS0xdUI5aGlDRUl5NVBWSTlJdWtoSDc2YkVTd2p6bFE?oc=5",
+      "outlet": "Forbes España",
+      "domain": "news.google.com",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Posidonia oceanica, the hidden treasure of the Balearic Islands Forbes España",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "7fbd0b92fde9614156",
+      "title": "Anpflanzen von Seegraswiesen in Ostsee ist nun doch kostenlos - das hat der Bund entschieden - NDR.de",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSTRiN1VDSVFXVElLTHV5RGcwZDQyYkJISWVSRkFmT0o2SHczYWJRSEdQUjBQeTZqX1Jlc1FVSV9HOGVXcndoSmtvemlBbk1QRFRQOS1LVlJNZFNzSlZrVGxIeEhxSGVIT2RJR0hEWUQzdS1NT3NEVlBvZ0JlMzljNmZrNWZvZERXMDZnV1hKeWpwTTlfbVJLd0I4TDVFM3ZDeGRROWxlMG03Sjh5ZnpRaEM4RXJIMnBNYXdlRmZwNVh4NXlYbExpZGtSb1F5RjFlcnlhRlJ0S3dMdVRpWlk1R2o4TktDYXpfQ0oxWC1STmxOQUQtdlFWbTFfRWVXQlpIbkE?oc=5",
+      "outlet": "NDR.de",
+      "domain": "news.google.com",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Anpflanzen von Seegraswiesen in Ostsee ist nun doch kostenlos - das hat der Bund entschieden NDR.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "bf3340dc4db3301aee",
+      "title": "Seegraswiesen in der Ostsee: Verkehrsminister beendet Posse um Gebühren für Naturschützer - shz.de",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcG1jOTllTk41S0MwaW5Wbk0wZDUtUllrTFZrMXJWanZ5N0QzX0dqRGI2RndSOVl5eERwZmlhZEF3cHozWHN1UVZSOWxoYXQ3czhpN19MV0hKc3lXV3dzelN6Tm5lemhmQWIwTk9uYXlkZnRGRFJPaFhkZk9XUGcyckVqNkZUbUxsWEVnbWVUZ3JkQVdNdkFaY3JWTDJ5Ui1HX0t1RGNKMGF1NU5UVUFtd2VtRjBmWkxhY2ZleEV6Q3U1X29u?oc=5",
+      "outlet": "shz.de",
+      "domain": "news.google.com",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegraswiesen in der Ostsee: Verkehrsminister beendet Posse um Gebühren für Naturschützer shz.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "6e0cd4ab23b1bbf929",
+      "title": "Seegras macht Bootsfahrern zu schaffen - vorarlberg.ORF.at",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IbF9LTFg1TElIWFR3SHRYUVBwUnp3Q21YZUhHS002RWFIX2ZBd1F5cS0xWmJETjU3ZGo0VE9mVUl6em1Hd2VkeDR1cXNCcXdrV0JiQw?oc=5",
+      "outlet": "vorarlberg.ORF.at",
+      "domain": "news.google.com",
+      "published_at": "2026-08-09T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegras macht Bootsfahrern zu schaffen vorarlberg.ORF.at",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "c08e80e171f554a6c2",
+      "title": "Burgers' Zoo werkt aan grootste zeegrasaquarium ter wereld - rheden.nieuws.nl",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0F0bldmUkVTeFRJUGFOMng1RXVHRUtqRmhlenBab3ZRNnl4Q0xVS20yZEZvMWxZWnp6S205aUpQM3NGbVR4elFXcTNsUVpPektMM3JrNkY5LWhFNFhrZWNxak1QdWNydFUzaDZJQ1h6SFRaaXYtTC1vTnRQdlM4R0R4R3hIRm9sR1JHdWlLb29nazQ?oc=5",
+      "outlet": "rheden.nieuws.nl",
+      "domain": "news.google.com",
+      "published_at": "2026-08-08T09:44:57+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Burgers' Zoo werkt aan grootste zeegrasaquarium ter wereld rheden.nieuws.nl",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "41983d6c986a3e0993",
+      "title": "Op zeegras gebaseerde ‘zachte netten’ vissen straks microplastics op - bnr.nl",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZW9EeV9UOUU4M0oydFJKMEowTkZmQlIxNzExWGdSRkZ4VmxmMHZLbmdKVHZMQVljYkhGazJhSUxRUXptM1NNbVhheS11eTdQeVl3d2M3MUo4LUpGd3RfbF9uNlY4anE2cll1Z09WOFRKNFBYS0FGRmM3S2hNMGVoZURhMUN2d1UxTW5NeTlXMHAtTFRYbV8zb0YwS004X0JkWGgwOVdsSjFMT3RsdTloLUQ3SjU?oc=5",
+      "outlet": "bnr.nl",
+      "domain": "news.google.com",
+      "published_at": "2026-08-08T07:00:00+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Op zeegras gebaseerde ‘zachte netten’ vissen straks microplastics op bnr.nl",
+      "themes": [
+        "Pollution & water quality"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "78bcece310b98c4be4",
+      "title": "Posidonia oceanica: il polmone verde del Mediterraneo tra pressione antropica e record termici - greenreport.it",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZnZQZjJmR05OdFg0M3BPUnRBS194amdYVkdwQnBmYVlwU09NNDZuaTc4OWxVejhhV2FqMVFiSHd2NDZ0WnlyYnU3c00zOEFWRUdMb1BiTGUzNVdObGRBVVJTSkpFVDJsd0hXUHdCbDZoUVZMbGhqWV90dFFLTWpBaWVuQVJNZUVOa2dYQzVwWmFfTEtXTm1JUUR0X2VfZExad2pCRUwybld5ZzM4c0JEX2NkNWtkVGlNTUZRakRMcmFoMlRLWmFua0VNT2o1N2lPbWh4Sk9vSlZ4ZWh3OXg2OENpS3hwQ0pmRXZKMU9SMkhNTlk?oc=5",
+      "outlet": "greenreport.it",
+      "domain": "news.google.com",
+      "published_at": "2026-08-08T06:00:07+00:00",
+      "language": "Italian",
+      "source_country": "IT",
+      "image": "",
+      "description": "Posidonia oceanica: il polmone verde del Mediterraneo tra pressione antropica e record termici greenreport.it",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Italian (IT)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "b5a7e3a285e00d9b83",
+      "title": "海の環境を考えるイベント 瀬戸内海に生息する生き物観察 アマモを使った実験から学ぶ 広島・尾道市 (テレビ新広島) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX05qbVl1bTJLUDhDenpuX2tjaEZjblhiaVZub3d3TXBtbVdHWHVINnlyeWhSYS1JOU5pekx2VXQ0d3BzM0czVTB1ZUNIQWRKTGdWWldzMUgxVlFJMmxyZGxMaFQtZ202T3pZNnFZUTk2NVFGczAySnRxR1E1YnozdV9Rcm9iemJOQ21tdll3?oc=5",
+      "outlet": "Yahoo!ニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-08-07T10:05:01+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "海の環境を考えるイベント 瀬戸内海に生息する生き物観察 アマモを使った実験から学ぶ 広島・尾道市 (テレビ新広島) Yahoo!ニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "3aec906e652b588732",
+      "title": "Resilient seagrass offers hope for restoring damaged ecosystems - Oceanographic Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlVTamtHd2ptMnpkbUNBZWl0dldjZlRWS3pDbXJMcXVUZ0kzMUtBdmk2ZkpxeXVjdmJ3SkJuQUh2QlJ3OFJKZEs3NXBNakVUS3ZmRVQyd0wxYzVJaFhPMGRnYVFoVUo4NDg2dk1JdzhrSFJvTEtjUzNqcnBlLXRmN3RNc2IyXzZQOGpWcGc3MzFQbTFLZm1UNjNpcFpvREpyN3dQWVllVlFQSFk?oc=5",
+      "outlet": "Oceanographic Magazine",
+      "domain": "news.google.com",
+      "published_at": "2026-08-07T07:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Resilient seagrass offers hope for restoring damaged ecosystems Oceanographic Magazine",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "6b43d7175e6bded399",
+      "title": "Burgers’ Zoo baut weltweit größtes Seegras-Aquarium auf - Freizeitpark-Welt.de",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb0ROREtpVGxQNnBWU0p0NTMwaDBMY1lEYjhIYkhTS1hseW9kOEtBMzlqa3VYOUFNWU1VVkNxQWJOa0xEYUdJWTd1ajBWX1ZZYmthZXFNNXNkTmtremJ3ZHZGazg3YnhTajFTSTE4UDdfcGQyS3pEYWxrdVFxUjgxOFdNNkEyQ2V1bFNtNG54RVF6WnpxSkFWYVdxLXNMdjBEQ1J1OVJQclRvaEZCNzMtZEZ5bllzUVXSAW5BVV95cUxQamMxSllZWHVqU3J2OUZNVV9HUkgzUjRZYWlicklQRzZKY05hSzJfY0szdlZuX2k0OW1wVHFlTGNWSEVOQUdHTURZSFAwUjlaR0pXdUtnNFlIUHhKclRCczc1aFI0aHdMWnNfMVpiQQ?oc=5",
+      "outlet": "Freizeitpark-Welt.de",
+      "domain": "news.google.com",
+      "published_at": "2026-08-07T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Burgers’ Zoo baut weltweit größtes Seegras-Aquarium auf Freizeitpark-Welt.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "474cf6b34555c65a52",
+      "title": "Burgers' Zoo bouwt grootste zeegrasaquarium ter wereld - Omroep Gelderland",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjN6b3RCN0dLSElBNGZGMVh4N0otZlNnMzFQalJpWUF2OFB4TXhkbndaNmowS0JJQU9POTFiTnhJdGlxazlNMEdmN3lseXliSnpTcE4yZWxDYW1nSUhOZmJqRmppQ29BS0VzMUt2cmdTcElwSklUc0tNWFJaWFR6bFN3bFRKREprV3BhQ1FtTHE?oc=5",
+      "outlet": "Omroep Gelderland",
+      "domain": "news.google.com",
+      "published_at": "2026-08-07T07:00:00+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Burgers' Zoo bouwt grootste zeegrasaquarium ter wereld Omroep Gelderland",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "bb7b46c9de66d457b1",
+      "title": "Deniz çayırları projesi: 70 milyon tohumla yaşam alanları yeniden canlandı - Ege Alternatif",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHotZ3lzeVpwak9hWTZFOThuLWM5Wk1ORzQtc2RjU1dLUzhxVkJseXRXQXFESTh1Q2dRRjgxR3N5NmZiaTlTRVk5QUtRMmV2c3JWdXNEbzd5b1NUbjIxaUtORGctSWhob29ZN0c0dm9zOFlBbjNZbkNEZjBzbzlmYTZmYVVwQ1FqTlNyeUp4Y3RHRHFXaENKWUxNVmxpQzlwbFBfd0VRLWRkdDVjeHEycjlOT0pDaG8?oc=5",
+      "outlet": "Ege Alternatif",
+      "domain": "news.google.com",
+      "published_at": "2026-08-07T01:29:32+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Deniz çayırları projesi: 70 milyon tohumla yaşam alanları yeniden canlandı Ege Alternatif",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "05fe024431c0f41efb",
+      "title": "Coastal Rivers to Host Guided Eelgrass Paddle in Great Salt Bay Aug. 21 - The Lincoln County News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFlCRnFGN3VWSTFEYjNkaTl5cjMzWWVyZ09ZWllRZlJXdU9RQzB4M21ldjRDOWNfWDM4VnVfQm5yNHRmTjJIN0FwaDd0M2lSbDcxV1VnejNISldOR2dSdThkZ3lKZW5ZWTlPbnZoLTNOdFlISkxyelpMTm5lTjVSRjJodHRoTk9XeF9tV0lHcDFXREVmTG1BLVhCQlZINFR5OGc3bVBULUNVcUhnd2hYa0VVRQ?oc=5",
+      "outlet": "The Lincoln County News",
+      "domain": "news.google.com",
+      "published_at": "2026-08-06T16:21:57+00:00",
+      "language": "English",
+      "source_country": "US",
+      "image": "",
+      "description": "Coastal Rivers to Host Guided Eelgrass Paddle in Great Salt Bay Aug. 21 The Lincoln County News",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (US)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "0c8433831e210bb16b",
+      "title": "Torreblanca protege la Posidonia oceanica con una campaña - Valencia News",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQckRTOVh3ejVBR3ROQ3RoVG1zVmlGZVZlU1NKaVFaMmJjaWJKWlE5enF3Mmt0a3phQk5WV1RMNGwzRW80VEp4WUFxOU9KaDNVWnNxRjRpa1VMamVMZ0RoVWt4Q1hNcjhscEFwTjEwLUIyR1B2d2ZxejR2RUFIajJCaGw0WEpYS1VNQTBzVmVZeUk4RVFjUWpiN1pmdTdFZjdyVk9DT01EQ2RTX0Y0QVZnaVdZLTJCREFER0owWjVNaWtuUkJDN1h5N0ZXazBETWhQcllwcFo2RTd1MW10dURTNEM4NE54Z2FyUHlzU1lCX0d3OUNZV25qcER3Y1NxcnFUMzBHc3g0WndvWUlOcmtUdGYzdw?oc=5",
+      "outlet": "Valencia News",
+      "domain": "news.google.com",
+      "published_at": "2026-08-06T12:25:35+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "Torreblanca protege la Posidonia oceanica con una campaña Valencia News",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "36014b556c765aa29e",
+      "title": "Ankern über Seegraswiesen oder Müll im Wasser: So geht es dem Meer vor Mallorca - Mallorca Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGtQTHpGdEVESVZnTTR3Z1F3LTRDVTFmdVp0d21pN0lCdHhOd3BNVUZub01kblJ6aUg3YWpOaG84NTVqV0kyZmFCaUNsTk91bExDSDZ3S2lfV212VUFIQ1hWTXZmSEd5ZFhzS2daME1pemRjbXJ1YTVpSWF1UmotRjI4Z01vZFBuQTc1amlRZjl6aEQ4RDBsd0JHX016TEd50gGmAUFVX3lxTE1VcG45WE16b1pQY19Ca0xKaHZBODBmYUh4VTFkSHRJRVZucEc2Tm8zMUxJajNGQ0k5LTN3MTRvS1NuOElPOFZna0E5cTJZTFl0YUZmZEpZaVdFZ3lTNUhVSlQyWWtMNThPUmFZRzhCUVZSNVRZeURKUElZcGJROTZCR1ZqVnhlbVZiZUZCSUs3c2c1aC15ZFNuY1V3QnppZmdVaFJwZ0E?oc=5",
+      "outlet": "Mallorca Zeitung",
+      "domain": "news.google.com",
+      "published_at": "2026-08-06T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Ankern über Seegraswiesen oder Müll im Wasser: So geht es dem Meer vor Mallorca Mallorca Zeitung",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "192b7f97ce224f9502",
+      "title": "MSC Foundation e Associação Vellmarí lançam programa para restauro de pradarias de ervas marinhas no Mediterrâneo - Ambiente Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeF91cEx5MFNhVWhtcDZoRlJoTE9xUUU5OU1qSE5DVXBCUUxqTTZoYndSVFpqODNmZUZrTmZqVk9sQnBCZUZUVWxVMUFVM2wzRzM0Z2NpdWlGM3Fmd1FvUHZVTDhrMDJoRXFUbXVXU2VaeGc5SGt0elJQWnptdnBIZjhKNjh3bUg5LTBpa2x3WmVxNkxSV0gydC1IR0d2NDFkeWhSNkhvQmFjbFdGVEdadDcxdzFSa0t5VDJ4S0VYWFhpdTZxREQ2Zjk5RWFiNjF2aVVPMk9xZ254bUo0eFFZaQ?oc=5",
+      "outlet": "Ambiente Magazine",
+      "domain": "news.google.com",
+      "published_at": "2026-08-05T11:19:46+00:00",
+      "language": "Portuguese",
+      "source_country": "PT",
+      "image": "",
+      "description": "MSC Foundation e Associação Vellmarí lançam programa para restauro de pradarias de ervas marinhas no Mediterrâneo Ambiente Magazine",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Portuguese (PT)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "d9927b76e2c887760b",
+      "title": "Underwater robot to chart Richardson Bay's eelgrass meadows - The Ark newspaper",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXdPWE91Y1hzQi1rbU5yMlpkcWhCblc5eGZuV1JsZkcwY1ZuVDBWRnhSZW1pVFk1TUduaVdJclYzcTdzM3hqSk54VlZNTTJvUkxUTlhZS1EzMmtaZEZCVHZsQmNKbG4xNGlrb2N4MjFsbUhLMTlhd3JpLTkyM3kwZ0hSY1dXWDlPcmM3X3poYXdEYTlGQ1oyUS1pd1Y?oc=5",
+      "outlet": "The Ark newspaper",
+      "domain": "news.google.com",
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "language": "English",
+      "source_country": "US",
+      "image": "",
+      "description": "Underwater robot to chart Richardson Bay's eelgrass meadows The Ark newspaper",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (US)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "035fc60a06b77201b0",
+      "title": "Stiftung rettet Seegraswiesen im Mittelmeer - THB - Täglicher Hafenbericht",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWmpwU3hIdDRmeGVoWEt2Y0ZZU2RYb19RblZEX0F4RG9rb1J5SW13cGhoeFA0SDM4TnhyR00zOGVLb2I0ZnhfT1JjZEtsS0xVVGx6SXo5SHBIaGJqaVdpdFl3RjNxN1ZqZ29WbGJDcWNOeXEwbElfRi10MGZDd1ZuZ25oSGtNTnFhWlFURFdfc1AtdS1NVUpXV0IyTGFTdw?oc=5",
+      "outlet": "THB - Täglicher Hafenbericht",
+      "domain": "news.google.com",
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Stiftung rettet Seegraswiesen im Mittelmeer THB - Täglicher Hafenbericht",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "545f3a837ca99ac4ac",
+      "title": "Gewässer-Check in Tillmitsch: Hitze befeuert Seegras-Plage im Aldriansee - Kleine Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRm14NUo3UDNDclQ1LVNTVklneldtUlB3WVFoSHJDVi1rcGstRG55cFJLbXZ2TFpURFRWYjRCY0xJMGJQUFJ3ZTh5eWZHellmZGMtZEUzU0pYU0t0dVZCdmRwMUZNUDlrQTJld2pMNXpBeTctaXdOSkhBbklyY3dpbHloa0wzSEo5eEQyQ0RkWUNUUlk3TWM1Rm5Jc3c?oc=5",
+      "outlet": "Kleine Zeitung",
+      "domain": "news.google.com",
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Gewässer-Check in Tillmitsch: Hitze befeuert Seegras-Plage im Aldriansee Kleine Zeitung",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "01a4550a439e71d1e8",
+      "title": "한국수산자원공단, 고유 기술로 부안군 위도에 잘피숲 조성 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uTGdLU3l2cjh0b0FrdHppZG5aUDYwX0VBT1hBVFdjaTRSaWRkMWtkVDhHWll2Vk5VQW5aOVZwaVN3dTBYc2VibmNUa0ZlOEVfVGRzQ05FOXhWTDVCNW9QSXNTc3lwaW9CSW55WlJaS2ZLb2xNNWdBSA?oc=5",
+      "outlet": "부산일보",
+      "domain": "news.google.com",
+      "published_at": "2026-08-05T05:16:41+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "한국수산자원공단, 고유 기술로 부안군 위도에 잘피숲 조성 부산일보",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "2021824435ac651e63",
+      "title": "A Resilient Seagrass Species Could Help Reshape Coastal Restoration - Florida Atlantic University",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ2pLemROS002TXpSQzlsSERjb3hvbGJxNFBkc1NfRjVfVktianE1NWRnMElNcW14amlTR3Fsb0JDc0cyX1JIUW5tWFd4MHJfRTBDV0dVOXJsSE96NTQ2QXhzOUVQZmZCajY3MjBndW1kWUt2eVhpMFVtd2JoRGVPdUpTdDcyRml2S0hZ?oc=5",
+      "outlet": "Florida Atlantic University",
+      "domain": "news.google.com",
+      "published_at": "2026-08-04T07:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "A Resilient Seagrass Species Could Help Reshape Coastal Restoration Florida Atlantic University",
+      "themes": [
+        "Restoration",
+        "Wildlife & biodiversity",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "68197c917f8630d6c2",
+      "title": "How clams and seagrass could save Southwest Florida’s waters - FGCU 360",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0VpV2h4b1Z1R3BTcjQyS1JUU3RKaEhra2JjNU9oZ0FYNFVqRFJjUlBxRGpOeEppRlFqSEx3amZGbWNNX1Nhck5CVkRWV0xtOGxuZ3ZVTmgxNEhUX1h5VUNUNGR5dzZfSk1DVnAzRWJfRnkzUDM3dHVZV0dDbnNSSVEtZmhHVDduVGZtOV9fTFZZZ2VPQkE?oc=5",
+      "outlet": "FGCU 360",
+      "domain": "news.google.com",
+      "published_at": "2026-08-04T07:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "How clams and seagrass could save Southwest Florida’s waters FGCU 360",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "88e8c47c2b15c92fc1",
+      "title": "小串小児童、アマモの種子を選別 苗を育て来春に移植へ - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Cay1JRGp1QUZQdXlid2RWRXpnWTFFYmk1dTZWczZOdXVVdUlYbzZIWEZFWW1uRWx5YVdNSTFRei1FT2tLRkVkT2lwWlY0WVVKQkpGZllEV2ZhWkEwLUJQQVliYTQ1Qi11?oc=5",
+      "outlet": "山陽新聞",
+      "domain": "news.google.com",
+      "published_at": "2026-08-04T07:00:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "小串小児童、アマモの種子を選別 苗を育て来春に移植へ 山陽新聞",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "e5a7e64e96017641b8",
+      "title": "横浜市金沢区・柴漁港での「アマモ種子選別会」を取材 - 日本テレビ",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0OVFxakdKRldidW1QbjRONE5yZFBqN2dNTW9oVko4eWxhbjB5dy1YU01oQzl5SV95cWp5blZOS1B5OFZmXzBDcXUwRmhKMzR0NnF4akxPcUZubmhKajFjSkpKWEgyeThqeURKRE4tZXpwZlU?oc=5",
+      "outlet": "日本テレビ",
+      "domain": "news.google.com",
+      "published_at": "2026-08-03T10:40:39+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "横浜市金沢区・柴漁港での「アマモ種子選別会」を取材 日本テレビ",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "85286afe77c3b4afe8",
+      "title": "Die MSC Foundation und die Asociación Vellmarí starten „Shallow Bays of the Mediterranean“, ein neues Programm zur Wiederherstellung von Posidonia-Seegraswiesen im Mittelmeer - Touristiklounge",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPUVE4SEZnX3lBOWg0cVhhdUhDMkJFckx0UWUxR3E3cTJ6ZlNFcE9mdExwX1I3TGxjVlFzRi1ndW1IMWlmSEF6aVlwaDVJWExpNWNVeUo4bkJ0TDM0d1Y4ckhGdkxDcFlfZC14N1B2T244S0d5WGtFTEwySGNXOVNPZWtDVkJmYnMxeXJuMmFGZXJ3d252LVJiQS02OVgtQmo1ZHJCM3VNdlhhemJHNXRrTE11eFBtTEVXUjlhMThHM1JIMkFIOF9fMUJkZGNETW9MMmltTEd1RXJNLWIzZzVULU96VHRlWTkyMVRUWmRjWGsxeGUzdHZWM3lQVXFZYmpuMUdLVHRWNmhZUHJxLV9kTGdHNWJhRmVSYko2N1k5TGgtZDFP?oc=5",
+      "outlet": "Touristiklounge",
+      "domain": "news.google.com",
+      "published_at": "2026-08-03T09:55:19+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Die MSC Foundation und die Asociación Vellmarí starten „Shallow Bays of the Mediterranean“, ein neues Programm zur Wiederherstellung von Posidonia-Seegraswiesen im Mittelmeer Touristiklounge",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "ddcd091a4b02acdce7",
+      "title": "Gederner See: Seegras entfernt – Wasserqualität „ausgezeichnet\" - fnp.de",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSEI5NDhCeXRfYksxM1lycWxJTFBfYlFoY1VXTlloaDZWVEdSMUNYcFFyc2FkMDEzRTBxSnJyTUhGTk5zdGt5RThheWgzVlFwX2xSLU9IeUtDdzNuOUJpZmgtYlAzTEhyT1NaZlRpcDdWZl81N1RHa1g4VDY2NTlMNWNQSGJXb1VrTE96LTkwd210RndldENtRWtTLVppVGhlVDFyQWVLTUFnNVVVVi1JOEc5QkY?oc=5",
+      "outlet": "fnp.de",
+      "domain": "news.google.com",
+      "published_at": "2026-08-03T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Gederner See: Seegras entfernt – Wasserqualität „ausgezeichnet\" fnp.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "8f1a5f16b638fdfedb",
+      "title": "MSC Foundation und Asociación Vellmarí: Programm zur Wiederherstellung von Posidonia-Seegraswiesen im Mittelmeer - Kreuzfahrt Aktuelles",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObzZxTFJuU1B6UUtQV080aVhEMlg0aElaTVRIYlBqZ2Q4NndnQzJlbGlobVlnREtDZHpuVkJjeWpRSmpsMVBmQ0MyUDJmUlJsR2lQcGFpTHlzTGpRSENPcDJfdEhMOWRHYlJWNkZLSXJrZl9IY2VSR0RjczFXclBrQWJUNWE2VTRNNVZEdk5DNXdRUnRzTVlFQ0RjbVowZjl1RmJRTHlHdmhjRnM1Zm1SQ1J3TU5XNzl5ck56YTRheHdvVWN0cWx6Z2VOT05GMWJnUVlabXNKMVBCSTFYRE9nWk5TT2NpNndtemc2X3JuS0xQUQ?oc=5",
+      "outlet": "Kreuzfahrt Aktuelles",
+      "domain": "news.google.com",
+      "published_at": "2026-08-03T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "MSC Foundation und Asociación Vellmarí: Programm zur Wiederherstellung von Posidonia-Seegraswiesen im Mittelmeer Kreuzfahrt Aktuelles",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "8fe5a9425d9b816f54",
+      "title": "Baumaterial aus dem Meer: Seegras als Dämmstoff - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTZpSzU3ZHNkR3k4NEdwWTJRVERDMko2WU8ycFVqa2lWbWtrYm5nRUxMN1M1Ykc2VXUzeWZaa29nY2F4clhoNjUwRVRZMy1pZExoeFIyNktsWWpWTVRRWW5QSHhnaEpoc1BYUW9sNzhGdEN1WE5rVFhKNW8wa21MX1I5Rm4zNE4zck5hcXRSdkZFQXM?oc=5",
+      "outlet": "DW.com",
+      "domain": "news.google.com",
+      "published_at": "2026-08-02T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Baumaterial aus dem Meer: Seegras als Dämmstoff DW.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "3dc894f50224c3e5db",
+      "title": "35 Tonnen Seegras aus Rappi und Bollingen | Rapperswil-Jona - Linth24",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2tGV05pUENiblZzSWllTm85QnY3bVBmWnR3ZXEtNzhSdEFkVlRicFNBZEd3alVYM3YwTzRkdkZEOVNzSVF0UW5ZU0xpbHo4WGhmT1ZKWm5NMjlXWmZ6U25jSHlnVFdZODNlWFJCMTJzZlBlOHoyWV90OUM0dTNVZTl3?oc=5",
+      "outlet": "Linth24",
+      "domain": "news.google.com",
+      "published_at": "2026-08-02T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "35 Tonnen Seegras aus Rappi und Bollingen | Rapperswil-Jona Linth24",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "35442fd3db71f88df7",
+      "title": "Ervas marinhas que chegam às praias viram material para construir casas; veja VÍDEO - G1",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWF9Ecmdab0lkRDF1M1luQkZnQmRRNERaNGtiUTJEOHF2MzNHblh2VUoxX3ZVR29OQm5kd1hLaTRSSkotSkVBM21aSjhZV2N6dFg4SWFXS255YzAzNU5sWV95ZzZzZkUzRUF2b3gxUGYzcThmUmkyclphSTl6UmJWOEMzbVJYdV81eVRMak9VMC1SZmRCeDZsdkZjNGVaRzBBUmxMenNab3VreUZ0elVOb3NvZ2ZrU1pRN2NlVUlFanpubEZnSG91dmJnRC1sZy00LXpkU3JCNVl4d9IB6AFBVV95cUxPZUZxTDR6VGtuVkpTUnRhV1JWMGFoN1cwelF5M242b2ZmcHN5aXJHck1SX3BqckNNdEdzNzVjbnV4VUFSWEhGZG1kRXBFMFpRZ1JhUDhUNnl2c1ZYanBlXzAwYUNjZXB3Q19CbWJ3Z20xQndmem9ldGw5QnU2dVZFUnBldGVEdEgyb0NLSWdRQkQ4ZjUtVTRIN2hsQ3RqcWZJd1VyeXVDRWpIZVhDTjVFQzV3MU1PU0R0MWtqQVR3S1A0eTFQODdXRWpuRHpEMDRWVzlnLVI4Z09uYXBLTkFJdlNlVnBuaUs0?oc=5",
+      "outlet": "G1",
+      "domain": "news.google.com",
+      "published_at": "2026-08-01T07:00:00+00:00",
+      "language": "Portuguese",
+      "source_country": "PT",
+      "image": "",
+      "description": "Ervas marinhas que chegam às praias viram material para construir casas; veja VÍDEO G1",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Portuguese (PT)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "4ea123d23e5a122a9b",
+      "title": "장흥 바다 뒤덮은 16만마리 정체.. 잘피숲으로 > 뉴스 - 지데일리",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KR0JBWnNoN3BVa2ZBRWpIRWhNUERGQTVSUm5YN3UtZTViUEpsUi1EcGJfUzZsUWpabG9CeEVBdnZ1WnNRRzVVRXNhejBzSDYzSGdmdlFUV2ZsWlpVZXhjSU4wV0FoOERXR19Gdw?oc=5",
+      "outlet": "지데일리",
+      "domain": "news.google.com",
+      "published_at": "2026-08-01T07:00:00+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "장흥 바다 뒤덮은 16만마리 정체.. 잘피숲으로 > 뉴스 지데일리",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "0aef4571f3f4d71887",
+      "title": "Ervas marinhas podem virar material de construção - G1",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnJLd2lsV0gzTFBud3J3NFdaUFdoZVpKLU9MYzAzODRjcGpGQ2RpMU1YaUZhQVlMQmR6UVlndDhYYjlTM00xYjFaeXFlVkxpVnFLSVJIbjg1bXJWd2RiVWd5TnFIaWtsOUpKaDByMTFMOFRMZEVTN3EycnBYRkFFSzZFV0YxSG5KNVE5a3pnUGUxeFdjQTNMTTU3M0JxMlJsYWJGSHNXU3TSAbcBQVVfeXFMT3NYdk9JQnVvMnM2NXh1X3FUVVhIakhSNUxma2FNYlpxd0ZhMGxMNlZ5Sk5Wd1VJanZEZXNVZmZ1eFNyOTlPNy1GSy1KMmRwaFVjcEpsTlExMG1nZGpsa25vRi1Ud1hITUVPWnVCXzBhTkJKTktwZFNxSFFMajBPM2R5WVJvLUE0MlRZZGNmakdOWW54NExXODlXR0RXanVCTDA0SWtIR2pjTm1TVUJHZVJ1Z2tueXpV?oc=5",
+      "outlet": "G1",
+      "domain": "news.google.com",
+      "published_at": "2026-07-31T07:00:00+00:00",
+      "language": "Portuguese",
+      "source_country": "PT",
+      "image": "",
+      "description": "Ervas marinhas podem virar material de construção G1",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Portuguese (PT)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "d54b1c5be687b3143c",
+      "title": "Hitzeschock unter Wasser: Warmes Meer setzt Seegraswiesen zu - Ibiza HEUTE",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM09tZDFXT25KM0JpbHJ4Z0lMd1RnaE9Ea2h0WU5OYlZoaFVmTDc1TEEza0cySk9QZ0E5ZDdYbWFlNkdyakZZZXBEenhzVG1ic3ZRN1ZVLWIycThCNTk3cy1UR2hUMVlkbndITXBXSGRtbWItaDJBOGc5MU5pWk5GQ2w0RlNET0d6WXVvMEJhS04?oc=5",
+      "outlet": "Ibiza HEUTE",
+      "domain": "news.google.com",
+      "published_at": "2026-07-31T06:00:42+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Hitzeschock unter Wasser: Warmes Meer setzt Seegraswiesen zu Ibiza HEUTE",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "b5cdc4a6261dc1a834",
+      "title": "Posidonia oceanica, la Regione prepara il primo Piano di gestione: stanziati 4 milioni di euro - Kalaritana Media",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdHhVSThPbVZfS2ZqSDJheWdBcFNZLWJnUGZvUUcyM3hWTkFad2F0Y3ZuQmFuYlpkUHhQcFJoSjRMb1lIZEU5MXVOT2VEaldyTU1vSGZ6cV9fc3Fpb0phcjBaaU1IdHNBYTJYYm1sN0NsT21LS0xuai1vSGxpenNNUTRWVTg3VFRva0tLbGk2VldBeFh5YUluaXR6YW10SVNJaTFiNl94b1FBamZNTnU0WjZjOWR2WEVUaVpoTUVhVmdUQQ?oc=5",
+      "outlet": "Kalaritana Media",
+      "domain": "news.google.com",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "language": "Italian",
+      "source_country": "IT",
+      "image": "",
+      "description": "Posidonia oceanica, la Regione prepara il primo Piano di gestione: stanziati 4 milioni di euro Kalaritana Media",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Italian (IT)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "e890b41e7a41862dfa",
+      "title": "Nivea Oasi Marina, a Lacco Ameno restaurata la Posidonia Oceanica - Il Golfo 24",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVklvSG50QU51OS1NdVBPVzBKVkdRYjktRVVZTkxvak5QVEZkckFmYkEzcy1BaU5yaFlySTJnV0tSSV82aE5UQjlKcGlFN1BXSFBGdGNTNnVITlktcjdLZFo4Wkt5a3Z1VEtrdVR3SlRZVXlLMFp0MGNUcWdDQVpvNk9aN3RTMDVoSExjREdqSkZwVnRP0gGaAUFVX3lxTE5jTzRlWjVPOXpNZkNIdDJQVHVHcjJHeWlIakFUN0xsUVB6VWJfWXlybGp3bnF0VzNlTFZBVjI4c3hkenRwc20xc1MxZDE1aFZ0RnFtWFh0aWNGMkpBRVN4ZU4yUUV5eDZIRElxWjRscHVBX3lINEJ0WENIU0otUkJyRFhBOXE3dko1RHo4NEZtMTl3eVlodTEtMXc?oc=5",
+      "outlet": "Il Golfo 24",
+      "domain": "news.google.com",
+      "published_at": "2026-07-29T11:40:50+00:00",
+      "language": "Italian",
+      "source_country": "IT",
+      "image": "",
+      "description": "Nivea Oasi Marina, a Lacco Ameno restaurata la Posidonia Oceanica Il Golfo 24",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Italian (IT)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "de6712dc447236e68a",
+      "title": "Tiefer Seepegel führt zu blockierten Booten und wucherndem Seegras - Der Rheintaler",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUlJhLTB1QnlwNkxiNXZmM0ZYMWUyZWRyRTVIN0dOZjRUTEdJVHc2NV9ocnBIYVhGWUlvSjVIdUdab2lBck1tZ1k2aDJZUWVoUmh2UkpvR1F1RTZhaGktT3pVZ2pHV1NlWVpQbVY5LXYyV1dGRGplMUZvY3dwRE9rSmZCM3VnbTBIOEhYUUxqLUtqYTFqVjZ1bmdWWEtqV29rMW1qVw?oc=5",
+      "outlet": "Der Rheintaler",
+      "domain": "news.google.com",
+      "published_at": "2026-07-29T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Tiefer Seepegel führt zu blockierten Booten und wucherndem Seegras Der Rheintaler",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "d1cee8a895a5df9657",
+      "title": "下北ジオパークの魅力学ぶキャンプ 小学生がSUP体験や陸奥湾のアマモ場で生き物探検 むつ市川内町 - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zeVRaZm9EMHFIY2I1ZkdKNWNXaDJLXzRyUHJERGp6S2RiWGF0N084VFJGd1VXUXF6V194czY4dGpDeUo4bmZOYjFqR0JSblF4RkFiRHhkT3ZMa2s5VzBLWWZYazhvSkhacXdEVlhoMnBMZC1mQXdWTUt2dnp6dEE?oc=5",
+      "outlet": "日テレNEWS NNN",
+      "domain": "news.google.com",
+      "published_at": "2026-07-29T07:00:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "下北ジオパークの魅力学ぶキャンプ 小学生がSUP体験や陸奥湾のアマモ場で生き物探検 むつ市川内町 日テレNEWS NNN",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "8252def96b203a7a3c",
+      "title": "Shaw Institute adds lined seahorses to highlight eelgrass decline in Maine - WABI",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqMnhaLUpWeGRFUE5HUGxZaXNUakV6T3NRZlNNQkM5eHdENnRTcG5fU200aEVXdmY3Sm9ncUtQNWlGMHJtU2dmR3hIWG9rUTU1ZXRxZkVZaGZfMkNPX011eXJvd1d3NGt3SWdUMVlScGJoSGtLb0R0bWFTaUxuNFRrSGtnNEhvejRDZHBBRWs1bDVuYlZfVUxNbl9ibm50MnfSAbYBQVVfeXFMTzY4OE1NeVF4OVJWeW5VMnVsNmpacE83OWVjSjdjNWJUMEhxWjZVZDFOQXlTa1lrYXFyYWxjQ19PVkRKelB1UW8tcFp3YzNkNmNEQXRmcVN2LTdfUU1XV0pEMEduZDU3a1VZTk15R1JWRk9YVXJCY2NHdno3aEZwZlEtU2RpQl9kbHFVNy0xaGl6OVZERTVNR3RIZjVwd04xai1OdXVuTXdLdFlUQ2Q1T2J0eHYwMlE?oc=5",
+      "outlet": "WABI",
+      "domain": "news.google.com",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "language": "English",
+      "source_country": "US",
+      "image": "",
+      "description": "Shaw Institute adds lined seahorses to highlight eelgrass decline in Maine WABI",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (US)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "35036eb35c267da2fb",
+      "title": "Posidonia oceanica: un alleato del clima in un Mediterraneo sempre più caldo - INGVambiente",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMDF0ekVsM1IyWmMyLVlYM0J5dzVHQ3FYYmk4WmNMRDV6bi1KUHRRT0p2Q05jUTFpeURBRkxIZ0lwdjEzN0FfdXA0NV9CM3pmc1Frb0hGbURQYk9YUmtkNUFfRHlfSVU4Q0ZaU3I4bnF5TDZCVTNPWGM0NzIzb0JfWWkzeGFvemZvcXM1SkY2a01JaGp6OWVWODFDeURUa2VrOTU1eE02aGtQT0ltdlQ2eTFB0gG3AUFVX3lxTE9aNzFndkZMRUJfV29pUTM0M1A2UUVVYnhHUXpiSVBFYW42N3dsbWM2Q0l0ZlVmRXJCd2ZtMFhyRFk5YzhybFJOcnYtdTNJelg2R2pxNEoxdEpDVXJNNjVVRTluekZaT0VGS0lFSFYwQTZvN1pwMDMzblJaLW45RFFzTE5FVW9FbEhJa2tsT2ZrNVU5Y1RMOFlpWjBaVWlwM2tGcnNmUFJWSUpvT0tteWNLLXM3RGhqOA?oc=5",
+      "outlet": "INGVambiente",
+      "domain": "news.google.com",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "language": "Italian",
+      "source_country": "IT",
+      "image": "",
+      "description": "Posidonia oceanica: un alleato del clima in un Mediterraneo sempre più caldo INGVambiente",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Italian (IT)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "62b6343ef1d8d2fd19",
+      "title": "Seeds of Hope: Seagrass Restoration in Casco Bay, Maine - ArcGIS StoryMaps",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYM0Zkbk9KY1RaWkw0a200emoxVDJ2dnhGLXhkWnNIOEhublR2dlhKdXNHUEdmUkRSMmFPLUhTSEprck13WWhjZWtXaUVfZDNORXpFblo4NVpUM0N5VEMya05LQ3E4RE1pdWVwTm5sZ09YN3lwc1l0bg?oc=5",
+      "outlet": "ArcGIS StoryMaps",
+      "domain": "news.google.com",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seeds of Hope: Seagrass Restoration in Casco Bay, Maine ArcGIS StoryMaps",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "1719d2e18c0c2274b0",
+      "title": "Changdao'da Deniz Çayırları Yeniden Canlanıyor - Son Dakika",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWFxb1hpdEUzQUwwLWQ5UzktV2c0RmFDTC1PS09INGUwNEs3ZFk3VElXSTJ6Qk54OGh1TjF6ZG9aa2ViVlJKMFFqbkFzbDNtR00xbGMyYmxxbHFOMEpia3NEZ04wU0hoT1drU004Sy1EdFZQYVhUT3dJa0lWby1raXJmeUVkNXppSGlrNFpZM3V0WlFJU1VFVDE5UdIBlwFBVV95cUxOb1ZULUJkQXk5aF9UN2FlSDRoVHJBQjlaZV9tQS1BUGpjUlo1STdXamJGVkt5eTRfdDJETHJRWU45cUFzaGV4M29jWG0yUUpOMWJYOURfUzhzc0lELUR6T0R5ZHhlRW9uVkR2QlZpX1ZNdFlDTzlhWmxhT0N4R1NWLVpHMmtJM0VyZnFkQTRsUWp1dTIySndr?oc=5",
+      "outlet": "Son Dakika",
+      "domain": "news.google.com",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Changdao'da Deniz Çayırları Yeniden Canlanıyor Son Dakika",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "43dfe27d078ee4666c",
+      "title": "Çin'in Changdao Adaları'nda Deniz Çayırları Yeniden Canlanıyor: Karbon Tutma ve Biyolojik Çeşitlilik Artıyor - Haberler",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUFJNTmVqa0E0NTVmSDdqY1dYTEhQQWFxQ09BTVRDNkpsUzlIQVBNLUpOaDBmU21pZllKVWlmUVFxbmFiNXhsVW5ndzdFSkZYbHFSSkZTc1hBNlpwTDdvb1hKRGF3R3Y0NDVvRGJmOHhoSlNKOGFJalotTDkxZ3ZiRWljZG1HODE0ZFl6eFpHSlLSAYwBQVVfeXFMTzItMmx3QTBBUENqVkpYMzFmVm5zeUJoYkstakpHNlVhZThSeHQ2Nzl2ZVlvei1zRlFwUEM4NmEwQTdhNzNpSVlkcVB1ZzUwaG82RzY0dVJBZG40XzRSaF90TEVoN295SU1ENmxMNUQ2c0t3RllQRzhFUXYxOWF3TlJaWG4zSVBEWlVDTmw?oc=5",
+      "outlet": "Haberler",
+      "domain": "news.google.com",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Çin'in Changdao Adaları'nda Deniz Çayırları Yeniden Canlanıyor: Karbon Tutma ve Biyolojik Çeşitlilik Artıyor Haberler",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "a73e26b0dea3e00ee4",
+      "title": "ข่าวดีทะเลตรัง พบพะยูน 16 ตัว พร้อมแม่–ลูก 1 คู่ สะท้อนความอุดมสมบูรณ์ของแหล่งหญ้าทะเล - ข่าวสด",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yNTFqdmsxRUkxODUwdXltZVhYYmdIOFNPTi1YOV9JU1NKSU9fWUlGRUZ4c3pmXzlxVkpHcWpQdzV5RDZhZnFab0JleGlMMHFTdlFlNHpTaGJ4OWs3dy13cGJ2V2oxdw?oc=5",
+      "outlet": "ข่าวสด",
+      "domain": "news.google.com",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "language": "Thai",
+      "source_country": "TH",
+      "image": "",
+      "description": "ข่าวดีทะเลตรัง พบพะยูน 16 ตัว พร้อมแม่–ลูก 1 คู่ สะท้อนความอุดมสมบูรณ์ของแหล่งหญ้าทะเล ข่าวสด",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Thai (TH)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "b7f4cde946ee9a0d5d",
+      "title": "藍碳研究重要突破！高科大團隊揭露「隱形藍碳」機制影響海草床碳匯能力 - 倡議家",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcTR0OC1XamJGWkxXM2RYaG1rRWhJYVYyckh5ekdNSU5Sa0JWM1o2T3RfVk1yNzZFSzVqNXlvYThlcXlEb0RJQ2d5ZTRLNkV2OGZtbC1ELWRJTlE2RF96SXo3SGpkOWxhXzVqNllxUmhQMmhUbmhjMjV5QnZLOUhYMWVB0gFkQVVfeXFMTjg3X2E1NUZQWHRxNF9jRzBROUx3dzBPdldtZTYzQ2VjSUozY3NtZjBza3F6N0YzRzNsSHNyYVNhNDBjaXhDak1qTkJyVGRBY0FiNHhCeTZaSkx1S1JsR09uaHlBcg?oc=5",
+      "outlet": "倡議家",
+      "domain": "news.google.com",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "language": "Chinese",
+      "source_country": "TW",
+      "image": "",
+      "description": "藍碳研究重要突破！高科大團隊揭露「隱形藍碳」機制影響海草床碳匯能力 倡議家",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (TW)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "17af767b164c3724cc",
+      "title": "How seagrass is becoming a green building material - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWXdFU0NieGpXS1hvXzNMSnlNN0J2VVdEZ3UwaU8wQ2VXN1k5NmpuQmNXTUZhWWhfUnh0Q1ZoNGU2d0dibFdyY0s3RkZZaXVESG1wRjFSYWZfazFRc0IyYXRYODBaNXZzZWo1dVBZZ2JuNUhhNUVqS1N2aGp2R2tqUEhkYXpYZlhkcXRXRQ?oc=5",
+      "outlet": "DW.com",
+      "domain": "news.google.com",
+      "published_at": "2026-07-24T07:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "How seagrass is becoming a green building material DW.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "9af569ba7044278227",
+      "title": "Tanam 1.000 Batang Lamun, Menjaga Masa Depan Laut Indonesia - ANTARA News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTE1Y1AzVG5LQ3h0RS1jLTJaaVRaejVhUkNKMG9DR3h3M3k2QzdLVzJlR3d6UXRmRXFXdTNnUUluelVSVlVVNlFjQnRMRVRzLW9HLWFSMWduWHlvTmZ2R1FvNUlfQXlhTHZBcTg0RE0wek93UVJCalpXUmxUUTdJQmRCLWJHaWVULWROMVhySXY5ckpGN1pma2RnM0xjS2hx0gGjAUFVX3lxTFBRNTQxSlJQX2I2TlUzVFZqTDdjRGJ4RHU5YTRWa2dYRk01MjRpaUJ2NzZkX3RJWmU3dmdDSjJjN3o2R01LdExkV3lIcmpLZ3k2U1UtUzNNeUpBQk91ODAwRVpORWFkYXFpRi1oZ3c1c2drcnBrUE9FcFY2anFkS1R1UnNmU21KbWpjeDJzSWQzcml6d05wQ1ZBdXVjU3ktT2xkaTQ?oc=5",
+      "outlet": "ANTARA News",
+      "domain": "news.google.com",
+      "published_at": "2026-07-23T23:09:40+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Tanam 1.000 Batang Lamun, Menjaga Masa Depan Laut Indonesia ANTARA News",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "2a30e0038ac47659a4",
+      "title": "St. Johns Water Man­agement District creates Seagrass StoryMap for Indian River Lagoon - Spectrum News 13",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ1I1aEdqZFNJbFVmcDZsNTRITjFDdnBvanBRUXJoOFU0ZUNDdFRBNzNSRTVaRGlEYnE3TGV3Qk01VmdXN0IyRDM4eWNta3RwUy1YN1NGcVFmWE9LMF8wM2tQQkFIRlEzRjg2YnotT0RvcmFXUldhalg1bUVSMnMxTURqTkZJSVBUYWM1MG4wODUtNy15Yno0Yl9mODBXeUw1X2FrZkxlR0lYb0hIS3VXOGh3NA?oc=5",
+      "outlet": "Spectrum News 13",
+      "domain": "news.google.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "St. Johns Water Man­agement District creates Seagrass StoryMap for Indian River Lagoon Spectrum News 13",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "5f5a3a34b858ae824b",
+      "title": "3D-printed bioplastic pods offer new hope for seagrass restoration in Thailand - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vVkFYSEdDREFTcnk3ZVlCc0FGcU5VX3ZHU0MwWEY1NmdEcVBZYjRENUdjd3ZuTnFFRXdlR2JzWkt4cVZNbWZEVGZIQklCcG1CekNZdVRFdzU1bzJPdTJzVmxJYXlnWVBWMUJBMTc4U0VSbmxNU2F6THMxcw?oc=5",
+      "outlet": "Phys.org",
+      "domain": "news.google.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "3D-printed bioplastic pods offer new hope for seagrass restoration in Thailand Phys.org",
+      "themes": [
+        "Restoration",
+        "Pollution & water quality"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "261136a1332822eabe",
+      "title": "Gebühren für Seegras: Umwelt-Staatssekretärin Bettina Hagedorn verlangt Ende der Hängepartie - shz.de",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSGgzQjV3RmlzV0NBMlpwYWI3Q2N6YXVMZnFuMkhhVDNRSjdWSzA0TWhrYm5fZ2NWTUs1ZTVBbkNwVFA1cndyNk82V1FTNVB5T2ZtdmdXekVCVEl3V2pXQmY2WFpjQjlWS19xODkwQnBBZi12MnBuYjhXVGc5U0dGaU90UmY1MllVY2JTc3FEbDNnWjZpdHRyeVRvR0NuOEVyekV6UGotQlFIRl8yZXhJNElydkwyUUd1eFk5bGxtcW5OVFplOEE?oc=5",
+      "outlet": "shz.de",
+      "domain": "news.google.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Gebühren für Seegras: Umwelt-Staatssekretärin Bettina Hagedorn verlangt Ende der Hängepartie shz.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "dd01be0cc9c912a408",
+      "title": "Ekincik Koyu'nun sualtı zenginliği \"posidonia oceanica\" çayırları - TRT Haber",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1NtMXU1VFJyb3Mxd01YZkkxRWw4RE1TX0ZVTC1OdXNoNzdnb2ZObWtyekt1bUJPNzNrN3luVDdJTjd5TUdYX1dUelNySmVwY2xhblBtTEdyN3JGWC1SNmI4VElaWFJ2aVROSElXbFBidGpXRTh1NmlVem5scHVYVVVHUVVRcXloNjZYc2pjTlZjOEZRVkdocTJTOGJ0UEpuWE1jdDFqNWhFV09FSVNV?oc=5",
+      "outlet": "TRT Haber",
+      "domain": "news.google.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Ekincik Koyu'nun sualtı zenginliği \"posidonia oceanica\" çayırları TRT Haber",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    },
+    {
+      "id": "01aa8cd2d50d080dd3",
+      "title": "समुद्री घास से बना अनोखा इंसुलेशन मैटिरियल - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVNCVlNGMTBzYXFKdlZVOWVpdFQtcElDVmhiclJOT2lBVzJDSEdNRVA2MGFQLWlyX3ZWS256SXRnbWRJS3h1cS16Z3dhWHd2d3pKTkoydUJiWTlscU5FY1h1eVotekk4enFFWXhpdTlkVjFHRDlXQWRheGpfSGNzaFNn?oc=5",
+      "outlet": "DW.com",
+      "domain": "news.google.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "language": "Hindi",
+      "source_country": "IN",
+      "image": "",
+      "description": "समुद्री घास से बना अनोखा इंसुलेशन मैटिरियल DW.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Hindi (IN)",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "baseline": true
+    }
+  ],
+  "stats": {
+    "languages": [
+      [
+        "English",
+        29
+      ],
+      [
+        "German",
+        29
+      ],
+      [
+        "Turkish",
+        20
+      ],
+      [
+        "Japanese",
+        9
+      ],
+      [
+        "Chinese",
+        8
+      ],
+      [
+        "Italian",
+        5
+      ],
+      [
+        "Korean",
+        5
+      ],
+      [
+        "Indonesian",
+        4
+      ],
+      [
+        "Thai",
+        4
+      ],
+      [
+        "Spanish",
+        4
+      ],
+      [
+        "Dutch",
+        3
+      ],
+      [
+        "Portuguese",
+        3
+      ],
+      [
+        "Russian",
+        1
+      ],
+      [
+        "Vietnamese",
+        1
+      ],
+      [
+        "Hindi",
+        1
+      ]
+    ],
+    "countries": [
+      [
+        "DE",
+        29
+      ],
+      [
+        "GB",
+        23
+      ],
+      [
+        "TR",
+        20
+      ],
+      [
+        "JP",
+        9
+      ],
+      [
+        "CN",
+        7
+      ],
+      [
+        "US",
+        6
+      ],
+      [
+        "IT",
+        5
+      ],
+      [
+        "KR",
+        5
+      ],
+      [
+        "ID",
+        4
+      ],
+      [
+        "TH",
+        4
+      ],
+      [
+        "MX",
+        3
+      ],
+      [
+        "NL",
+        3
+      ],
+      [
+        "PT",
+        3
+      ],
+      [
+        "RU",
+        1
+      ],
+      [
+        "VN",
+        1
+      ],
+      [
+        "ES",
+        1
+      ],
+      [
+        "TW",
+        1
+      ],
+      [
+        "IN",
+        1
+      ]
+    ],
+    "outlets": [
+      [
+        "Phys.org",
+        3
+      ],
+      [
+        "搜狐网",
+        3
+      ],
+      [
+        "山陽新聞",
+        3
+      ],
+      [
+        "DW.com",
+        3
+      ],
+      [
+        "L'Unione Sarda.it",
+        2
+      ],
+      [
+        "Mallorca Magazin",
+        2
+      ],
+      [
+        "Südostschweiz",
+        2
+      ],
+      [
+        "ArcGIS StoryMaps",
+        2
+      ],
+      [
+        "Ostsee Zeitung",
+        2
+      ],
+      [
+        "Linth24",
+        2
+      ],
+      [
+        "CASAG – OAB Goiás",
+        2
+      ],
+      [
+        "Ege Alternatif",
+        2
+      ],
+      [
+        "NDR.de",
+        2
+      ],
+      [
+        "shz.de",
+        2
+      ],
+      [
+        "G1",
+        2
+      ],
+      [
+        "CornishStuff",
+        1
+      ],
+      [
+        "RRI.co.id",
+        1
+      ],
+      [
+        "PR Newswire",
+        1
+      ],
+      [
+        "Open Access Government",
+        1
+      ],
+      [
+        "EurekAlert!",
+        1
+      ],
+      [
+        "chrismon.de",
+        1
+      ],
+      [
+        "Bangor Daily News",
+        1
+      ],
+      [
+        "Gigsplay",
+        1
+      ],
+      [
+        "openPR.de",
+        1
+      ],
+      [
+        "idw - Informationsdienst Wissenschaft",
+        1
+      ],
+      [
+        "MeinBezirk.at",
+        1
+      ],
+      [
+        "rmzxw.com.cn",
+        1
+      ],
+      [
+        "environment.ec.europa.eu",
+        1
+      ],
+      [
+        "Blick",
+        1
+      ],
+      [
+        "Portugal Resident",
+        1
+      ],
+      [
+        "NANOOM ENERGY",
+        1
+      ],
+      [
+        "수산인신문",
+        1
+      ],
+      [
+        "PR TIMES",
+        1
+      ],
+      [
+        "奥一网",
+        1
+      ],
+      [
+        "The Portland Press Herald",
+        1
+      ],
+      [
+        "手机网易网",
+        1
+      ],
+      [
+        "เดลินิวส์",
+        1
+      ],
+      [
+        "Landscape Alliance",
+        1
+      ],
+      [
+        "Aarau24",
+        1
+      ],
+      [
+        "pptvhd36",
+        1
+      ],
+      [
+        "The Morning",
+        1
+      ],
+      [
+        "vietnamnews.vn",
+        1
+      ],
+      [
+        "ecojournal.co.kr",
+        1
+      ],
+      [
+        "ITVX",
+        1
+      ],
+      [
+        "Fethiye TV",
+        1
+      ],
+      [
+        "NBT CONNEXT",
+        1
+      ],
+      [
+        "观海新闻",
+        1
+      ],
+      [
+        "KSBニュース",
+        1
+      ],
+      [
+        "National Audubon Society",
+        1
+      ],
+      [
+        "Nature",
+        1
+      ]
+    ],
+    "themes": [
+      [
+        "General seagrass news",
+        101
+      ],
+      [
+        "Restoration",
+        9
+      ],
+      [
+        "Blue carbon",
+        7
+      ],
+      [
+        "Conservation & policy",
+        6
+      ],
+      [
+        "Climate & heat",
+        6
+      ],
+      [
+        "Science & discovery",
+        5
+      ],
+      [
+        "Development & infrastructure",
+        4
+      ],
+      [
+        "Pollution & water quality",
+        2
+      ],
+      [
+        "Wildlife & biodiversity",
+        2
+      ],
+      [
+        "Community & culture",
+        1
+      ]
+    ],
+    "discovery_sources": [
+      [
+        "Google News RSS",
+        126
+      ]
+    ]
+  }
 }
