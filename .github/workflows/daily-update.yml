@@ -1,0 +1,53 @@
+name: Daily Global Seagrass News Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "42 5 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: seagrass-news-radar-daily
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run multilingual news harvest
+        env:
+          LOOKBACK_DAYS: "4"
+          INITIAL_LOOKBACK_DAYS: "30"
+          RETENTION_DAYS: "180"
+          MAX_GDELT_RECORDS: "250"
+        run: python harvest_news.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "seagrass-news-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data/
+
+          if git diff --cached --quiet; then
+            echo "No news data changes to commit."
+          else
+            git commit -m "Daily global seagrass news update $(date -u +%F)"
+            git push
+          fi
