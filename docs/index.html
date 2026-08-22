@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="A multilingual daily radar for seagrass news around the world.">
+  <title>Global Seagrass News Radar</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><div class="mark">S</div><div><strong>Global Seagrass</strong><span>News Radar</span></div></div>
+  <nav>
+    <button class="nav-btn active" data-view="latest">Latest news</button>
+    <button class="nav-btn" data-view="global">Global coverage</button>
+    <button class="nav-btn" data-view="digest-view">Weekly pulse</button>
+    <button class="nav-btn" data-view="about">How it works</button>
+  </nav>
+  <div class="updated" id="updated">Awaiting first harvest</div>
+</header>
+<main>
+<section class="hero">
+  <div class="hero-copy">
+    <p class="eyebrow">MULTILINGUAL · GLOBAL · UPDATED DAILY</p>
+    <h1>What is happening to seagrass <em>around the world?</em></h1>
+    <p class="lede">A daily radar for seagrass stories from international, national and local media — including reporting that never appears in English-language searches.</p>
+  </div>
+  <div class="hero-orb">NEWS<br><span>RADAR</span></div>
+</section>
+<section class="stats">
+  <div><strong id="stat-new">0</strong><span>new today</span></div>
+  <div><strong id="stat-week">0</strong><span>published 7 days</span></div>
+  <div><strong id="stat-month">0</strong><span>published 30 days</span></div>
+  <div><strong id="stat-languages">0</strong><span>languages found</span></div>
+  <div><strong id="stat-countries">0</strong><span>source countries</span></div>
+</section>
+<section id="latest" class="view active">
+  <div class="section-head"><div><p class="eyebrow">LATEST COVERAGE</p><h2>Global seagrass news</h2></div><div id="result-count" class="count">0 stories</div></div>
+  <div class="toolbar">
+    <div class="ranges"><button class="range-btn" data-range="today">New today</button><button class="range-btn active" data-range="7">7 days</button><button class="range-btn" data-range="30">30 days</button><button class="range-btn" data-range="all">Archive</button></div>
+    <input id="search" type="search" placeholder="Search stories, places, species…">
+    <select id="language-filter"><option value="all">All languages</option></select>
+    <select id="country-filter"><option value="all">All countries</option></select>
+    <select id="theme-filter"><option value="all">All themes</option></select>
+  </div>
+  <div id="stories" class="stories"></div>
+</section>
+<section id="global" class="view">
+  <div class="section-head"><div><p class="eyebrow">GLOBAL COVERAGE</p><h2>Where the conversation is happening</h2></div></div>
+  <p class="intro" id="coverage-note"></p>
+  <div class="three-col">
+    <div class="panel"><h3>Languages</h3><div id="language-bars"></div></div>
+    <div class="panel"><h3>Source countries</h3><div id="country-bars"></div></div>
+    <div class="panel"><h3>News outlets</h3><div id="outlet-bars"></div></div>
+  </div>
+  <div class="panel source-panel"><h3>Source health</h3><div id="source-health" class="health-grid"></div></div>
+</section>
+<section id="digest-view" class="view">
+  <div class="section-head"><div><p class="eyebrow">SEVEN-DAY PULSE</p><h2>This week in global seagrass news</h2></div></div>
+  <div id="digest" class="digest"></div>
+</section>
+<section id="about" class="view">
+  <div class="section-head"><div><p class="eyebrow">METHODOLOGY</p><h2>How the radar finds stories</h2></div></div>
+  <div class="about-grid">
+    <div class="panel"><h3>1. Translingual search</h3><p>GDELT is queried for seagrass, eelgrass, marine angiosperms and major seagrass taxa. It can match monitored news published in many languages through its machine-translated index.</p></div>
+    <div class="panel"><h3>2. Native-language searches</h3><p>Google News RSS is also searched using local vocabulary such as <em>pastos marinos</em>, <em>herbiers marins</em>, <em>Seegras</em>, <em>lamun</em>, <em>หญ้าทะเล</em>, <em>アマモ</em>, <em>잘피</em> and <em>海草床</em>, plus Latin species names.</p></div>
+    <div class="panel"><h3>3. Deduplication</h3><p>The same story can be found by more than one route. URLs and normalised titles are used to merge duplicate discoveries.</p></div>
+    <div class="panel"><h3>4. No fictional content</h3><p>The site starts empty. The first GitHub Action creates a real 30-day baseline. Baseline stories are not labelled “new today”.</p></div>
+  </div>
+  <div class="method-note"><strong>Important:</strong> no global news index captures every outlet. This combines a broad translingual index with explicit native-language searches to reduce English-language and major-media bias, but coverage will still vary by place and publisher.</div>
+</section>
+</main>
+<footer><strong>Global Seagrass News Radar</strong><span>Open daily multilingual seagrass media monitoring.</span></footer>
+<script src="app.js"></script>
+</body>
+</html>

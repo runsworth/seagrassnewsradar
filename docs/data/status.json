@@ -1,0 +1,11 @@
+{
+  "generated_at": null,
+  "baseline_mode": true,
+  "sources": {},
+  "coverage": {
+    "gdelt_translingual_languages": 65,
+    "explicit_google_language_routes": 25,
+    "explicit_google_locales": 29,
+    "note": "Run the GitHub Action once to perform the first live harvest."
+  }
+}
