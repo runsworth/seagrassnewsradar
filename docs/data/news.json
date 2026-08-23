@@ -1,10 +1,276 @@
 {
-  "generated_at": "2026-08-22T16:06:49.479581+00:00",
+  "generated_at": "2026-08-23T06:00:19.455796+00:00",
   "baseline_complete": true,
-  "article_count": 126,
-  "new_today": 0,
-  "lookback_days_this_run": 30,
+  "article_count": 178,
+  "new_today": 52,
+  "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "03979b062d791a4b2a",
+      "title": "Kaya Nutrisi ! Ini 7 Manfaat Agar - Agar Plain untuk Kesehatan , Dukung Diet Anda",
+      "url": "https://momsmoney.kontan.co.id/news/kaya-nutrisi-ini-7-manfaat-agar-agar-plain-untuk-kesehatan-dukung-diet-anda",
+      "outlet": "momsmoney.kontan.co.id",
+      "domain": "momsmoney.kontan.co.id",
+      "published_at": "2026-08-23T02:30:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://foto.kontan.co.id/-PP01cSuNE3LVtURKUcKKsaEOtI=/smart/filters:format(webp)/2017/04/18/1580795805p.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "d342cf86ad8e0c22f5",
+      "title": "Sapphire Beach Is So Overrated this Secluded St . Thomas Gem Is The Fresh Escape Travelers Need In 2026",
+      "url": "https://www.islands.com/2241113/sapphire-beach-overrated-visit-brewers-bay-beach-secluded-st-thomas-gem-fresh-escape-travelers-need-2026",
+      "outlet": "islands.com",
+      "domain": "islands.com",
+      "published_at": "2026-08-23T01:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://www.islands.com/img/gallery/sapphire-beach-is-so-overrated-this-secluded-st-thomas-gem-is-the-fresh-escape-travelers-need-in-2026/l-intro-1787251827.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "ec5a930d12257a951e",
+      "title": "A Florida nuclear plant logged 19 , 987 sea - turtle capture events over 47 years after its cooling pipes kept pulling turtles into a canal , and the accidental dataset revealed nomads , residents , and seasonal visitors hiding among animals that all...",
+      "url": "https://www.ecoportal.net/en/florida-nuclear-plant-logged-tutle/32434",
+      "outlet": "ecoportal.net",
+      "domain": "ecoportal.net",
+      "published_at": "2026-08-23T00:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://www.ecoportal.net/en/wp-content/uploads/2026/08/Nuclear-1.jpg",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "1379ba0989526cc6df",
+      "title": "10 Of The Hands - Down Best Bass Fishing Spots Around America",
+      "url": "https://www.islands.com/2239814/best-bass-fishing-spots-america-list",
+      "outlet": "islands.com",
+      "domain": "islands.com",
+      "published_at": "2026-08-22T20:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://www.islands.com/img/gallery/10-of-the-hands-down-best-bass-fishing-spots-around-america/l-intro-1787140069.jpg",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity",
+        "Fisheries & food"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "9eac8afe17b47e7e41",
+      "title": "Ottawa River Erosion Control : A Natural Approach to Riverbank Stabilization",
+      "url": "https://economictimes.indiatimes.com/news/international/us/in-1992-engineers-began-protecting-55-km-of-ottawa-river-shoreline-with-local-rounded-gravel-19-years-later-8090-of-the-banks-were-covered-by-indigenous-vegetation/articleshow/133427247.cms",
+      "outlet": "economictimes.indiatimes.com",
+      "domain": "economictimes.indiatimes.com",
+      "published_at": "2026-08-22T18:30:00+00:00",
+      "language": "English",
+      "source_country": "India",
+      "image": "https://img.etimg.com/thumb/msid-133427747,width-1200,height-630,imgsize-289536,overlay-economictimes/articleshow.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "0ebbe3d473e503ee91",
+      "title": "Community engagement was key to Aqaba reserve recognition",
+      "url": "https://jordantimes.com/news/local/community-engagement-was-key-to-aqaba-reserves-recognition",
+      "outlet": "jordantimes.com",
+      "domain": "jordantimes.com",
+      "published_at": "2026-08-22T18:00:00+00:00",
+      "language": "English",
+      "source_country": "Jordan",
+      "image": "https://jordantimes.com/jordantimes/uploads/images/2026/08/22/764440.webp",
+      "description": "",
+      "themes": [
+        "Community & culture"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "9cb755396aa3328740",
+      "title": "Volunteers survey Sarasota Bay scallop population",
+      "url": "https://www.mysuncoast.com/2026/08/22/volunteers-survey-sarasota-bay-scallop-population",
+      "outlet": "mysuncoast.com",
+      "domain": "mysuncoast.com",
+      "published_at": "2026-08-22T17:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://gray-wwsb-prod.gtv-cdn.com/resizer/v2/PYVVJHON3BHAXDZT6JG3P3W7XQ.png?auth=ef0bba73884e8d2185ca7a234433b2b36f40fcb2b1dc47d74a1acd31403c45f3&smart=true",
+      "description": "",
+      "themes": [
+        "Science & discovery",
+        "Community & culture"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "f7d337b4f5e1a9bbbd",
+      "title": "Les Balears sexposen a fenòmens extrems per lescalfament del Mediterrani : s una bomba de rellotgeria",
+      "url": "https://www.dbalears.cat/balears/medi-ambient/2026/08/22/422085/les-balears-exposen-fenomens-extrems-per-escalfament-del-mediterrani-bomba-rellotgeria.html",
+      "outlet": "dbalears.cat",
+      "domain": "dbalears.cat",
+      "published_at": "2026-08-22T16:30:00+00:00",
+      "language": "Catalan",
+      "source_country": "Spain",
+      "image": "https://db.gsstatic.es/sfAttachPlugin/social/263429.webp",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "959c3c8a5e204d7141",
+      "title": "El carbono no es solo negro : los colores que explican cómo funciona el planeta",
+      "url": "https://www.eldiario.es/canariasahora/opinion/carbono-no-negro-colores-explican-funciona-planeta_132_13461585.html",
+      "outlet": "eldiario.es",
+      "domain": "eldiario.es",
+      "published_at": "2026-08-22T13:15:00+00:00",
+      "language": "Spanish",
+      "source_country": "Spain",
+      "image": "https://static.eldiario.es/clip/4da07775-51ab-43ea-beeb-2be7f7b6c5f9_facebook-aspect-ratio-1200-675_default_0_x1422y402.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "5f27341809a2914307",
+      "title": "인도네시아 잘피 초원, 지역별 건강도 큰 차이 보여 - 이미디어",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwTUEzclBNenZISGt1cURMVjloeU9qQUhuOElqNWY0MWR2ajh6aUVJOWhYSTVhWUs3M1czdFNIbFVkSHpnWGlNV3dVLVQtUkxOUy11WlFDUjhqdHVITTZFaEVhQXJUQklPejF1OU1B0gFuQVVfeXFMUHBNQTNyUE16dkhIa3VxRExWOWh5T2pBSG44SWo1ZjQxZHZqOHppRUk5aFhJNWFZSzczVzN0U0hsVWRIemdYaU1Xd1UtVC1STE5TLXVaUUNSOGp0dUhNNkVoRWFBclRCSU96MXU5TUE?oc=5",
+      "outlet": "이미디어",
+      "domain": "news.google.com",
+      "published_at": "2026-08-22T13:02:44+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "인도네시아 잘피 초원, 지역별 건강도 큰 차이 보여 이미디어",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "a2ad5b4bb09e8d7352",
+      "title": "Kunci Jawaban IPS Kelas 8 Halaman 19 , Lembar Aktivitas 5 Sumber Daya Alam",
+      "url": "https://www.kompas.com/skola/read/2026/08/22/154530869/kunci-jawaban-ips-kelas-8-halaman-19-lembar-aktivitas-5-sumber-daya-alam",
+      "outlet": "kompas.com",
+      "domain": "kompas.com",
+      "published_at": "2026-08-22T11:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://asset.kompas.com/crops/4xORk77JpvD19VvyBSnOobTPdKg=/1x0:2000x1333/1200x675/data/photo/2026/08/22/6a895fb666ea8.png",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
     {
       "id": "440baf360849039d46",
       "title": "Free talk in Mevagissey to explore Cornwall’s hidden seagrass - CornishStuff",
@@ -26,8 +292,80 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
+    },
+    {
+      "id": "ce583bc62da01a8452",
+      "title": "Recuperata una rete fantasma di 4 tonnellate nelle acque del Tirreno Meridionale nel Palermitano – Padovanews",
+      "url": "https://www.padovanews.it/2026/08/22/recuperata-una-rete-fantasma-di-4-tonnellate-nelle-acque-del-tirreno-meridionale-nel-palermitano",
+      "outlet": "padovanews.it",
+      "domain": "padovanews.it",
+      "published_at": "2026-08-22T06:45:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "4828849ddde859a83c",
+      "title": "Resep Nori Udang Renyah yang Gurih untuk Camilan",
+      "url": "https://www.liputan6.com/lifestyle/read/8268614/resep-nori-udang",
+      "outlet": "liputan6.com",
+      "domain": "liputan6.com",
+      "published_at": "2026-08-22T05:15:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn1-production-images-kly.akamaized.net/d3dhB6lG-Jt9NV0n6tonpQWqG_4=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9322841/original/002735800_1786591847-tWKkjoANc27TlE9Sib2CNppfydrPPbf2AP8r8wiH.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "135f2d1180dbdee640",
+      "title": "El Nino wrath : Brace yourself for impact | The Straits Times",
+      "url": "https://www.straitstimes.com/asia/el-ninos-wrath-brace-yourself-for-impact",
+      "outlet": "straitstimes.com",
+      "domain": "straitstimes.com",
+      "published_at": "2026-08-22T00:30:00+00:00",
+      "language": "English",
+      "source_country": "Singapore",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/39dfa55d38ae819565a3d3392348a58d8470e672172caf149b61055c363b0d48",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
     },
     {
       "id": "b5c6fb98513ab8e2f2",
@@ -50,8 +388,56 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
+    },
+    {
+      "id": "2d76d594425729e3a4",
+      "title": "Diver Treasure of a Lifetime May Lead to a Hidden Shipwreck",
+      "url": "https://www.popularmechanics.com/science/archaeology/a73494988/diver-finds-hidden-coins-treasure-of-lifetime",
+      "outlet": "popularmechanics.com",
+      "domain": "popularmechanics.com",
+      "published_at": "2026-08-21T19:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/treasure-chest-underwater-royalty-free-image-1756041311.pjpeg?crop=1.00xw:0.685xh;0,0.265xh",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "7181a316f3456507f8",
+      "title": "Preparing for an Alternate Reality: The Arrival of the Invasive Seagrass in Florida - environment coastal & offshore",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa05pcmV3TVlQNGxubEdOcl8wbml0REZKazg5VnlnNUZ5blJZalpUQmlzd1lRdklGUjRkaTVocnk1eFJYWjBfQUpaZWMxMURGRTVXVTdFV2lBNU41Z3hKWk9KSFZ2VHFyc0JBV2lfZXJFTVBTSGFIM0RnaVJtODc5UHFlX2dpeFZFbTdIUWx5WFprV1NKNmtBaGFKd3YtOEoyaHdMQW5NeEFCbGNSbVBhZnkyS1VUQTA?oc=5",
+      "outlet": "environment coastal & offshore",
+      "domain": "news.google.com",
+      "published_at": "2026-08-21T17:36:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Preparing for an Alternate Reality: The Arrival of the Invasive Seagrass in Florida environment coastal & offshore",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
     },
     {
       "id": "dff3d17d259504a9f3",
@@ -76,8 +462,32 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
+    },
+    {
+      "id": "e984ef9a346c9b3365",
+      "title": "Spain proposes 23 new marine protected areas in the Canary Islands and Mediterranean",
+      "url": "https://news.mongabay.com/2026/08/spain-proposes-23-new-marine-protected-areas-in-the-canary-islands-and-mediterranean",
+      "outlet": "news.mongabay.com",
+      "domain": "news.mongabay.com",
+      "published_at": "2026-08-21T17:30:00+00:00",
+      "language": "English",
+      "source_country": "Indonesia",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/21130834/scarlet-sea-fan-1200x800.jpg",
+      "description": "",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
     },
     {
       "id": "4e516a42a89bd685b2",
@@ -102,8 +512,56 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
+    },
+    {
+      "id": "f733393649cd5331a7",
+      "title": "Cnr , trovata rete da pesca fantasma di 4 tonnellate a Termini Imerese - Notizie",
+      "url": "https://www.ansa.it/sicilia/notizie/2026/08/21/cnr-trovata-rete-da-pesca-fantasma-di-4-tonnellate-a-termini-imerese_363acf53-8910-4df6-8ae5-e7a65af5df80.html",
+      "outlet": "ansa.it",
+      "domain": "ansa.it",
+      "published_at": "2026-08-21T14:30:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/21/98d4b78e8c50b17d1970ccffb4719297.jpg",
+      "description": "",
+      "themes": [
+        "Fisheries & food"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "726c7cc8af77b9e460",
+      "title": "Recuperata una rete fantasma di 4 tonnellate nelle acque del Tirreno Meridionale nel Palermitano",
+      "url": "https://comunicalo.it/2026/08/21/recuperata-una-rete-fantasma-di-4-tonnellate-nelle-acque-del-tirreno-meridionale-nel-palermitano",
+      "outlet": "comunicalo.it",
+      "domain": "comunicalo.it",
+      "published_at": "2026-08-21T14:30:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "https://comunicalo.it/wp-content/uploads/2026/08/sic-800x600.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
     },
     {
       "id": "b41675da8ab37666cf",
@@ -126,7 +584,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
     },
     {
@@ -152,8 +610,57 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
+    },
+    {
+      "id": "fead8b56e8b27512a5",
+      "title": "Recuperata rete fantasma di 4 tonnellate nelle acque del Tirreno meridionale",
+      "url": "https://www.radiolombardia.it/2026/08/21/recuperata-rete-fantasma-di-4-tonnellate-nelle-acque-del-tirreno-meridionale",
+      "outlet": "radiolombardia.it",
+      "domain": "radiolombardia.it",
+      "published_at": "2026-08-21T11:15:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "https://www.radiolombardia.it/wp-content/uploads/2020/05/tappo-quadrato.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "a337440294b619426c",
+      "title": "Mapping Indonesia Seagrass : Blue Carbon Priorities",
+      "url": "https://www.miragenews.com/mapping-indonesias-seagrass-blue-carbon-1731241",
+      "outlet": "miragenews.com",
+      "domain": "miragenews.com",
+      "published_at": "2026-08-21T11:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1543286386-713bdd548da4%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
+      "description": "",
+      "themes": [
+        "Blue carbon",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
     },
     {
       "id": "5a5280e01842ef9b13",
@@ -178,8 +685,152 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
+    },
+    {
+      "id": "2795cea1fd8a9e4d5c",
+      "title": "Ricercatori Cnr - Irbim rintracciano una rete fantasma nelle acque del Tirreno Meridionale",
+      "url": "https://www.italpress.com/ricercatori-cnr-irbim-rintracciano-la-rete-fantasma-nelle-acque-del-tirreno-meridionale",
+      "outlet": "italpress.com",
+      "domain": "italpress.com",
+      "published_at": "2026-08-21T10:30:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "https://www.italpress.com/wp-content/uploads/2026/08/sic.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "e414d58ce89dcaf9b9",
+      "title": "Rete fantasma da 4 tonnellate trovata al largo di Termini Imerese : la scoperta dei ricercatori Cnr",
+      "url": "https://www.ilmessaggero.it/animali/rete_fantasma_4_tonnellate_termini_imerese_cnr_mediterraneo-9718142.html",
+      "outlet": "ilmessaggero.it",
+      "domain": "ilmessaggero.it",
+      "published_at": "2026-08-21T10:30:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "https://statics.cedscdn.it/photos/MED_HIGH/2026/08/21/9718142_21114400_dasf.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "96b1f8ae5e98a980d4",
+      "title": "Recuperata rete fantasma di 4 tonnellate nelle acque del Tirreno meridionale Agenzia di stampa Italpress",
+      "url": "https://www.italpress.com/recuperata-rete-fantasma-di-4-tonnellate-nelle-acque-del-tirreno-meridionale",
+      "outlet": "italpress.com",
+      "domain": "italpress.com",
+      "published_at": "2026-08-21T10:30:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "https://video.italpress.com/play/player/poster/4jWn?size=website",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "6f9637b326466fa25e",
+      "title": "I ricercatori del Cnr - Irbim rintracciano una rete fantasma nelle acque del Tirreno meridionale",
+      "url": "https://www.cnr.it/it/nota-stampa/n-14579",
+      "outlet": "cnr.it",
+      "domain": "cnr.it",
+      "published_at": "2026-08-21T10:00:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "b5900694a5e4e3fbc8",
+      "title": "Rete fantasma da 4 tonnellate nel Tirreno : il Cnr - Irbim interrompe la ricerca per rimuoverla",
+      "url": "https://www.palermotoday.it/cronaca/rete-fantasma-termini-imerese-ghost-fishing-cnr.html",
+      "outlet": "palermotoday.it",
+      "domain": "palermotoday.it",
+      "published_at": "2026-08-21T10:00:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "https://www.palermotoday.it/~media/horizontal-hi/60518664412657/rete-fantasma.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "aae09e8ab4573c8f12",
+      "title": "In 1962 , five pet mute swans escaped in Maryland ; within four decades their descendants neared 4 , 000 and were eating 10 . 5 million pounds of Chesapeake Bay grasses a year",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-1962-five-pet-mute-swans-escaped-in-maryland-within-four-decades-their-descendants-neared-4000-and-were-eating-10-5-million-pounds-of-chesapeake-bay-grasses-a-year/articleshow/133396440.cms",
+      "outlet": "timesofindia.indiatimes.com",
+      "domain": "timesofindia.indiatimes.com",
+      "published_at": "2026-08-21T09:00:00+00:00",
+      "language": "English",
+      "source_country": "India",
+      "image": "https://static.toiimg.com/thumb/msid-133397297,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
     },
     {
       "id": "17b3e25b8080d6e1d7",
@@ -202,7 +853,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
     },
     {
@@ -226,8 +877,176 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
+    },
+    {
+      "id": "5df43ae183e74016fc",
+      "title": "KKP : Rumput laut dan agar - agar Indonesia bebas tarif tambahan AS",
+      "url": "https://www.antaranews.com/berita/5704812/kkp-rumput-laut-dan-agar-agar-indonesia-bebas-tarif-tambahan-as",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-08-21T06:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/08/21/WhatsApp-Image-2026-08-21-at-13.14.52.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "f76e992564354b230c",
+      "title": "Katalog Promo JSM Alfamart Periode 21 - 24 Agustus 2026 , Lebih Hemat Hanya 4 Hari !",
+      "url": "https://momsmoney.kontan.co.id/news/katalog-promo-jsm-alfamart-periode-21-24-agustus-2026-lebih-hemat-hanya-4-hari-1",
+      "outlet": "momsmoney.kontan.co.id",
+      "domain": "momsmoney.kontan.co.id",
+      "published_at": "2026-08-21T06:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://foto.kontan.co.id/_GdASnpfNb4xISaElzNKu6QzrG8=/smart/filters:format(webp)/2024/05/10/956408231p.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "b88627a932567a1704",
+      "title": "Resep Terong Goreng Nori yang Renyah dan Gurih Tahan Lama",
+      "url": "https://www.liputan6.com/lifestyle/read/8271984/resep-terong-goreng-nori",
+      "outlet": "liputan6.com",
+      "domain": "liputan6.com",
+      "published_at": "2026-08-21T05:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn0-production-images-kly.akamaized.net/X29ErvSJmmqDW3iSEWjBMFXiYXU=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9329468/original/045136700_1787282903-85b2d883-dbad-4721-8b77-18b5eacca8a9.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "cd787e3f23b2493c8c",
+      "title": "从赶路到 在路上 这个暑期绿皮车 慢游 走红",
+      "url": "https://news.ycwb.com/ikimvkctij/content_54274474.htm",
+      "outlet": "news.ycwb.com",
+      "domain": "news.ycwb.com",
+      "published_at": "2026-08-21T02:00:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "https://news.ycwb.com/pic/2026-08/21/54274474_t0_5X31X456X369_e48855c9-a810-40f0-b272-65f8f5b9b29c.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "e6ec05a73d2dc754aa",
+      "title": "贵州把环保宣教从会议室搬进人群里 ， 开展一场场 接地气 、 有特色 、 润人心 的探索 用乡亲们熟悉的方式讲环保 （ 中国的生态实践 ）",
+      "url": "https://baijiahao.baidu.com/s?id=1874086481497768982",
+      "outlet": "baijiahao.baidu.com",
+      "domain": "baijiahao.baidu.com",
+      "published_at": "2026-08-21T01:15:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "570eeccbf8d37dbc17",
+      "title": "Ruling overturns land trade in Alaska wildlife refuge , casts doubt on road plan",
+      "url": "http://www.sitkasentinel.com/premium/stories/ruling-overturns-land-trade-in-alaska-wildlife-refuge-casts-doubt-on-road-plan,165272",
+      "outlet": "sitkasentinel.com",
+      "domain": "sitkasentinel.com",
+      "published_at": "2026-08-21T01:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "042fb6a0363d98353c",
+      "title": "Lessència de SOS Costa Brava",
+      "url": "http://www.elpuntavui.cat/opinio/article/8-articles/2667796-l-essencia-de-sos-costa-brava.html",
+      "outlet": "elpuntavui.cat",
+      "domain": "elpuntavui.cat",
+      "published_at": "2026-08-21T00:15:00+00:00",
+      "language": "Catalan",
+      "source_country": "Spain",
+      "image": "https://www.elpuntavui.cat/imatges/64/65/4x3/780_0008_6465140_314ad36ea0b81a0e0682a17fe1a10debver2.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
     },
     {
       "id": "dc3c33ffb18707c578",
@@ -238,7 +1057,7 @@
       "published_at": "2026-08-20T23:57:20+00:00",
       "language": "English",
       "source_country": "GB",
-      "image": "",
+      "image": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2026/08/GlennPage-1.jpg?fit=1200%2C899&ssl=1",
       "description": "Virginia restored 12,000 acres of seagrass. Can Maine also stem the decline? Bangor Daily News",
       "themes": [
         "Restoration"
@@ -246,11 +1065,12 @@
       "taxa": [],
       "relevance": 6,
       "discovery_sources": [
-        "Google News RSS"
+        "Google News RSS",
+        "GDELT"
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
     },
     {
@@ -274,7 +1094,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
     },
     {
@@ -299,7 +1119,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
     },
     {
@@ -325,8 +1145,107 @@
       ],
       "search_route": "Google News Russian (RU)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
+    },
+    {
+      "id": "21c298f2d39876de8a",
+      "title": "Posidonia Oceanica, the unknown. Aglientu leads the way in protecting the coastal ecosystem. - L'Unione Sarda.it",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFlNRlFhOUFMTHBnQlJjTlVRWmkyLTFCOHBuWDg4T2JyRFItbzBmOFJQUGo1Wk9LbDQ1ZDd6ajNacTk2a1Q1ZWpPaThMV2lHN0wwQ0ExUGh6LVBReEl1ZTZXbDJ4ckFkVHlzbWxfNWlnVjB1VERLd0RBQW9qQXh3czF6NnAyRkZFV2kwdVJScEE4YXRmcEtBQ3FrUFBUTmxMb1hxS3pQUG9VXzdISS10X0NweG1LN2RfQ0xtanJtem9TUmpkTE1ibk9ZSzFDX1NqZURv0gHbAUFVX3lxTE1kaF9vNUlrTDdSUkNQUzZnZWxYN1M0T0ZkN2xUcF93UUJ6a3Z1eHVuUjM4UHpuMGxjN0tOV0hyTndIMzhBd3dFR0ZlcFkzelR3MGZvTE93ZHo0OHBkUDNQeG5pd3lFanFVYUhTUlpBRG9jY2I4NC1wQ0pldkFMY1FxeEF6Mjd2bThSX3BzYzBoUGdqUlRHQXpxMkdUY0JIZ21ZR2czWTdfQVl1RllfTUZMYWtRLVJ2RHlxdHhEZzF1SEduLTJnRDVKaExwVTJrUnlqZUpiQ2xLY2wzaw?oc=5",
+      "outlet": "L'Unione Sarda.it",
+      "domain": "news.google.com",
+      "published_at": "2026-08-20T15:41:57+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Posidonia Oceanica, the unknown. Aglientu leads the way in protecting the coastal ecosystem. L'Unione Sarda.it",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "bf867445690cdfc121",
+      "title": "Pemerintah bantu pendapatan keluarga lewat Zakat Community Development",
+      "url": "https://www.antaranews.com/berita/5703928/pemerintah-bantu-pendapatan-keluarga-lewat-zakat-community-development",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-08-20T13:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/08/20/IMG-20260820-WA0003_edit_2537055982332659.jpg",
+      "description": "",
+      "themes": [
+        "Development & infrastructure",
+        "Community & culture"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "61be6ad8b604ed99f7",
+      "title": "Garam Himalaya vs Garam Laut , Mana yang Lebih Sehat ? Ini Faktanya – Lifestyle",
+      "url": "https://lifestyle.batampos.co.id/garam-himalaya-vs-garam-laut-mana-yang-lebih-sehat-ini-faktanya",
+      "outlet": "lifestyle.batampos.co.id",
+      "domain": "lifestyle.batampos.co.id",
+      "published_at": "2026-08-20T12:15:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://lifestyle.batampos.co.id/storage/2026/08/garam.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "b69c5efd2f9a291a55",
+      "title": "昆明新增2所九年一贯制学校 ！",
+      "url": "https://baijiahao.baidu.com/s?id=1874028411090631582",
+      "outlet": "baijiahao.baidu.com",
+      "domain": "baijiahao.baidu.com",
+      "published_at": "2026-08-20T10:45:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
     },
     {
       "id": "79de72afbb110a67c5",
@@ -349,7 +1268,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
     },
     {
@@ -374,7 +1293,7 @@
       ],
       "search_route": "Google News English (US)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
     },
     {
@@ -398,8 +1317,104 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
+    },
+    {
+      "id": "0e2ac0ce0b68069a10",
+      "title": "Garam Himalaya vs garam laut , mana yang lebih sehat ?",
+      "url": "https://www.antaranews.com/berita/5703033/garam-himalaya-vs-garam-laut-mana-yang-lebih-sehat",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-08-20T06:30:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/08/05/upaya-petani-garam-demak-jaga-stabilitas-harga-2834637.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "eb4c15e53f4722f1fa",
+      "title": "MEDI AMBIENT EMPORDÀ | SOS Costa Brava reclama garantir el compliment de la normativa per protegir les praderies de posidònia al Cap de Creus 23 Description",
+      "url": "https://www.emporda.info/comarca/2026/08/20/sos-costa-brava-reclama-garantir-133489776.html",
+      "outlet": "emporda.info",
+      "domain": "emporda.info",
+      "published_at": "2026-08-20T04:45:00+00:00",
+      "language": "Catalan",
+      "source_country": "Spain",
+      "image": "https://estaticos-cdn.prensaiberica.es/clip/9c80da29-b5b9-4259-89a8-d4241e789a51_16-9-discover-aspect-ratio_default_0.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "13d56f0a6a8a65d3cc",
+      "title": "Promo Harga Spesial Indomaret 20 - 24 Agustus Diskon Hingga 45 Persen Ada Snack , Minuman Favorit , Popok",
+      "url": "https://kupang.tribunnews.com/bisnis/976380/promo-harga-spesial-indomaret-20-24-agustus-diskon-hingga-45-persen-ada-snackminuman-favorit-popok",
+      "outlet": "kupang.tribunnews.com",
+      "domain": "kupang.tribunnews.com",
+      "published_at": "2026-08-20T03:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://asset.tribunnews.com/asWsmiGoUXlO6ahqcVzZ_B2LrYE=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/kupang/foto/bank/originals/PROMO-INDOMARET-20-AGUSTUS-2026-5.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "8fb31a6107c9f7113b",
+      "title": "Jupiter Narrows mangrove restoration honors man killed in boating accident",
+      "url": "https://www.wptv.com/news/local-news/our-community/jupiter-tequesta-juno-beach/jupiter-narrows-mangrove-islands-to-be-restored-and-named-for-local-man-killed-in-boating-accident",
+      "outlet": "wptv.com",
+      "domain": "wptv.com",
+      "published_at": "2026-08-20T02:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "http://ewscripps-brightspot.s3.amazonaws.com/f2/02/ece1232547cb93ff52f566a12d0b/poster-image-61.jpg",
+      "description": "",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
     },
     {
       "id": "fafee5182b86229442",
@@ -422,8 +1437,128 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
+    },
+    {
+      "id": "60904ac6cde38cf0a0",
+      "title": "Restoration begins for eroded mangrove islands in Jupiter Narrows",
+      "url": "https://www.wpbf.com/article/florida-jupiter-narrows-mangrove-restoration/73477444",
+      "outlet": "wpbf.com",
+      "domain": "wpbf.com",
+      "published_at": "2026-08-20T01:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://kubrick.htvapps.com/vidthumb/aaaee298-cf55-4507-ba1d-49a919e38fcf/01247ab0-723e-443d-8a85-d565b447652e.jpg?crop=0.823xw%3A0.821xh%3B0%2C0",
+      "description": "",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "11062e1e8ec598ca46",
+      "title": "天眼早新闻 8月20日",
+      "url": "https://baijiahao.baidu.com/s?id=1873965138180537427",
+      "outlet": "baijiahao.baidu.com",
+      "domain": "baijiahao.baidu.com",
+      "published_at": "2026-08-19T23:30:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "e3ba9166e6e20387d4",
+      "title": "Lovely Dos Mares",
+      "url": "https://www.fwweekly.com/2026/08/19/lovely-dos-mares",
+      "outlet": "fwweekly.com",
+      "domain": "fwweekly.com",
+      "published_at": "2026-08-19T23:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://www.fwweekly.com/wp-content/uploads/2026/08/edmaresDRINK8-19.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "0e6b7da8dd1e3bf0a8",
+      "title": "Jupiter Narrows mangrove islands to be restored and named for local man killed in boating accident",
+      "url": "https://www.wflx.com/2026/08/19/jupiter-narrows-mangrove-islands-be-restored-named-local-man-killed-boating-accident",
+      "outlet": "wflx.com",
+      "domain": "wflx.com",
+      "published_at": "2026-08-19T22:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://gray-wflx-prod.gtv-cdn.com/resizer/v2/KTJLHORBCRIOJLL3L2WCXNWRPA.jpg?auth=6c8b2801096123a1716618b6d20d530222c95360cffb21e41a72809d10c640c7&smart=true",
+      "description": "",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "6cfe70a3bbbed04cda",
+      "title": "UKSA backs 145 - berth Isle of Wight marina proposal | Isle of Wight County Press",
+      "url": "https://www.countypress.co.uk/news/26478487.uksa-backs-145-berth-isle-wight-marina-proposal",
+      "outlet": "countypress.co.uk",
+      "domain": "countypress.co.uk",
+      "published_at": "2026-08-19T18:00:00+00:00",
+      "language": "English",
+      "source_country": "Unknown",
+      "image": "https://www.countypress.co.uk/resources/images/21051615.jpg?type=og-image",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
     },
     {
       "id": "0887f351786fb3ad29",
@@ -446,8 +1581,34 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
+    },
+    {
+      "id": "7de23f8eadff4675d1",
+      "title": "Tacloban fishing community faces demolition",
+      "url": "https://www.bulatlat.com/2026/08/19/tacloban-fishing-community-faces-demolition",
+      "outlet": "bulatlat.com",
+      "domain": "bulatlat.com",
+      "published_at": "2026-08-19T12:15:00+00:00",
+      "language": "English",
+      "source_country": "Philippines",
+      "image": "https://www.bulatlat.com/wp-content/uploads/2026/08/boat_leyte_by_vbarbosa.jpeg",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity",
+        "Fisheries & food",
+        "Community & culture"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
     },
     {
       "id": "9c41dce1408c0b8649",
@@ -472,8 +1633,56 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
+    },
+    {
+      "id": "7668b0f33a46a17a99",
+      "title": "ZZ Top - trommeslager Frank Beard er død , 77 år gammel",
+      "url": "https://www.dagbladet.no/kjendis/zz-top-legende-er-dod/85032260",
+      "outlet": "dagbladet.no",
+      "domain": "dagbladet.no",
+      "published_at": "2026-08-19T10:00:00+00:00",
+      "language": "Norwegian",
+      "source_country": "Norway",
+      "image": "https://www.dagbladet.no/images/85032321.jpg?imageId=85032321&x=5.26&y=6.38&cropw=88&croph=66.84&panox=5.26&panoy=6.38&panow=88&panoh=66.84",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "2543da66bcaeb6e0b0",
+      "title": "Victoria Nadine : Har visst det i åtte måneder",
+      "url": "https://www.dagbladet.no/kjendis/har-visst-det-i-atte-maneder/85026116",
+      "outlet": "dagbladet.no",
+      "domain": "dagbladet.no",
+      "published_at": "2026-08-19T10:00:00+00:00",
+      "language": "Norwegian",
+      "source_country": "Norway",
+      "image": "https://www.dagbladet.no/images/85026292.jpg?imageId=85026292&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
     },
     {
       "id": "1099d77d237b052b62",
@@ -496,8 +1705,32 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
+    },
+    {
+      "id": "a681c5cdde34f89607",
+      "title": "La temperatura del mar bate récords en la costa de la Región de Murcia : « Tenemos la mesa puesta para una dana de carácter muy adverso »",
+      "url": "https://www.laverdad.es/murcia/temperatura-mar-bate-records-costa-region-murcia-20260819074513-nt.html",
+      "outlet": "laverdad.es",
+      "domain": "laverdad.es",
+      "published_at": "2026-08-19T08:15:00+00:00",
+      "language": "Spanish",
+      "source_country": "Spain",
+      "image": "https://s3.ppllstatics.com/laverdad/www/multimedia/local/2026/08/18/1516127725-kPPE-U301335854911xiB-1200x840@La%20Verdad.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
     },
     {
       "id": "63d67bbbc92aad476b",
@@ -520,7 +1753,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
     },
     {
@@ -544,7 +1777,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
     },
     {
@@ -568,7 +1801,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
     },
     {
@@ -592,7 +1825,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
     },
     {
@@ -616,7 +1849,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
     },
     {
@@ -640,7 +1873,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
     },
     {
@@ -664,8 +1897,32 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
+    },
+    {
+      "id": "f228ee74ef0d09e52e",
+      "title": "잘피 종자 파종 통해 ‘KB 바다숲’ 조성 - 수산인신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfYWg3UUZVQmFqT1p4TGJodnV4TGtMVkU1RFIzZlRkLUpYblFhNzdqRjZFNTBHZUh5YmJ3bmhZQ0JvWHdRY3lKRXBMQkZwejVaUGxUX0JmcW9HQW9MWGQxS1hjbXZlTmF5R0E?oc=5",
+      "outlet": "수산인신문",
+      "domain": "news.google.com",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "잘피 종자 파종 통해 ‘KB 바다숲’ 조성 수산인신문",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "baseline": false
     },
     {
       "id": "baf3d0a0fad6f17d85",
@@ -688,7 +1945,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "baseline": true
     },
     {
@@ -3071,7 +4328,7 @@
     "languages": [
       [
         "English",
-        29
+        49
       ],
       [
         "German",
@@ -3082,32 +4339,36 @@
         20
       ],
       [
+        "Indonesian",
+        14
+      ],
+      [
+        "Italian",
+        14
+      ],
+      [
+        "Chinese",
+        12
+      ],
+      [
         "Japanese",
         9
       ],
       [
-        "Chinese",
-        8
-      ],
-      [
-        "Italian",
-        5
-      ],
-      [
         "Korean",
-        5
+        7
       ],
       [
-        "Indonesian",
-        4
+        "Spanish",
+        6
       ],
       [
         "Thai",
         4
       ],
       [
-        "Spanish",
-        4
+        "Catalan",
+        3
       ],
       [
         "Dutch",
@@ -3116,6 +4377,10 @@
       [
         "Portuguese",
         3
+      ],
+      [
+        "Norwegian",
+        2
       ],
       [
         "Russian",
@@ -3137,15 +4402,31 @@
       ],
       [
         "GB",
-        23
+        25
       ],
       [
         "TR",
         20
       ],
       [
+        "Indonesia",
+        11
+      ],
+      [
+        "United States",
+        11
+      ],
+      [
+        "Italy",
+        9
+      ],
+      [
         "JP",
         9
+      ],
+      [
+        "KR",
+        7
       ],
       [
         "CN",
@@ -3156,15 +4437,19 @@
         6
       ],
       [
+        "Spain",
+        5
+      ],
+      [
         "IT",
         5
       ],
       [
-        "KR",
-        5
+        "ID",
+        4
       ],
       [
-        "ID",
+        "China",
         4
       ],
       [
@@ -3184,7 +4469,31 @@
         3
       ],
       [
+        "India",
+        2
+      ],
+      [
+        "Norway",
+        2
+      ],
+      [
+        "Jordan",
+        1
+      ],
+      [
+        "Singapore",
+        1
+      ],
+      [
         "RU",
+        1
+      ],
+      [
+        "Unknown",
+        1
+      ],
+      [
+        "Philippines",
         1
       ],
       [
@@ -3206,11 +4515,23 @@
     ],
     "outlets": [
       [
+        "L'Unione Sarda.it",
+        3
+      ],
+      [
         "Phys.org",
         3
       ],
       [
         "搜狐网",
+        3
+      ],
+      [
+        "antaranews.com",
+        3
+      ],
+      [
+        "baijiahao.baidu.com",
         3
       ],
       [
@@ -3222,7 +4543,23 @@
         3
       ],
       [
-        "L'Unione Sarda.it",
+        "momsmoney.kontan.co.id",
+        2
+      ],
+      [
+        "islands.com",
+        2
+      ],
+      [
+        "liputan6.com",
+        2
+      ],
+      [
+        "italpress.com",
+        2
+      ],
+      [
+        "dagbladet.no",
         2
       ],
       [
@@ -3235,6 +4572,10 @@
       ],
       [
         "ArcGIS StoryMaps",
+        2
+      ],
+      [
+        "수산인신문",
         2
       ],
       [
@@ -3266,11 +4607,71 @@
         2
       ],
       [
+        "ecoportal.net",
+        1
+      ],
+      [
+        "economictimes.indiatimes.com",
+        1
+      ],
+      [
+        "jordantimes.com",
+        1
+      ],
+      [
+        "mysuncoast.com",
+        1
+      ],
+      [
+        "dbalears.cat",
+        1
+      ],
+      [
+        "eldiario.es",
+        1
+      ],
+      [
+        "이미디어",
+        1
+      ],
+      [
+        "kompas.com",
+        1
+      ],
+      [
         "CornishStuff",
         1
       ],
       [
+        "padovanews.it",
+        1
+      ],
+      [
+        "straitstimes.com",
+        1
+      ],
+      [
         "RRI.co.id",
+        1
+      ],
+      [
+        "popularmechanics.com",
+        1
+      ],
+      [
+        "environment coastal & offshore",
+        1
+      ],
+      [
+        "news.mongabay.com",
+        1
+      ],
+      [
+        "ansa.it",
+        1
+      ],
+      [
+        "comunicalo.it",
         1
       ],
       [
@@ -3282,145 +4683,61 @@
         1
       ],
       [
+        "radiolombardia.it",
+        1
+      ],
+      [
+        "miragenews.com",
+        1
+      ],
+      [
         "EurekAlert!",
         1
       ],
       [
+        "ilmessaggero.it",
+        1
+      ],
+      [
+        "cnr.it",
+        1
+      ],
+      [
+        "palermotoday.it",
+        1
+      ],
+      [
+        "timesofindia.indiatimes.com",
+        1
+      ],
+      [
         "chrismon.de",
-        1
-      ],
-      [
-        "Bangor Daily News",
-        1
-      ],
-      [
-        "Gigsplay",
-        1
-      ],
-      [
-        "openPR.de",
-        1
-      ],
-      [
-        "idw - Informationsdienst Wissenschaft",
-        1
-      ],
-      [
-        "MeinBezirk.at",
-        1
-      ],
-      [
-        "rmzxw.com.cn",
-        1
-      ],
-      [
-        "environment.ec.europa.eu",
-        1
-      ],
-      [
-        "Blick",
-        1
-      ],
-      [
-        "Portugal Resident",
-        1
-      ],
-      [
-        "NANOOM ENERGY",
-        1
-      ],
-      [
-        "수산인신문",
-        1
-      ],
-      [
-        "PR TIMES",
-        1
-      ],
-      [
-        "奥一网",
-        1
-      ],
-      [
-        "The Portland Press Herald",
-        1
-      ],
-      [
-        "手机网易网",
-        1
-      ],
-      [
-        "เดลินิวส์",
-        1
-      ],
-      [
-        "Landscape Alliance",
-        1
-      ],
-      [
-        "Aarau24",
-        1
-      ],
-      [
-        "pptvhd36",
-        1
-      ],
-      [
-        "The Morning",
-        1
-      ],
-      [
-        "vietnamnews.vn",
-        1
-      ],
-      [
-        "ecojournal.co.kr",
-        1
-      ],
-      [
-        "ITVX",
-        1
-      ],
-      [
-        "Fethiye TV",
-        1
-      ],
-      [
-        "NBT CONNEXT",
-        1
-      ],
-      [
-        "观海新闻",
-        1
-      ],
-      [
-        "KSBニュース",
-        1
-      ],
-      [
-        "National Audubon Society",
-        1
-      ],
-      [
-        "Nature",
         1
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        101
+        139
       ],
       [
         "Restoration",
-        9
-      ],
-      [
-        "Blue carbon",
-        7
+        12
       ],
       [
         "Conservation & policy",
+        8
+      ],
+      [
+        "Blue carbon",
+        8
+      ],
+      [
+        "Science & discovery",
+        7
+      ],
+      [
+        "Wildlife & biodiversity",
         6
       ],
       [
@@ -3428,30 +4745,30 @@
         6
       ],
       [
-        "Science & discovery",
+        "Community & culture",
         5
       ],
       [
         "Development & infrastructure",
-        4
+        5
+      ],
+      [
+        "Fisheries & food",
+        3
       ],
       [
         "Pollution & water quality",
         2
-      ],
-      [
-        "Wildlife & biodiversity",
-        2
-      ],
-      [
-        "Community & culture",
-        1
       ]
     ],
     "discovery_sources": [
       [
         "Google News RSS",
-        126
+        130
+      ],
+      [
+        "GDELT",
+        49
       ]
     ]
   }
