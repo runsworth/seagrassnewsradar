@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-08-23T06:00:19.455796+00:00",
+  "generated_at": "2026-08-24T06:23:06.376885+00:00",
   "baseline_complete": true,
-  "article_count": 178,
-  "new_today": 52,
+  "article_count": 182,
+  "new_today": 4,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "9a1bace788a37678c5",
+      "title": "Seegraswiesen speichern in wärmerem Meerwasser weniger Kohlenstoff - Scinexx",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFZWSmJfZ2RPanhyd1Y4bkNzVDRFWVpFVDlOS0hjTXpQSmd4NTJvWV9YWGVBRnNsOHlEbWFUOE56RzNaTUFuOVpzNEJlOU1ocTc0Z2NPZzdhaERmU0tHal9tWXZ3RW8td19HVzVfZzhES2N1VENzek1FSDRWVmhEZkc0T19yQWlfajJja2x3OFJ6ZDJrTTY5cElsUURBeXFCTEljeXMyclBQQQ?oc=5",
+      "outlet": "Scinexx",
+      "domain": "news.google.com",
+      "published_at": "2026-08-23T17:40:48+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegraswiesen speichern in wärmerem Meerwasser weniger Kohlenstoff Scinexx",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "baseline": false
+    },
+    {
+      "id": "d07cfa5cada0405f89",
+      "title": "Women restoring seagrass meadows beneath the sea - DTiNews",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjNwOV9BVnJxV2c3eHI5T1FIbG9FaFJlRHhvUWZWaFhxT2RRM2hiTXQ2V0M0MmdUVmxQOFBEUUJaZTFfSzZUa2xodUYtUnNNTUZJOWNUUmh0NWZoUnlmNmdndlNOS3dpaDVZaFlrRU1CZjRrQzJhd2E1LUFFS3Nnc1hVTnplbTByM2RfSjN3WUdHRzRuai1CWnV5V1NJNGVBU2RObHU1TVdiRnBwa1Ewb0ttbnI?oc=5",
+      "outlet": "DTiNews",
+      "domain": "news.google.com",
+      "published_at": "2026-08-23T06:00:00+00:00",
+      "language": "Swahili",
+      "source_country": "KE",
+      "image": "",
+      "description": "Women restoring seagrass meadows beneath the sea DTiNews",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Swahili (KE)",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "baseline": false
+    },
+    {
+      "id": "4f49214b2746904227",
+      "title": "青岛海草床生态修复项目宣传活动举行 - 科学网—新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wU3ZoZVluQ1Q3NW4tMDY2SDltUXR0WW8yTFFtdWRlMF9lTTY2dkxoRUVPQmFWYUxtMGhwQ0FBbzNNQlFmZUF4cGoyMTctbXhKT0ZSRnpCbEU2S0NMNDJBbjNfbVY?oc=5",
+      "outlet": "科学网—新闻",
+      "domain": "news.google.com",
+      "published_at": "2026-08-23T04:33:47+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "青岛海草床生态修复项目宣传活动举行 科学网—新闻",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "baseline": false
+    },
     {
       "id": "03979b062d791a4b2a",
       "title": "Kaya Nutrisi ! Ini 7 Manfaat Agar - Agar Plain untuk Kesehatan , Dukung Diet Anda",
@@ -244,7 +316,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": false
     },
     {
@@ -292,7 +364,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -388,7 +460,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -462,7 +534,7 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -512,7 +584,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -584,7 +656,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -610,7 +682,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -685,7 +757,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -853,7 +925,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -877,7 +949,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -1070,7 +1142,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -1094,7 +1166,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -1119,7 +1191,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -1145,7 +1217,7 @@
       ],
       "search_route": "Google News Russian (RU)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -1171,7 +1243,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": false
     },
     {
@@ -1268,7 +1340,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -1293,7 +1365,7 @@
       ],
       "search_route": "Google News English (US)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -1317,7 +1389,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -1390,6 +1462,30 @@
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-23",
       "last_seen": "2026-08-23",
+      "baseline": false
+    },
+    {
+      "id": "d91fb531225cf821ac",
+      "title": "助推高质量发展中的政协智慧丨深圳近十年来首次发现连片分布天然海草床政协委员实地调研为守护“海底绿洲”建言献策 - cppcc.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10ckNYYjRlOHF1MlBXLWhaVE5ITlRKazZMQTBVY3lESmJaRkI5REF6OVpOSXdBbGZ4RTlfRWxBblNNTUJURXpYRFV5Z1F6MVNPYWtiaGxDVUpXblNlOTNwM01pcXpuZ2c0?oc=5",
+      "outlet": "cppcc.gov.cn",
+      "domain": "news.google.com",
+      "published_at": "2026-08-20T02:48:03+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "助推高质量发展中的政协智慧丨深圳近十年来首次发现连片分布天然海草床政协委员实地调研为守护“海底绿洲”建言献策 cppcc.gov.cn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
       "baseline": false
     },
     {
@@ -1581,7 +1677,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -1633,7 +1729,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -1705,7 +1801,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -1849,7 +1945,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "baseline": true
     },
     {
@@ -4332,11 +4428,15 @@
       ],
       [
         "German",
-        29
+        30
       ],
       [
         "Turkish",
         20
+      ],
+      [
+        "Chinese",
+        14
       ],
       [
         "Indonesian",
@@ -4345,10 +4445,6 @@
       [
         "Italian",
         14
-      ],
-      [
-        "Chinese",
-        12
       ],
       [
         "Japanese",
@@ -4383,6 +4479,10 @@
         2
       ],
       [
+        "Swahili",
+        1
+      ],
+      [
         "Russian",
         1
       ],
@@ -4398,7 +4498,7 @@
     "countries": [
       [
         "DE",
-        29
+        30
       ],
       [
         "GB",
@@ -4417,6 +4517,10 @@
         11
       ],
       [
+        "CN",
+        9
+      ],
+      [
         "Italy",
         9
       ],
@@ -4426,10 +4530,6 @@
       ],
       [
         "KR",
-        7
-      ],
-      [
-        "CN",
         7
       ],
       [
@@ -4475,6 +4575,10 @@
       [
         "Norway",
         2
+      ],
+      [
+        "KE",
+        1
       ],
       [
         "Jordan",
@@ -4607,6 +4711,18 @@
         2
       ],
       [
+        "Scinexx",
+        1
+      ],
+      [
+        "DTiNews",
+        1
+      ],
+      [
+        "科学网—新闻",
+        1
+      ],
+      [
         "ecoportal.net",
         1
       ],
@@ -4701,28 +4817,16 @@
       [
         "cnr.it",
         1
-      ],
-      [
-        "palermotoday.it",
-        1
-      ],
-      [
-        "timesofindia.indiatimes.com",
-        1
-      ],
-      [
-        "chrismon.de",
-        1
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        139
+        142
       ],
       [
         "Restoration",
-        12
+        13
       ],
       [
         "Conservation & policy",
@@ -4764,7 +4868,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        130
+        134
       ],
       [
         "GDELT",
