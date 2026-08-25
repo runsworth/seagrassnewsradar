@@ -1,10 +1,277 @@
 {
-  "generated_at": "2026-08-24T06:23:06.376885+00:00",
+  "generated_at": "2026-08-25T06:02:52.235091+00:00",
   "baseline_complete": true,
-  "article_count": 182,
-  "new_today": 4,
+  "article_count": 195,
+  "new_today": 13,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "2fad70e712c3368f92",
+      "title": "Suhu Laut Naik, Kemampuan Padang Lamun Menyimpan Karbon Alami Merosot - Kompas.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2xmOW5qQ0pabDdTM3NNb0RjZW9DclVnbFg4eFkwcEtKMmtoeDhZUlRZcTZCcWE0aGJwMERtdUJnY255QUVzSTVLOTJfSmVQd3BmdXRMTnVyLXpvWnNPVjg4dXNJZnMyWHJVajdpLTV0RGdqSEs3ZjcyZ3NBVWt4N1VORWlRRmRMMXNpUnlIcnAwdWJxbFFsSHJBTE15UU5DYnBwTnNFTXJncDFxWW5QZVMxay1QU2NFaHR3Tjh3?oc=5",
+      "outlet": "Kompas.com",
+      "domain": "news.google.com",
+      "published_at": "2026-08-25T03:05:00+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Suhu Laut Naik, Kemampuan Padang Lamun Menyimpan Karbon Alami Merosot Kompas.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "baseline": false
+    },
+    {
+      "id": "b3ad441bb59c68a9eb",
+      "title": "استعادة مروج الأعشاب البحرية بأرصدة كربونية تبلغ 2.3 تريليون دولار - جريدة المدينة - جريدة المدينة",
+      "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxNa0V3YUVOUjRRZTZoV2phd1FLYkZhY3lIZzBhNVluVFEtSEJiZDBld3VoRlItSmVpX3RlbUxLVEhnNE5DZ0FMbXhQS1lrcEVHLTlKWnJHQjRJLTBiWlVXTV9Yb1FHWFRpTG1jLTA2dlNEdWd1SkM5eGpTNjhKVm94OGJnbmdvQkJzZjljOGlTVFVOOVVmYlNUSzBiQzFlb3RNRDVyMFBUVmdTOS10OU1pdlFtUDhyd19XSDl5NXB1NjJDMlEyemE3OG5FQXNaME1CRDNSdTlUQWpWWTlXd0hwM2xtaDlWdkc1eHdtR3RoY2M3dGwwd1BsV1dyT1BYQWdudW1XNE9PSGpwNV9ObWdBV08zTjdIQkhzeW9PXzl0MVp1Zm1QSm0yVVVtY0xscXlQV25sWnl1b29NeE0yQ1VlUU4wX0FjU21CelBBM2wwT3F0UFQyVzBQWHZ2WFVnVC05aEFmZzVfRTVwVU1lVmppSExYTDExMnZKYVlzNTBiYXA0R3BkSXdxaUNCV0dvZTVvWHdVMXNGelNweFNkOVh6SlNURHg4QUlLV1ZOdEV1WnJybFh1N3dRT25ONEtmLWJzN0Y1dlA3Y1QwUk5pWUNSdjhFU2FZYlpjSkU2Sk9xaDJ2eWpIM1BzcjRucHpOTDJ4LVVxSTJTR29nbzFOdjN3YjFXVjRyV0ZHaThaOWU3Y3BoX1JKWm1GMzExV2IzRzRzUEtBMDFsR1NGNWJ5czlRallJdTZON3hOcTFONtIBV0FVX3lxTFBsTF9yNlF5ZmF0N0UyZm05bUlWSnZSN29zZTFFdjkxaWJmQnltZ1RmNmRmNkRWeHBZVHpuTV9GU3MydF8zcVUyVmhMdXZXQVFvbGFMeThWZw?oc=5",
+      "outlet": "جريدة المدينة",
+      "domain": "news.google.com",
+      "published_at": "2026-08-24T23:18:55+00:00",
+      "language": "Arabic",
+      "source_country": "AE",
+      "image": "",
+      "description": "استعادة مروج الأعشاب البحرية بأرصدة كربونية تبلغ 2.3 تريليون دولار - جريدة المدينة جريدة المدينة",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Arabic (AE)",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "baseline": false
+    },
+    {
+      "id": "fe998ec977f11f08c9",
+      "title": "The Maine Monitor: Seagrass meadows—why are they declining? - newscentermaine.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNT0VPdUg0VUpoQVpRUnNXYTk3QVBvd2JzYmgzTlQwYlBBbHVpTVZBSDUybHVDZXVSaGpZYW5NbkROQ1lFUjhnRjBrWlNNSGtFdkJoMXc4Y3k5ZXFXX09Sd0dPc3pSVFFsVEVGTlZ3bUM1LWhxM3BZMHMyQ3lqQVprLXllZU5BaTBTcDVCa3c2NDN5cm9fMk9kd0lqZ1B4VWxMRFlYdWxFdk9NYVJrYnRWZGNGSjZCdlZtYmswQnRDVWgtSWd6VVNja00yWjRoSlhFdmRnT3R1Uk1JTDB6T0VuU0J1ODRhS3JyWm1ybTBYNXk2RUk3RWhpQmlB?oc=5",
+      "outlet": "newscentermaine.com",
+      "domain": "news.google.com",
+      "published_at": "2026-08-24T21:02:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "The Maine Monitor: Seagrass meadows—why are they declining? newscentermaine.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "baseline": false
+    },
+    {
+      "id": "16af4d4f445dffa0e2",
+      "title": "Las praderas marinas guardan carbono durante siglos, pero un experimento con tanques de agua halló que 4 grados de más les hacen perder esa capacidad en un 28% - Gizmodo en Español",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOLVhjakxQdXZCeHNqWVBBeEZ0azd3djN0ZzZNd1F6M2RzX05sMC1rOG1zMHNjeTNuSnNoa3R2bmgxcklLNEhVYTlJTFlXOFVHYkJuSGpWa0FVMFVPUXpweFdka05sdjY3Ym02OUtvNkhEZVhWRjBFbEhvNThGMHo2aGlFLUNncGd2YTdlaWtrMHZaSGJHMzdkMjFBSDItRldiekNKVWMtWkxxWWZUekUtaU8zR2oyUGl0blVvamRNdFI1bjRGakVTVGhUZUdCSElMWVU1YUpYaTJRZzBjTmx0QVFXaF95TkdFbHVoRk9BZ0FXZk02Y2N4U1B5SW5tYklWRkJuVGJiYmZ4NzNEMW5Ea2JvVFByLVg5VEZF?oc=5",
+      "outlet": "Gizmodo en Español",
+      "domain": "news.google.com",
+      "published_at": "2026-08-24T15:04:10+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "Las praderas marinas guardan carbono durante siglos, pero un experimento con tanques de agua halló que 4 grados de más les hacen perder esa capacidad en un 28% Gizmodo en Español",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "baseline": false
+    },
+    {
+      "id": "7d5d627178390fd0cf",
+      "title": "\"كاوست\" تبحث توظيف أسواق الكربون لاستعادة مروج الأعشاب البحرية - العربية",
+      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQU2dZNW5OMmc1cFZ2ZUVsRS12bDQ0Q01DYjB3MzlWREhHc3ZMLXJreUtMZmhveERidzVrdkZiNWxCTTRmV3FVU29INjRFdDd5Q2FGVFJ5a0RiaHMySkozYVM4R1hCck44UVFXRUMydG50TzNsMlZIRm1EcFpGTi1zckxKNm9yZHlCWXBXM0lBTjNZWU15V0hxSEhkaFRGSGQwMkZYUVUzNlNVNzNHWjBSWGtKNnlxa191eUhDR3BtYTBoV0tCb2Rvd3hEeko4RmtjTGNVNElhTjFXczBnTGt6OVlOUFM5RXVOQ3R6OE8zbDdlWHk0ZjU3V0NLeVlRa3B0QWpwT3R0azM4NXdtRGRra1FNNzg0MEJPUWdLWE1nNzFtY1VSdWtLbnpjckN4UVZHdlE3bnBSMVIwRDRfamt4QmFnbUxiZFJGUHEzeUlCd1RmT0NRMlVoLTBPZjVFazdXNWdwdXZGeXNqRm03TDFqUGpmdm54X0xIY1R6M3pxOWZqdlFsOUtDZjJ1bGJINkdPdm9BSzhXX0EyZ2ROQ2lIRWJvNlZKdHROUGpkOHktWkppRmZoNW9xcUpzUmFiM3YxdTFabWQwbGJQNm1selBSWFdaNmhzM0FfLUhoSjIxejNNSkxWX3BFdld4WjNoZXh1NjNJaVgtOGJKZ0FBOEwzbTFrRGFWWWF1Z253T0ZR0gGOBEFVX3lxTFBTZ1k1bk4yZzVwVnZlRWxFLXZsNDRDTUNiMHczOVZESEdzdkwtcmt5S0xmaG94RGJ3NWt2RmI1bEJNNGZXcVVTb0g2NEV0N3lDYUZUUnlrRGJoczJKSjNhUzhHWEJyTjhRUVdFQzJ0bnRPM2wyVkhGbURwWkZOLXNyTEo2b3JkeUJZcFczSUFOM1lZTXlXSHFISGRoVEZIZDAyRlhRVTM2U1U3M0daMFJYa0o2eXFrX3V5SENHcG1hMGhXS0JvZG93eER6SjhGa2NMY1U0SWFOMVdzMGdMa3o5WU5QUzlFdU5DdHo4TzNsN2VYeTRmNTdXQ0t5WVFrcHRBanBPdHRrMzg1d21EZGtrUU03ODQwQk9RZ0tYTWc3MW1jVVJ1a0tuemNyQ3hRVkd2UTducFIxUjBENF9qa3hCYWdtTGJkUkZQcTN5SUJ3VGZPQ1EyVWgtME9mNUVrN1c1Z3B1dkZ5c2pGbTdMMWpQamZ2bnhfTEhjVHozenE5Zmp2UWw5S0NmMnVsYkg2R092b0FLOFdfQTJnZE5DaUhFYm82Vkp0dE5QamQ4eS1aSmlGZmg1b3FxSnNSYWIzdjF1MVptZDBsYlA2bWx6UFJYV1o2aHMzQV8tSGhKMjF6M01KTFZfcEV2V3haM2hleHU2M0lpWC04YkpnQUE4TDNtMWtEYVZZYXVnbndPRlE?oc=5",
+      "outlet": "العربية",
+      "domain": "news.google.com",
+      "published_at": "2026-08-24T11:58:15+00:00",
+      "language": "Arabic",
+      "source_country": "AE",
+      "image": "",
+      "description": "\"كاوست\" تبحث توظيف أسواق الكربون لاستعادة مروج الأعشاب البحرية العربية",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Arabic (AE)",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "baseline": false
+    },
+    {
+      "id": "994d74a75d65cb17cd",
+      "title": "New Study: Rising Seawater Temperatures Lower Natural CO2 Storage In Seagrass Meadows - Carbon Herald",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUnFGQWpvQU1rWm9IeFdZVXhqcVk4Vlg4OVdVZEFhQ1llaC0wM1N3dG9YanJtZ1BDeFVwRzRuYWNJR0t0dkpUYkJiT3ZQWXNfaG9TSTF0ZjYxSmhSY1d2NmgzYlhrNTF6dFdzeDZ0WGFVOENxWjZlN3FhYm43dHN1XzZtazRlWjIwYnl0SlJXWFFtN25Ub3JsSXdJSzV3V0RidDJpZ2dDN28wNE56b1FR?oc=5",
+      "outlet": "Carbon Herald",
+      "domain": "news.google.com",
+      "published_at": "2026-08-24T11:43:32+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "New Study: Rising Seawater Temperatures Lower Natural CO2 Storage In Seagrass Meadows Carbon Herald",
+      "themes": [
+        "Climate & heat",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "baseline": false
+    },
+    {
+      "id": "ae5b607757fd849122",
+      "title": "KAUST Study: Climate Finance Could Unlock Investment in Seagrass Restoration - صحيفة مال",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vb0Q3dUV5Qm9xeHo5V3pJZHJGVGRVOW55LWFjVjYybmhaSmVCXzRvRFdWZ09rTmZxd0RGOW1wNktLQ1pVN0dMTGxMaURnRzBNNjZQUE5rZ3RXQUFGMHFhYUl6Z2JiWWRXb2w0?oc=5",
+      "outlet": "صحيفة مال",
+      "domain": "news.google.com",
+      "published_at": "2026-08-24T11:18:31+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "KAUST Study: Climate Finance Could Unlock Investment in Seagrass Restoration صحيفة مال",
+      "themes": [
+        "Restoration",
+        "Climate & heat",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "baseline": false
+    },
+    {
+      "id": "d13f85824dea556fb0",
+      "title": "Steigende Meerestemperaturen schwächen die Kohlenstoffspeicherung von Seegraswiesen © iacobino / depositphotos.com - Scinexx",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOeFNVME9oZ3Mzekw3T3IyelBQamwwYXQ1TWZBOGNPUEd5RzVjTnIxa0pnX3daRVY3YmVxaFZvNWFibmRpQmVxcGdkckdHRDBiRlMtQjNyNklISEJiSXlDTnFuU3BpOHdINHRZWkJ2Zl82LV9XLXN3dzUxeXJxZWhmOHl5N2FWWTdTWjBrTm9sbTZiN3NXdWlFU3BHeVN5dUQwOVpSNURvZHprV3VnNF96M1hBT0V2d3ViYk5NZzBGZk1sSjBXWjNaaEstSkJ4ckJaWW14NTUxNkI4em9vNlVRaEp5bUVESnlsSVhyZlQ5bXpIRks2aHFodmF1eG9UNHdVRnNlak5ySFdjRmZUQXV5WnJ0ZkdkVjcySkkzRXkxY0kzLTNFYkVhQnJB?oc=5",
+      "outlet": "Scinexx",
+      "domain": "news.google.com",
+      "published_at": "2026-08-24T10:55:22+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Steigende Meerestemperaturen schwächen die Kohlenstoffspeicherung von Seegraswiesen © iacobino / depositphotos.com Scinexx",
+      "themes": [
+        "Climate & heat"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "baseline": false
+    },
+    {
+      "id": "2c1349260366583311",
+      "title": "دراسة لـ”كاوست”: استعادة مروج الأعشاب البحرية فرصة لتعزيز التمويل المناخي - صحيفة سويفت نيوز",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jTHduUzVVYzRZRWdrR3R1YW1md1JqV2RmclV2SGlXN0MwbklPc01hbnFyYlpxNTc3c1dXbFpfRnRUX21VSENKcDJDWTczdw?oc=5",
+      "outlet": "صحيفة سويفت نيوز",
+      "domain": "news.google.com",
+      "published_at": "2026-08-24T10:19:27+00:00",
+      "language": "Arabic",
+      "source_country": "AE",
+      "image": "",
+      "description": "دراسة لـ”كاوست”: استعادة مروج الأعشاب البحرية فرصة لتعزيز التمويل المناخي صحيفة سويفت نيوز",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Arabic (AE)",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "baseline": false
+    },
+    {
+      "id": "1a19f4b563f83e26f8",
+      "title": "التمويل المناخي يعزز فرص استعادة مروج الأعشاب البحرية - صحيفة الحدث",
+      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQRUtGa19vTHExVGVaNWZCLXJyRUp3VmhyOFRncEJFckRYYy0wQ2hnTFRjWW9GdGJLX0pHd1JoSEEwa184cENLclhGeHkyV1VNeWpXcWxBQUYyWlZ0djFncWM4dmJmc0hHYWtldTdYaTVjbGE3bzhZVHZSMzA2SWJuNXZ4dmZkUmdTRnpmX3daSHRuRmVBY2I3ZWFZZDRkNVdHNDhvOEZWd1BGdVFYY0h0LVlwWXRDZFdmR2pnVnp6dFNZVXNnYTd2QzdKQUk1dFNkTGZwMHRMYXpEWEd0ZXNDcE15eHB5MVRIRFNUc1F3YldTY3pTeWFIRllvcU5vT2g2cnFEalROWGhreVlfOXNvQTQ0eTlhNHVHUFV2YlFfNzVORi1vSVQ4emdnS2ZUcDk0N2xUdDFmUHlWamh1Z21zSE96NkE3dDVYZXhxNlFyaXE5QUx3ejJ2OXltSUh2Tzd0T0p3VTNJWFY0cDlhMVVhZEtGZFBqZkNaai1BWVNyOXNUMEE0QkdSYWRHRkxXSW9hSHRPMjNZSlhjNExtMHNTRHJ5Z1VlSGNMMHIxMF95R0ZPa3EwS2ZxVTJVOHpNX2FVR0dNVVdES3BMSS1UQnQxclp6b1ZTZw?oc=5",
+      "outlet": "صحيفة الحدث",
+      "domain": "news.google.com",
+      "published_at": "2026-08-24T09:09:12+00:00",
+      "language": "Arabic",
+      "source_country": "AE",
+      "image": "",
+      "description": "التمويل المناخي يعزز فرص استعادة مروج الأعشاب البحرية صحيفة الحدث",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Arabic (AE)",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "baseline": false
+    },
+    {
+      "id": "58405e74c004003238",
+      "title": "Морские травы: первая постоянная экспозиция открыта в Бургасе - BurgasMedia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMXh0R0ZqR1JsYlY3dEYwSEgzRXRMMWJaV01CX3VCV3paNV81d2c0ODAtOVlCMHE4UVRka2NCaU5iQ1l0TW14RHFXTW9mWklhWEkzSDI1NHYtRHhWRjRFY1hHdXE3WjlyQkpJQ2hMYlVQZ1E0RmI4NDFlX1NJZW9PRmlNYzlTTWxPVk1saHVtaWhBTmtxS2ZQMkF3R2FiNGpC0gGgAUFVX3lxTE4xeHRHRmpHUmxiVjd0RjBISDNFdEwxYlpXTUJfdUJXelo1XzV3ZzQ4MC05WUIwcThRVGRrY0JpTmJDWXRNbXhEcVdNb2ZaSWFYSTNIMjU0di1EeFZGNEVjWEd1cTdaOXJCSklDaExiVVBnUTRGYjg0MWVfU0llb09GaU1jOVNNbE9WTWxodW1paEFOa3FLZlAyQXdHYWI0akI?oc=5",
+      "outlet": "BurgasMedia",
+      "domain": "news.google.com",
+      "published_at": "2026-08-24T08:14:58+00:00",
+      "language": "Russian",
+      "source_country": "RU",
+      "image": "",
+      "description": "Морские травы: первая постоянная экспозиция открыта в Бургасе BurgasMedia",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Russian (RU)",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "baseline": false
+    },
     {
       "id": "9a1bace788a37678c5",
       "title": "Seegraswiesen speichern in wärmerem Meerwasser weniger Kohlenstoff - Scinexx",
@@ -26,7 +293,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": false
     },
     {
@@ -74,7 +341,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": false
     },
     {
@@ -316,7 +583,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": false
     },
     {
@@ -364,7 +631,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": true
     },
     {
@@ -460,7 +727,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": true
     },
     {
@@ -534,7 +801,7 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": true
     },
     {
@@ -584,7 +851,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": true
     },
     {
@@ -656,7 +923,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": true
     },
     {
@@ -682,7 +949,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": true
     },
     {
@@ -757,7 +1024,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": true
     },
     {
@@ -949,7 +1216,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": true
     },
     {
@@ -1049,6 +1316,30 @@
       "baseline": false
     },
     {
+      "id": "554697925bd59d7f53",
+      "title": "清偿海洋生态债，除了放鱼还能买碳！山东首例购买海草床碳汇进行替代性修复案件执行完毕_山东新闻 - 大众网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92cTZqdmNta3dQQkc1eU1uQzkxMnBGTDM3YWt5MkZJemFNbkN5Y2t5NFBpYmpqQ0FlTVJzbFJJR0tIMi1LM2ZCem5yMmtubkhIZW9vbjFUNURsVlpQSjVTX3lQQnJDd2tV?oc=5",
+      "outlet": "大众网",
+      "domain": "news.google.com",
+      "published_at": "2026-08-21T01:57:00+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "清偿海洋生态债，除了放鱼还能买碳！山东首例购买海草床碳汇进行替代性修复案件执行完毕_山东新闻 大众网",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "baseline": false
+    },
+    {
       "id": "e6ec05a73d2dc754aa",
       "title": "贵州把环保宣教从会议室搬进人群里 ， 开展一场场 接地气 、 有特色 、 润人心 的探索 用乡亲们熟悉的方式讲环保 （ 中国的生态实践 ）",
       "url": "https://baijiahao.baidu.com/s?id=1874086481497768982",
@@ -1142,7 +1433,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": true
     },
     {
@@ -1166,7 +1457,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": true
     },
     {
@@ -1191,7 +1482,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": true
     },
     {
@@ -1243,7 +1534,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": false
     },
     {
@@ -1344,6 +1635,30 @@
       "baseline": true
     },
     {
+      "id": "c589866359853c4223",
+      "title": "Marine Hitzewellen: Wärmeres Meerwasser schwächt die natürliche Kohlenstoffspeicherung von Seegraswiesen - idw - Informationsdienst Wissenschaft",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQXUtOXhtY1FaZmlVbUVidXdmMDAzUjVyT2lEYXQ5aHpuZ0ZvWWYwUkNHbWVaOFctczJsT2x4cWtWT05PcG5RNlF0UkdhLVlOQkozY29iN1J0UUw1YmUwNjN4MWNhYm1EbG8xYWNZdUlDRFUxUHhzcEVrNmlmZ2dEX0VBNm91VDFEcFBxMW9QLUtpZWdac1E2dVNGTlA5THljSHBqb2RnTlpvZ25hQWY2MjdacVoxMUhtOWpWdGk1cVVrUV8xVFVldEd4WW00MUFqNVRiaHJXRnM3Q1dPdVhrY1Vtc215Zw?oc=5",
+      "outlet": "idw - Informationsdienst Wissenschaft",
+      "domain": "news.google.com",
+      "published_at": "2026-08-20T08:07:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Marine Hitzewellen: Wärmeres Meerwasser schwächt die natürliche Kohlenstoffspeicherung von Seegraswiesen idw - Informationsdienst Wissenschaft",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "baseline": false
+    },
+    {
       "id": "fc4f24c41e847daa62",
       "title": "Marine heatwaves: Rising ocean temperatures reduce the natural carbon storage capacity of seagrass meadows - idw - Informationsdienst Wissenschaft",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81RXZ5dnFUdWFHMU56c3lNYm9uXzFsZVpnRXYyU3FjYl9XYzNyY1NyRVpxQmlnZW5JQm5GVkx1QXo4c3ZzNDBucFRZWQ?oc=5",
@@ -1365,7 +1680,7 @@
       ],
       "search_route": "Google News English (US)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": true
     },
     {
@@ -1389,7 +1704,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": true
     },
     {
@@ -1945,7 +2260,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "baseline": true
     },
     {
@@ -2575,7 +2890,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-25",
       "baseline": true
     },
     {
@@ -4424,23 +4739,23 @@
     "languages": [
       [
         "English",
-        49
+        52
       ],
       [
         "German",
-        30
+        32
       ],
       [
         "Turkish",
         20
       ],
       [
-        "Chinese",
-        14
+        "Indonesian",
+        15
       ],
       [
-        "Indonesian",
-        14
+        "Chinese",
+        15
       ],
       [
         "Italian",
@@ -4451,12 +4766,16 @@
         9
       ],
       [
+        "Spanish",
+        7
+      ],
+      [
         "Korean",
         7
       ],
       [
-        "Spanish",
-        6
+        "Arabic",
+        4
       ],
       [
         "Thai",
@@ -4475,15 +4794,15 @@
         3
       ],
       [
+        "Russian",
+        2
+      ],
+      [
         "Norwegian",
         2
       ],
       [
         "Swahili",
-        1
-      ],
-      [
-        "Russian",
         1
       ],
       [
@@ -4498,11 +4817,11 @@
     "countries": [
       [
         "DE",
-        30
+        32
       ],
       [
         "GB",
-        25
+        28
       ],
       [
         "TR",
@@ -4518,7 +4837,7 @@
       ],
       [
         "CN",
-        9
+        10
       ],
       [
         "Italy",
@@ -4537,6 +4856,10 @@
         6
       ],
       [
+        "ID",
+        5
+      ],
+      [
         "Spain",
         5
       ],
@@ -4545,7 +4868,7 @@
         5
       ],
       [
-        "ID",
+        "AE",
         4
       ],
       [
@@ -4569,6 +4892,14 @@
         3
       ],
       [
+        "ES",
+        2
+      ],
+      [
+        "RU",
+        2
+      ],
+      [
         "India",
         2
       ],
@@ -4589,10 +4920,6 @@
         1
       ],
       [
-        "RU",
-        1
-      ],
-      [
         "Unknown",
         1
       ],
@@ -4602,10 +4929,6 @@
       ],
       [
         "VN",
-        1
-      ],
-      [
-        "ES",
         1
       ],
       [
@@ -4647,6 +4970,10 @@
         3
       ],
       [
+        "Scinexx",
+        2
+      ],
+      [
         "momsmoney.kontan.co.id",
         2
       ],
@@ -4660,6 +4987,10 @@
       ],
       [
         "italpress.com",
+        2
+      ],
+      [
+        "idw - Informationsdienst Wissenschaft",
         2
       ],
       [
@@ -4711,7 +5042,43 @@
         2
       ],
       [
-        "Scinexx",
+        "Kompas.com",
+        1
+      ],
+      [
+        "جريدة المدينة",
+        1
+      ],
+      [
+        "newscentermaine.com",
+        1
+      ],
+      [
+        "Gizmodo en Español",
+        1
+      ],
+      [
+        "العربية",
+        1
+      ],
+      [
+        "Carbon Herald",
+        1
+      ],
+      [
+        "صحيفة مال",
+        1
+      ],
+      [
+        "صحيفة سويفت نيوز",
+        1
+      ],
+      [
+        "صحيفة الحدث",
+        1
+      ],
+      [
+        "BurgasMedia",
         1
       ],
       [
@@ -4773,60 +5140,24 @@
       [
         "popularmechanics.com",
         1
-      ],
-      [
-        "environment coastal & offshore",
-        1
-      ],
-      [
-        "news.mongabay.com",
-        1
-      ],
-      [
-        "ansa.it",
-        1
-      ],
-      [
-        "comunicalo.it",
-        1
-      ],
-      [
-        "PR Newswire",
-        1
-      ],
-      [
-        "Open Access Government",
-        1
-      ],
-      [
-        "radiolombardia.it",
-        1
-      ],
-      [
-        "miragenews.com",
-        1
-      ],
-      [
-        "EurekAlert!",
-        1
-      ],
-      [
-        "ilmessaggero.it",
-        1
-      ],
-      [
-        "cnr.it",
-        1
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        142
+        152
       ],
       [
         "Restoration",
-        13
+        14
+      ],
+      [
+        "Climate & heat",
+        9
+      ],
+      [
+        "Science & discovery",
+        9
       ],
       [
         "Conservation & policy",
@@ -4837,15 +5168,7 @@
         8
       ],
       [
-        "Science & discovery",
-        7
-      ],
-      [
         "Wildlife & biodiversity",
-        6
-      ],
-      [
-        "Climate & heat",
         6
       ],
       [
@@ -4868,7 +5191,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        134
+        147
       ],
       [
         "GDELT",
