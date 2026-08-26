@@ -1,10 +1,204 @@
 {
-  "generated_at": "2026-08-25T06:02:52.235091+00:00",
+  "generated_at": "2026-08-26T06:04:30.633657+00:00",
   "baseline_complete": true,
-  "article_count": 195,
-  "new_today": 13,
+  "article_count": 203,
+  "new_today": 8,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "7b68b50fdb2fd5bb4c",
+      "title": "DP WORLD LAUNCHES FIRST GLOBAL SEAGRASS RESTORATION INITIATIVE IN SOUTH KOREA - Data Portuaria",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU29YRVExVUNRNHRtZHlKTHZra1VCZXFFTkpacmFUaVRIMXU0SVFWaXBVRGZzclYtQlBVenlGU1BTNHM1dmQzNFRRUEJmMFVqN0Q4SXdxc1dObngybktDSFJsOUVRem1wSVRwTnRYUXI4LVZuSTY5RkM2TGNQM2N6cVg0RW5GeURkOThFb0xvVHkyTWVVRkVLZF9JdmNuRU1RbUx5VGlrNFByTTMxSThSempPbEF1Zzg3Q2xTdGlxZzhlVllp?oc=5",
+      "outlet": "Data Portuaria",
+      "domain": "news.google.com",
+      "published_at": "2026-08-26T01:52:18+00:00",
+      "language": "Spanish",
+      "source_country": "MX",
+      "image": "",
+      "description": "DP WORLD LAUNCHES FIRST GLOBAL SEAGRASS RESTORATION INITIATIVE IN SOUTH KOREA Data Portuaria",
+      "themes": [
+        "Restoration",
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (MX)",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "baseline": false
+    },
+    {
+      "id": "4c743ac5e5f0e7079a",
+      "title": "Λιβάδια Ποσειδωνίας: Τα «δάση» των ελληνικών θαλασσών χρειάστηκαν αιώνες για να αναπτυχθούν, αλλά καταστρέφονται σε λίγα λεπτά - Popaganda",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUEdVdW82cEl1bEVQTHN6ZzNSVzhmWW9Qdy1EQjduak03eTM5SmxhUThXeDdtOTR3T1RQX3RpVV9ZWC1zZXdGLVIyZi1PQ1U1Q1c3MUM3ZERuR2xoYlpaRmZZdmUyX3hobFRqYlUxekVBYzZQMWFoV0tMTnhVYThjS1Q4VHRHX2xtbTBwNVpPSm5KWUJ1MFl2bTJNOUo2LXhWa0hzWS1LQjNKcW1iMlliS2hicXRBSGhyWmozclNoMk80VkJ6NW9aOU1DLXlWbGRSNlp2RWQyQTJfVmdkSjFVdGx4N2RScUFsMHRQV2pHZUVJRmF6UXVlV1VkZjVYUEVNZWpJZklB?oc=5",
+      "outlet": "Popaganda",
+      "domain": "news.google.com",
+      "published_at": "2026-08-25T13:30:29+00:00",
+      "language": "Greek",
+      "source_country": "GR",
+      "image": "",
+      "description": "Λιβάδια Ποσειδωνίας: Τα «δάση» των ελληνικών θαλασσών χρειάστηκαν αιώνες για να αναπτυχθούν, αλλά καταστρέφονται σε λίγα λεπτά Popaganda",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Greek (GR)",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "baseline": false
+    },
+    {
+      "id": "a306434a45dc56839a",
+      "title": "Seagrass plays a big role in reducing climate change- study finds - Energy Live News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdi11bG12bUQ4dGxiZ1dBbDJlVDc1ZEZpTS1ERTB3aHZoZ0UwaGpCYkx2ZWNqbmVaNlNwTWk1aXoxTS1fWUpCS1F4TDNvSmxGZ2JROEk3emRJRGFwMkVoNHJhMjZUa29JMWo1NG9BWEExQ2xYUEo4RFNrd2lBbmY1Zm1reEt5aXJnQ08yQk9LenJncXpvVEROY1B3YnN2anc5Rm1hMTduNTlEeVk?oc=5",
+      "outlet": "Energy Live News",
+      "domain": "news.google.com",
+      "published_at": "2026-08-25T13:02:20+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass plays a big role in reducing climate change- study finds Energy Live News",
+      "themes": [
+        "Climate & heat",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "baseline": false
+    },
+    {
+      "id": "50019e38e168987e4a",
+      "title": "アマモ観察を通じて海の環境を学ぶ「ぐりりの海かんさつ」を 開催！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oakpwem1uNF9EMmZSRXlXaGpKVGgzSF9paE1HODVUUlFGemxwNFJwQllqaHFnRVhIS214VHM4aF9vMjE5Y2ZiSUlDb3hXbjRkZzJtR2l6TExvWmh2MzY2cXBJZFVmWmJCTnc?oc=5",
+      "outlet": "PR TIMES",
+      "domain": "news.google.com",
+      "published_at": "2026-08-25T10:07:23+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "アマモ観察を通じて海の環境を学ぶ「ぐりりの海かんさつ」を 開催！ PR TIMES",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "baseline": false
+    },
+    {
+      "id": "5bf41d988b922fea3e",
+      "title": "Λιβάδια Ποσειδωνίας: Τα «δάση» των ελληνικών θαλασσών που χρειάστηκαν αιώνες για να αναπτυχθούν και καταστρέφονται σε λίγα λεπτά - ProtoThema",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMTRGLVlZeGozQmxLN1RVMUZjVnI3UmhwMWFDTWUxMlhJX0wzc2lFczc5aEpkV3dXNTlQTjI4eHhJTXBlcU96N0NTVzJMSkJRb1Y1NThBWDJrQzlLMzNZcTdzdlBvY2hGM2NtdE1vbUJjMUZVazZqTlNLMTdaREtiVDl0UEU5dk45bzFEbGJMb2NiM3pJbnVMSi1fUXRwM0g5LWlRVUtHekpsc2kzWkFvZVFVSW9qa2cyWTJCN1BWWF9SSjduQ3R3LTNxblFOd2VwdmF1dl85WlY2cGNfNEtLd0JTV3VDd0M2eEdJVngtSFNMZDM1RGtvYmprSzVNeUk3b1ozNi1n?oc=5",
+      "outlet": "ProtoThema",
+      "domain": "news.google.com",
+      "published_at": "2026-08-25T09:37:00+00:00",
+      "language": "Greek",
+      "source_country": "GR",
+      "image": "",
+      "description": "Λιβάδια Ποσειδωνίας: Τα «δάση» των ελληνικών θαλασσών που χρειάστηκαν αιώνες για να αναπτυχθούν και καταστρέφονται σε λίγα λεπτά ProtoThema",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Greek (GR)",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "baseline": false
+    },
+    {
+      "id": "a29b9afc414b566eb1",
+      "title": "دراسة لـ«كاوست»: استعادة مروج الأعشاب البحرية فرصة لتعزيز التمويل المناخي - صحيفة مكة",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FaTdYV01vUTl3VVE1b3JqMl9XWVdFMVdfRF91ZGtHQUtJRU1kbllsWk1BYkRMVzhGUXFGc21NR3hiTFVnMjc3REdERHFHTlloZEJyZFJn0gFaQVVfeXFMT1dPVGRwOVR2NmhNWTBvZ2J1NDJHbzdFdDZfcDFBclZBZWsydkFBd0tLWHNlVWJQODluZ21jS09aWXZiYlNVTnI2cWJhMVhJdENENDFrcHZpaXJ3?oc=5",
+      "outlet": "صحيفة مكة",
+      "domain": "news.google.com",
+      "published_at": "2026-08-25T09:30:27+00:00",
+      "language": "Arabic",
+      "source_country": "AE",
+      "image": "",
+      "description": "دراسة لـ«كاوست»: استعادة مروج الأعشاب البحرية فرصة لتعزيز التمويل المناخي صحيفة مكة",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Arabic (AE)",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "baseline": false
+    },
+    {
+      "id": "b76b62945f07784fc8",
+      "title": "First Permanent Seagrass Exhibition in Bulgaria Opens in Burgas - БТА",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWkVoVnVhR1E1NGZ6RnFxbDFoV3NMMnBkeWd3by1hdGk4TXI2Tm85WVdJLWNoR1I0WVVLTHljMFpXM045bXg1bmxhY2tSMGtsNl9kOF84RFpXY0RYOXZYU0Jkd2pLTm9CTU1GblBKbnlSY1pHcmlhX0t2bVVlRlB3QnhSYUFmdmhua3VVZ2lmWWNFM0F6eGRxalJ6eS15aXpUc19Ob0lLUXVIZw?oc=5",
+      "outlet": "БТА",
+      "domain": "news.google.com",
+      "published_at": "2026-08-25T08:33:23+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "First Permanent Seagrass Exhibition in Bulgaria Opens in Burgas БТА",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "baseline": false
+    },
+    {
+      "id": "3077df4d625aaa9487",
+      "title": "2-Pack Handcrafted Seagrass & Raffia Baskets – Threshold Style, Brown, Perfect For Easter Or Storage - Harnas.id",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTdE1RV2o3ZWd1NE5RdEFDU3N1OUM5UDhFZGJ1Q0pKYldBU1N5YTc1c2tidzNYTUhpZjJld05xMGFieV91bmNwQlA4UjVkRGZNU1JIUE9B?oc=5",
+      "outlet": "Harnas.id",
+      "domain": "news.google.com",
+      "published_at": "2026-08-25T07:55:22+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "2-Pack Handcrafted Seagrass & Raffia Baskets – Threshold Style, Brown, Perfect For Easter Or Storage Harnas.id",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "baseline": false
+    },
     {
       "id": "2fad70e712c3368f92",
       "title": "Suhu Laut Naik, Kemampuan Padang Lamun Menyimpan Karbon Alami Merosot - Kompas.com",
@@ -26,7 +220,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": false
     },
     {
@@ -50,7 +244,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": false
     },
     {
@@ -74,7 +268,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": false
     },
     {
@@ -98,7 +292,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": false
     },
     {
@@ -122,7 +316,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": false
     },
     {
@@ -147,7 +341,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": false
     },
     {
@@ -173,7 +367,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": false
     },
     {
@@ -197,7 +391,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": false
     },
     {
@@ -245,7 +439,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": false
     },
     {
@@ -269,7 +463,7 @@
       ],
       "search_route": "Google News Russian (RU)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": false
     },
     {
@@ -293,7 +487,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": false
     },
     {
@@ -341,7 +535,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": false
     },
     {
@@ -583,7 +777,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": false
     },
     {
@@ -801,7 +995,7 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": true
     },
     {
@@ -851,7 +1045,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": true
     },
     {
@@ -923,7 +1117,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": true
     },
     {
@@ -949,7 +1143,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": true
     },
     {
@@ -1024,7 +1218,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": true
     },
     {
@@ -1216,7 +1410,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": true
     },
     {
@@ -1433,7 +1627,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": true
     },
     {
@@ -2035,7 +2229,8 @@
       "themes": [
         "Conservation & policy",
         "Climate & heat",
-        "Blue carbon"
+        "Blue carbon",
+        "Development & infrastructure"
       ],
       "taxa": [],
       "relevance": 12,
@@ -2044,7 +2239,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-26",
       "baseline": true
     },
     {
@@ -2260,7 +2455,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": true
     },
     {
@@ -2478,7 +2673,7 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-26",
       "baseline": true
     },
     {
@@ -2890,7 +3085,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "baseline": true
     },
     {
@@ -4739,7 +4934,7 @@
     "languages": [
       [
         "English",
-        52
+        55
       ],
       [
         "German",
@@ -4763,11 +4958,11 @@
       ],
       [
         "Japanese",
-        9
+        10
       ],
       [
         "Spanish",
-        7
+        8
       ],
       [
         "Korean",
@@ -4775,7 +4970,7 @@
       ],
       [
         "Arabic",
-        4
+        5
       ],
       [
         "Thai",
@@ -4792,6 +4987,10 @@
       [
         "Portuguese",
         3
+      ],
+      [
+        "Greek",
+        2
       ],
       [
         "Russian",
@@ -4821,7 +5020,7 @@
       ],
       [
         "GB",
-        28
+        31
       ],
       [
         "TR",
@@ -4836,15 +5035,15 @@
         11
       ],
       [
+        "JP",
+        10
+      ],
+      [
         "CN",
         10
       ],
       [
         "Italy",
-        9
-      ],
-      [
-        "JP",
         9
       ],
       [
@@ -4854,6 +5053,10 @@
       [
         "US",
         6
+      ],
+      [
+        "AE",
+        5
       ],
       [
         "ID",
@@ -4868,7 +5071,7 @@
         5
       ],
       [
-        "AE",
+        "MX",
         4
       ],
       [
@@ -4880,16 +5083,16 @@
         4
       ],
       [
-        "MX",
-        3
-      ],
-      [
         "NL",
         3
       ],
       [
         "PT",
         3
+      ],
+      [
+        "GR",
+        2
       ],
       [
         "ES",
@@ -4970,6 +5173,10 @@
         3
       ],
       [
+        "PR TIMES",
+        2
+      ],
+      [
         "Scinexx",
         2
       ],
@@ -5042,6 +5249,34 @@
         2
       ],
       [
+        "Data Portuaria",
+        1
+      ],
+      [
+        "Popaganda",
+        1
+      ],
+      [
+        "Energy Live News",
+        1
+      ],
+      [
+        "ProtoThema",
+        1
+      ],
+      [
+        "صحيفة مكة",
+        1
+      ],
+      [
+        "БТА",
+        1
+      ],
+      [
+        "Harnas.id",
+        1
+      ],
+      [
         "Kompas.com",
         1
       ],
@@ -5108,56 +5343,24 @@
       [
         "dbalears.cat",
         1
-      ],
-      [
-        "eldiario.es",
-        1
-      ],
-      [
-        "이미디어",
-        1
-      ],
-      [
-        "kompas.com",
-        1
-      ],
-      [
-        "CornishStuff",
-        1
-      ],
-      [
-        "padovanews.it",
-        1
-      ],
-      [
-        "straitstimes.com",
-        1
-      ],
-      [
-        "RRI.co.id",
-        1
-      ],
-      [
-        "popularmechanics.com",
-        1
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        152
+        158
       ],
       [
         "Restoration",
-        14
+        15
       ],
       [
         "Climate & heat",
-        9
+        10
       ],
       [
         "Science & discovery",
-        9
+        10
       ],
       [
         "Conservation & policy",
@@ -5168,15 +5371,15 @@
         8
       ],
       [
+        "Development & infrastructure",
+        7
+      ],
+      [
         "Wildlife & biodiversity",
         6
       ],
       [
         "Community & culture",
-        5
-      ],
-      [
-        "Development & infrastructure",
         5
       ],
       [
@@ -5191,7 +5394,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        147
+        155
       ],
       [
         "GDELT",
