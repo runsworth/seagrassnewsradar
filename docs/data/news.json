@@ -1,10 +1,685 @@
 {
-  "generated_at": "2026-08-26T06:04:30.633657+00:00",
+  "generated_at": "2026-08-27T16:48:06.355294+00:00",
   "baseline_complete": true,
-  "article_count": 203,
-  "new_today": 8,
+  "article_count": 262,
+  "new_today": 59,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "56e6bc395fb9d791fd",
+      "title": "Kraamkamer van de zee in gevaar: Nederlandse onderzoekers helpen verdwijnend zeegras herstellen - De Telegraaf",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOElzS2t6Z2xwQXo2M1JwRWVzekota20xMmV3ZTlWTHRNVTNYaU1Famp4T2ZJcnNnQ3FnZHBPTm1lV1RHVTc1VzdjNmZIMUl4UmJuWmFfVjF5Tzc1al9CUlNWeDE0VF9XVmwtMXhUdXdUZ2xMUGNiZWNfVlJwZVpQSXJBVWNGd2t1U1BFeUxzRjBfdlFXeUlOeFExQXItamJ3NXg3ZmYyQ3U4emN3TXllNERkZnMtR015WnRNUkcyVGROSkR1VjFXaHA5ZFVzaVV1RjNCYnFLRVEtLUZj?oc=5",
+      "outlet": "De Telegraaf",
+      "domain": "news.google.com",
+      "published_at": "2026-08-27T13:00:00+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Kraamkamer van de zee in gevaar: Nederlandse onderzoekers helpen verdwijnend zeegras herstellen De Telegraaf",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "2b8ab6068750f153a6",
+      "title": "Hands - on experience for Anya in Ian Napier studentship",
+      "url": "https://www.shetnews.co.uk/2026/08/27/hands-experience-anya-ian-napier",
+      "outlet": "shetnews.co.uk",
+      "domain": "shetnews.co.uk",
+      "published_at": "2026-08-27T12:30:00+00:00",
+      "language": "English",
+      "source_country": "United Kingdom",
+      "image": "https://www.shetnews.co.uk/wp-content/uploads/2026/08/p_20260811_145021_1.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "c9e3d33721a2f37eda",
+      "title": "Bodyboards rescued from disposal help scientists protect Devon’s seagrass habitats - We Are South Devon",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYU43R0FPcDZoeW1QbUgweHkyTzFYREVNcVpJOEVSTVhSdkQ4UFdSbDBEVWQxY1V5Mk15dlFuelltWU5EVmtNWVZldmVHUXhTRjNxXzdScUc4T083Q1d6QjlEeGVSRmhJR0dlck5GLXpNQ2lGb0Nac1BxVHpJSVdIdW9mYjJjREFDSEluNkJScDdXTmNfZ0E4WTBTTHFSV3pmVjUtWHlmeEpRa0xLbHRj?oc=5",
+      "outlet": "We Are South Devon",
+      "domain": "news.google.com",
+      "published_at": "2026-08-27T11:43:50+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Bodyboards rescued from disposal help scientists protect Devon’s seagrass habitats We Are South Devon",
+      "themes": [
+        "Conservation & policy",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "1250946d7fe310e770",
+      "title": "Skeptical Science New Research for Week # 35 2026",
+      "url": "https://skepticalscience.com/new_research_2026_35.html",
+      "outlet": "skepticalscience.com",
+      "domain": "skepticalscience.com",
+      "published_at": "2026-08-27T10:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://skepticalscience.com/public/assets/images/og/button_sks2_200.jpg",
+      "description": "",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "95f38816e260df2a5f",
+      "title": "El Acuario de Sevilla incorpora a sus instalaciones los dragones de mar , una extaordinaria especie",
+      "url": "https://www.abc.es/queplan/sevilla/que-hacer/acuario-sevilla-incorpora-instalaciones-dragones-mar-extaordinaria-20260827105942-nts.html",
+      "outlet": "abc.es",
+      "domain": "abc.es",
+      "published_at": "2026-08-27T09:30:00+00:00",
+      "language": "Spanish",
+      "source_country": "Spain",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/queplan/2026/08/26/Acuario-Sevilla_dragones-U10231371060VtQ-1200x630@diario_abc.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "7e510ad8c26af2e18b",
+      "title": "DAÜ Akademisyenleri Milas'ta yürütülen deniz çayırlarını korumayla ilgili projeyi yönetiyor - Kıbrıs Postası",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR2t6U09WUFRVbEdTTEZ4SV9EVlJKanBrRGhiRGlDS1RPUXN5Q2dzYV94cGNsN2FMZm9TTTNCMWUtdFNxLVFvRXpDQXVYNzBXWm14QUlKVW5NeWJVWGFrcVgweUowRkV6a1NxNWwwLVNRTGx2Ymd5R2VhdnRsWG9aT0tLTnBpcGhlaTV4dEcxUWtrZ1hFZEJXTkhzTGFibUFmRENIdEM4MTdicC03VGZUb0tmV3A3b2Z5S18xSFUtajg1UDNYNW9Hc2RTbm16VEh1Qm14Q20zU2pQVEVHbEdTVg?oc=5",
+      "outlet": "Kıbrıs Postası",
+      "domain": "news.google.com",
+      "published_at": "2026-08-27T08:51:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "DAÜ Akademisyenleri Milas'ta yürütülen deniz çayırlarını korumayla ilgili projeyi yönetiyor Kıbrıs Postası",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "dd0ada7668698944e4",
+      "title": "Promo Indomaret Super Hemat 27 Agustus - 2 September 2026 , Body Care Diskon hingga 50 %",
+      "url": "https://momsmoney.kontan.co.id/news/promo-indomaret-super-hemat-27-agustus-2-september-2026-body-care-diskon-hingga-50",
+      "outlet": "momsmoney.kontan.co.id",
+      "domain": "momsmoney.kontan.co.id",
+      "published_at": "2026-08-27T08:15:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://foto.kontan.co.id/FLZEZ2VO4yqGIoiCykOeE1MdNo4=/smart/filters:format(webp)/2026/02/05/1429825005p.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "6831353ed880ae12e8",
+      "title": "AMBIENTE - MARE - LE RETI FANTASMA MINACCIA PER LECOSISTEMA MARINO E PER LA SICUREZZA DELLE PICCOLE IMBARCAZIONI : LIMPEGNO DEL CNR - IRBIM / News / Italian Network",
+      "url": "https://www.italiannetwork.it/news.aspx?id=86001",
+      "outlet": "italiannetwork.it",
+      "domain": "italiannetwork.it",
+      "published_at": "2026-08-27T05:30:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "5799e5caf783ed19c3",
+      "title": "ช่วยโลกอยู่เงียบ ๆ “หญ้าทะเล” กับภารกิจลับ ดูดคาร์บอนสู้โลกร้อน - TrueID",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LSERQY3hVb25mTk50cU52ZlAzMElpazJtdmtjTUE0Ymp6aEFzRlhoUW5rWl9nU0lTT2hiSnhMX1Z5dWx4MFZsSkZWWHFELUJ1R01qdEh3?oc=5",
+      "outlet": "TrueID",
+      "domain": "news.google.com",
+      "published_at": "2026-08-27T04:30:00+00:00",
+      "language": "Thai",
+      "source_country": "TH",
+      "image": "",
+      "description": "ช่วยโลกอยู่เงียบ ๆ “หญ้าทะเล” กับภารกิจลับ ดูดคาร์บอนสู้โลกร้อน TrueID",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Thai (TH)",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "ec4ffb80835bafeee7",
+      "title": "Invasive green crabs are bad for the environment , so New Englanders are starting to eat more of them",
+      "url": "https://www.boston.com/news/local-news/2026/08/26/invasive-green-crabs-are-bad-for-the-environment-so-new-englanders-are-starting-to-eat-more-of-them",
+      "outlet": "boston.com",
+      "domain": "boston.com",
+      "published_at": "2026-08-27T01:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/08/crab-6a8f65224fa9f-768x432.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "e702cddea77af0decb",
+      "title": "The Indian Ocean Is Sounding the Alarm and Its Islands Are Among the First to Hear It",
+      "url": "https://www.globalissues.org/news/2026/08/26/43901",
+      "outlet": "globalissues.org",
+      "domain": "globalissues.org",
+      "published_at": "2026-08-27T01:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://static.globalissues.org/ips/2026/08/image_260826____.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "858d1a889793934b81",
+      "title": "Drought , then fire . Where does that leave the Everglades ?",
+      "url": "https://www.wlrn.org/environment/2026-08-26/drought-fire-everglades-peat-national-park",
+      "outlet": "wlrn.org",
+      "domain": "wlrn.org",
+      "published_at": "2026-08-26T19:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "http://npr-brightspot.s3.amazonaws.com/87/29/41cf943549788b48cd394010ccf7/vulture-fire-everglades-national-park-august-22-2026-uswfs-photo.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "d4423f5fd7625ad88b",
+      "title": "Comedian Forrest Shaw : The Ocean Hates You",
+      "url": "https://www.wiscassetnewspaper.com:443/article/comedian-forrest-shaw-ocean-hates-you/273706",
+      "outlet": "wiscassetnewspaper.com",
+      "domain": "wiscassetnewspaper.com",
+      "published_at": "2026-08-26T17:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "b2926a718c0e8e6d17",
+      "title": "Edgewater launches oyster and seagrass restoration project at Veteran’s Park - WKMG",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZEtoZlY4TWxWang2MTVvb3VGSHZVZFlvZm41SXhfUEVOVHJCcVNkbVVESnljZ25yU2ExNll0VEdualZDYnktMXNqdl9fTk5Ba1hwQThFNW1YT2FUejJIYU1ldklnYUhaNF9KXzk4M01nQXFnb1ZNY1BzNjJpbzluSWtyd2NTLVI3QU5uNFMwcjlhd2FpcHA2d3lZekE4MGtjMjlpOEZjb0FTSkFDa2RWNTNySUMxajlIekRsaWxZMEstTFRuR3c?oc=5",
+      "outlet": "WKMG",
+      "domain": "news.google.com",
+      "published_at": "2026-08-26T14:21:36+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Edgewater launches oyster and seagrass restoration project at Veteran’s Park WKMG",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "9095de88567aa41e43",
+      "title": "Pemkab Tanimbar - BRIN gencarkan edukasi budidaya rumput laut",
+      "url": "https://www.antaranews.com/berita/5712212/pemkab-tanimbar-brin-gencarkan-edukasi-budidaya-rumput-laut",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-08-26T12:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://img.antaranews.com/cache/1200x800/2026/08/26/RPT.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "9e25a45c809956e9a1",
+      "title": "DP WORLD LANÇA PRIMEIRA INICIATIVA GLOBAL DE RESTAURAÇÃO DE ERVAS MARINHAS NA COREIA DO SUL - Data Portuaria",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQUZjaGFCQWpvQ0JqdmtyMnQyYXRrS21LcERKRTgxS0x5QWZNVjRnVzVKSVJ5MHVZakVLdWVFaV9aVkhjdEZVczFkV1dmREVoWlZabk5QTERHeWpQSmtlRGoteXpYRmRVR3JKTmZWZnE4aVVhU0hlNjJ1Nmo4Mkt4Z3ZFU19ubDYwOEo4R3JPal82amowR2lnaWljWnNKZ095TXBrNFZ1TFhDNjJNUllsV2I2bm9XaEtmaG0xMG5KdmpnSjBN?oc=5",
+      "outlet": "Data Portuaria",
+      "domain": "news.google.com",
+      "published_at": "2026-08-26T12:32:49+00:00",
+      "language": "Portuguese",
+      "source_country": "PT",
+      "image": "",
+      "description": "DP WORLD LANÇA PRIMEIRA INICIATIVA GLOBAL DE RESTAURAÇÃO DE ERVAS MARINHAS NA COREIA DO SUL Data Portuaria",
+      "themes": [
+        "Restoration",
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Portuguese (PT)",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "c5757081351e13e1e6",
+      "title": "Sark could protect 30 % of waters in marine plan",
+      "url": "https://www.bbc.co.uk/news/articles/c4gr0dd5r3po",
+      "outlet": "bbc.co.uk",
+      "domain": "bbc.co.uk",
+      "published_at": "2026-08-26T12:15:00+00:00",
+      "language": "English",
+      "source_country": "United Kingdom",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f11/live/00f9a960-a130-11f1-aed2-8d6da8d75094.jpg",
+      "description": "",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "4a8be70c234841c5c0",
+      "title": "アマモを増やす取り組み 海の森プロジェクト 白浜町立日置中学校 和歌山県【紀南つうしん】 Brad Keller (eZiLDYJWSF) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTzgxcUo3MF92Mm5Ba1JueUozTXByS1lpRGh0bGdOUjdrdWN1ajVGRVpCaVQwY2Nab0NIRVBnR1RZdF94S1paVEFtbzBCMUt6akVxTVVLNlRJY1k?oc=5",
+      "outlet": "Mshale",
+      "domain": "news.google.com",
+      "published_at": "2026-08-26T12:06:35+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "アマモを増やす取り組み 海の森プロジェクト 白浜町立日置中学校 和歌山県【紀南つうしん】 Brad Keller (eZiLDYJWSF) Mshale",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "c73c5651f32c797734",
+      "title": "UF Landscape Architecture Earns Three ASLA National Student Awards, Including Top Honor for Seagrass Restoration Project - UF College of Design, Construction and Planning",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUVpxMmtoQlppNHZENWdiWFlPMXBZaEV5WGc5MEs2bFZ6Vk0yMUdlUFVDUlpSQWxkVndpMHpabEFPUmJfTnlmM0NscEVncnI0NmNCTmVLNnN3V3k3WGx6NXdMTXFvdHBhX3ZxZG85Y1ZId0NFbEdQa3B4MEt6a2tDc3dMaHRfbmpUamkyLWRXT1Znd05xWEhBUlRUMFIxQk1ZYzh1SGlXT0N4azhfX2ZRcFN0bTltdW5lRXVBTURheWU3MkVJenNDdVF6N1E3YkIyTkZMaUIwWWZfQk1SNGg0aXFVQnE?oc=5",
+      "outlet": "UF College of Design, Construction and Planning",
+      "domain": "news.google.com",
+      "published_at": "2026-08-26T11:50:25+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "UF Landscape Architecture Earns Three ASLA National Student Awards, Including Top Honor for Seagrass Restoration Project UF College of Design, Construction and Planning",
+      "themes": [
+        "Restoration",
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "32bd532ffbb7a37f33",
+      "title": "Wildlife Photographer of Year contest reveals preview of winning shots",
+      "url": "https://www.dunmowbroadcast.co.uk/news/national/26495701.wildlife-photographer-year-contest-reveals-preview-winning-shots",
+      "outlet": "dunmowbroadcast.co.uk",
+      "domain": "dunmowbroadcast.co.uk",
+      "published_at": "2026-08-26T09:45:00+00:00",
+      "language": "English",
+      "source_country": "United Kingdom",
+      "image": "https://www.dunmowbroadcast.co.uk/resources/images/21371977.jpg?type=og-image",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "9c7df8ed5dbc39ba81",
+      "title": "Kunci Jawaban IPS Kelas 7 SMP Halaman 11 Kurikulum Merdeka Edisi Revisi : Aktivitas 2",
+      "url": "https://www.tribunnews.com/pendidikan/7873654/kunci-jawaban-ips-kelas-7-smp-halaman-11-kurikulum-merdeka-edisi-revisi-aktivitas-2",
+      "outlet": "tribunnews.com",
+      "domain": "tribunnews.com",
+      "published_at": "2026-08-26T08:15:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://asset.tribunnews.com/zUTfgCkHVJFctxTounxlHeThDDQ=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/tribunnews/foto/bank/originals/SISWA-SMP-BELAJAR-08.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "68638a0dc73ce0cbd3",
+      "title": "Warga Pesisir Tak Boleh Terjebak Kemiskinan , Undana Dorong Inovasi Perikanan",
+      "url": "https://koran-jakarta.com/2026-08-26/warga-pesisir-tak-boleh-terjebak-kemiskinan-undana-dorong-inovasi-perikanan",
+      "outlet": "koran-jakarta.com",
+      "domain": "koran-jakarta.com",
+      "published_at": "2026-08-26T07:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://media.koran-jakarta.com/images/image-article/2026-08/26/warga-pesisir-tak-boleh-terjebak-kemiskinan-undana-dorong-inovasi-perikanan-6a8e7e75dfcba.jpg",
+      "description": "",
+      "themes": [
+        "Fisheries & food"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "bdf9f31235a14fdcb2",
+      "title": "Barantin siap bantu carikan pasar ekspor bawang goreng dari Palu",
+      "url": "https://www.antaranews.com/berita/5711431/barantin-siap-bantu-carikan-pasar-ekspor-bawang-goreng-dari-palu",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-08-26T07:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/08/26/1000185255.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "6032cbc4038afa0790",
+      "title": "On - site | Huangyan Dao : a blue haven for marine life - Xinhua",
+      "url": "https://english.news.cn/20260826/e6a5a8c1280343db9d1e53c878742e53/c.html",
+      "outlet": "english.news.cn",
+      "domain": "english.news.cn",
+      "published_at": "2026-08-26T07:00:00+00:00",
+      "language": "English",
+      "source_country": "Unknown",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "dc9ba5fe38c3f7c05f",
+      "title": "Mangrove Matters - Florida Weekly",
+      "url": "https://www.floridaweekly.com/articles/fort-myers-arts-and-entertainment-news/fort-myers/bonita-springs/mangrove-matters",
+      "outlet": "floridaweekly.com",
+      "domain": "floridaweekly.com",
+      "published_at": "2026-08-26T06:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://www.floridaweekly.com/wp-content/uploads/2026/08/1.-A-heron-perches-on-a-mangrove.-COURTESY-PHOTOCALUSA-WATERKEEPER-scaled.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "cf20208b8da42c11b1",
+      "title": "Dorong Kemandirian Desa Lifuleo , PLN UIP Nusa Tenggara Bangun Ekosistem Pariwisata Pesisir",
+      "url": "https://kupang.tribunnews.com/adv/977171/dorong-kemandirian-desa-lifuleo-pln-uip-nusa-tenggara-bangun-ekosistem-pariwisata-pesisir",
+      "outlet": "kupang.tribunnews.com",
+      "domain": "kupang.tribunnews.com",
+      "published_at": "2026-08-26T06:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://asset.tribunnews.com/QIIkaVVkndb2d1XVRhhhRIA_BFk=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/kupang/foto/bank/originals/PLN-di-LIfuleo.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "13ba9a9324bb250f00",
+      "title": "Tim Peneliti FPIK Universitas Bung Hatta Kaji Indek Kesehatan Ekosistem Lamun (Seagrass) Perairan Sumbar - Universitas Bung Hatta",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdzBWRzhyVUhSYnVoYzF6dFlPWjI4STh3anJmUkNwQVpEaUJlVmFHZ1RLTVQ0N1lQLXl3R0FRSXNOOFFuUHFtUk9wRkMzVUQ4bXRTbHl4QWU1WEdVdTN3Um1wRHFIZ0Nab0luR1lsaEVSdkczTFFJQ2hja2xneF8zb016dk8yUWh5WjRPUXd1QTFjVnZmeVhtU3RadGZ4Ui03X1ZaeG92SVpQbkZ6S05qdUFwLXZUdGR3SHZuUUFfX1VsLVNWRGhEUFdNYw?oc=5",
+      "outlet": "Universitas Bung Hatta",
+      "domain": "news.google.com",
+      "published_at": "2026-08-26T05:20:52+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Tim Peneliti FPIK Universitas Bung Hatta Kaji Indek Kesehatan Ekosistem Lamun (Seagrass) Perairan Sumbar Universitas Bung Hatta",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "b7dfa17c18789f9a1f",
+      "title": "16 of the best hotels in Iceland",
+      "url": "https://www.thetimes.com/travel/destinations/europe-travel/iceland/best-hotels-in-iceland-vfpr6w0cs",
+      "outlet": "thetimes.com",
+      "domain": "thetimes.com",
+      "published_at": "2026-08-26T05:15:00+00:00",
+      "language": "English",
+      "source_country": "Unknown",
+      "image": "https://www.thetimes.com/imageserver/image/60d928f7-a936-4af7-8e0e-fb415c2aa191.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
     {
       "id": "7b68b50fdb2fd5bb4c",
       "title": "DP WORLD LAUNCHES FIRST GLOBAL SEAGRASS RESTORATION INITIATIVE IN SOUTH KOREA - Data Portuaria",
@@ -27,7 +702,417 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "eb94139537aef8c75a",
+      "title": "Jupiter Suni Sands development deal faces new uncertainty",
+      "url": "https://www.wptv.com/news/local-news/our-community/jupiter-tequesta-juno-beach/suni-sands-development-deal-in-doubt-as-environmentalists-push-for-preservation-in-jupiter",
+      "outlet": "wptv.com",
+      "domain": "wptv.com",
+      "published_at": "2026-08-26T01:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://cf.cdn.uplynk.com/ausw2/slices/8b9/2fbf8a5e953e4a01960f2f5161cc4953/8b97aa456ebf4d77be47a1204a7de10b/poster_4e276eb8041d4d8bab3633f6c7a01915.jpg",
+      "description": "",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "25683d0f993f014018",
+      "title": "Terobosan Energi Bersih ! PLTS Pasok Listrik 24 Jam untuk Pulau Rengit",
+      "url": "https://koran-jakarta.com/2026-08-26/terobosan-energi-bersih-plts-pasok-listrik-24-jam-untuk-pulau-rengit",
+      "outlet": "koran-jakarta.com",
+      "domain": "koran-jakarta.com",
+      "published_at": "2026-08-26T01:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://media.koran-jakarta.com/images/image-article/2026-08/26/terobosan-energi-bersih-plts-pasok-listrik-24-jam-untuk-pulau-rengit-6a8e195853d97.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "757671b6f70cd5687f",
+      "title": "Butterfly Narrow Escape Among Wildlife Photographer of the Year Finalists",
+      "url": "https://petapixel.com/2026/08/25/butterflys-narrow-escape-among-wildlife-photographer-of-the-year-finalists",
+      "outlet": "petapixel.com",
+      "domain": "petapixel.com",
+      "published_at": "2026-08-26T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://petapixel.com/assets/uploads/2026/08/Wildlife-Photographer-of-the-Year.jpg",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "4ed48cfd4b4507cb81",
+      "title": "First look at Wildlife Photographer of the Year entries - from black bear taking a dip to bullfrog near miss",
+      "url": "https://www.aol.co.uk/articles/first-look-wildlife-photographer-entries-230147000.html",
+      "outlet": "aol.co.uk",
+      "domain": "aol.co.uk",
+      "published_at": "2026-08-25T23:45:00+00:00",
+      "language": "English",
+      "source_country": "United Kingdom",
+      "image": "https://hermes.media.static.aol.com/media/2026/08/25/1b5a03f6-6522-3fdc-b5e0-74737bb3bdad/a56b9fca-0684-4fe0-965c-a43f9b8ae449.jpg",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "cd5de62f8b03ef9540",
+      "title": "Wildlife Photographer of Year contest unveils preview of winning shots",
+      "url": "https://www.aol.co.uk/articles/wildlife-photographer-contest-unveils-preview-230100000.html",
+      "outlet": "aol.co.uk",
+      "domain": "aol.co.uk",
+      "published_at": "2026-08-25T23:45:00+00:00",
+      "language": "English",
+      "source_country": "United Kingdom",
+      "image": "https://hermes.media.static.aol.com/media/2026/08/25/50e269f0-473e-329e-bb68-e49d3e1024cb/87066aa9-9ad3-4fee-a723-5eaf6d2d7b1e.jpg",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "c09513d2dc2070e81e",
+      "title": "Wildlife Photographer of the Year 2026 just released a sneak peek at its incredible shortlisted winning entries and it proves that DSLR cameras still rule this photography genre",
+      "url": "https://www.techradar.com/cameras/photography/wildlife-photographer-of-the-year-2026-just-released-a-sneak-peek-at-its-incredible-shortlisted-winning-entries-and-it-proves-that-dslrs-still-rule-this-photography-genre",
+      "outlet": "techradar.com",
+      "domain": "techradar.com",
+      "published_at": "2026-08-25T23:30:00+00:00",
+      "language": "English",
+      "source_country": "United Kingdom",
+      "image": "https://cdn.mos.cms.futurecdn.net/nJGFsuaSN6qAaWoUAchfGD-1600-80.jpg",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "78c89e60f24af604be",
+      "title": "Suni Sands development deal in doubt as environmentalists push for preservation in Jupiter",
+      "url": "https://www.wflx.com/2026/08/25/suni-sands-development-deal-doubt-environmentalists-push-preservation-jupiter",
+      "outlet": "wflx.com",
+      "domain": "wflx.com",
+      "published_at": "2026-08-25T22:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://gray-wflx-prod.gtv-cdn.com/resizer/v2/XXRL7LTUXRI7ZIKCMHN7H636LQ.jpg?auth=c59046e4949789592c2d6b8a2a9a1e9406de7c2977f2bf3a6066be40a49ea2fd&smart=true",
+      "description": "",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "a47502d388b4e6de6f",
+      "title": "We finally have some encouraging news on Great Barrier Reef water quality",
+      "url": "https://theconversation.com/we-finally-have-some-encouraging-news-on-great-barrier-reef-water-quality-289723",
+      "outlet": "theconversation.com",
+      "domain": "theconversation.com",
+      "published_at": "2026-08-25T22:30:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://images.theconversation.com/files/755068/original/file-20260820-50-9mhy3o.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C2448%2C1224&q=45&auto=format&fit=crop",
+      "description": "",
+      "themes": [
+        "Pollution & water quality"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "10c98569dd8bdb0348",
+      "title": "Clima , mare mai così caldo : nuovo record per la temperatura",
+      "url": "https://www.vglobale.it/2026/08/24/clima-mare-mai-cosi-caldo-nuovo-record-per-la-temperatura",
+      "outlet": "vglobale.it",
+      "domain": "vglobale.it",
+      "published_at": "2026-08-25T21:30:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "https://www.vglobale.it/wp-content/uploads/2018/04/td_1068x580.png",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "2d0f81b59eb3a1082f",
+      "title": "Era la especie más cazada , hoy da señales de recuperación : lo que los restos de tortugas en el Caribe revelan sobre conservación y cambio climático",
+      "url": "https://www.infobae.com/america/medio-ambiente/2026/08/25/era-la-especie-mas-cazada-hoy-da-senales-de-recuperacion-lo-que-los-restos-de-tortugas-en-el-caribe-revelan-sobre-conservacion-y-cambio-climatico",
+      "outlet": "infobae.com",
+      "domain": "infobae.com",
+      "published_at": "2026-08-25T19:00:00+00:00",
+      "language": "Spanish",
+      "source_country": "Argentina",
+      "image": "https://www.infobae.com/resizer/v2/UEHP4QP7RRGFJIHUR2P3F2LDQU.png?auth=bea1acd072bf813439c997a966be7f286b94cd59867a0bf9e910e4fe6609a2d8&smart=true&quality=85",
+      "description": "",
+      "themes": [
+        "Conservation & policy",
+        "Climate & heat"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "23dc64a64ce3dada67",
+      "title": "Sanibel Sea School hosts Coral Reef Week - SANIBEL - CAPTIVA - Island Reporter , Islander and Current",
+      "url": "https://www.captivasanibel.com/news/2026/08/sanibel-sea-school-hosts-coral-reef-week",
+      "outlet": "captivasanibel.com",
+      "domain": "captivasanibel.com",
+      "published_at": "2026-08-25T18:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://ogden_images.s3.amazonaws.com/florida.ogdennews.com/images/sites/3/2026/08/25111325/SSS-CAMP-CORAL-REEF-WEEK-FU-1.png",
+      "description": "",
+      "themes": [
+        "Development & infrastructure",
+        "Community & culture"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "9ea2dfa018c363e311",
+      "title": "This Oceanfront Bonaire Hotel Has a Private Pier , a House Reef and a New General Manager",
+      "url": "https://www.caribjournal.com/2026/08/25/bellafonte-bonaire-hotel",
+      "outlet": "caribjournal.com",
+      "domain": "caribjournal.com",
+      "published_at": "2026-08-25T18:30:00+00:00",
+      "language": "English",
+      "source_country": "Jamaica",
+      "image": "https://www.caribjournal.com/wp-content/uploads/2026/08/bellafonte-bonaire.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "0b630dc50bbcc6e38b",
+      "title": "The U . S . Virgin Islands Just Landed 3 of the World Best Beaches | National",
+      "url": "https://www.hometownregister.com/news/national/the-u-s-virgin-islands-just-landed-3-of-the-world-s-best-beaches/article_5fb2df05-891d-50e6-badf-d3909b7c05aa.html",
+      "outlet": "hometownregister.com",
+      "domain": "hometownregister.com",
+      "published_at": "2026-08-25T18:15:00+00:00",
+      "language": "English",
+      "source_country": "Unknown",
+      "image": "https://bloximages.chicago2.vip.townnews.com/hometownregister.com/content/tncms/assets/v3/editorial/8/91/891029af-d8a8-5b10-b8bd-df69d02852a1/6a8daac70478b.image.jpg?crop=1000%2C525%2C0%2C71",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "0f9aec5003c10b4936",
+      "title": "The U . S . Virgin Islands Just Landed 3 of the World Best Beaches | National News",
+      "url": "https://www.mykxlg.com/news/national/the-u-s-virgin-islands-just-landed-3-of-the-world-s-best-beaches/article_e99224c5-cd31-5136-ba35-f629ecb58c12.html",
+      "outlet": "mykxlg.com",
+      "domain": "mykxlg.com",
+      "published_at": "2026-08-25T18:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://bloximages.newyork1.vip.townnews.com/mykxlg.com/content/tncms/assets/v3/editorial/a/e6/ae62d64f-993b-5801-8229-b6899836e997/6a8daac33ad82.image.jpg?crop=1000%2C525%2C0%2C71",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "aacdd7b7420ee0b9ad",
+      "title": "The U . S . Virgin Islands Just Landed 3 of the World Best Beaches | News",
+      "url": "https://www.wyomingnewsnow.tv/news/national/the-u-s-virgin-islands-just-landed-3-of-the-world-s-best-beaches/article_81983de6-9f4d-5e98-818e-1edd1bb763fd.html",
+      "outlet": "wyomingnewsnow.tv",
+      "domain": "wyomingnewsnow.tv",
+      "published_at": "2026-08-25T16:45:00+00:00",
+      "language": "English",
+      "source_country": "Unknown",
+      "image": "https://bloximages.chicago2.vip.townnews.com/wyomingnewsnow.tv/content/tncms/assets/v3/editorial/9/7d/97da7e7f-c326-56a9-809d-3f6cd9067d3a/6a8daaa1a3a18.image.jpg?crop=1000%2C525%2C0%2C71",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "7320798848f6da42b2",
+      "title": "التمويل المناخي يفتح الإستثمار لإستعادة مروج الأعشاب البحرية - Azzaman",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOVW1KWG5EVDlack9CeUJRWllUMUJJX1Z5cXgzd0VrZ2FFM3J5V1IyVUFsUFB0SE84NWpJaTB6c21BR1h2R1VjNUxCeHl1bkdEaFFnNnhtZGpWNUZGYWJQdVZrM2JPbzZ4dEJGV1ZKbnpxZXBaejBrZWxGOFhDR2M3LWx5eWtucUJkLXA3ek1fYVlBX2Y5MmdGTGliNWFnOWV1bXg0US05a0YwUTFoREtRTDVsaFB6XzhLV25ueUlaSnpNQ2tLMjg0bHROajZkN2pCLTk0bFhoZmxlUGNkR1Y2YlFGS3A0ckxPeE0xVnFXUjk1amFXbjRiek04RTVxU1BLc1daa0UxcW9vczdMZEh5dF9KRFFPWUc3cFA1ZklfXzRPR1RZUWt4RTJFY256NXloQ1ZvbHFid0RsZHlNM3JhOG9Saw?oc=5",
+      "outlet": "Azzaman",
+      "domain": "news.google.com",
+      "published_at": "2026-08-25T15:49:31+00:00",
+      "language": "Arabic",
+      "source_country": "AE",
+      "image": "",
+      "description": "التمويل المناخي يفتح الإستثمار لإستعادة مروج الأعشاب البحرية Azzaman",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Arabic (AE)",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "cbfe5a6397773429a0",
+      "title": "Jejak Tak Terulang : Kisah Magis Flora Benuanta Tersirat di Wastra Ecoprint",
+      "url": "https://kaltara.antaranews.com/berita/523473/jejak-tak-terulang-kisah-magis-flora-benuanta-tersirat-di-wastra-ecoprint",
+      "outlet": "kaltara.antaranews.com",
+      "domain": "kaltara.antaranews.com",
+      "published_at": "2026-08-25T14:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/08/25/985649_1.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
       "baseline": false
     },
     {
@@ -51,7 +1136,7 @@
       ],
       "search_route": "Google News Greek (GR)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-27",
       "baseline": false
     },
     {
@@ -80,6 +1165,54 @@
       "baseline": false
     },
     {
+      "id": "c149f15d6c65bd6716",
+      "title": "Global ocean temperatures hit record high as El Nino intensifies - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+      "url": "https://dominicanrepublicpost.com/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies",
+      "outlet": "dominicanrepublicpost.com",
+      "domain": "dominicanrepublicpost.com",
+      "published_at": "2026-08-25T11:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://dominicanrepublicpost.com/app/uploads/2026/08/ap_6a8d45098d75b-1787643145-fY231N.jpg",
+      "description": "",
+      "themes": [
+        "Climate & heat"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "0ab218731ec3ef8038",
+      "title": "Kaltim ekspor 231 ton perikanan senilai Rp38 , 6 miliar",
+      "url": "https://www.antaranews.com/berita/5710483/kaltim-ekspor-231-ton-perikanan-senilai-rp386-miliar",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-08-25T11:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/08/01/1000547814.jpg",
+      "description": "",
+      "themes": [
+        "Fisheries & food"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
       "id": "50019e38e168987e4a",
       "title": "アマモ観察を通じて海の環境を学ぶ「ぐりりの海かんさつ」を 開催！ - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oakpwem1uNF9EMmZSRXlXaGpKVGgzSF9paE1HODVUUlFGemxwNFJwQllqaHFnRVhIS214VHM4aF9vMjE5Y2ZiSUlDb3hXbjRkZzJtR2l6TExvWmh2MzY2cXBJZFVmWmJCTnc?oc=5",
@@ -100,7 +1233,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-27",
       "baseline": false
     },
     {
@@ -124,7 +1257,7 @@
       ],
       "search_route": "Google News Greek (GR)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-27",
       "baseline": false
     },
     {
@@ -148,7 +1281,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-27",
       "baseline": false
     },
     {
@@ -176,6 +1309,30 @@
       "baseline": false
     },
     {
+      "id": "0bd513c99c81950b27",
+      "title": "Kantor Camat Laikang Mulai Dibangun di Lahan 1 , 1 Hektare , Rampung 120 Hari",
+      "url": "https://makassar.tribunnews.com/takalar/1848478/kantor-camat-laikang-mulai-dibangun-di-lahan-11-hektare-rampung-120-hari",
+      "outlet": "makassar.tribunnews.com",
+      "domain": "makassar.tribunnews.com",
+      "published_at": "2026-08-25T08:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://asset.tribunnews.com/awO6GqrDav6FgtcrBZZKSi4OtYs=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/makassar/foto/bank/originals/Daeng-Manye-melakukan-peletakan-batu-pertama-pembangunan-Kantor-Kecamatan-Laikang_2582026_.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
       "id": "3077df4d625aaa9487",
       "title": "2-Pack Handcrafted Seagrass & Raffia Baskets – Threshold Style, Brown, Perfect For Easter Or Storage - Harnas.id",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTdE1RV2o3ZWd1NE5RdEFDU3N1OUM5UDhFZGJ1Q0pKYldBU1N5YTc1c2tidzNYTUhpZjJld05xMGFieV91bmNwQlA4UjVkRGZNU1JIUE9B?oc=5",
@@ -200,6 +1357,54 @@
       "baseline": false
     },
     {
+      "id": "8042c3a708629f3ce3",
+      "title": "Foto : Suhu Laut Naik, Kemampuan Padang Lamun Menyimpan Karbon Alami Merosot Halaman 1 - Kompas.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX09lTjVYNHg0bFNHUXh0TlNxUHNGSVJXeDE4UzhkUWo3SWZWaEpIUkNMQjZ6dTdTYXAxZFc2R25lQU5XMHBwTHp3UmhQWXBBbXdLSlRLRDFkWHhrY3EyMFNRc3B3SzMwYm5qTXdScnlQLVVqWmgzVTlPMkhTNmR0SEdxc1RBZ2J3WmhtS1MyRDdnb09SdFJQRVV4SE1KZWxudWtlQVZhSDRkWF85OXMyOUdIQkgzbDNQWDdTd0NqZGlwZGFqRC03YQ?oc=5",
+      "outlet": "Kompas.com",
+      "domain": "news.google.com",
+      "published_at": "2026-08-25T05:44:21+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Foto : Suhu Laut Naik, Kemampuan Padang Lamun Menyimpan Karbon Alami Merosot Halaman 1 Kompas.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "020334ac25c41023ba",
+      "title": "Beggars belief : The proposed industrial port within WA newest marine park",
+      "url": "https://www.brisbanetimes.com.au/national/western-australia/beggars-belief-the-proposed-industrial-port-within-wa-s-newest-marine-park-20260825-p60rcd.html",
+      "outlet": "brisbanetimes.com.au",
+      "domain": "brisbanetimes.com.au",
+      "published_at": "2026-08-25T05:30:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_4/t_crop_custom/q_86%2Cf_auto/d3813ce41f2471545323b6fde002344b249f6a3b5c6b016bc781a066f68270eb",
+      "description": "",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
       "id": "2fad70e712c3368f92",
       "title": "Suhu Laut Naik, Kemampuan Padang Lamun Menyimpan Karbon Alami Merosot - Kompas.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2xmOW5qQ0pabDdTM3NNb0RjZW9DclVnbFg4eFkwcEtKMmtoeDhZUlRZcTZCcWE0aGJwMERtdUJnY255QUVzSTVLOTJfSmVQd3BmdXRMTnVyLXpvWnNPVjg4dXNJZnMyWHJVajdpLTV0RGdqSEs3ZjcyZ3NBVWt4N1VORWlRRmRMMXNpUnlIcnAwdWJxbFFsSHJBTE15UU5DYnBwTnNFTXJncDFxWW5QZVMxay1QU2NFaHR3Tjh3?oc=5",
@@ -220,7 +1425,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-27",
       "baseline": false
     },
     {
@@ -244,7 +1449,55 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "148c8e286b993c869b",
+      "title": "Palm Beach Shores seeks review of 25 - story project near Blue Heron Bridge",
+      "url": "https://cbs12.com/news/local/town-of-palm-beach-shores-review-25-story-project-blue-heron-bridge-riviera-beach-city-commission-florida-news",
+      "outlet": "cbs12.com",
+      "domain": "cbs12.com",
+      "published_at": "2026-08-24T23:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://cbs12.com/resources/media2/16x9/527/1320/0x21/90/14851e7b-124c-426f-a9ae-0751681bef31-Screenshot20260814215420.png",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "83784a338fe11c77dc",
+      "title": "Océanos rompen récord mundial de temperatura en agosto y científicos advierten de una presión sin precedentes",
+      "url": "https://www.elvocero.com/el-mundo/oc-anos-rompen-r-cord-mundial-de-temperatura-en-agosto-y-cient-ficos-advierten-de/article_45112caf-38ab-43ee-8f7a-ef624a90fbb1.html",
+      "outlet": "elvocero.com",
+      "domain": "elvocero.com",
+      "published_at": "2026-08-24T22:45:00+00:00",
+      "language": "Spanish",
+      "source_country": "United States",
+      "image": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/2/9b/29b3d32e-7801-4de5-bce9-858757e8b8e3/6a26e8d5e715f.image.jpg?crop=1760%2C924%2C0%2C127",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
       "baseline": false
     },
     {
@@ -272,6 +1525,78 @@
       "baseline": false
     },
     {
+      "id": "6a89419ea89bad8d1b",
+      "title": "Copernicus : temperatura di oceani ha raggiunto i 21 , 1 gradi",
+      "url": "https://www.eunews.it/2026/08/24/nuovo-record-per-la-temperatura-degli-oceani-211-gradi-la-crisi-climatica-e-sempre-piu-innegabile",
+      "outlet": "eunews.it",
+      "domain": "eunews.it",
+      "published_at": "2026-08-24T19:30:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "https://www.eunews.it/wp-content/uploads/2026/08/verstappen-photography-cvFoKZeOUJI-unsplash-1024x685.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "66abb5dd3e1abced8e",
+      "title": "Global sea surface temperature hits record high of 21 . 1C : EU climate agency",
+      "url": "https://aa.com.tr/en/environment/global-sea-surface-temperature-hits-record-high-of-211c-eu-climate-agency/4035799",
+      "outlet": "aa.com.tr",
+      "domain": "aa.com.tr",
+      "published_at": "2026-08-24T15:45:00+00:00",
+      "language": "English",
+      "source_country": "Turkey",
+      "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/08/24/thumbs_b_c_2e364e14fdb460b0352e4516e74bfbcf.jpg",
+      "description": "",
+      "themes": [
+        "Climate & heat"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "703b50c2232608a611",
+      "title": "Global Sea Surface Temperature breaks record as El Nino gains strength",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/global-sea-surface-temperature-breaks-record-as-el-nino-gains-strength/article71384216.ece",
+      "outlet": "thehindubusinessline.com",
+      "domain": "thehindubusinessline.com",
+      "published_at": "2026-08-24T15:30:00+00:00",
+      "language": "English",
+      "source_country": "India",
+      "image": "https://bl-i.thgim.com/public/news/y7sgmq/article71384212.ece/alternates/LANDSCAPE_1200/SST_anomaly.jpeg",
+      "description": "",
+      "themes": [
+        "Climate & heat"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
       "id": "16af4d4f445dffa0e2",
       "title": "Las praderas marinas guardan carbono durante siglos, pero un experimento con tanques de agua halló que 4 grados de más les hacen perder esa capacidad en un 28% - Gizmodo en Español",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOLVhjakxQdXZCeHNqWVBBeEZ0azd3djN0ZzZNd1F6M2RzX05sMC1rOG1zMHNjeTNuSnNoa3R2bmgxcklLNEhVYTlJTFlXOFVHYkJuSGpWa0FVMFVPUXpweFdka05sdjY3Ym02OUtvNkhEZVhWRjBFbEhvNThGMHo2aGlFLUNncGd2YTdlaWtrMHZaSGJHMzdkMjFBSDItRldiekNKVWMtWkxxWWZUekUtaU8zR2oyUGl0blVvamRNdFI1bjRGakVTVGhUZUdCSElMWVU1YUpYaTJRZzBjTmx0QVFXaF95TkdFbHVoRk9BZ0FXZk02Y2N4U1B5SW5tYklWRkJuVGJiYmZ4NzNEMW5Ea2JvVFByLVg5VEZF?oc=5",
@@ -292,7 +1617,31 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "6a63420b0623064477",
+      "title": "Copernicus : la temperatura media giornaliera della superficie del mare batte il record 2024",
+      "url": "https://www.repubblica.it/green-and-blue/2026/08/24/news/copernicus_temperatura_media_giornaliera_superficie_mare_batte_record_2024-425544454",
+      "outlet": "repubblica.it",
+      "domain": "repubblica.it",
+      "published_at": "2026-08-24T13:15:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "https://www.repstatic.it/content/contenthub/img/2026/08/24/132912903-8a718d58-b8f6-4681-9e78-e453465b4ec8.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
       "baseline": false
     },
     {
@@ -316,7 +1665,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-27",
       "baseline": false
     },
     {
@@ -341,7 +1690,31 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "43530b7bccc6c8b2e5",
+      "title": "Clima , mare mai così caldo : nuovo record per la temperatura - il Fatto Nisseno - Caltanissetta notizie , cronaca , attualità",
+      "url": "https://www.ilfattonisseno.it/2026/08/clima-mare-mai-cosi-caldo-nuovo-record-per-la-temperatura",
+      "outlet": "ilfattonisseno.it",
+      "domain": "ilfattonisseno.it",
+      "published_at": "2026-08-24T11:30:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "https://www.ilfattonisseno.it/wp-content/uploads/2026/08/Clima-mare-mai-cosi-caldo-nuovo-record-per-la-temperatura.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
       "baseline": false
     },
     {
@@ -367,7 +1740,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-27",
       "baseline": false
     },
     {
@@ -439,7 +1812,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-27",
       "baseline": false
     },
     {
@@ -467,6 +1840,54 @@
       "baseline": false
     },
     {
+      "id": "a470b05dbfff16cfc2",
+      "title": "Resep Jjampong Kuah Seafood Pedas yang Autentik",
+      "url": "https://www.liputan6.com/lifestyle/read/8271982/resep-jjampong",
+      "outlet": "liputan6.com",
+      "domain": "liputan6.com",
+      "published_at": "2026-08-24T07:15:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn0-production-images-kly.akamaized.net/FcNVoy1B2o5JxHdIQqnI1rSCBRE=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9331527/original/031559800_1787548862-Untitled2.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
+      "id": "04137c5db0386f811b",
+      "title": "Wujudkan Undana Berdampak , Dosen Terapkan Teknologi Pengering Surya di Mburukulu Sumba Timur",
+      "url": "https://kupang.tribunnews.com/universitas-nusa-cendana/976919/wujudkan-undana-berdampak-dosen-terapkan-teknologi-pengering-surya-di-mburukulu-sumba-timur",
+      "outlet": "kupang.tribunnews.com",
+      "domain": "kupang.tribunnews.com",
+      "published_at": "2026-08-24T04:30:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://asset.tribunnews.com/2_NeI56z_yhD4a7guouKDuUgOKs=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/kupang/foto/bank/originals/PKM-Undana-di-Mburukulu-Sumba-Timur.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "baseline": false
+    },
+    {
       "id": "9a1bace788a37678c5",
       "title": "Seegraswiesen speichern in wärmerem Meerwasser weniger Kohlenstoff - Scinexx",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFZWSmJfZ2RPanhyd1Y4bkNzVDRFWVpFVDlOS0hjTXpQSmd4NTJvWV9YWGVBRnNsOHlEbWFUOE56RzNaTUFuOVpzNEJlOU1ocTc0Z2NPZzdhaERmU0tHal9tWXZ3RW8td19HVzVfZzhES2N1VENzek1FSDRWVmhEZkc0T19yQWlfajJja2x3OFJ6ZDJrTTY5cElsUURBeXFCTEljeXMyclBQQQ?oc=5",
@@ -487,7 +1908,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-27",
       "baseline": false
     },
     {
@@ -535,7 +1956,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-27",
       "baseline": false
     },
     {
@@ -4934,35 +6355,35 @@
     "languages": [
       [
         "English",
-        55
+        86
       ],
       [
         "German",
         32
       ],
       [
-        "Turkish",
-        20
+        "Indonesian",
+        29
       ],
       [
-        "Indonesian",
-        15
+        "Turkish",
+        21
+      ],
+      [
+        "Italian",
+        19
       ],
       [
         "Chinese",
         15
       ],
       [
-        "Italian",
-        14
+        "Spanish",
+        11
       ],
       [
         "Japanese",
-        10
-      ],
-      [
-        "Spanish",
-        8
+        11
       ],
       [
         "Korean",
@@ -4970,22 +6391,22 @@
       ],
       [
         "Arabic",
-        5
+        6
       ],
       [
         "Thai",
+        5
+      ],
+      [
+        "Dutch",
+        4
+      ],
+      [
+        "Portuguese",
         4
       ],
       [
         "Catalan",
-        3
-      ],
-      [
-        "Dutch",
-        3
-      ],
-      [
-        "Portuguese",
         3
       ],
       [
@@ -5015,60 +6436,80 @@
     ],
     "countries": [
       [
+        "GB",
+        34
+      ],
+      [
         "DE",
         32
       ],
       [
-        "GB",
-        31
-      ],
-      [
-        "TR",
-        20
+        "United States",
+        25
       ],
       [
         "Indonesia",
-        11
+        23
       ],
       [
-        "United States",
-        11
+        "TR",
+        21
+      ],
+      [
+        "Italy",
+        14
       ],
       [
         "JP",
-        10
+        11
       ],
       [
         "CN",
         10
       ],
       [
-        "Italy",
-        9
+        "ID",
+        7
       ],
       [
         "KR",
         7
       ],
       [
-        "US",
+        "United Kingdom",
+        6
+      ],
+      [
+        "Spain",
         6
       ],
       [
         "AE",
+        6
+      ],
+      [
+        "US",
+        6
+      ],
+      [
+        "TH",
         5
       ],
       [
-        "ID",
-        5
-      ],
-      [
-        "Spain",
+        "Unknown",
         5
       ],
       [
         "IT",
         5
+      ],
+      [
+        "NL",
+        4
+      ],
+      [
+        "PT",
+        4
       ],
       [
         "MX",
@@ -5079,16 +6520,12 @@
         4
       ],
       [
-        "TH",
-        4
-      ],
-      [
-        "NL",
+        "India",
         3
       ],
       [
-        "PT",
-        3
+        "Australia",
+        2
       ],
       [
         "GR",
@@ -5103,12 +6540,20 @@
         2
       ],
       [
-        "India",
+        "Norway",
         2
       ],
       [
-        "Norway",
-        2
+        "Argentina",
+        1
+      ],
+      [
+        "Jamaica",
+        1
+      ],
+      [
+        "Turkey",
+        1
       ],
       [
         "KE",
@@ -5120,10 +6565,6 @@
       ],
       [
         "Singapore",
-        1
-      ],
-      [
-        "Unknown",
         1
       ],
       [
@@ -5145,6 +6586,22 @@
     ],
     "outlets": [
       [
+        "antaranews.com",
+        6
+      ],
+      [
+        "momsmoney.kontan.co.id",
+        3
+      ],
+      [
+        "kupang.tribunnews.com",
+        3
+      ],
+      [
+        "liputan6.com",
+        3
+      ],
+      [
         "L'Unione Sarda.it",
         3
       ],
@@ -5154,10 +6611,6 @@
       ],
       [
         "搜狐网",
-        3
-      ],
-      [
-        "antaranews.com",
         3
       ],
       [
@@ -5173,7 +6626,31 @@
         3
       ],
       [
+        "Data Portuaria",
+        2
+      ],
+      [
+        "koran-jakarta.com",
+        2
+      ],
+      [
+        "wptv.com",
+        2
+      ],
+      [
+        "aol.co.uk",
+        2
+      ],
+      [
+        "wflx.com",
+        2
+      ],
+      [
         "PR TIMES",
+        2
+      ],
+      [
+        "Kompas.com",
         2
       ],
       [
@@ -5181,15 +6658,7 @@
         2
       ],
       [
-        "momsmoney.kontan.co.id",
-        2
-      ],
-      [
         "islands.com",
-        2
-      ],
-      [
-        "liputan6.com",
         2
       ],
       [
@@ -5249,156 +6718,128 @@
         2
       ],
       [
-        "Data Portuaria",
+        "De Telegraaf",
         1
       ],
       [
-        "Popaganda",
+        "shetnews.co.uk",
         1
       ],
       [
-        "Energy Live News",
+        "We Are South Devon",
         1
       ],
       [
-        "ProtoThema",
+        "skepticalscience.com",
         1
       ],
       [
-        "صحيفة مكة",
+        "abc.es",
         1
       ],
       [
-        "БТА",
+        "Kıbrıs Postası",
         1
       ],
       [
-        "Harnas.id",
+        "italiannetwork.it",
         1
       ],
       [
-        "Kompas.com",
+        "TrueID",
         1
       ],
       [
-        "جريدة المدينة",
+        "boston.com",
         1
       ],
       [
-        "newscentermaine.com",
+        "globalissues.org",
         1
       ],
       [
-        "Gizmodo en Español",
+        "wlrn.org",
         1
       ],
       [
-        "العربية",
+        "wiscassetnewspaper.com",
         1
       ],
       [
-        "Carbon Herald",
+        "WKMG",
         1
       ],
       [
-        "صحيفة مال",
+        "bbc.co.uk",
         1
       ],
       [
-        "صحيفة سويفت نيوز",
+        "Mshale",
         1
       ],
       [
-        "صحيفة الحدث",
+        "UF College of Design, Construction and Planning",
         1
       ],
       [
-        "BurgasMedia",
-        1
-      ],
-      [
-        "DTiNews",
-        1
-      ],
-      [
-        "科学网—新闻",
-        1
-      ],
-      [
-        "ecoportal.net",
-        1
-      ],
-      [
-        "economictimes.indiatimes.com",
-        1
-      ],
-      [
-        "jordantimes.com",
-        1
-      ],
-      [
-        "mysuncoast.com",
-        1
-      ],
-      [
-        "dbalears.cat",
+        "dunmowbroadcast.co.uk",
         1
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        158
+        195
       ],
       [
         "Restoration",
-        15
+        18
       ],
       [
         "Climate & heat",
-        10
+        14
+      ],
+      [
+        "Development & infrastructure",
+        13
       ],
       [
         "Science & discovery",
-        10
+        12
       ],
       [
         "Conservation & policy",
-        8
+        11
+      ],
+      [
+        "Wildlife & biodiversity",
+        11
       ],
       [
         "Blue carbon",
         8
       ],
       [
-        "Development & infrastructure",
-        7
-      ],
-      [
-        "Wildlife & biodiversity",
+        "Community & culture",
         6
       ],
       [
-        "Community & culture",
+        "Fisheries & food",
         5
       ],
       [
-        "Fisheries & food",
-        3
-      ],
-      [
         "Pollution & water quality",
-        2
+        3
       ]
     ],
     "discovery_sources": [
       [
         "Google News RSS",
-        155
+        166
       ],
       [
         "GDELT",
-        49
+        97
       ]
     ]
   }
