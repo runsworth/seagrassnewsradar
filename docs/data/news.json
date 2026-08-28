@@ -1,10 +1,203 @@
 {
-  "generated_at": "2026-08-27T16:48:06.355294+00:00",
+  "generated_at": "2026-08-28T17:41:53.473956+00:00",
   "baseline_complete": true,
-  "article_count": 262,
-  "new_today": 59,
+  "article_count": 271,
+  "new_today": 9,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "0d380af2a32ab609d9",
+      "title": "Disposed bodyboards repurposed to protect seagrass habitats - Dartmouth Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmZGazFpWXpYdHNqUnl6cHZXLVBLRHlpTzlhQ3U4RUk4bkp0bHdjdW1EY0dXWHhRUWdwM0w5M3BiM1FPaWhER3J3TzNpQnpZSUk5a2pGbm0yVjFJQzk3UEVmLTlfTVdSd3hRT2NGVFlLdFczcE1ZN2lhZVMyNHpfMjlFRm13YVZEakxCZURKZm9CYmVENUdodmRPd2VCcVBmejktelVBaE0?oc=5",
+      "outlet": "Dartmouth Chronicle",
+      "domain": "news.google.com",
+      "published_at": "2026-08-28T15:08:49+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Disposed bodyboards repurposed to protect seagrass habitats Dartmouth Chronicle",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "baseline": false
+    },
+    {
+      "id": "8c58bc31a73d4f7463",
+      "title": "Kuşadası'nda 3. iskele tartışması: deniz çayırları ve mavi karbon endişesi - Aksiyon.com.TR",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQmkzZW9HZzJJVWRyVUNvRG9paDZScHlhUkxscTRIbDduNVJiN3daZnZUV2VpN2Jpd0cybW5rNXg2N2llRHZreF95ZGY4aU9nQUw0ZFB6bVJRUEpwZklfeS1vR0xCQ2cwcXgwRnp5ZEJWM093Rlg3bmxrYjNzZk14c0d0VEpkdU5SdlgwVzhwaUdPdWdBX3FDZy1PTWZSbTEtcWlPQ1lYd3pFUdIBrwFBVV95cUxQY1VIUWQ3dWxub3NPWlhaZk1CUnl1cFQzcVlEUkVaQ0ZUSXRGM0dvRjVUMEg4cFY3UEg4TlJzWklZaWxDTjA4YXQ3NE93UFR5M0txZjU4SjlRelNHWDdybldKcDUtdWtHcVNVdGx1ZllFa3hWZ3Z4blBZZkxVVDVQbjVOcXFNUjFFLUZQVF9qM1pabjNNRUhxb3VQWEtiY3pwU3UtRU5mWHhyYWZ6a2c4?oc=5",
+      "outlet": "Aksiyon.com.TR",
+      "domain": "news.google.com",
+      "published_at": "2026-08-28T10:13:50+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Kuşadası'nda 3. iskele tartışması: deniz çayırları ve mavi karbon endişesi Aksiyon.com.TR",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "baseline": false
+    },
+    {
+      "id": "fb3ae24fda061a0438",
+      "title": "Kuşadası’nda 3. İskele tartışması: “Asıl risk deniz çayırları” - Aydın Denge Haber",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3NaUFBtRUx4bjNXdlo3aWFzMS1HOGw5RVpOVllFYUFSa0RBZVFvVDdhY1o5emNEdTlwODViVWlDNURJU0tURkJ5SU9PVFdtVTVTMzFCT0h3LXFSNzU1OUM2LTROUkdRWWZOOW5WV0EyZ00zSUhfU0NoUjN0aFhmUXNDcEJqY2EtajJFS0NnMXFRYVJPR19wLVYtT3pnRVdESnpQZkJWbzUwb0U?oc=5",
+      "outlet": "Aydın Denge Haber",
+      "domain": "news.google.com",
+      "published_at": "2026-08-28T10:11:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Kuşadası’nda 3. İskele tartışması: “Asıl risk deniz çayırları” Aydın Denge Haber",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "baseline": false
+    },
+    {
+      "id": "8a5ec701429318c05a",
+      "title": "Kuşadası’nda deniz çayırları için kritik uyarı İhlas Haber Ajansı - İhlas Haber Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUl6dVpyRFZ3OVhCYWJrMnlHUzBHaFZLc3dVeWQwVHJSZUZMT05rMi13OVV3ZFVBb3A5Z1ByWEVHd3FaWllnRmpjb0wtSXQ0Z1E1emZSXzhRTTM5ZU5DSmp4SmwtZUREcFpkWEtxa2ttUEpmaFZtSUJENkZEWFAtcElvZkp4T2Z3NW85Sjl0MVREdDVHeTJOTHV3?oc=5",
+      "outlet": "İhlas Haber Ajansı",
+      "domain": "news.google.com",
+      "published_at": "2026-08-28T10:03:30+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Kuşadası’nda deniz çayırları için kritik uyarı İhlas Haber Ajansı İhlas Haber Ajansı",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "baseline": false
+    },
+    {
+      "id": "66651984a3a144c5fe",
+      "title": "Sustainable: Herstel van zeegras in Oosterschelde verder opgeschaald. Partner Nestlé Purina is erbij - FONK magazine",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYWV6MmdMMFE2R0lnZUphYmZPN2lETEZMX01sbW9VeXR3cVlOakp2VHY5el9pOGtTcV9Bcm5JcUE1QUJ6OVVLV2hOTTVMV2x6bklMei04bGJHa0ZaSE04cUlkVW1OZk9QOTNIanF2Y1VvVDZkZDlFcHUtamNQRk53SDNlOGE2eUt2MmFOYjBDcmRyZFVISG1PM0Y2TEZ1a2Rqbl9KZDU1aFo5U1hQbXNTelNIMm1hX3lfTkN0bjRlQkxQOFlCeS1KcXFzUlczSGV0Q1Ntd2FwYTF4Y1Bn?oc=5",
+      "outlet": "FONK magazine",
+      "domain": "news.google.com",
+      "published_at": "2026-08-28T08:19:57+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Sustainable: Herstel van zeegras in Oosterschelde verder opgeschaald. Partner Nestlé Purina is erbij FONK magazine",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "baseline": false
+    },
+    {
+      "id": "43a4218c80057643bd",
+      "title": "Indeks Kesehatan Lamun Sumbar Terungkap, Peneliti Temukan 8 Jenis di 14 Lokasi - Sumbardaily.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDUyUnk0NXVpSU5IalZQa0xOdHNpR1RXNjNkUmdic3ZGLWhyTkthNHROTEUwY1RTRmtjb3VMT0twZXlVRGdyUmZrbEp0TS01c0FFbG5fcTBMaUFSaW5WOGlSekxiS01JOVZRTGJ0QjlCQVNfRHpwSUlIcDcxbmQtanpabDNzSlFzaFBwYUdQSEJERl9aT1ZYLXFLdDM0U3Y3QXZiUg?oc=5",
+      "outlet": "Sumbardaily.com",
+      "domain": "news.google.com",
+      "published_at": "2026-08-28T03:09:00+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Indeks Kesehatan Lamun Sumbar Terungkap, Peneliti Temukan 8 Jenis di 14 Lokasi Sumbardaily.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "baseline": false
+    },
+    {
+      "id": "6bf368c1adef522161",
+      "title": "GS리테일, 바다거북 이어 잘피 보호…폐전자제품 재활용도 확대 - 한국면세뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mV3k2Y0tjR0VGX1YzTHVndGVaY2p3elBJQ3ZTakJpV0dyR3hyVDVUZElUU0luOHZBWndqWlJ3REdLOWtZSmZVWkJXRnp2Q1hqQjd4UEc3WHB0WGxVRWxLM3RnWlFFSkJZcXc?oc=5",
+      "outlet": "한국면세뉴스",
+      "domain": "news.google.com",
+      "published_at": "2026-08-28T00:25:19+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "GS리테일, 바다거북 이어 잘피 보호…폐전자제품 재활용도 확대 한국면세뉴스",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "baseline": false
+    },
+    {
+      "id": "28e657f2b5137c6486",
+      "title": "Bodyboards rescued from disposal help scientists protect Devon's seagrass habitats - News - Devon County Council",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclBrYU9FNVNZR0pCU3ZCM0xNM012R21qUGFpSm1xR2UyTXllMkZHUF9NQmVHeHdUT3ZqSUdPMGJYOXRuWmlzc2s3aW9Sd0FXbkQtUVFfQXNIVHZNaW1rUkZjc0ZTZkJEOVdiZDlBd0RhMTRHQTVsQXRPQUFyaTBiN04zZ1dBVVZHV2MwVDRZdkx6aU1lZ2QzTVZpSFVJd1lOTlEzX2hpNW9qZUZEX3VhRkxrUdIBswFBVV95cUxQclBrYU9FNVNZR0pCU3ZCM0xNM012R21qUGFpSm1xR2UyTXllMkZHUF9NQmVHeHdUT3ZqSUdPMGJYOXRuWmlzc2s3aW9Sd0FXbkQtUVFfQXNIVHZNaW1rUkZjc0ZTZkJEOVdiZDlBd0RhMTRHQTVsQXRPQUFyaTBiN04zZ1dBVVZHV2MwVDRZdkx6aU1lZ2QzTVZpSFVJd1lOTlEzX2hpNW9qZUZEX3VhRkxrUQ?oc=5",
+      "outlet": "Devon County Council",
+      "domain": "news.google.com",
+      "published_at": "2026-08-27T14:00:42+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Bodyboards rescued from disposal help scientists protect Devon's seagrass habitats - News Devon County Council",
+      "themes": [
+        "Conservation & policy",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "baseline": false
+    },
     {
       "id": "56e6bc395fb9d791fd",
       "title": "Kraamkamer van de zee in gevaar: Nederlandse onderzoekers helpen verdwijnend zeegras herstellen - De Telegraaf",
@@ -26,7 +219,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -147,7 +340,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -219,7 +412,7 @@
       ],
       "search_route": "Google News Thai (TH)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -339,7 +532,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -388,7 +581,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -436,7 +629,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -461,7 +654,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -653,7 +846,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -702,7 +895,7 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -1088,7 +1281,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -1136,7 +1329,7 @@
       ],
       "search_route": "Google News Greek (GR)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -1161,7 +1354,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -1233,7 +1426,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -1257,7 +1450,7 @@
       ],
       "search_route": "Google News Greek (GR)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -1281,7 +1474,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -1425,7 +1618,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -1449,7 +1642,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -1617,7 +1810,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -1665,7 +1858,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -1690,7 +1883,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -1792,6 +1985,31 @@
       "baseline": false
     },
     {
+      "id": "cafafb9e070e5e9a18",
+      "title": "BLUECARBON GUARDIAN: Restorasi Ekosistem Lamun Berbasis Blue Carbon - Kompasiana.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeWVQanA4bUpUM1hTVXRLeXY4Tk94UlZRQ2xnTmt1UlFlTnFYOG5SUVZXei1nZEtnNzI2RFJFWHptQnhjZk1QQV8yRG1uUExpU1ZqVXhyQ094b0w1WDZCUVRSMVowTWR5dTVaaC16Sy1mVEJhY1U3VEFoT3JJRlBHNUZMckZianhJVDNOODVvQXh5dDNaZHdneWR6ckljTDJQY2dEajF0Rk9sdzdqZWdMYWpLNWtUaEpiMUJHbHR4czZjUDJhYXZfUzBzMGdraGs?oc=5",
+      "outlet": "Kompasiana.com",
+      "domain": "news.google.com",
+      "published_at": "2026-08-24T09:33:51+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "BLUECARBON GUARDIAN: Restorasi Ekosistem Lamun Berbasis Blue Carbon Kompasiana.com",
+      "themes": [
+        "Restoration",
+        "Blue carbon"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "baseline": false
+    },
+    {
       "id": "1a19f4b563f83e26f8",
       "title": "التمويل المناخي يعزز فرص استعادة مروج الأعشاب البحرية - صحيفة الحدث",
       "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQRUtGa19vTHExVGVaNWZCLXJyRUp3VmhyOFRncEJFckRYYy0wQ2hnTFRjWW9GdGJLX0pHd1JoSEEwa184cENLclhGeHkyV1VNeWpXcWxBQUYyWlZ0djFncWM4dmJmc0hHYWtldTdYaTVjbGE3bzhZVHZSMzA2SWJuNXZ4dmZkUmdTRnpmX3daSHRuRmVBY2I3ZWFZZDRkNVdHNDhvOEZWd1BGdVFYY0h0LVlwWXRDZFdmR2pnVnp6dFNZVXNnYTd2QzdKQUk1dFNkTGZwMHRMYXpEWEd0ZXNDcE15eHB5MVRIRFNUc1F3YldTY3pTeWFIRllvcU5vT2g2cnFEalROWGhreVlfOXNvQTQ0eTlhNHVHUFV2YlFfNzVORi1vSVQ4emdnS2ZUcDk0N2xUdDFmUHlWamh1Z21zSE96NkE3dDVYZXhxNlFyaXE5QUx3ejJ2OXltSUh2Tzd0T0p3VTNJWFY0cDlhMVVhZEtGZFBqZkNaai1BWVNyOXNUMEE0QkdSYWRHRkxXSW9hSHRPMjNZSlhjNExtMHNTRHJ5Z1VlSGNMMHIxMF95R0ZPa3EwS2ZxVTJVOHpNX2FVR0dNVVdES3BMSS1UQnQxclp6b1ZTZw?oc=5",
@@ -1812,7 +2030,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "baseline": false
     },
     {
@@ -6355,7 +6573,7 @@
     "languages": [
       [
         "English",
-        86
+        88
       ],
       [
         "German",
@@ -6363,11 +6581,11 @@
       ],
       [
         "Indonesian",
-        29
+        31
       ],
       [
         "Turkish",
-        21
+        24
       ],
       [
         "Italian",
@@ -6387,19 +6605,19 @@
       ],
       [
         "Korean",
-        7
+        8
       ],
       [
         "Arabic",
         6
       ],
       [
-        "Thai",
+        "Dutch",
         5
       ],
       [
-        "Dutch",
-        4
+        "Thai",
+        5
       ],
       [
         "Portuguese",
@@ -6437,7 +6655,7 @@
     "countries": [
       [
         "GB",
-        34
+        36
       ],
       [
         "DE",
@@ -6448,12 +6666,12 @@
         25
       ],
       [
-        "Indonesia",
-        23
+        "TR",
+        24
       ],
       [
-        "TR",
-        21
+        "Indonesia",
+        23
       ],
       [
         "Italy",
@@ -6469,11 +6687,11 @@
       ],
       [
         "ID",
-        7
+        9
       ],
       [
         "KR",
-        7
+        8
       ],
       [
         "United Kingdom",
@@ -6492,6 +6710,10 @@
         6
       ],
       [
+        "NL",
+        5
+      ],
+      [
         "TH",
         5
       ],
@@ -6502,10 +6724,6 @@
       [
         "IT",
         5
-      ],
-      [
-        "NL",
-        4
       ],
       [
         "PT",
@@ -6626,6 +6844,10 @@
         3
       ],
       [
+        "Aksiyon.com.TR",
+        2
+      ],
+      [
         "Data Portuaria",
         2
       ],
@@ -6718,6 +6940,34 @@
         2
       ],
       [
+        "Dartmouth Chronicle",
+        1
+      ],
+      [
+        "Aydın Denge Haber",
+        1
+      ],
+      [
+        "İhlas Haber Ajansı",
+        1
+      ],
+      [
+        "FONK magazine",
+        1
+      ],
+      [
+        "Sumbardaily.com",
+        1
+      ],
+      [
+        "한국면세뉴스",
+        1
+      ],
+      [
+        "Devon County Council",
+        1
+      ],
+      [
         "De Telegraaf",
         1
       ],
@@ -6752,64 +7002,32 @@
       [
         "boston.com",
         1
-      ],
-      [
-        "globalissues.org",
-        1
-      ],
-      [
-        "wlrn.org",
-        1
-      ],
-      [
-        "wiscassetnewspaper.com",
-        1
-      ],
-      [
-        "WKMG",
-        1
-      ],
-      [
-        "bbc.co.uk",
-        1
-      ],
-      [
-        "Mshale",
-        1
-      ],
-      [
-        "UF College of Design, Construction and Planning",
-        1
-      ],
-      [
-        "dunmowbroadcast.co.uk",
-        1
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        195
+        200
       ],
       [
         "Restoration",
-        18
+        19
+      ],
+      [
+        "Conservation & policy",
+        14
       ],
       [
         "Climate & heat",
         14
       ],
       [
-        "Development & infrastructure",
+        "Science & discovery",
         13
       ],
       [
-        "Science & discovery",
-        12
-      ],
-      [
-        "Conservation & policy",
-        11
+        "Development & infrastructure",
+        13
       ],
       [
         "Wildlife & biodiversity",
@@ -6817,7 +7035,7 @@
       ],
       [
         "Blue carbon",
-        8
+        9
       ],
       [
         "Community & culture",
@@ -6835,7 +7053,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        166
+        175
       ],
       [
         "GDELT",
