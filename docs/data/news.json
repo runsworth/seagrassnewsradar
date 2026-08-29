@@ -1,10 +1,155 @@
 {
-  "generated_at": "2026-08-28T17:41:53.473956+00:00",
+  "generated_at": "2026-08-29T11:47:04.445134+00:00",
   "baseline_complete": true,
-  "article_count": 271,
-  "new_today": 9,
+  "article_count": 279,
+  "new_today": 8,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "76fdc0b8988c8b54b9",
+      "title": "Mittelmeer - Seegraswiesen vor den griechischen Küsten sind in Gefahr - Deutschlandfunk",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHNJd3Z1bG81N1pQcEZ3WUo2R2g4Wkk5OE0wa1pYMlRMWU9idllhWmJQU1NxeHJ5djZBbEJ5WnhUbDJ1RUJ5NjlfUTJ4UlM1Y0taTzlkRU9tREVWeUItaUVma21RTklDdjB1eHV6NmprcXBhaXNOWTZSSTRTWlFqZFZaWHZnWGE3dlEza0dXWENUUURSTElfVzhwTWtvdw?oc=5",
+      "outlet": "Deutschlandfunk",
+      "domain": "news.google.com",
+      "published_at": "2026-08-29T10:51:59+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Mittelmeer - Seegraswiesen vor den griechischen Küsten sind in Gefahr Deutschlandfunk",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "baseline": false
+    },
+    {
+      "id": "d64d0ef05c7332d897",
+      "title": "Seegraswiesen im Mittelmeer in Gefahr - The Weather Channel",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbW9JQWMzcFZRTGs0VnIySFBndzFualVNOGhNb2g3Vkg2OElCbERwWk02Y1lLMTJhMWlNdEx0R0UzcGt1T1BzaTZyX1U4eHBQQUhya0FzazAxWkRvSW53N0htX2FudDFNdXg1VVk0emx0YVNRZi1UbmN2T1lMRWRsOXJKdGtpaC0zUkdWVGxUYVVlZTB6RFdrUUFLZkdYdUFPdnNyay1lc3JPQndUalhR?oc=5",
+      "outlet": "The Weather Channel",
+      "domain": "news.google.com",
+      "published_at": "2026-08-29T10:43:19+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegraswiesen im Mittelmeer in Gefahr The Weather Channel",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "baseline": false
+    },
+    {
+      "id": "1d0ac9ef41d211b186",
+      "title": "Verwaltung bremst Seegrasrenaturierung in der Ostsee - marineforum",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MM0hSU0tTVm1xVVJxTzNEUW51Rk13Tk1mWEZzeHZKOXhXYVNOa1JOdUpVWkpDa2ZfenNwQ0JiSUdvcEpZcEJyRjR0eWdwcmpIVnc4Y1pHSGVRVTE5Qi1Bb0FZcFF5NElsUlhsY1h6MUZob2VMcEVLbw?oc=5",
+      "outlet": "marineforum",
+      "domain": "news.google.com",
+      "published_at": "2026-08-29T06:30:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Verwaltung bremst Seegrasrenaturierung in der Ostsee marineforum",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "baseline": false
+    },
+    {
+      "id": "65ba17bcc9961af981",
+      "title": "Padang Lamun Indonesia Tak Sama: Peta Baru Membantu Menentukan Titik Prioritas Konservasi - National Geographic Indonesia",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX1pFVXI4cHcyZk5oWWJyd1I3MGtiN2hQM09PT1NWYzA0VkNqbDl0U2dHWDJkTlNlelR5UDNoRTlMaU9yRHQ1YVlkaWZHemJES0dHZE9RWlI5cGpYeGpsOEU5SXhzTVJJQ0FBRVBnV2xqck9EWjZUZ29IcngxUTRuSE5HaGE3Wlc5dlg0cGNmWnkzZVV6dWk2R2hENmJvaE5UTFc4NURzXzhEcWh1U3lzeXNsUS03ZU9PV3pucllxMl9IWF9sVG1vOXRsZ2ZIYXdkQmVvatIB0wFBVV95cUxQazl3dm5NM1luazF2V1dreHRlZ1FYaGR5UThPZ0NvZFBZNHVnZmNyVzdidG5OM05laVV5cy1jN2JJemYyUGtPYmFnQ3VESzV2bFM0NmlER2c0Q1EzQmdLM0VoaldmczVSVm81WXNFZXlTendXWDVKdHVrWGtWWnI2dGxCRWFJSzBKZnZTRnZWZ0JjWUpaTVR3V3BHY2ZqTGQzNGUzTElQQkJnVk1FTkdJNE83UzFqaHhNYUNISE82Sms5U0JGaFk2Y3ViQVBuakU0LWlz?oc=5",
+      "outlet": "National Geographic Indonesia",
+      "domain": "news.google.com",
+      "published_at": "2026-08-29T03:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Padang Lamun Indonesia Tak Sama: Peta Baru Membantu Menentukan Titik Prioritas Konservasi National Geographic Indonesia",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "baseline": false
+    },
+    {
+      "id": "75805fb89f92a3525f",
+      "title": "Seagrass Beds in Danger – Boat Tourism Threatens Populations - bluewin.ch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSnRTSXJJclgwVVB6dkREbEZsUU9YdjlVbTlvSXIyODBBekRCMnRnTE5LMUFXYjMxSEE1M3N1Q1g1YWxuS3pldm91SFdiMFA4dVRMcjNmY0Y5YlcxZEpJWTUtMkZ1am9Ha3ByU3VYMEdkTTJscW5Ea1Q1QkNvVVFhYnJzSkpqc3JrUHBGeDZKWDFnY1ZLX2hUX09tVjZYREI3SG1JWnR6ZlQ?oc=5",
+      "outlet": "bluewin.ch",
+      "domain": "news.google.com",
+      "published_at": "2026-08-29T02:41:49+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass Beds in Danger – Boat Tourism Threatens Populations bluewin.ch",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "baseline": false
+    },
+    {
+      "id": "5970a6d02267ec3e11",
+      "title": "Exploring seagrass beds throughout Delaware - University of Delaware",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdXlXTlVlMDM2anRKT3NVOGVfSHBaazk1WWh0OGJmUE9Ed2N0dzVWLUxyWWdtWU5telNESnpDVGFaQzhFN1BuWE5CWkVkMUoyQmJpYnJtaDFXYUlUOWJnYldNUzdTM29DNkZXdHVPbEkyemdhb2lTQjU2dWpKRTRsT3RWSnl4aHk0bnI0WHJjRE1YTzZDZnBLdU52dDJzS2diczdEbktkSQ?oc=5",
+      "outlet": "University of Delaware",
+      "domain": "news.google.com",
+      "published_at": "2026-08-28T17:49:47+00:00",
+      "language": "English",
+      "source_country": "US",
+      "image": "",
+      "description": "Exploring seagrass beds throughout Delaware University of Delaware",
+      "themes": [
+        "Conservation & policy",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (US)",
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "baseline": false
+    },
     {
       "id": "0d380af2a32ab609d9",
       "title": "Disposed bodyboards repurposed to protect seagrass habitats - Dartmouth Chronicle",
@@ -26,7 +171,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -50,7 +195,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -74,7 +219,31 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
+      "baseline": false
+    },
+    {
+      "id": "b30325f999d6c3f6a9",
+      "title": "Kuşadası'nda deniz çayırları için kritik uyarı - Habertürk",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMVNvd05xazlxWThQUkkzVFF0STc1dGVVMEZDZmw0X2xCODAyVzVQUUhTMkJ0NWxNZjZSajB6NmdXTGdsZjBqcHhESDBnZkMwem95ME8wY1ZxUzVvTmVTOGdILVEyYlppLThLbnlULW5aV2hTbXJ0M3k3UTlOeVZCT2hISTFIMmROSnVmYkI3QTFJSy1EMm5oX0ZTMGlEdw?oc=5",
+      "outlet": "Habertürk",
+      "domain": "news.google.com",
+      "published_at": "2026-08-28T10:04:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Kuşadası'nda deniz çayırları için kritik uyarı Habertürk",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -122,7 +291,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -146,7 +315,31 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
+      "baseline": false
+    },
+    {
+      "id": "2db5752bce86e60195",
+      "title": "Nach sieben Tagen Grasen der «Seekuh»: Bieler Bucht ist vom Seegras befreit - ajour",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGVPbjgybjNxS1pRZFVZN3dDWWRtR0duVE5CWFE2M3ZhbUNheHRZRlRFSDlLek1BbDhEbTN2REZHSkhwa2hJcXE2NjMyaTA5Yjd4VlZ6cEwzc1VaTkdIQmZOZzNhN1k5cXRBTkJRY284WDQ0ejhnZ1E3MlZOWUdhdWhuMENEdkM1dGxvanRjRUZoSmhrZHpIZklIVWViNUNWdnNNMlJTNFg?oc=5",
+      "outlet": "ajour",
+      "domain": "news.google.com",
+      "published_at": "2026-08-28T02:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Nach sieben Tagen Grasen der «Seekuh»: Bieler Bucht ist vom Seegras befreit ajour",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -170,7 +363,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -195,7 +388,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -219,7 +412,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -340,7 +533,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -412,7 +605,7 @@
       ],
       "search_route": "Google News Thai (TH)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -532,7 +725,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -581,7 +774,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -629,7 +822,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -846,7 +1039,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -1281,7 +1474,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -1329,7 +1522,7 @@
       ],
       "search_route": "Google News Greek (GR)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -1354,7 +1547,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -1426,7 +1619,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -1474,7 +1667,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -1570,7 +1763,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -1618,7 +1811,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -1642,7 +1835,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -1810,7 +2003,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-29",
       "baseline": false
     },
     {
@@ -6573,19 +6766,19 @@
     "languages": [
       [
         "English",
-        88
+        90
       ],
       [
         "German",
-        32
+        36
       ],
       [
         "Indonesian",
-        31
+        32
       ],
       [
         "Turkish",
-        24
+        25
       ],
       [
         "Italian",
@@ -6655,19 +6848,19 @@
     "countries": [
       [
         "GB",
-        36
+        37
       ],
       [
         "DE",
-        32
+        36
+      ],
+      [
+        "TR",
+        25
       ],
       [
         "United States",
         25
-      ],
-      [
-        "TR",
-        24
       ],
       [
         "Indonesia",
@@ -6682,16 +6875,20 @@
         11
       ],
       [
+        "ID",
+        10
+      ],
+      [
         "CN",
         10
       ],
       [
-        "ID",
-        9
-      ],
-      [
         "KR",
         8
+      ],
+      [
+        "US",
+        7
       ],
       [
         "United Kingdom",
@@ -6703,10 +6900,6 @@
       ],
       [
         "AE",
-        6
-      ],
-      [
-        "US",
         6
       ],
       [
@@ -6940,11 +7133,39 @@
         2
       ],
       [
+        "Deutschlandfunk",
+        1
+      ],
+      [
+        "The Weather Channel",
+        1
+      ],
+      [
+        "marineforum",
+        1
+      ],
+      [
+        "National Geographic Indonesia",
+        1
+      ],
+      [
+        "bluewin.ch",
+        1
+      ],
+      [
+        "University of Delaware",
+        1
+      ],
+      [
         "Dartmouth Chronicle",
         1
       ],
       [
         "Aydın Denge Haber",
+        1
+      ],
+      [
+        "Habertürk",
         1
       ],
       [
@@ -6960,6 +7181,10 @@
         1
       ],
       [
+        "ajour",
+        1
+      ],
+      [
         "한국면세뉴스",
         1
       ],
@@ -6970,44 +7195,12 @@
       [
         "De Telegraaf",
         1
-      ],
-      [
-        "shetnews.co.uk",
-        1
-      ],
-      [
-        "We Are South Devon",
-        1
-      ],
-      [
-        "skepticalscience.com",
-        1
-      ],
-      [
-        "abc.es",
-        1
-      ],
-      [
-        "Kıbrıs Postası",
-        1
-      ],
-      [
-        "italiannetwork.it",
-        1
-      ],
-      [
-        "TrueID",
-        1
-      ],
-      [
-        "boston.com",
-        1
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        200
+        207
       ],
       [
         "Restoration",
@@ -7015,15 +7208,15 @@
       ],
       [
         "Conservation & policy",
+        15
+      ],
+      [
+        "Science & discovery",
         14
       ],
       [
         "Climate & heat",
         14
-      ],
-      [
-        "Science & discovery",
-        13
       ],
       [
         "Development & infrastructure",
@@ -7053,7 +7246,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        175
+        183
       ],
       [
         "GDELT",
