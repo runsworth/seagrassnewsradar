@@ -1,10 +1,202 @@
 {
-  "generated_at": "2026-08-29T11:47:04.445134+00:00",
+  "generated_at": "2026-08-30T10:40:31.303422+00:00",
   "baseline_complete": true,
-  "article_count": 279,
-  "new_today": 8,
+  "article_count": 306,
+  "new_today": 27,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "90c7095e8a30d26607",
+      "title": "\"Lungen unserer Meere\" in Gefahr: Boote zerstören wichtige Seegraswiesen im Mittelmeer - wetter.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ01KOTFqNXlLMWZQa2F4WEk2QlF2bEl6VF9LTlZ5OHZaZkY5bEI0c1dmY3NOV1dLMkdHOHh6S3VpMERNS1pfN1dweUl0Vkh6OXR3TVBrMXFObDAzNmhBcmw5RmVBRGdjMFJPcWZlUFFRVUpHY1NhMElyTW90VE1UbnlBamk0cjdsSVJaVmZHLW1ONGpDS0hnN0tsRGJDYnNVSXR5QzlnQXdpZjZEWVI1cTF0UHZDTTMwVDVLN2VSWkx1bW54MHNCNWpLSlhNSXhxM0lnVzVZdjE3c012Ykcw?oc=5",
+      "outlet": "wetter.com",
+      "domain": "news.google.com",
+      "published_at": "2026-08-30T08:48:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "\"Lungen unserer Meere\" in Gefahr: Boote zerstören wichtige Seegraswiesen im Mittelmeer wetter.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "8fa22e207a403af1ab",
+      "title": "Jokowi Singgung Pemimpin Kasar ke Rakyat : Meski Kamu Sakti Jangan Suka Membunuh",
+      "url": "https://medan.tribunnews.com/news/1809051/jokowi-singgung-pemimpin-kasar-ke-rakyat-meski-kamu-sakti-jangan-suka-membunuh",
+      "outlet": "medan.tribunnews.com",
+      "domain": "medan.tribunnews.com",
+      "published_at": "2026-08-30T08:15:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://asset.tribunnews.com/pFYsiWQ4TzI9Dbp-YHS5BYvLdmU=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/medan/foto/bank/originals/jokowi-saat-ditemui-solo.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "16eb5b5b529f51020e",
+      "title": "At the Cape Canaveral power plant , a single winter count found 585 manatees packed into its warm - water discharge , because prolonged exposure below 68°F can kill a tropical mammal and a cooling system built to dump waste heat has become the artifi...",
+      "url": "https://spacedaily.com/b-at-the-cape-canaveral-power-plant-a-single-winter-count-found-585-manatees-packed-into-its-warm-water-discharge-because-prolonged-exposure-below-68f-can-kill-a-tropical-mammal-and-a-cooling-sy",
+      "outlet": "spacedaily.com",
+      "domain": "spacedaily.com",
+      "published_at": "2026-08-30T03:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/08/manatees-group-underwater.png",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "95a550f9b33850e456",
+      "title": "湘湖草海 绿色童话 - 杭州影像 - 杭州网",
+      "url": "https://pic.hangzhou.com.cn/hzyx/content/content_9293558.html",
+      "outlet": "pic.hangzhou.com.cn",
+      "domain": "pic.hangzhou.com.cn",
+      "published_at": "2026-08-30T01:00:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "b17ba665103621a0ed",
+      "title": "LankaWeb – POLICY ADVISORY - Mannar Gas : Do Not Drill First and Plan the Country Later",
+      "url": "https://www.lankaweb.com/news/items/2026/08/29/policy-advisory-mannar-gas-do-not-drill-first-and-plan-the-country-later",
+      "outlet": "lankaweb.com",
+      "domain": "lankaweb.com",
+      "published_at": "2026-08-29T22:30:00+00:00",
+      "language": "English",
+      "source_country": "Sri Lanka",
+      "image": "",
+      "description": "",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "28b9017c6c15de2b78",
+      "title": "Konservasi Padang Lamun di Indonesia Tak Bisa Diseragamkan - Betahita",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWExRd3JYeXFDLTdCVFk1bjc0N3oxUTdHRmNJZVZFU2JaR2phalE4Ym1KZ2ROalAwc1RQWERxV1g1ZVFteWFacXdXQlg4OTRyWkNOQllBWWNvWHZrd2Z4MkFiYTNUQkNaSGd5ZU5ISHdsS2d2QmxOUG1vTHRQOUszUklOTE9GTjljTUZ2LTM1OGVlVm00LWdaMHJ0RQ?oc=5",
+      "outlet": "Betahita",
+      "domain": "news.google.com",
+      "published_at": "2026-08-29T21:01:41+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Konservasi Padang Lamun di Indonesia Tak Bisa Diseragamkan Betahita",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "8d41b0c53705f8091d",
+      "title": "Amplias praderas marinas protegerán la costa",
+      "url": "https://bitacora.com.uy/amplias-praderas-marinas-protegeran-la-costa",
+      "outlet": "bitacora.com.uy",
+      "domain": "bitacora.com.uy",
+      "published_at": "2026-08-29T15:45:00+00:00",
+      "language": "Spanish",
+      "source_country": "Uruguay",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "490587900211051b61",
+      "title": "Mehrere Ursachen für Schäden: Seegraswiesen im Mittelmeer werden immer öfter zerstört - n-tv.de",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdjhoeGYzMzMzaXZjOWQyVTBRcGdDTDZWTTIyOUMtXzlsNnI2dWtIWDhvM1ZFYS1TQWMzdzFfZm9GZUp1TzJxaC1fUkptRS1sWGRseG9HRS04dElkX29HdEpPZFhlQkdjVjAxTmh5aGl0aDJfYjdnXzZONjVaVkI0enF6Ml9UVWJHQzB2Wm9vYlI2MnZIUlBMelRVWFc3RHFxemc?oc=5",
+      "outlet": "n-tv.de",
+      "domain": "news.google.com",
+      "published_at": "2026-08-29T12:49:47+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Mehrere Ursachen für Schäden: Seegraswiesen im Mittelmeer werden immer öfter zerstört n-tv.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
     {
       "id": "76fdc0b8988c8b54b9",
       "title": "Mittelmeer - Seegraswiesen vor den griechischen Küsten sind in Gefahr - Deutschlandfunk",
@@ -26,7 +218,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -54,6 +246,54 @@
       "baseline": false
     },
     {
+      "id": "c7ab0e860d08e44e65",
+      "title": "FPIK Unsoed Dorong Diversifikasi Olahan Rumput Laut untuk Tingkatkan Gizi dan Pendapatan KWT",
+      "url": "https://jateng.tribunnews.com/pendidikan/1264686/fpik-unsoed-dorong-diversifikasi-olahan-rumput-laut-untuk-tingkatkan-gizi-dan-pendapatan-kwt",
+      "outlet": "jateng.tribunnews.com",
+      "domain": "jateng.tribunnews.com",
+      "published_at": "2026-08-29T08:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://asset.tribunnews.com/MkmdSGWqPpDyij57Aq44k0Cnvqk=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/jateng/foto/bank/originals/20260829_unosed8288292282.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "f6ba87a7f14bd04b71",
+      "title": "Kuşadası’nda deniz çayırları için kritik uyarı - Söke Ekspres",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDFRMk1OclNzeVBlOVZieXR3cVZSeG9ZV1RhYklKTlpybzdueTZhMnBrTDk5Njd4Ny04OE5rTEM1NGN0WmJBYVZBYWRpd1p4cmstdTdkdzZGZ1p1LVE4TlNrNGlWdW93b3NaSkt1R2trY0JWYnpYX2cyMXZoSW1MVHVfdW1oV0tkZVVFMjFMUWdXRjdUMjgw0gGXAUFVX3lxTE1EMVEyTU5yU3N5UGU5VmJ5dHdxVlJ4b1lXVGFiSUpOWnJvN255NmEycGtMOTk2N3g3LTg4TmtMQzU0Y3RaYkFhVkFhZGl3Wnhyay11N2R3NkZnWnUtUThOU2s0aVZ1b3dvc1pKS3VHa2tjQlZielhfZzIxdmhJbUxUdV91bWhXS2RlVUUyMUxRZ1dGN1QyODA?oc=5",
+      "outlet": "Söke Ekspres",
+      "domain": "news.google.com",
+      "published_at": "2026-08-29T06:42:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Kuşadası’nda deniz çayırları için kritik uyarı Söke Ekspres",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
       "id": "1d0ac9ef41d211b186",
       "title": "Verwaltung bremst Seegrasrenaturierung in der Ostsee - marineforum",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MM0hSU0tTVm1xVVJxTzNEUW51Rk13Tk1mWEZzeHZKOXhXYVNOa1JOdUpVWkpDa2ZfenNwQ0JiSUdvcEpZcEJyRjR0eWdwcmpIVnc4Y1pHSGVRVTE5Qi1Bb0FZcFF5NElsUlhsY1h6MUZob2VMcEVLbw?oc=5",
@@ -74,7 +314,55 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "6830a1fc0cd434dbbe",
+      "title": "From pest to delight : New Englanders turning invasive green crab into popular meal",
+      "url": "https://www.altoonamirror.com/life/area-life/2026/08/newengland-greencrabs-turning-pest-into-food",
+      "outlet": "altoonamirror.com",
+      "domain": "altoonamirror.com",
+      "published_at": "2026-08-29T06:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2026/08/28180231/AP26237624961769.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "b955bd68490267a9c5",
+      "title": "Qué pasa bajo el mar cuando sube la temperatura del océano y su impacto en la vida marina",
+      "url": "https://www.elconfidencialdigital.com/articulo/gourmet/que-sucede-mar-cuando-temperatura-oceano-sube-como-afecta-vida-marina-ecosistemas/202608271827391037594.html",
+      "outlet": "elconfidencialdigital.com",
+      "domain": "elconfidencialdigital.com",
+      "published_at": "2026-08-29T04:15:00+00:00",
+      "language": "Spanish",
+      "source_country": "Spain",
+      "image": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/08/27/2026082712073337805.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -98,7 +386,31 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "4c81dcf981f3f43def",
+      "title": "Así es un trasplante de pradera marina : Tenerife recupera su pulmón bajo el agua con semillas cultivadas en laboratorio",
+      "url": "https://wedjfm.com/asi-es-un-trasplante-de-pradera-marina-tenerife-recupera-su-pulmon-bajo-el-agua-con-semillas-cultivadas-en-laboratorio",
+      "outlet": "wedjfm.com",
+      "domain": "wedjfm.com",
+      "published_at": "2026-08-29T02:45:00+00:00",
+      "language": "Spanish",
+      "source_country": "Unknown",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -122,7 +434,79 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "10a417db61c8ee8256",
+      "title": "Tlocor Sidoarjo Punya Potensi Wisata Baru , Hiu Paus Jadi Daya Tarik",
+      "url": "https://beritajatim.com/tlocor-sidoarjo-punya-potensi-wisata-baru-hiu-paus-jadi-daya-tarik",
+      "outlet": "beritajatim.com",
+      "domain": "beritajatim.com",
+      "published_at": "2026-08-29T02:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdnmedia.beritajatim.com/images/2026/08/hiyu.webp",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "f6b781ab631aabcf65",
+      "title": "Global sea surface temperatures reach a record high , again",
+      "url": "https://news.mongabay.com/short-article/2026/08/global-sea-surface-temperatures-reach-a-record-high-again",
+      "outlet": "news.mongabay.com",
+      "domain": "news.mongabay.com",
+      "published_at": "2026-08-29T01:30:00+00:00",
+      "language": "English",
+      "source_country": "Indonesia",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/28200510/jan-15-2025-buffering.jpg",
+      "description": "",
+      "themes": [
+        "Climate & heat"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "09e75b2ab12c7efbd9",
+      "title": "건강한 연안생태계 위한 잘피 숲 조성.관리 강화 - 서울Pn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNVlxTV8wenZyWkx4NFE0c1NrbGxOUVc5OE1jSm5RWGdVMU0xR3pZblBBeGxCMmFQbG9nbUhFVVhXMHREaVVyNUNUMEVoQlAxeWtIZVJIbW9Lb3hTUFVzVTF3VkY2YWprLUlzeFNmRVlHbUNyNHU1SHpCX3RqcUxfQ1dQb0syd3lQTW5N?oc=5",
+      "outlet": "서울Pn",
+      "domain": "news.google.com",
+      "published_at": "2026-08-29T00:55:20+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "건강한 연안생태계 위한 잘피 숲 조성.관리 강화 서울Pn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -147,7 +531,103 @@
       ],
       "search_route": "Google News English (US)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "9cb288ddfec84db10c",
+      "title": "More than lines on a map : Why marine protected areas matter",
+      "url": "https://www.georgeherald.com/Opinion/Article/Blogs/more-than-lines-on-a-map-why-marine-protected-areas-matter-202608280332",
+      "outlet": "georgeherald.com",
+      "domain": "georgeherald.com",
+      "published_at": "2026-08-28T17:15:00+00:00",
+      "language": "English",
+      "source_country": "South Africa",
+      "image": "https://cms.groupeditors.com/img/2026/Aug/6d347f27-a6fa-4b13-a799-f75a4ed114f5.jpg",
+      "description": "",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "6760a904e2c487666a",
+      "title": "Bowen Aquarium groundbreaking set for December at Port Canaveral",
+      "url": "https://www.clickorlando.com/news/local/2026/08/28/bowen-aquarium-groundbreaking-set-for-december-at-port-canaveral",
+      "outlet": "clickorlando.com",
+      "domain": "clickorlando.com",
+      "published_at": "2026-08-28T16:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/video/wkmg/40d0a4b3-fee9-4d86-a5e2-b423a19622ce/image.jpg?_a=DATAg1kSZAA0",
+      "description": "",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "f063f38554ab10ed05",
+      "title": "9 Manfaat Rumput Laut untuk Kesehatan yang Jarang Diketahui , Bagus untuk Diet !",
+      "url": "https://www.jawapos.com/lifestyle/2608280438/9-manfaat-rumput-laut-untuk-kesehatan-yang-jarang-diketahui-bagus-untuk-diet",
+      "outlet": "jawapos.com",
+      "domain": "jawapos.com",
+      "published_at": "2026-08-28T15:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn-assets.jawapos.com/images/1/2026/08/28/manfaat-rumput-laut-dalam-program-diet-sehat-foto-pexelscom-5DyMe.webp",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "3886a2cf8b0134c6c5",
+      "title": "A sea cucumber venture in Zanzibar seeks to balance business and conservation",
+      "url": "https://news.mongabay.com/2026/08/a-sea-cucumber-venture-in-zanzibar-seeks-to-balance-business-and-conservation",
+      "outlet": "news.mongabay.com",
+      "domain": "news.mongabay.com",
+      "published_at": "2026-08-28T15:45:00+00:00",
+      "language": "English",
+      "source_country": "Indonesia",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/28133301/005-Mpogo1-2-1200x800-1.jpg",
+      "description": "",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -171,7 +651,31 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "1a57cecb4c27e4c751",
+      "title": "Viral , Penjual Pancake Ini Selipkan Uang untuk Anak yang Jalani Kemoterapi",
+      "url": "https://www.liputan6.com/global/read/8278091/viral-penjual-pancake-ini-selipkan-uang-untuk-anak-yang-jalani-kemoterapi",
+      "outlet": "liputan6.com",
+      "domain": "liputan6.com",
+      "published_at": "2026-08-28T14:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn0-production-images-kly.akamaized.net/9QaCIX1zT17Lx6iYq9ngopUH1Po=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9333290/original/032971400_1787740832-mche-lee-CgGhnDIDsKc-unsplash.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -195,7 +699,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -219,7 +723,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -291,7 +795,55 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "57a54742788e450e87",
+      "title": "Pemkot Bandung Kaji Air Sungai Cikapundung Jadi Air Baku , Farhan : Harusnya Bisa",
+      "url": "https://jabar.tribunnews.com/metro-bandung/1182699/pemkot-bandung-kaji-air-sungai-cikapundung-jadi-air-baku-farhan-harusnya-bisa",
+      "outlet": "jabar.tribunnews.com",
+      "domain": "jabar.tribunnews.com",
+      "published_at": "2026-08-28T06:15:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://asset.tribunnews.com/q1DHSZMyg-tYVXM78ULBMHM2wGw=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/jabar/foto/bank/originals/aliran-Sungai-Cikapundung-di-Kota-Bandung.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "79dcb485973de7f6c5",
+      "title": "从荧幕到世界 ，《 乌蒙深处 》 让贵州山水走向更远的地方",
+      "url": "https://www.gzstv.com/a/3336a7ca1ba04d76932f4c984dc2e936",
+      "outlet": "gzstv.com",
+      "domain": "gzstv.com",
+      "published_at": "2026-08-28T05:15:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -315,7 +867,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -339,7 +891,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -367,6 +919,78 @@
       "baseline": false
     },
     {
+      "id": "4c641b5de9273fed4c",
+      "title": "Earth oceans are probably hotter than at any point in at least 1 , 000 years and are warming faster than they have for millennia . A 2026 review adds another warning : dissolved oxygen is rapidly declining across oceans , lakes and rivers , and altho...",
+      "url": "https://scienceblog.com/t-oceans-hotter-millennium-aquatic-deoxygenation-planetary-boundary",
+      "outlet": "scienceblog.com",
+      "domain": "scienceblog.com",
+      "published_at": "2026-08-27T19:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://scienceblog.com/wp-content/uploads/2026/08/scienceblog-noaa-hydromedusa-oxygen-minimum-zone.jpg",
+      "description": "",
+      "themes": [
+        "Climate & heat"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "7f4b3d9f7a15d306d3",
+      "title": "Anya Leslie spent eight weeks working with scientists at UHI Shetland Scalloway campus",
+      "url": "https://www.shetlandtimes.co.uk/news/first-dr-ian-napier-studentship-gives-marine-biology-student-443504",
+      "outlet": "shetlandtimes.co.uk",
+      "domain": "shetlandtimes.co.uk",
+      "published_at": "2026-08-27T17:00:00+00:00",
+      "language": "English",
+      "source_country": "United Kingdom",
+      "image": "https://www.shetlandtimes.co.uk/_media/img/LQD0LKRO44HH65W39523.jpg",
+      "description": "",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "fc5dcc39bd462fbb61",
+      "title": "The invasive crab plaguing New England is being transformed into a fine dining dish",
+      "url": "https://www.independent.co.uk/news/world/americas/new-england-green-crab-invasive-maine-b3040442.html",
+      "outlet": "independent.co.uk",
+      "domain": "independent.co.uk",
+      "published_at": "2026-08-27T16:45:00+00:00",
+      "language": "English",
+      "source_country": "United Kingdom",
+      "image": "https://static.independent.co.uk/2026/08/26/14/Invasive_Species_Green_Crabs_927_8.jpg?&crop=1200:800",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
       "id": "28e657f2b5137c6486",
       "title": "Bodyboards rescued from disposal help scientists protect Devon's seagrass habitats - News - Devon County Council",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclBrYU9FNVNZR0pCU3ZCM0xNM012R21qUGFpSm1xR2UyTXllMkZHUF9NQmVHeHdUT3ZqSUdPMGJYOXRuWmlzc2s3aW9Sd0FXbkQtUVFfQXNIVHZNaW1rUkZjc0ZTZkJEOVdiZDlBd0RhMTRHQTVsQXRPQUFyaTBiN04zZ1dBVVZHV2MwVDRZdkx6aU1lZ2QzTVZpSFVJd1lOTlEzX2hpNW9qZUZEX3VhRkxrUdIBswFBVV95cUxQclBrYU9FNVNZR0pCU3ZCM0xNM012R21qUGFpSm1xR2UyTXllMkZHUF9NQmVHeHdUT3ZqSUdPMGJYOXRuWmlzc2s3aW9Sd0FXbkQtUVFfQXNIVHZNaW1rUkZjc0ZTZkJEOVdiZDlBd0RhMTRHQTVsQXRPQUFyaTBiN04zZ1dBVVZHV2MwVDRZdkx6aU1lZ2QzTVZpSFVJd1lOTlEzX2hpNW9qZUZEX3VhRkxrUQ?oc=5",
@@ -388,7 +1012,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -412,7 +1036,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -436,7 +1060,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -485,7 +1109,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -509,7 +1133,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -533,7 +1157,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -557,7 +1181,31 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-30",
+      "baseline": false
+    },
+    {
+      "id": "7167512ff95922443d",
+      "title": "【カメラ今中 島を渡る瀬戸内シーカヤックおかわり紀行】白石島（笠岡市） 一時消滅のアマモ場復活 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92anFJak1YQjlUN3FFQWFTaHZ0LTZ2WlZuUWIzRl82SXBFdDJOcjZWTDNiS3dMQ2RxdnF4YlJXbDBMUkJ5WU5CWFpzV3k0bWRIbURKNWlsRnE5WF9LaC1IdDk1ZHJEUGM?oc=5",
+      "outlet": "山陽新聞",
+      "domain": "news.google.com",
+      "published_at": "2026-08-27T07:00:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "【カメラ今中 島を渡る瀬戸内シーカヤックおかわり紀行】白石島（笠岡市） 一時消滅のアマモ場復活 山陽新聞",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -581,7 +1229,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -605,7 +1253,7 @@
       ],
       "search_route": "Google News Thai (TH)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -629,7 +1277,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -653,7 +1301,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -677,7 +1325,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -701,7 +1349,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -725,7 +1373,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -749,7 +1397,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -774,7 +1422,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -798,7 +1446,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -822,7 +1470,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -1039,7 +1687,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -1474,7 +2122,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -1522,7 +2170,7 @@
       ],
       "search_route": "Google News Greek (GR)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -1547,7 +2195,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -1619,7 +2267,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "baseline": false
     },
     {
@@ -4917,7 +5565,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-30",
       "baseline": true
     },
     {
@@ -6766,19 +7414,19 @@
     "languages": [
       [
         "English",
-        90
-      ],
-      [
-        "German",
-        36
+        100
       ],
       [
         "Indonesian",
-        32
+        39
+      ],
+      [
+        "German",
+        38
       ],
       [
         "Turkish",
-        25
+        26
       ],
       [
         "Italian",
@@ -6786,19 +7434,19 @@
       ],
       [
         "Chinese",
-        15
+        17
       ],
       [
         "Spanish",
-        11
+        14
       ],
       [
         "Japanese",
-        11
+        12
       ],
       [
         "Korean",
-        8
+        9
       ],
       [
         "Arabic",
@@ -6847,24 +7495,24 @@
     ],
     "countries": [
       [
+        "DE",
+        38
+      ],
+      [
         "GB",
         37
       ],
       [
-        "DE",
-        36
-      ],
-      [
-        "TR",
-        25
+        "Indonesia",
+        31
       ],
       [
         "United States",
-        25
+        29
       ],
       [
-        "Indonesia",
-        23
+        "TR",
+        26
       ],
       [
         "Italy",
@@ -6872,11 +7520,11 @@
       ],
       [
         "JP",
-        11
+        12
       ],
       [
         "ID",
-        10
+        11
       ],
       [
         "CN",
@@ -6884,18 +7532,26 @@
       ],
       [
         "KR",
+        9
+      ],
+      [
+        "United Kingdom",
         8
+      ],
+      [
+        "Spain",
+        7
       ],
       [
         "US",
         7
       ],
       [
-        "United Kingdom",
+        "China",
         6
       ],
       [
-        "Spain",
+        "Unknown",
         6
       ],
       [
@@ -6911,10 +7567,6 @@
         5
       ],
       [
-        "Unknown",
-        5
-      ],
-      [
         "IT",
         5
       ],
@@ -6924,10 +7576,6 @@
       ],
       [
         "MX",
-        4
-      ],
-      [
-        "China",
         4
       ],
       [
@@ -6953,6 +7601,18 @@
       [
         "Norway",
         2
+      ],
+      [
+        "Sri Lanka",
+        1
+      ],
+      [
+        "Uruguay",
+        1
+      ],
+      [
+        "South Africa",
+        1
       ],
       [
         "Argentina",
@@ -7001,15 +7661,23 @@
         6
       ],
       [
+        "liputan6.com",
+        4
+      ],
+      [
+        "山陽新聞",
+        4
+      ],
+      [
+        "news.mongabay.com",
+        3
+      ],
+      [
         "momsmoney.kontan.co.id",
         3
       ],
       [
         "kupang.tribunnews.com",
-        3
-      ],
-      [
-        "liputan6.com",
         3
       ],
       [
@@ -7026,10 +7694,6 @@
       ],
       [
         "baijiahao.baidu.com",
-        3
-      ],
-      [
-        "山陽新聞",
         3
       ],
       [
@@ -7133,6 +7797,38 @@
         2
       ],
       [
+        "wetter.com",
+        1
+      ],
+      [
+        "medan.tribunnews.com",
+        1
+      ],
+      [
+        "spacedaily.com",
+        1
+      ],
+      [
+        "pic.hangzhou.com.cn",
+        1
+      ],
+      [
+        "lankaweb.com",
+        1
+      ],
+      [
+        "Betahita",
+        1
+      ],
+      [
+        "bitacora.com.uy",
+        1
+      ],
+      [
+        "n-tv.de",
+        1
+      ],
+      [
         "Deutschlandfunk",
         1
       ],
@@ -7141,66 +7837,30 @@
         1
       ],
       [
+        "jateng.tribunnews.com",
+        1
+      ],
+      [
+        "Söke Ekspres",
+        1
+      ],
+      [
         "marineforum",
         1
       ],
       [
-        "National Geographic Indonesia",
+        "altoonamirror.com",
         1
       ],
       [
-        "bluewin.ch",
-        1
-      ],
-      [
-        "University of Delaware",
-        1
-      ],
-      [
-        "Dartmouth Chronicle",
-        1
-      ],
-      [
-        "Aydın Denge Haber",
-        1
-      ],
-      [
-        "Habertürk",
-        1
-      ],
-      [
-        "İhlas Haber Ajansı",
-        1
-      ],
-      [
-        "FONK magazine",
-        1
-      ],
-      [
-        "Sumbardaily.com",
-        1
-      ],
-      [
-        "ajour",
-        1
-      ],
-      [
-        "한국면세뉴스",
-        1
-      ],
-      [
-        "Devon County Council",
-        1
-      ],
-      [
-        "De Telegraaf",
+        "elconfidencialdigital.com",
         1
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        207
+        227
       ],
       [
         "Restoration",
@@ -7208,19 +7868,19 @@
       ],
       [
         "Conservation & policy",
-        15
-      ],
-      [
-        "Science & discovery",
-        14
+        18
       ],
       [
         "Climate & heat",
-        14
+        16
+      ],
+      [
+        "Science & discovery",
+        15
       ],
       [
         "Development & infrastructure",
-        13
+        14
       ],
       [
         "Wildlife & biodiversity",
@@ -7246,11 +7906,11 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        183
+        189
       ],
       [
         "GDELT",
-        97
+        118
       ]
     ]
   }

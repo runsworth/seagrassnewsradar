@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-29T11:47:04.445134+00:00",
+  "generated_at": "2026-08-30T10:40:31.303422+00:00",
   "baseline_mode": false,
   "sources": {
     "gdelt": {
       "name": "GDELT",
       "ok": false,
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=30)"
+      "fetched": 46,
+      "kept": 46,
+      "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28%22Cymodocea+nodosa%22+OR+%22Cymodocea+serrulata%22+OR+%22Enhalus+acoroides%22+OR+%22Syringodium+filiforme%22+OR+Phyllospadix%29&mode=artlist&format=json&maxrecords=250&timespan=4d&sor"
     },
     "google_news_rss": {
       "name": "Google News RSS",
       "ok": true,
-      "fetched": 3170,
-      "kept": 35,
+      "fetched": 3231,
+      "kept": 32,
       "feeds": 58,
       "errors": []
     }
