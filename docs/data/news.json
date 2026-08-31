@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-08-30T10:40:31.303422+00:00",
+  "generated_at": "2026-08-31T11:49:49.993828+00:00",
   "baseline_complete": true,
-  "article_count": 306,
-  "new_today": 27,
+  "article_count": 309,
+  "new_today": 3,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "5320bbee7b1bd94986",
+      "title": "Deniz çayırları Lansman Programı Gerçekleştirildi - Analiz Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2NneEszUlFuZy1yTW96bWhyTkN6b2lZNnYwM2p2Z2dvYTVnRURiNDY3QkFaZzhWRzNyUXlkSmJIWEdlemxXbFFDTm1xLU1ySkp2bURiRkRVLWgwLVk3Y2VGcm5MNjBqdWJNM01jUkc5dnI3WG5JX3I1RkJZcjkzMVVBbi1JSm5zVlV0UEZsQWpPRFNk?oc=5",
+      "outlet": "Analiz Gazetesi",
+      "domain": "news.google.com",
+      "published_at": "2026-08-31T08:05:49+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Deniz çayırları Lansman Programı Gerçekleştirildi Analiz Gazetesi",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "baseline": false
+    },
+    {
+      "id": "23dda73a2cfa9a5181",
+      "title": "New seagrass specie discovered in Quezon protected area - DENR - GMA Network",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmh4cXdPN2tpYmk4SmYxdWUwV2JqYWE4dEJ1Y0FlQ2NDVUtkOERQcTlSZEtPQy12MFZ3OGNQV1ZrOHp0amZfMU9nUkJPN2YwOXdRWnlIbG8wNDYtamFNdFBLZ05JUVhfQ0Y4LURSSVdha2llM09fUWs4X3Y0WDhteGVYbUtMMHYyZGdRX1pvd3RSWHJwQnNWOHpla25iREQ3dDhQeV8zdnhoMUhXRUFjRHBEV2pubkhZMU1CeWdUYUfSAcYBQVVfeXFMTXV6R2pwcGxsUDI5cEZYYWRYWU1kZjEtZmJCTVh4WFF1b0NWZTBlSXBlUkhNamdLREwzR0x1UExvaG0xSzNwcTZOUXdiWmExbnRwYW9HUWF5Z25DcmZrTlNFX0tlVHhxNkJ6ZTVBNHdJcVBzOE9XNEdmd3dZcnEzci1uR3pETzhpQWhsRktIanYyVEtBVDE1M3NTSHNfUFZqdUJxd1k4RlI3b3lob3o3bTZyMWo1NTBNUmI0ZlE0RXpMd0dDbXl3?oc=5",
+      "outlet": "GMA Network",
+      "domain": "news.google.com",
+      "published_at": "2026-08-31T05:57:04+00:00",
+      "language": "English",
+      "source_country": "US",
+      "image": "",
+      "description": "New seagrass specie discovered in Quezon protected area - DENR GMA Network",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (US)",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "baseline": false
+    },
+    {
+      "id": "bd4096388c83065e1a",
+      "title": "'Dipte İz Projesi'nde Tuzla'da deniz çayırı ekimi tamamlandı - Hatay Asi Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXhpSjFiTDVsd2JucEYxUTdpOHN3WW1kaE92RHVDT0p6TXl6UzVnQS15Qy0yOFNsY0IyU0t4ZjA4VjFLRnYwRTNTMDRwOTBvR0xRMnlKaFVudzl0eFI4TWIyTnlaeWxsZ1l5Y2JGRG04VHNEdWhzYVhnUGdvVTRsNXBZNlpac2daVkZqb1FB?oc=5",
+      "outlet": "Hatay Asi Gazetesi",
+      "domain": "news.google.com",
+      "published_at": "2026-08-30T14:23:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "'Dipte İz Projesi'nde Tuzla'da deniz çayırı ekimi tamamlandı Hatay Asi Gazetesi",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "baseline": false
+    },
     {
       "id": "90c7095e8a30d26607",
       "title": "\"Lungen unserer Meere\" in Gefahr: Boote zerstören wichtige Seegraswiesen im Mittelmeer - wetter.com",
@@ -26,7 +98,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -146,7 +218,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -194,7 +266,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -218,7 +290,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -314,7 +386,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -386,7 +458,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -531,7 +603,7 @@
       ],
       "search_route": "Google News English (US)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -651,7 +723,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -699,7 +771,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -723,7 +795,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -771,7 +843,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -795,7 +867,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -867,7 +939,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -891,7 +963,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -1012,7 +1084,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -1036,7 +1108,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -1157,7 +1229,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -1205,7 +1277,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -1253,7 +1325,7 @@
       ],
       "search_route": "Google News Thai (TH)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -1373,7 +1445,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -1422,7 +1494,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -1470,7 +1542,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -1495,7 +1567,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-31",
       "baseline": false
     },
     {
@@ -4107,7 +4179,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-31",
       "baseline": true
     },
     {
@@ -5565,7 +5637,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "baseline": true
     },
     {
@@ -7414,7 +7486,7 @@
     "languages": [
       [
         "English",
-        100
+        101
       ],
       [
         "Indonesian",
@@ -7426,7 +7498,7 @@
       ],
       [
         "Turkish",
-        26
+        28
       ],
       [
         "Italian",
@@ -7512,7 +7584,7 @@
       ],
       [
         "TR",
-        26
+        28
       ],
       [
         "Italy",
@@ -7535,15 +7607,15 @@
         9
       ],
       [
+        "US",
+        8
+      ],
+      [
         "United Kingdom",
         8
       ],
       [
         "Spain",
-        7
-      ],
-      [
-        "US",
         7
       ],
       [
@@ -7701,6 +7773,10 @@
         3
       ],
       [
+        "Analiz Gazetesi",
+        2
+      ],
+      [
         "Aksiyon.com.TR",
         2
       ],
@@ -7797,6 +7873,14 @@
         2
       ],
       [
+        "GMA Network",
+        1
+      ],
+      [
+        "Hatay Asi Gazetesi",
+        1
+      ],
+      [
         "wetter.com",
         1
       ],
@@ -7843,32 +7927,20 @@
       [
         "Söke Ekspres",
         1
-      ],
-      [
-        "marineforum",
-        1
-      ],
-      [
-        "altoonamirror.com",
-        1
-      ],
-      [
-        "elconfidencialdigital.com",
-        1
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        227
+        229
+      ],
+      [
+        "Conservation & policy",
+        19
       ],
       [
         "Restoration",
         19
-      ],
-      [
-        "Conservation & policy",
-        18
       ],
       [
         "Climate & heat",
@@ -7906,7 +7978,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        189
+        192
       ],
       [
         "GDELT",
