@@ -1,10 +1,400 @@
 {
-  "generated_at": "2026-09-01T10:26:16.005683+00:00",
+  "generated_at": "2026-09-02T09:54:03.152508+00:00",
   "baseline_complete": true,
-  "article_count": 317,
-  "new_today": 8,
+  "article_count": 342,
+  "new_today": 25,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "17f5fd2da7e612e984",
+      "title": "Nearly a quarter of Aire river samples showed poor water quality",
+      "url": "https://www.cravenherald.co.uk/news/localnews/news_skipton/26513846.nearly-quarter-aire-river-samples-showed-poor-water-quality",
+      "outlet": "cravenherald.co.uk",
+      "domain": "cravenherald.co.uk",
+      "published_at": "2026-09-02T08:45:00+00:00",
+      "language": "English",
+      "source_country": "United Kingdom",
+      "image": "https://www.cravenherald.co.uk/resources/images/21399326.jpg?type=og-image&xType=0&yType=117",
+      "description": "",
+      "themes": [
+        "Pollution & water quality"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "61d1df37001a680949",
+      "title": "Dugong Population Plummets : Urgent Govt Wake - up Call",
+      "url": "https://www.miragenews.com/dugong-population-plummets-urgent-govt-wake-up-1737403",
+      "outlet": "miragenews.com",
+      "domain": "miragenews.com",
+      "published_at": "2026-09-02T08:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://cdn1.miragenews.com/tmp_cache?cdn=pbs.twimg.com%2Fprofile_images%2F828447353271037952%2FTB5ynuvL_400x400.jpg",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "9945affc9a0ead316f",
+      "title": "Peneliti Australia temukan penurunan populasi dugong sebesar 50 persen",
+      "url": "https://www.antaranews.com/berita/5722387/peneliti-australia-temukan-penurunan-populasi-dugong-sebesar-50-persen",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-09-02T08:30:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://img.antaranews.com/cache/1200x800/2025/10/10/01-Dugong-Alor_Juraij.jpg",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "68266b8b415c2b3976",
+      "title": "Today in Spain : A roundup of the latest news on Wednesday",
+      "url": "https://www.thelocal.es/20260902/today-in-spain-a-roundup-of-the-latest-news-on-wednesday-98",
+      "outlet": "thelocal.es",
+      "domain": "thelocal.es",
+      "published_at": "2026-09-02T07:30:00+00:00",
+      "language": "English",
+      "source_country": "Spain",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "758d4c836d5edab495",
+      "title": "New England has battled invasive green crabs for more than 200 years ; now people are eating the destructive species in a bid to protect shellfish , wetlands and coastal ecosystems",
+      "url": "https://timesofindia.indiatimes.com/science/new-england-has-battled-invasive-green-crabs-for-more-than-200-years-now-people-are-eating-the-destructive-species-in-a-bid-to-protect-shellfish-wetlands-and-coastal-ecosystems/articleshow/133701386.cms",
+      "outlet": "timesofindia.indiatimes.com",
+      "domain": "timesofindia.indiatimes.com",
+      "published_at": "2026-09-02T07:30:00+00:00",
+      "language": "English",
+      "source_country": "India",
+      "image": "https://static.toiimg.com/thumb/msid-133701592,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "description": "",
+      "themes": [
+        "Conservation & policy",
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "d33ccef5c47c856b86",
+      "title": "Drop Middle Bank reclamation from 2040 plan , says resident group",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/02/drop-middle-bank-reclamation-from-2040-plan-says-residents-group",
+      "outlet": "freemalaysiatoday.com",
+      "domain": "freemalaysiatoday.com",
+      "published_at": "2026-09-02T04:30:00+00:00",
+      "language": "English",
+      "source_country": "Malaysia",
+      "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/03/04e6631a-protect-karpal-singh-drive-protectkarpal-pic-29325.webp",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "c6ecd8efba224515cf",
+      "title": "坝光海边出现连片海草床 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWlIc2M4TkZlZUJjc28zc3RmRE0yUFN3azdpU3ZCdXB6U0xWUUhFNkVWbjlTLWZadnhFWnA0TlJCcDMxWXBjWnBYWkNWZ2RxMmlfRjJic19Jbk1KdmktdHAySHNWRWhPbHFTRGZkM3dOeFhJSUdNUGtHOGowVFFTamw2N0hnSTRmMGdJWQ?oc=5",
+      "outlet": "Sohu",
+      "domain": "news.google.com",
+      "published_at": "2026-09-02T01:02:05+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "坝光海边出现连片海草床 Sohu",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "0f3e588a715d5c4cf0",
+      "title": "Shock dugong decline in Gulf of Carpentaria prompts calls for more research , fishing bans",
+      "url": "https://www.abc.net.au/news/2026-09-02/scientists-find-dugong-population-decrease-gulf-of-carpentaria/107101178",
+      "outlet": "abc.net.au",
+      "domain": "abc.net.au",
+      "published_at": "2026-09-01T22:45:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ae22bbe4fb0143388087a4dcc4483c0e?impolicy=wcms_watermark_news&cropH=2394&cropW=4256&xPos=0&yPos=219&imformat=generic",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity",
+        "Fisheries & food",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "03177dab12bd305279",
+      "title": "HMAS Penguin sale : Endangered species and heritage sites threaten federal government plan for Sydney waterfront land",
+      "url": "https://www.brisbanetimes.com.au/national/nsw/why-this-slice-of-land-on-sydney-harbour-might-be-harder-to-sell-than-expected-20260830-p60sta.html",
+      "outlet": "brisbanetimes.com.au",
+      "domain": "brisbanetimes.com.au",
+      "published_at": "2026-09-01T20:15:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/384f7d0e4d1749a2cdfacbea939afa21204af23a",
+      "description": "",
+      "themes": [
+        "Conservation & policy",
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "cb0054ddfbd2c3eee8",
+      "title": "Onderzoekers testen of zeegras kan terugkeren - Omroep Archipel",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUlV6RWZXZGhBTkJyUk8xV0RJNnZ2YXZueWMzbE14SmdnR0JrdThzTVo1cHJGRW1jVnJENWFUNWVkRk9sTXNGTWo5c2J5b3pIT05pN1YzbVE0dFZmOC1EUTdxM19naE9Ra0NzUi1xaGFqQWVxck9SU0dybUlEUDlJblFXajV5WUNDTVExNw?oc=5",
+      "outlet": "Omroep Archipel",
+      "domain": "news.google.com",
+      "published_at": "2026-09-01T12:05:21+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Onderzoekers testen of zeegras kan terugkeren Omroep Archipel",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "47ff833b2bacd6f915",
+      "title": "Seagrass fisheries expose the poverty dimensions of marine conservation - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwUW9KcU04Skx5czQ3VXFIdm5SSmtyT0FYb3VpR1psdFU1eVlfZGdVZGE5VkxoUDBuNWJRYURFZ2hodHpKWUczWVVWTTZyVmxuakZlWlg3Mk44cTc3TWlz?oc=5",
+      "outlet": "Nature",
+      "domain": "news.google.com",
+      "published_at": "2026-09-01T10:46:01+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass fisheries expose the poverty dimensions of marine conservation Nature",
+      "themes": [
+        "Conservation & policy",
+        "Wildlife & biodiversity",
+        "Fisheries & food"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "1f2d895a1634c81f17",
+      "title": "Katalog Promo Indomaret Harga Spesial 1 - 7 September Popok Bayi , Kapal Api . CocaCola / Sprite Rp3 . 900",
+      "url": "https://kupang.tribunnews.com/bisnis/977948/katalog-promo-indomaret-harga-spesial-1-7-september-popok-bayi-kapal-api-cocacolasprite-rp3900",
+      "outlet": "kupang.tribunnews.com",
+      "domain": "kupang.tribunnews.com",
+      "published_at": "2026-09-01T07:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://asset.tribunnews.com/jhkX7TuRST1isE0IFvvac5Ee0uI=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/kupang/foto/bank/originals/PROMO-INDOMARET-1-SEPTEMBER-2026-2.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "326859c80fd40943d4",
+      "title": "Tres áreas del Caribe cumplen 62 años de su declaratoria como zonas protegidas",
+      "url": "https://hoydiariodelmagdalena.com.co/archivos/1306811/tres-areas-del-caribe-cumplen-62-anos-de-su-declaratoria-como-zonas-protegidas",
+      "outlet": "hoydiariodelmagdalena.com.co",
+      "domain": "hoydiariodelmagdalena.com.co",
+      "published_at": "2026-09-01T05:00:00+00:00",
+      "language": "Spanish",
+      "source_country": "Colombia",
+      "image": "https://hoydiariodelmagdalena.com.co/social-image/news/1306811/opengraph-image.jpg?v=1788220132440",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "7f7eca16463342cf66",
+      "title": "SBS in 2027 : From star - studded global dramas to unmissable events , here what coming next year",
+      "url": "https://www.sbs.com.au/whats-on/article/whats-coming-to-sbs-in-2027/oncke9fqo",
+      "outlet": "sbs.com.au",
+      "domain": "sbs.com.au",
+      "published_at": "2026-09-01T04:45:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://sbs-au-brightspot.s3.ap-southeast-2.amazonaws.com/a9/a2/c094a7bf4d55ad6d7591b5b62162/2027upfronts-1280x720.png",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "6af7b85bcb85af4b68",
+      "title": "Coastal Commission approves De Anza restoration",
+      "url": "https://timesofsandiego.com/environment/2026/08/31/coastal-commission-approves-de-anza-natural-requires-tougher-wetland-protections",
+      "outlet": "timesofsandiego.com",
+      "domain": "timesofsandiego.com",
+      "published_at": "2026-09-01T03:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://timesofsandiego.com/wp-content/uploads/2026/03/Thomas-Murphy-Pacific-Beach-March-Heatwave-1.jpg",
+      "description": "",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "985b0ac34578298335",
+      "title": "Rees Campbell new book explores Tasmanian offshore islands | The Advocate",
+      "url": "https://www.theadvocate.com.au/story/9340822/rees-campbells-new-book-explores-tasmanian-offshore-islands",
+      "outlet": "theadvocate.com.au",
+      "domain": "theadvocate.com.au",
+      "published_at": "2026-09-01T02:45:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.theadvocate.com.au/images/transform/v1/crop/frm/257656585/969ae5e8-e46f-4a7f-9659-140657aad63a.JPG/r0_613_5712_3612_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
     {
       "id": "f7e7403a8df7fa7d5d",
       "title": "[청소년이 기록하는 사회문제]⑤바닷속 잘피가 탄소를 줄인다고?...기후위기 막는 방법은 생각보다 가까이에 - 이로운넷",
@@ -26,7 +416,31 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "cfb468b24dacf2ba73",
+      "title": "Jokowi Titip Pesan , PSI Diminta Segera Berbenah",
+      "url": "https://www.merdeka.com/politik/read/8281710/jokowi-titip-pesan-psi-diminta-segera-berbenah",
+      "outlet": "merdeka.com",
+      "domain": "merdeka.com",
+      "published_at": "2026-09-01T01:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn1-production-images-kly.akamaized.net/vs-Wx4LCaNsYSV_BbUvSuH6Okko=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9336924/original/043481600_1788221360-IMG-20260831-WA0030.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -38,7 +452,7 @@
       "published_at": "2026-08-31T19:31:00+00:00",
       "language": "English",
       "source_country": "GB",
-      "image": "",
+      "image": "http://npr-brightspot.s3.amazonaws.com/14/3f/1b44653c4a7caf2018004f371224/seagrass-study-lead-photo.jpg",
       "description": "Study: NC seagrass has declined by more than 16% since 2006 WUNC News",
       "themes": [
         "Science & discovery"
@@ -46,11 +460,12 @@
       "taxa": [],
       "relevance": 6,
       "discovery_sources": [
-        "Google News RSS"
+        "Google News RSS",
+        "GDELT"
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -74,7 +489,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -98,7 +513,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -122,7 +537,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -146,7 +561,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -170,7 +585,56 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "265d7a73e305403691",
+      "title": "Marine Heatwaves Hampering Coral Reef Recovery , Study Finds",
+      "url": "https://www.forbes.com/sites/jamiehailstone/2026/08/31/marine-heatwaves-hampering-coral-reef-recovery-study-finds",
+      "outlet": "forbes.com",
+      "domain": "forbes.com",
+      "published_at": "2026-08-31T12:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a91549b89040c3ebe231b4a/0x0.jpg?format=jpg&fit=bounds",
+      "description": "",
+      "themes": [
+        "Climate & heat",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "4ead3f5195e02763e4",
+      "title": "LankaWeb – SOME THOUGHTS ON ARAGALAYA PT 4",
+      "url": "https://www.lankaweb.com/news/items/2026/08/31/some-thoughts-on-aragalaya-pt-4",
+      "outlet": "lankaweb.com",
+      "domain": "lankaweb.com",
+      "published_at": "2026-08-31T11:45:00+00:00",
+      "language": "English",
+      "source_country": "Sri Lanka",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -194,7 +658,55 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-31",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "f7ff417b000178b11d",
+      "title": "Jokowi Kutip 3 Filosofi Jawa di Kebumen : Ingatkan Pentingnya Adab dan Santun",
+      "url": "https://jambi.tribunnews.com/news/1204204/jokowi-kutip-3-filosofi-jawa-di-kebumen-ingatkan-pentingnya-adab-dan-santun",
+      "outlet": "jambi.tribunnews.com",
+      "domain": "jambi.tribunnews.com",
+      "published_at": "2026-08-31T07:30:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://asset.tribunnews.com/Fnou8RgSwWn9sy_R6BeUlRViYVA=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/jambi/foto/bank/originals/20260831-Jokowi.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "8e195a197495527c8c",
+      "title": "Australia coral reefs retreat as heatwaves intensify",
+      "url": "https://www.macleayargus.com.au/story/9340743/australias-coral-reefs-retreat-as-heatwaves-intensify",
+      "outlet": "macleayargus.com.au",
+      "domain": "macleayargus.com.au",
+      "published_at": "2026-08-31T06:00:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.macleayargus.com.au/images/transform/v1/crop/frm/silverstone-feed-data/8718ccb8-55a5-4389-9c03-549930292f87.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "Climate & heat"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -223,6 +735,30 @@
       "baseline": false
     },
     {
+      "id": "73b93a2bd17511fe95",
+      "title": "Muhammadiyah - KKP perkuat sinergi optimalkan potensi ekonomi maritim",
+      "url": "https://www.antaranews.com/berita/5717904/muhammadiyah-kkp-perkuat-sinergi-optimalkan-potensi-ekonomi-maritim",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-08-30T16:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://img.antaranews.com/cache/1200x800/2026/08/30/WhatsApp-Image-2026-08-30-at-9.39.30-PM_1.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
       "id": "bd4096388c83065e1a",
       "title": "'Dipte İz Projesi'nde Tuzla'da deniz çayırı ekimi tamamlandı - Hatay Asi Gazetesi",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXhpSjFiTDVsd2JucEYxUTdpOHN3WW1kaE92RHVDT0p6TXl6UzVnQS15Qy0yOFNsY0IyU0t4ZjA4VjFLRnYwRTNTMDRwOTBvR0xRMnlKaFVudzl0eFI4TWIyTnlaeWxsZ1l5Y2JGRG04VHNEdWhzYVhnUGdvVTRsNXBZNlpac2daVkZqb1FB?oc=5",
@@ -243,7 +779,31 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-31",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
+      "id": "1ad7c3b8a3f18a8e22",
+      "title": "Nature Goes to the Stock Exchange",
+      "url": "https://www.in.gr/2026/08/30/english-edition/nature-goes-to-the-stock-exchange",
+      "outlet": "in.gr",
+      "domain": "in.gr",
+      "published_at": "2026-08-30T12:30:00+00:00",
+      "language": "English",
+      "source_country": "Greece",
+      "image": "https://www.in.gr/wp-content/uploads/2026/08/Capture-159.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -267,7 +827,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -291,7 +851,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -315,7 +875,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -339,7 +899,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -363,7 +923,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -387,7 +947,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -411,7 +971,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -459,7 +1019,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -483,7 +1043,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -535,6 +1095,30 @@
       "baseline": false
     },
     {
+      "id": "0f19a34dddf7878123",
+      "title": "Deniz Çayırlarının Yarısı Risk Altında - bodrumtime.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wMzBNcFFtQTJ2T2ZmWjBfeGJnc29hU1pjR24yTmx1bVBMdFp2czQxNlRsZVFBZlpIRzZ2YmJ1bG9KdDNfb194YzUtZw?oc=5",
+      "outlet": "bodrumtime.net",
+      "domain": "news.google.com",
+      "published_at": "2026-08-29T07:58:52+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Deniz Çayırlarının Yarısı Risk Altında bodrumtime.net",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "baseline": false
+    },
+    {
       "id": "f6ba87a7f14bd04b71",
       "title": "Kuşadası’nda deniz çayırları için kritik uyarı - Söke Ekspres",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDFRMk1OclNzeVBlOVZieXR3cVZSeG9ZV1RhYklKTlpybzdueTZhMnBrTDk5Njd4Ny04OE5rTEM1NGN0WmJBYVZBYWRpd1p4cmstdTdkdzZGZ1p1LVE4TlNrNGlWdW93b3NaSkt1R2trY0JWYnpYX2cyMXZoSW1MVHVfdW1oV0tkZVVFMjFMUWdXRjdUMjgw0gGXAUFVX3lxTE1EMVEyTU5yU3N5UGU5VmJ5dHdxVlJ4b1lXVGFiSUpOWnJvN255NmEycGtMOTk2N3g3LTg4TmtMQzU0Y3RaYkFhVkFhZGl3Wnhyay11N2R3NkZnWnUtUThOU2s0aVZ1b3dvc1pKS3VHa2tjQlZielhfZzIxdmhJbUxUdV91bWhXS2RlVUUyMUxRZ1dGN1QyODA?oc=5",
@@ -579,7 +1163,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -651,7 +1235,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -796,7 +1380,7 @@
       ],
       "search_route": "Google News English (US)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -964,7 +1548,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -988,7 +1572,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -1013,6 +1597,30 @@
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-29",
       "last_seen": "2026-08-29",
+      "baseline": false
+    },
+    {
+      "id": "ec743265df9d6dbc30",
+      "title": "Kuşadası'nda deniz çayırları için kritik uyarı - yerel-haberler.haberturk.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM2RWckVzMDhFdV81c01RbkZhbFB0RGV5RE5RTzFmVmdBVzNtRjEtVlF2cUZuUDlMZmhLaUdDTmRCcTRiMmVMSDJvaDRZNzFfd2toWm5WR3NFWEVsbUhXejdPZzVuMTBybTlyaHB4RE5tY2M1dGZLcG84cWJHckZhdzUxbEVIOHY4ZDk4Ym1PZ29KS2RTU0xXMlZ1cXU1Vkg5ZHdiTU1nd1VqeVh0?oc=5",
+      "outlet": "yerel-haberler.haberturk.com",
+      "domain": "news.google.com",
+      "published_at": "2026-08-28T10:04:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Kuşadası'nda deniz çayırları için kritik uyarı yerel-haberler.haberturk.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -1470,7 +2078,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -1542,7 +2150,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-09-02",
       "baseline": false
     },
     {
@@ -7679,19 +8287,19 @@
     "languages": [
       [
         "English",
-        102
+        117
+      ],
+      [
+        "Indonesian",
+        44
       ],
       [
         "German",
         40
       ],
       [
-        "Indonesian",
-        39
-      ],
-      [
         "Turkish",
-        32
+        34
       ],
       [
         "Italian",
@@ -7699,11 +8307,11 @@
       ],
       [
         "Chinese",
-        17
+        18
       ],
       [
         "Spanish",
-        14
+        15
       ],
       [
         "Japanese",
@@ -7714,12 +8322,12 @@
         10
       ],
       [
-        "Arabic",
+        "Dutch",
         6
       ],
       [
-        "Dutch",
-        5
+        "Arabic",
+        6
       ],
       [
         "Thai",
@@ -7765,19 +8373,19 @@
       ],
       [
         "GB",
-        38
-      ],
-      [
-        "TR",
-        32
+        39
       ],
       [
         "Indonesia",
-        31
+        36
+      ],
+      [
+        "TR",
+        34
       ],
       [
         "United States",
-        29
+        32
       ],
       [
         "Italy",
@@ -7788,6 +8396,10 @@
         12
       ],
       [
+        "CN",
+        11
+      ],
+      [
         "ID",
         11
       ],
@@ -7796,20 +8408,24 @@
         10
       ],
       [
-        "CN",
-        10
+        "United Kingdom",
+        9
+      ],
+      [
+        "Spain",
+        8
       ],
       [
         "US",
         8
       ],
       [
-        "United Kingdom",
-        8
+        "Australia",
+        7
       ],
       [
-        "Spain",
-        7
+        "NL",
+        6
       ],
       [
         "China",
@@ -7824,16 +8440,16 @@
         6
       ],
       [
-        "NL",
-        5
-      ],
-      [
         "TH",
         5
       ],
       [
         "IT",
         5
+      ],
+      [
+        "India",
+        4
       ],
       [
         "PT",
@@ -7844,11 +8460,7 @@
         4
       ],
       [
-        "India",
-        3
-      ],
-      [
-        "Australia",
+        "Sri Lanka",
         2
       ],
       [
@@ -7868,7 +8480,15 @@
         2
       ],
       [
-        "Sri Lanka",
+        "Malaysia",
+        1
+      ],
+      [
+        "Colombia",
+        1
+      ],
+      [
+        "Greece",
         1
       ],
       [
@@ -7923,7 +8543,11 @@
     "outlets": [
       [
         "antaranews.com",
-        6
+        8
+      ],
+      [
+        "kupang.tribunnews.com",
+        4
       ],
       [
         "liputan6.com",
@@ -7943,10 +8567,6 @@
       ],
       [
         "momsmoney.kontan.co.id",
-        3
-      ],
-      [
-        "kupang.tribunnews.com",
         3
       ],
       [
@@ -7970,11 +8590,31 @@
         3
       ],
       [
+        "miragenews.com",
+        2
+      ],
+      [
+        "timesofindia.indiatimes.com",
+        2
+      ],
+      [
+        "brisbanetimes.com.au",
+        2
+      ],
+      [
+        "Nature",
+        2
+      ],
+      [
         "Son Dakika",
         2
       ],
       [
         "openPR.de",
+        2
+      ],
+      [
+        "lankaweb.com",
         2
       ],
       [
@@ -8074,108 +8714,88 @@
         2
       ],
       [
-        "이로운넷",
+        "cravenherald.co.uk",
         1
       ],
       [
-        "WUNC News",
+        "thelocal.es",
         1
       ],
       [
-        "Saray Medya",
+        "freemalaysiatoday.com",
         1
       ],
       [
-        "habergundemim.com",
+        "Sohu",
         1
       ],
       [
-        "GMA Network",
+        "abc.net.au",
         1
       ],
       [
-        "Hatay Asi Gazetesi",
+        "Omroep Archipel",
         1
       ],
       [
-        "wetter.com",
-        1
-      ],
-      [
-        "medan.tribunnews.com",
-        1
-      ],
-      [
-        "spacedaily.com",
-        1
-      ],
-      [
-        "pic.hangzhou.com.cn",
-        1
-      ],
-      [
-        "lankaweb.com",
-        1
-      ],
-      [
-        "Betahita",
+        "hoydiariodelmagdalena.com.co",
         1
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        235
+        250
       ],
       [
         "Conservation & policy",
-        19
+        22
       ],
       [
         "Restoration",
-        19
+        20
       ],
       [
         "Climate & heat",
-        17
+        19
+      ],
+      [
+        "Wildlife & biodiversity",
+        18
       ],
       [
         "Science & discovery",
-        16
+        18
       ],
       [
         "Development & infrastructure",
         14
       ],
       [
-        "Wildlife & biodiversity",
-        12
-      ],
-      [
         "Blue carbon",
         9
+      ],
+      [
+        "Fisheries & food",
+        7
       ],
       [
         "Community & culture",
         6
       ],
       [
-        "Fisheries & food",
-        5
-      ],
-      [
         "Pollution & water quality",
-        3
+        4
       ]
     ],
     "discovery_sources": [
       [
         "Google News RSS",
-        200
+        205
       ],
       [
         "GDELT",
-        118
+        139
       ]
     ]
   }

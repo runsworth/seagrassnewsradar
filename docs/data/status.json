@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-01T10:26:16.005683+00:00",
+  "generated_at": "2026-09-02T09:54:03.152508+00:00",
   "baseline_mode": false,
   "sources": {
     "gdelt": {
       "name": "GDELT",
       "ok": false,
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28%22Cymodocea+nodosa%22+OR+%22Cymodocea+serrulata%22+OR+%22Enhalus+acoroides%22+OR+%22Syringodium+filiforme%22+OR+Phyllospadix%29&mode=artlist&format=json&maxrecords=250&timespan=4d&sor"
+      "fetched": 52,
+      "kept": 52,
+      "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28%22Zostera+marina%22+OR+%22Zostera+noltei%22+OR+%22Zostera+japonica%22+OR+%22Posidonia+oceanica%22+OR+%22Posidonia+australis%22%29&mode=artlist&format=json&maxrecords=250&timespan=4d&s"
     },
     "google_news_rss": {
       "name": "Google News RSS",
       "ok": true,
-      "fetched": 3204,
-      "kept": 31,
+      "fetched": 3126,
+      "kept": 25,
       "feeds": 58,
       "errors": []
     }
