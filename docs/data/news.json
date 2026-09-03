@@ -1,10 +1,130 @@
 {
-  "generated_at": "2026-09-02T09:54:03.152508+00:00",
+  "generated_at": "2026-09-03T10:04:37.647983+00:00",
   "baseline_complete": true,
-  "article_count": 342,
-  "new_today": 25,
+  "article_count": 347,
+  "new_today": 5,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "d7bbd0259b19cce274",
+      "title": "Antalya'da \"Deniz Çayırları Fotoğraf Sergisi\" açıldı - haberler.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlh3c0VyZ2htZEd3bEdJZ1BXV0gxSjBORElHcEJaWUwxN1Fhb3Nvd0tTdVNHNDUyWFNjVmxRZFYzRktWQUxoWjFrYkVhTXI1R0ltU0lLUGl2RklzOWpaSUlXUUJuMlZzdDJZWkVmMnV2RHJrWjdVdTE2T3pzUm44akc1WDVybXFsVTJ0ZDFxSk9wbER0c1gwTkMtbEzSAZwBQVVfeXFMT2JYd3NFcmdobWRHd2xHSWdQV1dIMUowTkRJR3BCWllMMTdRYW9zb3dLU3VTRzQ1MlhTY1ZsUWRWM0ZLVkFMaFoxa2JFYU1yNUdJbVNJS1BpdkZJczlqWklJV1FCbjJWc3QyWVpFZjJ1dkRya1o3VXUxNk96c1JuOGpHNVg1cm1xbFUydGQxcUpPcGxEdHNYME5DLWxM?oc=5",
+      "outlet": "haberler.com",
+      "domain": "news.google.com",
+      "published_at": "2026-09-02T13:30:20+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Antalya'da \"Deniz Çayırları Fotoğraf Sergisi\" açıldı haberler.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "baseline": false
+    },
+    {
+      "id": "1c50b1a394d9183242",
+      "title": "Seegras für den Hausbau - DW Learn German",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04MFJ5cnhua3h4WFRtdGhpTWkyOEUtUktLbkZCbzNQb1FraWJZZGc1ZWVwV1RnZk1jTXljLXVJZy1DcjhFTVFsVk9ZQmh2VnFJVFVHekl4RVB3eFd6VzVwZXNiUkFScWZYRU1zam50VWh1NWhubm9TRg?oc=5",
+      "outlet": "DW Learn German",
+      "domain": "news.google.com",
+      "published_at": "2026-09-02T13:15:05+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegras für den Hausbau DW Learn German",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "baseline": false
+    },
+    {
+      "id": "f2254364b82b21ad18",
+      "title": "Woven Wall Hanging Basket – Handwoven Gourd Grass & Seagrass, Boho Rustic Farmhouse Decor – Perfect As Wall Art, Door Hanger, Or Tabletop Accent (7.9” X 5.1” X 12”) - crescendo-magazine.be",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3lXRm9iaG5WMlhEUHhELXBnZjJKbEVvdV9iekE0YUt3cG5SZ0Z5cVhQYnR2MHl2QUVacWdHVEFwWk1DVkJUaUJqaXRmUXJNejM1TmNGTWxZenhDNkVFZlFVc1p1d0RDYm9raHA0TW5wOEJ3Qk1IdFIyZE1fS2hyeGhPNjF4ZFZqLW5CeUVkRnhKbFgtUmZ3MllHX1JJR0k4?oc=5",
+      "outlet": "crescendo-magazine.be",
+      "domain": "news.google.com",
+      "published_at": "2026-09-02T12:59:42+00:00",
+      "language": "Swahili",
+      "source_country": "KE",
+      "image": "",
+      "description": "Woven Wall Hanging Basket – Handwoven Gourd Grass & Seagrass, Boho Rustic Farmhouse Decor – Perfect As Wall Art, Door Hanger, Or Tabletop Accent (7.9” X 5.1” X 12”) crescendo-magazine.be",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Swahili (KE)",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "baseline": false
+    },
+    {
+      "id": "a69fd8488fee1f72ce",
+      "title": "福山でアマモの種採る体験会 藻場再生へ20人参加 - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnRXl6UjhfTlN2Z0piR2htYWM4Wk5Oc1NJbWJTbVZ4QTJqZ2N3OF9hMmdVOEQxNGxadXVYaGhRMVJUZnJxcHJ6cGZRSQ?oc=5",
+      "outlet": "47NEWS",
+      "domain": "news.google.com",
+      "published_at": "2026-09-02T11:40:54+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "福山でアマモの種採る体験会 藻場再生へ20人参加 47NEWS",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "baseline": false
+    },
+    {
+      "id": "2abb8ee4f20c8793ff",
+      "title": "Na 150.000 zaden krijgt zeegras in de Oosterschelde acht hectare ruimte - nautique.nl",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRExQZzJlSmxmc00xN1FRV3hkUU5ISHBNMi10eHM2M193cDFWRlNDNklhb2o4aWVUS1dyYVYxOTdFWFBjTk1TVTVWRm1TN3ZnVXRJeExFQnJldUlHSkV2M0Q0NFFXdmJnb3ZwSnBITlpxV0V2bW9OV2QtVWtfUVFGS1hwWkpDSXR5WkdSMU00eUZOTmpRRTd2TzFuWQ?oc=5",
+      "outlet": "nautique.nl",
+      "domain": "news.google.com",
+      "published_at": "2026-09-02T09:33:00+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Na 150.000 zaden krijgt zeegras in de Oosterschelde acht hectare ruimte nautique.nl",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "baseline": false
+    },
     {
       "id": "17f5fd2da7e612e984",
       "title": "Nearly a quarter of Aire river samples showed poor water quality",
@@ -171,7 +291,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "baseline": false
     },
     {
@@ -246,7 +366,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "baseline": false
     },
     {
@@ -465,7 +585,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "baseline": false
     },
     {
@@ -489,7 +609,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "baseline": false
     },
     {
@@ -513,7 +633,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "baseline": false
     },
     {
@@ -537,7 +657,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "baseline": false
     },
     {
@@ -561,7 +681,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "baseline": false
     },
     {
@@ -585,7 +705,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "baseline": false
     },
     {
@@ -658,7 +778,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-31",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "baseline": false
     },
     {
@@ -779,7 +899,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-31",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "baseline": false
     },
     {
@@ -947,7 +1067,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "baseline": false
     },
     {
@@ -2078,7 +2198,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "baseline": false
     },
     {
@@ -8295,11 +8415,11 @@
       ],
       [
         "German",
-        40
+        41
       ],
       [
         "Turkish",
-        34
+        35
       ],
       [
         "Italian",
@@ -8315,7 +8435,7 @@
       ],
       [
         "Japanese",
-        12
+        13
       ],
       [
         "Korean",
@@ -8323,7 +8443,7 @@
       ],
       [
         "Dutch",
-        6
+        7
       ],
       [
         "Arabic",
@@ -8342,6 +8462,10 @@
         3
       ],
       [
+        "Swahili",
+        2
+      ],
+      [
         "Greek",
         2
       ],
@@ -8352,10 +8476,6 @@
       [
         "Norwegian",
         2
-      ],
-      [
-        "Swahili",
-        1
       ],
       [
         "Vietnamese",
@@ -8369,7 +8489,7 @@
     "countries": [
       [
         "DE",
-        40
+        41
       ],
       [
         "GB",
@@ -8381,7 +8501,7 @@
       ],
       [
         "TR",
-        34
+        35
       ],
       [
         "United States",
@@ -8393,7 +8513,7 @@
       ],
       [
         "JP",
-        12
+        13
       ],
       [
         "CN",
@@ -8420,12 +8540,12 @@
         8
       ],
       [
-        "Australia",
+        "NL",
         7
       ],
       [
-        "NL",
-        6
+        "Australia",
+        7
       ],
       [
         "China",
@@ -8458,6 +8578,10 @@
       [
         "MX",
         4
+      ],
+      [
+        "KE",
+        2
       ],
       [
         "Sri Lanka",
@@ -8509,10 +8633,6 @@
       ],
       [
         "Turkey",
-        1
-      ],
-      [
-        "KE",
         1
       ],
       [
@@ -8714,38 +8834,38 @@
         2
       ],
       [
+        "haberler.com",
+        1
+      ],
+      [
+        "DW Learn German",
+        1
+      ],
+      [
+        "crescendo-magazine.be",
+        1
+      ],
+      [
+        "47NEWS",
+        1
+      ],
+      [
+        "nautique.nl",
+        1
+      ],
+      [
         "cravenherald.co.uk",
         1
       ],
       [
         "thelocal.es",
         1
-      ],
-      [
-        "freemalaysiatoday.com",
-        1
-      ],
-      [
-        "Sohu",
-        1
-      ],
-      [
-        "abc.net.au",
-        1
-      ],
-      [
-        "Omroep Archipel",
-        1
-      ],
-      [
-        "hoydiariodelmagdalena.com.co",
-        1
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        250
+        255
       ],
       [
         "Conservation & policy",
@@ -8791,7 +8911,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        205
+        210
       ],
       [
         "GDELT",
