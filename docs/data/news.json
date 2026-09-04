@@ -1,10 +1,202 @@
 {
-  "generated_at": "2026-09-03T10:04:37.647983+00:00",
+  "generated_at": "2026-09-04T09:55:31.152587+00:00",
   "baseline_complete": true,
-  "article_count": 347,
-  "new_today": 5,
+  "article_count": 358,
+  "new_today": 11,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "beb0b02d0957611bd0",
+      "title": "Akdeniz'de deniz çayırları çapa ve sıcaklık tehdidiyle yok oluyor - Son Dakika",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTRzRzBxNnNjTjVJbjZsV1BDcDRzWFE1QnVhYnFUczVMQ1JTNWpqZmRXMEZoVFZxcGtZVkswLTk0dVdnaklaczdVYXFGUV9TSE40M004czdHdFdLT2I0UFF3WnFMc05zM2JCYzhyUXhsekJUZ25KdXhySmhvek9ISloxa1NyUVllb0FLeTV5dkhxSDVkVUZ1d2dkMm9GWUpU0gGcAUFVX3lxTE92OHNpLXU0UklJODA5TVdodnlDRkpCRWhvd20zMUM1aW9OVFB5cllJdkJsLUd5YVAzS1lLYmVNcnJDTmp1aUo0azZWaXRRbUdGQmx6RVVocWt6S1dER0phSjd4NEdYRFJhWTluemRsWkpQQTNOY0dHSWE1Y0otUF9UMFhQc2Y5TERiVmgxOXZqWWVEdXRuY1RiUWRjcA?oc=5",
+      "outlet": "Son Dakika",
+      "domain": "news.google.com",
+      "published_at": "2026-09-04T09:03:12+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Akdeniz'de deniz çayırları çapa ve sıcaklık tehdidiyle yok oluyor Son Dakika",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "baseline": false
+    },
+    {
+      "id": "e6f20146ae3ae16df3",
+      "title": "seagrass habitats - thehawk.in",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QaVZNUGRhR3BpV1hmbG1LbnhSTjlvSHBwNDBOZ2ZBbGtlWHN2cGxaR2JOYmNRTXdRbVR5amJZM0hMSmY1cVpZblFWREgwNkZueTlqV1lESQ?oc=5",
+      "outlet": "thehawk.in",
+      "domain": "news.google.com",
+      "published_at": "2026-09-04T08:00:01+00:00",
+      "language": "Swahili",
+      "source_country": "KE",
+      "image": "",
+      "description": "seagrass habitats thehawk.in",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Swahili (KE)",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "baseline": false
+    },
+    {
+      "id": "36594a5e533f6f3449",
+      "title": "沿海岸线绵延超30公里，湛江发现更大片濒危海草床 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2RRc0c4MUx6enNFNnpEVkRORGFRa0FvVk5pY2cyaXpqcDZ0bVNSZ04wQzZFSWJ5LVkwUHhlUVEwZnF3c0VGaGlpT0gxeEh3bXltUEh0bXEyT3dXUEthYU5MR2VYanFjNzlRMnhja3UwcTlRUExhQk5zQWt1Qlozb1hhM3FyTWZudmVUdA?oc=5",
+      "outlet": "Sohu",
+      "domain": "news.google.com",
+      "published_at": "2026-09-04T02:32:25+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "沿海岸线绵延超30公里，湛江发现更大片濒危海草床 Sohu",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "baseline": false
+    },
+    {
+      "id": "7fc34bd5e9a93b5447",
+      "title": "World Market's Woven Swan-Shaped Seagrass Basket Adds Pretty Cottagecore Vibes to Any Space - dengarden.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQk9QNUcxX2xIU1VuaVU2Z0dSb0NZT0R4MUlGa3ozRkdXeDJwcEJYRXkycFZIbzQ0aUh1bzU3NkFYZVBNNGRpcVUwbmVWQ2ZzYngybXZDWDA4M2dzcXJKYU5MLXFyS3AtTzRfVEwyOWU0TjlpaW92Y1hXc3VzUGxaRk0ySWdpUQ?oc=5",
+      "outlet": "dengarden.com",
+      "domain": "news.google.com",
+      "published_at": "2026-09-03T23:30:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "World Market's Woven Swan-Shaped Seagrass Basket Adds Pretty Cottagecore Vibes to Any Space dengarden.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "baseline": false
+    },
+    {
+      "id": "3e3c8d6a71ca595c83",
+      "title": "Kunnen deze acht plantjes de zeegrasvelden van Tenerife redden? - InSpanje.nl",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaVBRdzV0M0xKWHdJRWp6YlZXTVFRdDRJV2JYRFdObk15ZGlldmlnS2QxZ01MN1FaUFJkVWtFaDl2dmZkWklOdUQwWWhsXy1PZS1OdXRBOExRX2VRdGVCc1Ftb1FOdkVOMkFJNUJaZmtSZGtnbmQ5clhhdUp4bzJkNXVLNjhvNVNaaXRv?oc=5",
+      "outlet": "InSpanje.nl",
+      "domain": "news.google.com",
+      "published_at": "2026-09-03T17:35:36+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Kunnen deze acht plantjes de zeegrasvelden van Tenerife redden? InSpanje.nl",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "baseline": false
+    },
+    {
+      "id": "171732308fdb924c54",
+      "title": "Millions of people living in poverty rely on seagrass meadows for survival, study finds - swansea.ac.uk",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYWY4RGQtYzl3OWF4UlRBMnVUeWRnMnpjdG1MVnllMlhQbl9RUTJxdW9QR0FJV3FObl9BdVBpNWU5YnBycVZCWG03bTZkenVaT0Q5Q0V1UVQzTGFvRmN2bFc4anpTdjJ5Y2tBbGlGYTVtaERQZGdsQW5scFQzWkF6Nms5ejlOOC1GdElEUXY5VDQ2c0hGX2dqNXhDaFJ5SGdXc2tWempId3pfcTg3aFA4b1RhOFlsVmRjbWJqNjJyMWwwbmg1cjFWRXRZc1MtUVFfejZaUVNhdWdkME00aElZbE1Sa0hhVDNYNmc?oc=5",
+      "outlet": "swansea.ac.uk",
+      "domain": "news.google.com",
+      "published_at": "2026-09-03T15:30:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Millions of people living in poverty rely on seagrass meadows for survival, study finds swansea.ac.uk",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "baseline": false
+    },
+    {
+      "id": "52d4a28218a10a2f47",
+      "title": "Project Seagrass Earns Independent Research Organisation Status from UKRI - environment coastal & offshore",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUG9EZmZnbHJpRDJ6dndHTkw1NzZXc2RLSmZyNW5wMWhULThiV25sOXhKZlEyT0xpaDVqOTlmMUdKMWRVQXZzVUNXOWJ2V1AteTBlOUtkOG9tYnhHbnlIVVowc1pRTzVxRndhd1dSbE9PYW5KMFhPV0VldDJQdUNNYXJGNlBFWTZWdGRrd3pYSzFOTm9xTWFRRy1PYUN4MGNQVjVOdWRfUE5pUmN0SHlRYg?oc=5",
+      "outlet": "environment coastal & offshore",
+      "domain": "news.google.com",
+      "published_at": "2026-09-03T13:53:21+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Project Seagrass Earns Independent Research Organisation Status from UKRI environment coastal & offshore",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "baseline": false
+    },
+    {
+      "id": "3cd3e2ca25288ec287",
+      "title": "New eelgrass exhibit opens at Morro Bay nature center - Paso Robles Daily News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWM4SmlMNktzUGZ1azEtTDhxTXZ2MDU4YjJMak1iRW9CZmdZVTBlU3ZqeDNUNHBmNzdxZjVYNERmbURFMm5QX21TQnhNWGRXVHJUY1JHcGpPSHViU2YyNGMwR2xWWUZzM2hSaExLaUxQNlI2OFNUQVFpXzBpUHJlQWhkSGstMkpUUmtKVTRrckVzVVBRM25sYg?oc=5",
+      "outlet": "Paso Robles Daily News",
+      "domain": "news.google.com",
+      "published_at": "2026-09-03T12:39:11+00:00",
+      "language": "English",
+      "source_country": "US",
+      "image": "",
+      "description": "New eelgrass exhibit opens at Morro Bay nature center Paso Robles Daily News",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (US)",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "baseline": false
+    },
     {
       "id": "d7bbd0259b19cce274",
       "title": "Antalya'da \"Deniz Çayırları Fotoğraf Sergisi\" açıldı - haberler.com",
@@ -26,7 +218,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -50,7 +242,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -98,7 +290,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -122,7 +314,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -247,6 +439,31 @@
       "baseline": false
     },
     {
+      "id": "37b71e044699d70fce",
+      "title": "WWF-Singapore and EDB tackle hurdles in protecting Asia’s mangroves, seagrass - Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbHJCbEh4UG9HLTdfVm5LNFFONFExY3RESm5Yb2x6Sm1DbHItQjBnTXhrYWRxb19ya1FaN2I1bzRNdkhObDlib2dpTDJPYzZFNGJ0U3VZeTZscTVnQ1dqa3dTWUZMUndxTDJESDlEMDh3bWRiNVhBNzRQdUMtUkJTVDRHRzhYaHliR3hhUEw0OGJ2anlKQVVRMlB3UGQ5blZsMF93Ql80T1BJWG4ySS11MDhQZDNiSVk?oc=5",
+      "outlet": "Singapore Economic Development Board (EDB)",
+      "domain": "news.google.com",
+      "published_at": "2026-09-02T07:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "WWF-Singapore and EDB tackle hurdles in protecting Asia’s mangroves, seagrass Singapore Economic Development Board (EDB)",
+      "themes": [
+        "Conservation & policy",
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "baseline": false
+    },
+    {
       "id": "d33ccef5c47c856b86",
       "title": "Drop Middle Bank reclamation from 2040 plan , says resident group",
       "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/02/drop-middle-bank-reclamation-from-2040-plan-says-residents-group",
@@ -291,7 +508,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -366,7 +583,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -392,7 +609,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -585,7 +802,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -609,7 +826,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -633,7 +850,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -658,6 +875,30 @@
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-01",
       "last_seen": "2026-09-03",
+      "baseline": false
+    },
+    {
+      "id": "39c1ad662da2249452",
+      "title": "Marmara Denizi’ne nefes olacak ‘Dipte İz’ deniz çayırları projesi Tuzla’da tanıtıldı İhlas Haber Ajansı - iha.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORS13d0pjR2pYb1RBQ2NhVlp6SnF5RHVoWVZFNWEzN1o1SEttanhyM0xPNy1zT2h6SGZUaFZqYlViUmoyT1p1bkFEWi1GazliRXpEMUFyRVQyWWI1U2ZxbzVjbDc4N1FOb052WkFzSkZTR0hFa3F6cTBhZWItUTZkakpxbVR0Z1FqMkxhWW9iV1ZZWkVJUHdOVEJmbkY2YlNXM1VxMXpPRnJORzN4NVZwWnVuSnlCVkNURkszV093VE9PanBrSXc5eUFlVWE?oc=5",
+      "outlet": "iha.com.tr",
+      "domain": "news.google.com",
+      "published_at": "2026-08-31T14:22:22+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Marmara Denizi’ne nefes olacak ‘Dipte İz’ deniz çayırları projesi Tuzla’da tanıtıldı İhlas Haber Ajansı iha.com.tr",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -706,6 +947,30 @@
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-01",
       "last_seen": "2026-09-03",
+      "baseline": false
+    },
+    {
+      "id": "ac98f7315f556c5cfe",
+      "title": "m-CONNECT: EU-Projekt erforscht Vernetzung von Korallenriffen, Mangrovenwäldern und Seegraswiesen - idw - Informationsdienst Wissenschaft",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPamotbklucGx6dHBYV09sanU3WEgzMHRURnh3WWZlQkh2WE9fdzJHdGk4bkNTbUlnbUdsQjF0Z1NUdm9aeUcxX0hHem9jNmFyUzFJOFRJN2FBYjhMbVpvOUczQmVEZjJLUjB0R2pwZjNvUGhzeWo0Q0ZTWDk4UDB3My1qbGsteG5QeWg0Z2NoaUlDUUFHVDZ4N0NoMV8tUlhZemRSeUtMc3VoTy1zY1U1MERLN2tPNHpsVmVKSkNwZHZxUEFCQW1zajEwWlg4YzNkZGlQWi16MTk?oc=5",
+      "outlet": "idw - Informationsdienst Wissenschaft",
+      "domain": "news.google.com",
+      "published_at": "2026-08-31T13:38:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "m-CONNECT: EU-Projekt erforscht Vernetzung von Korallenriffen, Mangrovenwäldern und Seegraswiesen idw - Informationsdienst Wissenschaft",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -778,7 +1043,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-31",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -851,7 +1116,7 @@
       ],
       "search_route": "Google News English (US)",
       "first_seen": "2026-08-31",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -899,7 +1164,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-31",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -1067,7 +1332,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -1163,7 +1428,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-29",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -5100,7 +5365,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-04",
       "baseline": true
     },
     {
@@ -6000,7 +6265,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-09-04",
       "baseline": false
     },
     {
@@ -8407,7 +8672,7 @@
     "languages": [
       [
         "English",
-        117
+        122
       ],
       [
         "Indonesian",
@@ -8415,19 +8680,19 @@
       ],
       [
         "German",
-        41
+        42
       ],
       [
         "Turkish",
-        35
+        37
+      ],
+      [
+        "Chinese",
+        19
       ],
       [
         "Italian",
         19
-      ],
-      [
-        "Chinese",
-        18
       ],
       [
         "Spanish",
@@ -8443,7 +8708,7 @@
       ],
       [
         "Dutch",
-        7
+        8
       ],
       [
         "Arabic",
@@ -8458,12 +8723,12 @@
         4
       ],
       [
-        "Catalan",
+        "Swahili",
         3
       ],
       [
-        "Swahili",
-        2
+        "Catalan",
+        3
       ],
       [
         "Greek",
@@ -8488,20 +8753,20 @@
     ],
     "countries": [
       [
-        "DE",
-        41
+        "GB",
+        43
       ],
       [
-        "GB",
-        39
+        "DE",
+        42
+      ],
+      [
+        "TR",
+        37
       ],
       [
         "Indonesia",
         36
-      ],
-      [
-        "TR",
-        35
       ],
       [
         "United States",
@@ -8517,7 +8782,7 @@
       ],
       [
         "CN",
-        11
+        12
       ],
       [
         "ID",
@@ -8528,20 +8793,20 @@
         10
       ],
       [
+        "US",
+        9
+      ],
+      [
         "United Kingdom",
         9
       ],
       [
+        "NL",
+        8
+      ],
+      [
         "Spain",
         8
-      ],
-      [
-        "US",
-        8
-      ],
-      [
-        "NL",
-        7
       ],
       [
         "Australia",
@@ -8581,7 +8846,7 @@
       ],
       [
         "KE",
-        2
+        3
       ],
       [
         "Sri Lanka",
@@ -8678,7 +8943,15 @@
         4
       ],
       [
+        "Son Dakika",
+        3
+      ],
+      [
         "Aksiyon.com.TR",
+        3
+      ],
+      [
+        "idw - Informationsdienst Wissenschaft",
         3
       ],
       [
@@ -8710,6 +8983,14 @@
         3
       ],
       [
+        "Sohu",
+        2
+      ],
+      [
+        "environment coastal & offshore",
+        2
+      ],
+      [
         "miragenews.com",
         2
       ],
@@ -8723,10 +9004,6 @@
       ],
       [
         "Nature",
-        2
-      ],
-      [
-        "Son Dakika",
         2
       ],
       [
@@ -8782,10 +9059,6 @@
         2
       ],
       [
-        "idw - Informationsdienst Wissenschaft",
-        2
-      ],
-      [
         "dagbladet.no",
         2
       ],
@@ -8834,42 +9107,38 @@
         2
       ],
       [
-        "haberler.com",
+        "thehawk.in",
         1
       ],
       [
-        "DW Learn German",
+        "dengarden.com",
         1
       ],
       [
-        "crescendo-magazine.be",
+        "InSpanje.nl",
         1
       ],
       [
-        "47NEWS",
+        "swansea.ac.uk",
         1
       ],
       [
-        "nautique.nl",
-        1
-      ],
-      [
-        "cravenherald.co.uk",
-        1
-      ],
-      [
-        "thelocal.es",
+        "Paso Robles Daily News",
         1
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        255
+        263
       ],
       [
         "Conservation & policy",
-        22
+        23
+      ],
+      [
+        "Science & discovery",
+        20
       ],
       [
         "Restoration",
@@ -8884,12 +9153,8 @@
         18
       ],
       [
-        "Science & discovery",
-        18
-      ],
-      [
         "Development & infrastructure",
-        14
+        15
       ],
       [
         "Blue carbon",
@@ -8911,7 +9176,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        210
+        221
       ],
       [
         "GDELT",
