@@ -1,10 +1,372 @@
 {
-  "generated_at": "2026-09-04T09:55:31.152587+00:00",
+  "generated_at": "2026-09-05T09:20:16.225749+00:00",
   "baseline_complete": true,
-  "article_count": 358,
-  "new_today": 11,
+  "article_count": 389,
+  "new_today": 31,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "9c600e180d0659dba4",
+      "title": "El tiempo detenido",
+      "url": "https://www.laopiniondemurcia.es/opinion/2026/09/05/tiempo-detenido-133963308.html",
+      "outlet": "laopiniondemurcia.es",
+      "domain": "laopiniondemurcia.es",
+      "published_at": "2026-09-05T05:30:00+00:00",
+      "language": "Spanish",
+      "source_country": "Spain",
+      "image": "https://estaticos-cdn.prensaiberica.es/clip/13074161-bedb-4076-a287-bfea2edf5775_16-9-discover-aspect-ratio_default_0_x587y261.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "435bb94b3812c106d3",
+      "title": "山东省首例海草床碳汇替代性生态修复案履行完毕 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVhwckQxQko3dnI1QzdhM2x0RHVmeTFEQ290MDUzeHhSWEFDWmNsamJrME9PcmowRnhCYmRvNU1hdUF3Ni1WV09CZHczSkxwM09vdFhPa1NBTEhGWm03ZldrRVU2ZzQ0RklUbVo1cEx6TFpiOFJpbnR2dUxJWDJrakxDM3JrQ0ZoTmx5SQ?oc=5",
+      "outlet": "Sohu",
+      "domain": "news.google.com",
+      "published_at": "2026-09-05T04:10:05+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "山东省首例海草床碳汇替代性生态修复案履行完毕 Sohu",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "476f37dd5508215284",
+      "title": "绿毛球 ？ 地肤草 ！ 初秋的大杭州上新啦 ！- 杭州影像 - 杭州网",
+      "url": "https://pic.hangzhou.com.cn/hzyx/content/content_9299204.html",
+      "outlet": "pic.hangzhou.com.cn",
+      "domain": "pic.hangzhou.com.cn",
+      "published_at": "2026-09-05T03:30:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "76cb12296ae4f2763a",
+      "title": "Why Water Flow Matters for Bonaire Mangroves – Repeating Islands",
+      "url": "https://repeatingislands.com/2026/09/04/why-water-flow-matters-for-bonaires-mangroves",
+      "outlet": "repeatingislands.com",
+      "domain": "repeatingislands.com",
+      "published_at": "2026-09-05T01:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "5e6d4a4afb4aeb31a6",
+      "title": "绿毛球 ？ 地肤草 ！ 初秋的大杭州上新啦 ！- 今日生活 - 杭州网",
+      "url": "https://jrsh.hangzhou.com.cn/content/2026-09/05/content_9299146.html",
+      "outlet": "jrsh.hangzhou.com.cn",
+      "domain": "jrsh.hangzhou.com.cn",
+      "published_at": "2026-09-05T00:15:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "ac87f3183dd98f1828",
+      "title": "Rallying against offshore oil drilling in the Gulf",
+      "url": "https://www.keysnews.com/opinion/rallying-against-offshore-oil-drilling-in-the-gulf/article_59625823-ff46-4a92-a4f2-a730bef88324.html",
+      "outlet": "keysnews.com",
+      "domain": "keysnews.com",
+      "published_at": "2026-09-04T23:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://bloximages.newyork1.vip.townnews.com/keysnews.com/content/tncms/assets/v3/editorial/d/d2/dd21053e-b3b7-4ea5-b390-b780779953c4/6a95af1af401a.image.jpg?crop=1763%2C926%2C0%2C124",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "a09295652cdbd0d00f",
+      "title": "Invasive crab found in Skeena Estuary",
+      "url": "https://www.cftktv.com/news/article/invasive-crab-found-in-skeena-estuary",
+      "outlet": "cftktv.com",
+      "domain": "cftktv.com",
+      "published_at": "2026-09-04T23:00:00+00:00",
+      "language": "English",
+      "source_country": "Canada",
+      "image": "https://www.cftktv.com/resizer/v2/U2XT5YV3G2Y42JHRPD2LDNHSOA.jpg?smart=true&auth=3949535a187e037edbcfc2692abc273f67a0d5475faf569cdfc03c20ccfa9e36",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "1706d02df106ccec51",
+      "title": "Padang Lamun Beri Kehidupan 18 Juta Orang Miskin di Indo-Pasifik - Betahita",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXY5WmNXek9QU2JnTkVxeW5IQ3lBM3RZeXBiSE1sLUVtSWF6OHlVeHRxRlpMVXNiWllhdGFIZG15YjFEdnA0dUMwMHhNanYzaVVqLXhTRVV1cHh6SUZaa2lzVTdkbUZyakNUQW1mLTZ6SkFCX3RIWWpHa1NUQk4xTFpGMURlaHRvbWp3SmVwX0taelpCaUYwNnJCN01TZDNTdk1V?oc=5",
+      "outlet": "Betahita",
+      "domain": "news.google.com",
+      "published_at": "2026-09-04T22:04:07+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Padang Lamun Beri Kehidupan 18 Juta Orang Miskin di Indo-Pasifik Betahita",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "54c5c1be96b444595d",
+      "title": "【25年】愛知・佐久島で「アマモ」植え続けるワケとは 漁師「魚は1/10に減った」（中京テレビＮＥＷＳ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NNFhnZThrdGpNZFFyVFZtbzR6ZEt6Q1ZXc1NhSTd3TnNsNEdBa2l5MUxaVjFyQVRYNkRab1JYLXVFVkNEXzFqbHM2YkRWd21hOUZ6NzFBZWVELXhRVlZFZFZZRlpGTVB3cXEtN2ZxaUVnR180akc1OHhxSHl4aG8?oc=5",
+      "outlet": "Yahoo!ニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-09-04T22:00:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "【25年】愛知・佐久島で「アマモ」植え続けるワケとは 漁師「魚は1/10に減った」（中京テレビＮＥＷＳ） Yahoo!ニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "3f6cf63f177fe9780f",
+      "title": "Marine conservation collides with mining in Indonesia biodiversity - rich Moramo Bay",
+      "url": "https://news.mongabay.com/2026/09/marine-conservation-collides-with-mining-in-indonesias-biodiversity-rich-moramo-bay",
+      "outlet": "news.mongabay.com",
+      "domain": "news.mongabay.com",
+      "published_at": "2026-09-04T19:45:00+00:00",
+      "language": "English",
+      "source_country": "Indonesia",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/04163930/2.-Aktivitas-tambang-batu-gamping-berbatasan-langsung-dengan-KKD-Teluk-Moramo-2400x890-1-1200x800.jpg",
+      "description": "",
+      "themes": [
+        "Conservation & policy",
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "9e51e485693d5c12b6",
+      "title": "Kereste Bulamayınca Evlerin Çatısını 40 Tonluk Deniz Çayırıyla Ördüler - Onedio",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVpRdkxSNHl1V2hfR25qTHNpdHZIbnZ2ejN2aTQ0ZDczZm8zalFESXJIYWM3ellLUDRQeGtweWN2dmlOaC1yMU10aUJxZ1JnUWhDMmwtZm1SZ1RiZVBxdk9wVng2a1ZoYzdzS1dGZVowaUszZ3cwYmIwUlozNTFWWlUyMU9jNlBJcWJsaVE5cmVCcmZfWXY0R1dTS0xKZHZzZVpZOF9B?oc=5",
+      "outlet": "Onedio",
+      "domain": "news.google.com",
+      "published_at": "2026-09-04T19:33:17+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Kereste Bulamayınca Evlerin Çatısını 40 Tonluk Deniz Çayırıyla Ördüler Onedio",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "aadebe7f87e28fbbfd",
+      "title": "Britain's seagrass meadows were disappearing; a Scottish community transplanted mature shoots instead of - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNTGo4eDNVUmJ1ZEJ1VTdBdnI0Q2ZicXoyLTlQSWkxOFpDbWdkekpYYUtUNWdfTHlvQmtjSlVvM01IZWNjSmR6cDktbHRyaFZickxBRmVIZmJYd1RCQnE4RWdhWkZYZEpNQVoxWTVRQVdEeTNzeER4czFmajdkbzlQMDZZMlRTYnJJY3hIX092Yk9haUhyemVjUWxRY3JDLTFJUGUzN19URGRUR0ZjU2J6bm9OdG9LTzVOX0s2ejRZem1TMzNBVE5Bb3QwVGFjMEdNNTlNRkZrT2xYeTVINmtyV3JSbVVYYW9TZGtYU29DbWU3c1VUWmtrNmVzTWRCOEhNTmVLY1ZQZTc5VnUtRlRwMFNFLWhVcGozdUMyajFmeVdVdXgtUmcxWXRXYTLSAbICQVVfeXFMUEI2S0puR3I4TkJZTVJuXzFQOTFLWk03bGh4cDVDNHhGcHlWam9seEllczNUVW5RUDl6SVV2MFZVZzJwUE11QVlTRllKRlZNcEtHM0VqWm5xMTQ2NTVJM2k0Znl0Tk96THR2S1VWa3haeEZSekZybDAyVHozSHdodHd5bGJMZ3I4aV9uZmVUNnRqUFVVV1locEtQUS1BbEV2a1Q1UlFjdndBM2VOQmNQdmVBZF9BUG1mWWJrQmxUSEZDN2h4d2ZuVHRhS2lWRXd3ZWhFYld3UDN2ZVlxUHd0U2RCSUY1RlUxSzdwbFRvVmUwbFZ3Vk5PZmxGekNfQkY1TUY4M01BeTJKX3gxaVQxRWdhby13WTk1WUx6aF8zdFRxdl9ZdjEzNEFFbVNYamtmU0hB?oc=5",
+      "outlet": "The Times of India",
+      "domain": "news.google.com",
+      "published_at": "2026-09-04T15:17:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Britain's seagrass meadows were disappearing; a Scottish community transplanted mature shoots instead of The Times of India",
+      "themes": [
+        "Restoration",
+        "Community & culture"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "b20be962e37028fe44",
+      "title": "Akdeniz'deki Deniz Çayırları Çapa ve Küresel Isınma Tehdidiyle Karşı Karşıya - Başak Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXRac0ZfaEplOVpfYlFKcDU5QWphU0ctYUVVOXRIYktQN1BaOUhiSHpkclhwbXNsSXQxMjRvcXd4SFkyNnF1Yzk2VnZnU1FESThheDNyQldOdUw1SHgxeXFoNFR6NlNoTlZqSlVyc01LMUtIM3NDcUlhOTdyaEpzQnNpdWV6X3VxYzQ3Z080U3VJREIxRlJPRHZiLXZnZ0owaTRLWkk5dy04R05iRUo2VWxlS23SAboBQVVfeXFMTkpRa013N1VhUUZURDlta0I4MTF6OGtzV0YzbGdDZ3FTTDRmT01UUjNWOFRCVU02Mnd2QVp3bWtyZ3VuUFk0cWFianI5TFRSbGFEbkkxY3hONVlibTVtVEc5WkRyX0JoZFFYYWExaVY2N0dsbTE0LTVvaEk5ZEE3LWVFRUZlQzJrTE9pcXpHaEU5Z0NuN0JqdklFUWJnZ1BBLTczOUN0YmdFbUxyZUdaaE81bHp6eGxsN3dR?oc=5",
+      "outlet": "Başak Gazetesi",
+      "domain": "news.google.com",
+      "published_at": "2026-09-04T12:54:23+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Akdeniz'deki Deniz Çayırları Çapa ve Küresel Isınma Tehdidiyle Karşı Karşıya Başak Gazetesi",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "04fa011ed1268cd0c7",
+      "title": "Fethiye'de Dip Çamuru Temizliği ve Deniz Çayırı Koruması - Son Dakika",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ05KOGF5cy1tcEdWR2VmMVZLSzB1a0NpOVhlODNfMjdpaWlaLUdBNms3MHNIUDB6NjJ3azZUNk1XbzlKYXNMNUw3SmpVa19GZFhSMXNpUjRVaXRXUzVuSHNMeTE3YVNXMVZyN1NaNWl5VTJOWDZwZk5xQlYzYUZITWk4UUwyMk1kZUxoeU9JY9IBjwFBVV95cUxQQ05KOGF5cy1tcEdWR2VmMVZLSzB1a0NpOVhlODNfMjdpaWlaLUdBNms3MHNIUDB6NjJ3azZUNk1XbzlKYXNMNUw3SmpVa19GZFhSMXNpUjRVaXRXUzVuSHNMeTE3YVNXMVZyN1NaNWl5VTJOWDZwZk5xQlYzYUZITWk4UUwyMk1kZUxoeU9JYw?oc=5",
+      "outlet": "Son Dakika",
+      "domain": "news.google.com",
+      "published_at": "2026-09-04T10:21:23+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Fethiye'de Dip Çamuru Temizliği ve Deniz Çayırı Koruması Son Dakika",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "ad30888be85b67ef6f",
+      "title": "Singapore to map coastal , marine habitats after reclamation",
+      "url": "https://www.straitstimes.com/singapore/environment/spore-to-map-out-marine-coastal-habitats-following-news-of-western-island-reclamation",
+      "outlet": "straitstimes.com",
+      "domain": "straitstimes.com",
+      "published_at": "2026-09-04T09:30:00+00:00",
+      "language": "English",
+      "source_country": "Singapore",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/8156e3baf51e31ecee5225416491765f6b1bd784426b4f0efebd8917c67312a9",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
     {
       "id": "beb0b02d0957611bd0",
       "title": "Akdeniz'de deniz çayırları çapa ve sıcaklık tehdidiyle yok oluyor - Son Dakika",
@@ -27,6 +389,78 @@
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
+      "baseline": false
+    },
+    {
+      "id": "45c3412bea69b85dc3",
+      "title": "Ghana marine ecosystems face mounting pressures – marine scientist ?",
+      "url": "http://www.businessghana.com/site/news/general/355450/Ghana%E2%80%99s-marine-ecosystems-face-mounting-pressures-%E2%80%93-marine-scientist",
+      "outlet": "businessghana.com",
+      "domain": "businessghana.com",
+      "published_at": "2026-09-04T09:00:00+00:00",
+      "language": "English",
+      "source_country": "Ghana",
+      "image": "http://www.businessghana.com/cms/img/news/2026-09-03-133921002.jpg",
+      "description": "",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "3ea1936047bf102990",
+      "title": "Tekne çapaları ve küresel ısınma Akdeniz'in \"deniz çayırlarını\" tehdit ediyor - Haberler",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTZ3TFVrQTNJa3pNNmYyUkg3SDhMV0hzdmpFVUtPQXd1UDlSMncwV0h5VFhCNW1zMTNaZVBtb2FDNWxLX3pTV0FCSjJWQThVWkpfYXhMWVVPWEhLTGp5S3Q2YmZSU2JiSWJTUUpseTZicXlKckZzLWVXenFFaWJFeGw2SERSZ2NFYjJWMzgtcENLaU5aWFpYUXVSUdIBmwFBVV95cUxOdTZ3TFVrQTNJa3pNNmYyUkg3SDhMV0hzdmpFVUtPQXd1UDlSMncwV0h5VFhCNW1zMTNaZVBtb2FDNWxLX3pTV0FCSjJWQThVWkpfYXhMWVVPWEhLTGp5S3Q2YmZSU2JiSWJTUUpseTZicXlKckZzLWVXenFFaWJFeGw2SERSZ2NFYjJWMzgtcENLaU5aWFpYUXVSUQ?oc=5",
+      "outlet": "Haberler",
+      "domain": "news.google.com",
+      "published_at": "2026-09-04T08:52:09+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Tekne çapaları ve küresel ısınma Akdeniz'in \"deniz çayırlarını\" tehdit ediyor Haberler",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "e46c4025a699ac6d8c",
+      "title": "On the road with a desert sage - High Country News",
+      "url": "https://www.hcn.org/issues/58-9/on-the-road-with-a-desert-sage",
+      "outlet": "hcn.org",
+      "domain": "hcn.org",
+      "published_at": "2026-09-04T08:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://i0.wp.com/www.hcn.org/wp-content/uploads/2026/08/desert-sage-58-09_7.jpg?fit=2400%2C1800&quality=100&ssl=1",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -54,6 +488,30 @@
       "baseline": false
     },
     {
+      "id": "5016fb41b0e5ba44ce",
+      "title": "《 思想在现场 》 第三季⑤｜一根竹子的 变形记",
+      "url": "https://baijiahao.baidu.com/s?id=1875369365489098133",
+      "outlet": "baijiahao.baidu.com",
+      "domain": "baijiahao.baidu.com",
+      "published_at": "2026-09-04T04:00:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
       "id": "36594a5e533f6f3449",
       "title": "沿海岸线绵延超30公里，湛江发现更大片濒危海草床 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2RRc0c4MUx6enNFNnpEVkRORGFRa0FvVk5pY2cyaXpqcDZ0bVNSZ04wQzZFSWJ5LVkwUHhlUVEwZnF3c0VGaGlpT0gxeEh3bXltUEh0bXEyT3dXUEthYU5MR2VYanFjNzlRMnhja3UwcTlRUExhQk5zQWt1Qlozb1hhM3FyTWZudmVUdA?oc=5",
@@ -74,7 +532,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -98,7 +556,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -122,7 +580,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -146,7 +604,31 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "5a282c3187d30c05b2",
+      "title": "Restaurar el mar : España se juega en 288 km² su primera gran batalla por recuperar el océano",
+      "url": "https://www.ecoticias.com/naturaleza/restaurar-el-mar-espana-288-km2",
+      "outlet": "ecoticias.com",
+      "domain": "ecoticias.com",
+      "published_at": "2026-09-03T15:15:00+00:00",
+      "language": "Spanish",
+      "source_country": "Spain",
+      "image": "https://www.ecoticias.com/wp-content/uploads/2026/09/espana-pone-cifras-a-la-recuperacion-de-los-ecosistemas-marinos.jpg",
+      "description": "",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -170,7 +652,55 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "bd23b70edddf6b196f",
+      "title": "Gulf of Kachchh emerges as year - round home for dolphins , survey records 193 individuals",
+      "url": "https://www.newindianexpress.com/states/gujarat/2026/Sep/03/gulf-of-kachchh-emerges-as-year-round-home-for-dolphins-survey-records-193-individuals",
+      "outlet": "newindianexpress.com",
+      "domain": "newindianexpress.com",
+      "published_at": "2026-09-03T13:30:00+00:00",
+      "language": "English",
+      "source_country": "India",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-03%2Fgp5eypxw%2F1-4.jpg?&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "description": "",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "751d0f1e4c9475cf4c",
+      "title": "San Diego law students are clearing the way for formerly incarcerated people to practice law",
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/san-diego-law-students-are-clearing-the-way-for-formerly-incarcerated-people-to-practice-law",
+      "outlet": "kpbs.org",
+      "domain": "kpbs.org",
+      "published_at": "2026-09-03T12:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://kpbs-od.streamguys1.com/kpbs_podcasts/san_diego_news_now/20250529145333-SDNewsNow-NPR-3000x3000.jpg",
+      "description": "",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -182,7 +712,7 @@
       "published_at": "2026-09-03T12:39:11+00:00",
       "language": "English",
       "source_country": "US",
-      "image": "",
+      "image": "https://eadn-wc05-13283899.nxedge.io/wp-content/uploads/2026/09/Eelgrass-Exhibit.jpeg",
       "description": "New eelgrass exhibit opens at Morro Bay nature center Paso Robles Daily News",
       "themes": [
         "General seagrass news"
@@ -190,11 +720,157 @@
       "taxa": [],
       "relevance": 6,
       "discovery_sources": [
-        "Google News RSS"
+        "Google News RSS",
+        "GDELT"
       ],
       "search_route": "Google News English (US)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "fd8a29de10b70269c3",
+      "title": "云南省委书记 ： 推进文化强省建设不断取得新成效 _ 新华网",
+      "url": "http://yn.xinhuanet.com/20260902/acea58d62c4f418d8a7eeb25c22e5418/c.html",
+      "outlet": "yn.xinhuanet.com",
+      "domain": "yn.xinhuanet.com",
+      "published_at": "2026-09-03T05:15:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "db0e4f76a0e2381468",
+      "title": "Mahasiswa Program Doktor UI Olah Agar - agar Rumput Laut Jadi Penguat Implan Tulang",
+      "url": "https://koran-jakarta.com/2026-09-03/mahasiswa-program-doktor-ui-olah-agar-agar-rumput-laut-jadi-penguat-implan-tulang",
+      "outlet": "koran-jakarta.com",
+      "domain": "koran-jakarta.com",
+      "published_at": "2026-09-03T05:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://media.koran-jakarta.com/images/image-article/2026-09/03/mahasiswa-program-doktor-ui-olah-agar-agar-rumput-laut-jadi-penguat-implan-tulang-6a98fa448d763.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "06ccd137d8c109a37c",
+      "title": "Experts fed 18 years of satellite images of 3 Red Sea reef sites through a machine learning model , and two of the three had lost more than a tenth of their coral before any dredger reached that coast",
+      "url": "https://www.ecoportal.net/en/3-reef-sites-satellite-mapping-along/35366",
+      "outlet": "ecoportal.net",
+      "domain": "ecoportal.net",
+      "published_at": "2026-09-03T01:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://www.ecoportal.net/en/wp-content/uploads/2026/09/A-diver-running-a-survey-tape-across-silted-reef-sites.jpg",
+      "description": "",
+      "themes": [
+        "Development & infrastructure",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "9139b08720fa20a278",
+      "title": "Could another shake - up be coming for national parks ? Former superintendents are worried",
+      "url": "https://www.wlrn.org/environment/2026-09-02/could-another-shake-up-be-coming-for-national-parks-superintendents-are-worried",
+      "outlet": "wlrn.org",
+      "domain": "wlrn.org",
+      "published_at": "2026-09-03T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "http://npr-brightspot.s3.amazonaws.com/19/0c/f4bd17734c5fa5a868627b054c0f/shark-valley-viewing-tower-enp.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "0fd1adfc92339f57be",
+      "title": "Pemberdayaan Memerlukan Teknologi Tepat Guna",
+      "url": "https://koran-jakarta.com/2026-09-03/pemberdayaan-memerlukan-teknologi-tepat-guna",
+      "outlet": "koran-jakarta.com",
+      "domain": "koran-jakarta.com",
+      "published_at": "2026-09-02T21:15:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://media.koran-jakarta.com/images/image-article/2026-09/02/pemberdayaan-memerlukan-teknologi-tepat-guna-6a98346fa8f6e.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "fb9f37790d55b72435",
+      "title": "This city in Florida lost nearly 80 % of its Oyster reefs ; now a restoration project is rebuilding what disappeared . Here how",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/this-city-in-florida-lost-nearly-80-of-its-oyster-reefs-now-a-restoration-project-is-rebuilding-what-disappeared-heres-how/articleshow/133716170.cms",
+      "outlet": "economictimes.indiatimes.com",
+      "domain": "economictimes.indiatimes.com",
+      "published_at": "2026-09-02T17:45:00+00:00",
+      "language": "English",
+      "source_country": "India",
+      "image": "https://img.etimg.com/thumb/msid-133716804,width-1200,height-630,imgsize-1866910,overlay-etpanache/articleshow.jpg",
+      "description": "",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -218,7 +894,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -242,7 +918,31 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "85082c64395d5d58e1",
+      "title": "66 entrepreneurship , tech and startup events in September 2026",
+      "url": "https://technical.ly/sponsored-articles/events-tech-startups-september-2026",
+      "outlet": "technical.ly",
+      "domain": "technical.ly",
+      "published_at": "2026-09-02T13:00:00+00:00",
+      "language": "English",
+      "source_country": "Libya",
+      "image": "https://technically-wpengine.s3.us-east-1.amazonaws.com/technically/wp-content/uploads/2026/09/pghroboticsday.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -270,6 +970,54 @@
       "baseline": false
     },
     {
+      "id": "238ed0635099333f78",
+      "title": "Annual Island Songs showcase returns to San Juan Community Theatre on Sept . 5 ! The premier live music event celebrates San Juan Island original sound , featuring performances by Seagrass and Tara Craig",
+      "url": "https://www.sanjuanjournal.com/2026/09/02/annual-island-songs-showcase-returns-to-san-juan-community-theatre-on-sept-5-the-premier-live-music-event-celebrates-san-juan-islands-original-sound-featuring-performances-by-s",
+      "outlet": "sanjuanjournal.com",
+      "domain": "sanjuanjournal.com",
+      "published_at": "2026-09-02T12:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://www.sanjuanjournal.com/wp-content/uploads/sites/20/2026/09/42911129_web1_Islandsonds-JSj-260902_1.jpg",
+      "description": "",
+      "themes": [
+        "Community & culture"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
+      "id": "836709754a973ea0a0",
+      "title": "来九江看 海 ， 解锁江湖山水万般风情 _ 凤凰网",
+      "url": "https://jx.ifeng.com/c/8w5kEJwu29Q",
+      "outlet": "jx.ifeng.com",
+      "domain": "jx.ifeng.com",
+      "published_at": "2026-09-02T11:45:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "https://x0.ifengimg.com/ucms/2026_36/9DBEA121623EF828544DB9CACFB57C4F5C57497A_size56_w1080_h492.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "baseline": false
+    },
+    {
       "id": "a69fd8488fee1f72ce",
       "title": "福山でアマモの種採る体験会 藻場再生へ20人参加 - 47NEWS",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnRXl6UjhfTlN2Z0piR2htYWM4Wk5Oc1NJbWJTbVZ4QTJqZ2N3OF9hMmdVOEQxNGxadXVYaGhRMVJUZnJxcHJ6cGZRSQ?oc=5",
@@ -290,7 +1038,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -314,7 +1062,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -338,7 +1086,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -362,7 +1110,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -386,7 +1134,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -410,7 +1158,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -435,7 +1183,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -484,7 +1232,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -534,7 +1282,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -559,7 +1307,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -609,7 +1357,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -753,7 +1501,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -802,7 +1550,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -826,7 +1574,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -850,7 +1598,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -898,7 +1646,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -970,7 +1718,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -1164,7 +1912,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-08-31",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -2463,7 +3211,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-05",
       "baseline": false
     },
     {
@@ -8672,11 +9420,11 @@
     "languages": [
       [
         "English",
-        122
+        137
       ],
       [
         "Indonesian",
-        44
+        47
       ],
       [
         "German",
@@ -8684,11 +9432,11 @@
       ],
       [
         "Turkish",
-        37
+        41
       ],
       [
         "Chinese",
-        19
+        25
       ],
       [
         "Italian",
@@ -8696,11 +9444,11 @@
       ],
       [
         "Spanish",
-        15
+        17
       ],
       [
         "Japanese",
-        13
+        14
       ],
       [
         "Korean",
@@ -8754,7 +9502,7 @@
     "countries": [
       [
         "GB",
-        43
+        44
       ],
       [
         "DE",
@@ -8762,31 +9510,39 @@
       ],
       [
         "TR",
-        37
-      ],
-      [
-        "Indonesia",
-        36
+        41
       ],
       [
         "United States",
-        32
+        39
+      ],
+      [
+        "Indonesia",
+        39
+      ],
+      [
+        "JP",
+        14
       ],
       [
         "Italy",
         14
       ],
       [
-        "JP",
+        "CN",
         13
       ],
       [
-        "CN",
+        "ID",
         12
       ],
       [
-        "ID",
+        "China",
         11
+      ],
+      [
+        "Spain",
+        10
       ],
       [
         "KR",
@@ -8805,15 +9561,11 @@
         8
       ],
       [
-        "Spain",
-        8
-      ],
-      [
         "Australia",
         7
       ],
       [
-        "China",
+        "India",
         6
       ],
       [
@@ -8833,10 +9585,6 @@
         5
       ],
       [
-        "India",
-        4
-      ],
-      [
         "PT",
         4
       ],
@@ -8847,6 +9595,10 @@
       [
         "KE",
         3
+      ],
+      [
+        "Singapore",
+        2
       ],
       [
         "Sri Lanka",
@@ -8867,6 +9619,18 @@
       [
         "Norway",
         2
+      ],
+      [
+        "Canada",
+        1
+      ],
+      [
+        "Ghana",
+        1
+      ],
+      [
+        "Libya",
+        1
       ],
       [
         "Malaysia",
@@ -8905,10 +9669,6 @@
         1
       ],
       [
-        "Singapore",
-        1
-      ],
-      [
         "Philippines",
         1
       ],
@@ -8931,6 +9691,22 @@
         8
       ],
       [
+        "news.mongabay.com",
+        4
+      ],
+      [
+        "Son Dakika",
+        4
+      ],
+      [
+        "baijiahao.baidu.com",
+        4
+      ],
+      [
+        "koran-jakarta.com",
+        4
+      ],
+      [
         "kupang.tribunnews.com",
         4
       ],
@@ -8943,7 +9719,7 @@
         4
       ],
       [
-        "Son Dakika",
+        "Sohu",
         3
       ],
       [
@@ -8952,10 +9728,6 @@
       ],
       [
         "idw - Informationsdienst Wissenschaft",
-        3
-      ],
-      [
-        "news.mongabay.com",
         3
       ],
       [
@@ -8975,19 +9747,43 @@
         3
       ],
       [
-        "baijiahao.baidu.com",
-        3
-      ],
-      [
         "DW.com",
         3
       ],
       [
-        "Sohu",
+        "pic.hangzhou.com.cn",
+        2
+      ],
+      [
+        "Betahita",
+        2
+      ],
+      [
+        "Yahoo!ニュース",
+        2
+      ],
+      [
+        "straitstimes.com",
+        2
+      ],
+      [
+        "Haberler",
         2
       ],
       [
         "environment coastal & offshore",
+        2
+      ],
+      [
+        "ecoportal.net",
+        2
+      ],
+      [
+        "wlrn.org",
+        2
+      ],
+      [
+        "economictimes.indiatimes.com",
         2
       ],
       [
@@ -9020,10 +9816,6 @@
       ],
       [
         "Data Portuaria",
-        2
-      ],
-      [
-        "koran-jakarta.com",
         2
       ],
       [
@@ -9093,80 +9885,48 @@
       [
         "Ege Alternatif",
         2
-      ],
-      [
-        "NDR.de",
-        2
-      ],
-      [
-        "shz.de",
-        2
-      ],
-      [
-        "G1",
-        2
-      ],
-      [
-        "thehawk.in",
-        1
-      ],
-      [
-        "dengarden.com",
-        1
-      ],
-      [
-        "InSpanje.nl",
-        1
-      ],
-      [
-        "swansea.ac.uk",
-        1
-      ],
-      [
-        "Paso Robles Daily News",
-        1
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        263
+        285
       ],
       [
         "Conservation & policy",
+        25
+      ],
+      [
+        "Restoration",
         23
       ],
       [
         "Science & discovery",
-        20
+        23
       ],
       [
-        "Restoration",
-        20
+        "Wildlife & biodiversity",
+        19
       ],
       [
         "Climate & heat",
         19
       ],
       [
-        "Wildlife & biodiversity",
-        18
-      ],
-      [
         "Development & infrastructure",
-        15
+        16
       ],
       [
         "Blue carbon",
         9
       ],
       [
-        "Fisheries & food",
-        7
+        "Community & culture",
+        8
       ],
       [
-        "Community & culture",
-        6
+        "Fisheries & food",
+        7
       ],
       [
         "Pollution & water quality",
@@ -9176,11 +9936,11 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        221
+        229
       ],
       [
         "GDELT",
-        139
+        163
       ]
     ]
   }

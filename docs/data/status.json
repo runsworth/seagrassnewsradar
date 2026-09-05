@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-04T09:55:31.152587+00:00",
+  "generated_at": "2026-09-05T09:20:16.225749+00:00",
   "baseline_mode": false,
   "sources": {
     "gdelt": {
       "name": "GDELT",
       "ok": false,
-      "fetched": 0,
-      "kept": 0,
+      "fetched": 33,
+      "kept": 33,
       "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22Cymodocea+nodosa%22+OR+%22Cymodocea+serrulata%22+OR+%22Enhalus+acoroides%22+OR+%22Syringodium+filiforme%22+OR+Phyllospadix%29&mode=artlist&format=json&maxrecords=250&timespan=4d&sort=datedesc"
     },
     "google_news_rss": {
       "name": "Google News RSS",
       "ok": true,
-      "fetched": 2722,
-      "kept": 30,
+      "fetched": 3005,
+      "kept": 31,
       "feeds": 58,
       "errors": []
     }
