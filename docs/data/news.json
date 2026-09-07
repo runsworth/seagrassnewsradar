@@ -1,10 +1,154 @@
 {
-  "generated_at": "2026-09-06T09:38:58.488466+00:00",
+  "generated_at": "2026-09-07T10:43:16.114109+00:00",
   "baseline_complete": true,
-  "article_count": 389,
-  "new_today": 0,
+  "article_count": 396,
+  "new_today": 7,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "8c94ba5ada50f9574d",
+      "title": "“อ.ธรณ์” โชว์ผลงาน Nature Positive ปะการังเพิ่ม 8,500 ตร.ม. หญ้าทะเล 2,216 ต้น ชี้พัฒนาคู่ธรรมชาติทำได้จริง - siamrath.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBweDBrYXVDWkd5RlE2aFFfSkw3Z1pnemY4UTVwcm9YaUkxRXd1djV5MFBhVUVJby1Ea1dqSGx4Z1dFbnlvSVlRcDE3YWE?oc=5",
+      "outlet": "siamrath.co.th",
+      "domain": "news.google.com",
+      "published_at": "2026-09-07T04:20:00+00:00",
+      "language": "Thai",
+      "source_country": "TH",
+      "image": "",
+      "description": "“อ.ธรณ์” โชว์ผลงาน Nature Positive ปะการังเพิ่ม 8,500 ตร.ม. หญ้าทะเล 2,216 ต้น ชี้พัฒนาคู่ธรรมชาติทำได้จริง siamrath.co.th",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Thai (TH)",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "baseline": false
+    },
+    {
+      "id": "cdbca677008c6aef80",
+      "title": "Fethiye körfezi’nde kapsamlı dip çamuru temizliği ve deniz çayırı koruma planı - Aksiyon.com.TR",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVWJueDk5Nk54ZEN5UjZkNEFPSFJvbmVKX3ZhSDN2Yjk0Y2JwNk1oMG91NUxsYkxpaVVobVNwQ2xvTTd1ekhNbEszSVRyOTdsX0pNa2JaSTIzWFJwaHA1UmxzLXVYWlp3UzE3M2NxRzZwX0RwWVVKZGxiYlBnOFZodzhDdFhnUEpWQ01oSkU5OVJlenhQTHdFSGFGOXRXZ2FnRUhKejFHWHFmTkhZNDFQazZn0gG3AUFVX3lxTE9rdG9mNXl6YUlfZjZzNi11YnhNbnhTTkZXRC1fLVpsMllnSWFFVXEzLTR6MFdNNHFQT3ljUll5eEpUa0wteFZoVFp2SlYybUNFRWZvV25sck8tQTVlejFjX0R5RXMxZFJBRFFTcWRZVlhvQVV5MW9jQ2M2ZUNGNUozVXFDV0x0eTNPZ0o0M0RqV2p1OWZRd19IM1J0TXJseVJXUTFONUtnTGV2T3d1clhsYTNuUUU2Yw?oc=5",
+      "outlet": "Aksiyon.com.TR",
+      "domain": "news.google.com",
+      "published_at": "2026-09-06T15:27:45+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Fethiye körfezi’nde kapsamlı dip çamuru temizliği ve deniz çayırı koruma planı Aksiyon.com.TR",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "baseline": false
+    },
+    {
+      "id": "c27a3e2b9c1fa60a3b",
+      "title": "Die Seegras-Retter von den Balearen im TV Programm: 26.09. - 16:30 - tagesschau24 - HÖRZU",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS1RhWFhidFdoV3pMd0ViN0NJZzFodDdMU2t5YXM5YVNXV1Q1QVU0SGpaZ085NWV3alNKLUUzNXhWRjZhWWpZY2VxV19mWjNmY2wyeTdIX2loWE4wMUljQVZEVFh6djVEd0RUZGowQ2tHYzhvaDFUazFZS1NvQWU4VnJkaHJPbVdMSEFWaQ?oc=5",
+      "outlet": "HÖRZU",
+      "domain": "news.google.com",
+      "published_at": "2026-09-06T13:54:44+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Die Seegras-Retter von den Balearen im TV Programm: 26.09. - 16:30 - tagesschau24 HÖRZU",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "baseline": false
+    },
+    {
+      "id": "3eed098d3a5a4fb2be",
+      "title": "魚やカニがいっぱいの海に 笠岡の児童がアマモの苗植え付け - sanyonews.jp",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9teVpZN1FqVE84U0hHNWpURmloRzlBYkdWVFhuQTlZTm5yTHZDYThPeV9JOWg3WjlUSVFHeE1COWlwZU5mS3F1QjNCWjN3eUw1a0E?oc=5",
+      "outlet": "sanyonews.jp",
+      "domain": "news.google.com",
+      "published_at": "2026-09-06T02:20:02+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "魚やカニがいっぱいの海に 笠岡の児童がアマモの苗植え付け sanyonews.jp",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "baseline": false
+    },
+    {
+      "id": "c56c1f39114e1cb534",
+      "title": "Ekosistem Lamun: Penjaga Pesisir yang Terabaikan Halaman 2 - Kompasiana.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVWNOZWxDSldYWjF6MWFGakVXQ1JpR29rcmR4Ty1jVnFHMXlaMzhmQlNpUzc2bHZRRldRWkZucGt4UG13SUFHQlFtRWZ0ajVyeFRzdk1wY05yZlVmRVZMQmlmWFVtd3lpbHNaeTZBeTZOZHU2aDZEbnV5VTRtSl9WbzQtVzUxUkVuVG5LUkc1OHFvMUpwSHRnM2Jjb0NzaTlkSk82RFJFa2pjS0FZSGUxRmcya0Q3OVdFb2k4bWdIbmtyMFl4VTFicmJiZ1FUYll4c2k2YjdSejM?oc=5",
+      "outlet": "Kompasiana.com",
+      "domain": "news.google.com",
+      "published_at": "2026-09-06T00:17:40+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Ekosistem Lamun: Penjaga Pesisir yang Terabaikan Halaman 2 Kompasiana.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "baseline": false
+    },
+    {
+      "id": "109dd055b7aaccd0c5",
+      "title": "「住む魚が増えてほしい」減少した海草のアマモを増やしたい...浜名湖で親子が種取り＝静岡・浜松市 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QT0p5WWFmU1ZUNlpPQmVwbFFMYTlYRVNJSDhfTUJkU3FLNXNxaG9uVm1CMjFJMWdwTnBZQ2Q5czVieGpqN1phR3BYem9DM2JvQTduaUVHWGZja2FncFFJ?oc=5",
+      "outlet": "TBS NEWS DIG",
+      "domain": "news.google.com",
+      "published_at": "2026-09-06T00:17:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "「住む魚が増えてほしい」減少した海草のアマモを増やしたい...浜名湖で親子が種取り＝静岡・浜松市 TBS NEWS DIG",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "baseline": false
+    },
     {
       "id": "9c600e180d0659dba4",
       "title": "El tiempo detenido",
@@ -194,7 +338,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "baseline": false
     },
     {
@@ -218,7 +362,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "baseline": false
     },
     {
@@ -267,7 +411,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "baseline": false
     },
     {
@@ -292,7 +436,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "baseline": false
     },
     {
@@ -316,7 +460,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "baseline": false
     },
     {
@@ -340,7 +484,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "baseline": false
     },
     {
@@ -388,7 +532,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-07",
       "baseline": false
     },
     {
@@ -532,7 +676,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "baseline": false
     },
     {
@@ -556,7 +700,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "baseline": false
     },
     {
@@ -580,7 +724,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "baseline": false
     },
     {
@@ -604,7 +748,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "baseline": false
     },
     {
@@ -652,7 +796,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "baseline": false
     },
     {
@@ -894,7 +1038,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "baseline": false
     },
     {
@@ -918,7 +1062,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "baseline": false
     },
     {
@@ -1038,7 +1182,31 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
+      "baseline": false
+    },
+    {
+      "id": "5cbf6d00ecfbf0feeb",
+      "title": "福山でアマモの種採る体験会 藻場再生へ20人参加 - chugoku-np.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lYUcyLVhDVTdhZW9Yd1FTVE9aVFhVd2ZDT0VTaGxEc29pVndZTEFFTk5KTzFWSG1FQlFpbUhIcGJhQ2J2cDdlMW9JZGJyS0ZqREpSSm9hTURtQQ?oc=5",
+      "outlet": "chugoku-np.co.jp",
+      "domain": "news.google.com",
+      "published_at": "2026-09-02T11:40:54+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "福山でアマモの種採る体験会 藻場再生へ20人参加 chugoku-np.co.jp",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
       "baseline": false
     },
     {
@@ -9424,15 +9592,15 @@
       ],
       [
         "Indonesian",
-        47
+        48
       ],
       [
         "German",
-        42
+        43
       ],
       [
         "Turkish",
-        41
+        42
       ],
       [
         "Chinese",
@@ -9443,12 +9611,12 @@
         19
       ],
       [
-        "Spanish",
+        "Japanese",
         17
       ],
       [
-        "Japanese",
-        14
+        "Spanish",
+        17
       ],
       [
         "Korean",
@@ -9459,12 +9627,12 @@
         8
       ],
       [
-        "Arabic",
+        "Thai",
         6
       ],
       [
-        "Thai",
-        5
+        "Arabic",
+        6
       ],
       [
         "Portuguese",
@@ -9506,11 +9674,11 @@
       ],
       [
         "DE",
-        42
+        43
       ],
       [
         "TR",
-        41
+        42
       ],
       [
         "United States",
@@ -9522,19 +9690,19 @@
       ],
       [
         "JP",
-        14
+        17
       ],
       [
         "Italy",
         14
       ],
       [
-        "CN",
+        "ID",
         13
       ],
       [
-        "ID",
-        12
+        "CN",
+        13
       ],
       [
         "China",
@@ -9565,6 +9733,10 @@
         7
       ],
       [
+        "TH",
+        6
+      ],
+      [
         "India",
         6
       ],
@@ -9575,10 +9747,6 @@
       [
         "AE",
         6
-      ],
-      [
-        "TH",
-        5
       ],
       [
         "IT",
@@ -9691,6 +9859,10 @@
         8
       ],
       [
+        "Aksiyon.com.TR",
+        4
+      ],
+      [
         "news.mongabay.com",
         4
       ],
@@ -9723,10 +9895,6 @@
         3
       ],
       [
-        "Aksiyon.com.TR",
-        3
-      ],
-      [
         "idw - Informationsdienst Wissenschaft",
         3
       ],
@@ -9749,6 +9917,10 @@
       [
         "DW.com",
         3
+      ],
+      [
+        "Kompasiana.com",
+        2
       ],
       [
         "pic.hangzhou.com.cn",
@@ -9881,16 +10053,12 @@
       [
         "CASAG – OAB Goiás",
         2
-      ],
-      [
-        "Ege Alternatif",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        285
+        292
       ],
       [
         "Conservation & policy",
@@ -9936,7 +10104,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        229
+        236
       ],
       [
         "GDELT",

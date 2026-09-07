@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T09:38:58.488466+00:00",
+  "generated_at": "2026-09-07T10:43:16.114109+00:00",
   "baseline_mode": false,
   "sources": {
     "gdelt": {
@@ -7,13 +7,13 @@
       "ok": false,
       "fetched": 0,
       "kept": 0,
-      "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22Halophila+ovalis%22+OR+%22Halophila+stipulacea%22+OR+%22Halodule+uninervis%22+OR+%22Thalassia+testudinum%22+OR+%22Thalassia+hemprichii%22%29&mode=artlist&format=json&maxrecords=250&timespan=4d&sort=d"
+      "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22Cymodocea+nodosa%22+OR+%22Cymodocea+serrulata%22+OR+%22Enhalus+acoroides%22+OR+%22Syringodium+filiforme%22+OR+Phyllospadix%29&mode=artlist&format=json&maxrecords=250&timespan=4d&sort=datedesc"
     },
     "google_news_rss": {
       "name": "Google News RSS",
       "ok": true,
-      "fetched": 3063,
-      "kept": 22,
+      "fetched": 3192,
+      "kept": 25,
       "feeds": 58,
       "errors": []
     }
