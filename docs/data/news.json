@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-09-07T10:43:16.114109+00:00",
+  "generated_at": "2026-09-08T10:05:23.385729+00:00",
   "baseline_complete": true,
-  "article_count": 396,
-  "new_today": 7,
+  "article_count": 398,
+  "new_today": 2,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "f22197fd26873d1fce",
+      "title": "Coastal Rivers to host guided eelgrass paddle in Great Salt Bay - Boothbay Register",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNckk2ZmFwcEhRQ3dLWEdsb2pCd0ptTmY1YmZHeVVLc0xLVjY1MzhRVVdhcmQ2UVFpYXFBdk1VNzYxdEtvYXNBUjQ3cmo2eTEtSjZ3M25iUVJlRlJGTzl6eVU1NUdwcmx2bVNRNU1CWm9HTUFfQVl0NTdfNFdNeTltM0E4S1JkRkxkTXVpc3dxQnRyamN6Z3A3TVdORDc3M3h3Zi1CbEtLVjQ?oc=5",
+      "outlet": "Boothbay Register",
+      "domain": "news.google.com",
+      "published_at": "2026-09-07T11:51:03+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Coastal Rivers to host guided eelgrass paddle in Great Salt Bay Boothbay Register",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
+      "baseline": false
+    },
     {
       "id": "8c94ba5ada50f9574d",
       "title": "“อ.ธรณ์” โชว์ผลงาน Nature Positive ปะการังเพิ่ม 8,500 ตร.ม. หญ้าทะเล 2,216 ต้น ชี้พัฒนาคู่ธรรมชาติทำได้จริง - siamrath.co.th",
@@ -26,7 +50,7 @@
       ],
       "search_route": "Google News Thai (TH)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "baseline": false
     },
     {
@@ -50,7 +74,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "baseline": false
     },
     {
@@ -98,7 +122,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "baseline": false
     },
     {
@@ -122,7 +146,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "baseline": false
     },
     {
@@ -146,7 +170,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "baseline": false
     },
     {
@@ -338,7 +362,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "baseline": false
     },
     {
@@ -362,7 +386,31 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
+      "baseline": false
+    },
+    {
+      "id": "6033d4c7e501afa820",
+      "title": "【25年】愛知・佐久島で「アマモ」植え続けるワケとは 漁師「魚は1/10に減った」（2026年9月4日掲載）｜中京テレビNEWS NNN - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORG5nMFRZUzg5a1YwVVhrU2NPbG5ieTFmdTNTRVQydUx4Q1hOQ0dqazQtZElYdlUxSEhXZnlkTkE3ekw4V2paYUtHN2VMYmdqZngxRVNWNTczaG42YkVhMUlHOEpkR2pBcmdpemhoU2ZSOXpUZUFhR2ZWRWF0cWtTdXNybw?oc=5",
+      "outlet": "日テレNEWS NNN",
+      "domain": "news.google.com",
+      "published_at": "2026-09-04T22:00:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "【25年】愛知・佐久島で「アマモ」植え続けるワケとは 漁師「魚は1/10に減った」（2026年9月4日掲載）｜中京テレビNEWS NNN 日テレNEWS NNN",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
       "baseline": false
     },
     {
@@ -411,7 +459,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "baseline": false
     },
     {
@@ -436,7 +484,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "baseline": false
     },
     {
@@ -460,7 +508,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "baseline": false
     },
     {
@@ -484,7 +532,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "baseline": false
     },
     {
@@ -532,7 +580,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "baseline": false
     },
     {
@@ -676,7 +724,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "baseline": false
     },
     {
@@ -748,7 +796,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "baseline": false
     },
     {
@@ -796,7 +844,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "baseline": false
     },
     {
@@ -9588,7 +9636,7 @@
     "languages": [
       [
         "English",
-        137
+        138
       ],
       [
         "Indonesian",
@@ -9612,7 +9660,7 @@
       ],
       [
         "Japanese",
-        17
+        18
       ],
       [
         "Spanish",
@@ -9670,7 +9718,7 @@
     "countries": [
       [
         "GB",
-        44
+        45
       ],
       [
         "DE",
@@ -9690,7 +9738,7 @@
       ],
       [
         "JP",
-        17
+        18
       ],
       [
         "Italy",
@@ -9935,6 +9983,10 @@
         2
       ],
       [
+        "日テレNEWS NNN",
+        2
+      ],
+      [
         "straitstimes.com",
         2
       ],
@@ -10049,16 +10101,12 @@
       [
         "Linth24",
         2
-      ],
-      [
-        "CASAG – OAB Goiás",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        292
+        294
       ],
       [
         "Conservation & policy",
@@ -10104,7 +10152,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        236
+        238
       ],
       [
         "GDELT",
