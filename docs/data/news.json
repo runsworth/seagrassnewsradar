@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-09-08T10:05:23.385729+00:00",
+  "generated_at": "2026-09-09T10:05:53.628922+00:00",
   "baseline_complete": true,
-  "article_count": 398,
-  "new_today": 2,
+  "article_count": 401,
+  "new_today": 3,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "f0d4c8f65badcf456b",
+      "title": "国交省、ブルーカーボンの新ロゴ決定 アマモをモチーフに普及促進 - ツーリズムメディアサービス",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KOWFfdXMza1k2R3VWWlZzSEJkQy14eE5KSUUyS2tfNk5VTkFPWl9SbTFhMTd2bXVlUzRObm9Ja0VJVzNkTUxSQQ?oc=5",
+      "outlet": "ツーリズムメディアサービス",
+      "domain": "news.google.com",
+      "published_at": "2026-09-09T08:21:33+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "国交省、ブルーカーボンの新ロゴ決定 アマモをモチーフに普及促進 ツーリズムメディアサービス",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "baseline": false
+    },
+    {
+      "id": "d7acaf93d6d3296069",
+      "title": "1.8 करोड़ गरीब तटीय परिवारों के लिए जीवनरेखा बने समुद्री घास के मैदान - Down to Earth- Hindi",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObTRzTGJsN01BY0FCXzlIMklTT01KVkxUYkNLbDFkX255U2pYWlU3c1pwWkZ5b0VjWmRxQjBOU3ZrMXoyQWMtd25DVzBYZ2NuMGF1UDRwbWVpMTg2aDJVMUJfbVN0TDdZLVFORFpIY01wLVc3VVdDMjJ3bmhvbVJMdlpYQWVYX0I2cTdfSTZoTjNreWg5TnVna1pDdU1CMGhYNXRrYkdKT2VPQlhmbS1SdWdIR3c1ajdZeExhVG5MM25BaUFmOEHSAcYBQVVfeXFMTm00c0xibDdNQWNBQl85SDJJU09NSlZMVGJDS2wxZF9ueVNqWFpVN3NacFpGeW9FY1pkcUIwTlN2azF6MkFjLXduQ1cwWGdjbjBhdVA0cG1laTE4NmgyVTFCX21TdEw3WS1RTkRaSGNNcC1XN1VXQzIyd25ob21STHZaWEFlWF9CNnE3X0k2aE4za3loOU51Z2taQ3VNQjBoWDV0a2JHSk9lT0JYZm0tUnVnSEd3NWo3WXhMYVRuTDNuQWlBZjhB?oc=5",
+      "outlet": "Down to Earth- Hindi",
+      "domain": "news.google.com",
+      "published_at": "2026-09-08T11:19:00+00:00",
+      "language": "Hindi",
+      "source_country": "IN",
+      "image": "",
+      "description": "1.8 करोड़ गरीब तटीय परिवारों के लिए जीवनरेखा बने समुद्री घास के मैदान Down to Earth- Hindi",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Hindi (IN)",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "baseline": false
+    },
+    {
+      "id": "06912fb7d6c753a57c",
+      "title": "【25年】愛知・佐久島で「アマモ」植え続けるワケとは 漁師「魚は1/10に減った」 - locipo.jp",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpNnMyajkzUDgyNWR0UkxKTkl3ZVZDMmk1anM3OEdJdFBCLUR3clEwYnUtQ1ZNaWZPN3lueWE0RHVHYlE4Y0FpM2dKMldBY0RSRF94bUd2eDNXcUtlY2pkY0gzMXM0aUFxUFowZWI0OA?oc=5",
+      "outlet": "locipo.jp",
+      "domain": "news.google.com",
+      "published_at": "2026-09-08T10:49:39+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "【25年】愛知・佐久島で「アマモ」植え続けるワケとは 漁師「魚は1/10に減った」 locipo.jp",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "baseline": false
+    },
     {
       "id": "f22197fd26873d1fce",
       "title": "Coastal Rivers to host guided eelgrass paddle in Great Salt Bay - Boothbay Register",
@@ -26,7 +98,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "baseline": false
     },
     {
@@ -50,7 +122,7 @@
       ],
       "search_route": "Google News Thai (TH)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "baseline": false
     },
     {
@@ -74,7 +146,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "baseline": false
     },
     {
@@ -98,7 +170,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-09",
       "baseline": false
     },
     {
@@ -122,7 +194,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "baseline": false
     },
     {
@@ -146,7 +218,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "baseline": false
     },
     {
@@ -218,7 +290,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-09",
       "baseline": false
     },
     {
@@ -362,7 +434,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "baseline": false
     },
     {
@@ -386,7 +458,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "baseline": false
     },
     {
@@ -410,7 +482,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "baseline": false
     },
     {
@@ -459,7 +531,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "baseline": false
     },
     {
@@ -484,7 +556,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "baseline": false
     },
     {
@@ -508,7 +580,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "baseline": false
     },
     {
@@ -532,7 +604,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "baseline": false
     },
     {
@@ -9655,12 +9727,12 @@
         25
       ],
       [
-        "Italian",
-        19
+        "Japanese",
+        20
       ],
       [
-        "Japanese",
-        18
+        "Italian",
+        19
       ],
       [
         "Spanish",
@@ -9695,6 +9767,10 @@
         3
       ],
       [
+        "Hindi",
+        2
+      ],
+      [
         "Greek",
         2
       ],
@@ -9708,10 +9784,6 @@
       ],
       [
         "Vietnamese",
-        1
-      ],
-      [
-        "Hindi",
         1
       ]
     ],
@@ -9738,7 +9810,7 @@
       ],
       [
         "JP",
-        18
+        20
       ],
       [
         "Italy",
@@ -9811,6 +9883,10 @@
       [
         "KE",
         3
+      ],
+      [
+        "IN",
+        2
       ],
       [
         "Singapore",
@@ -9894,10 +9970,6 @@
       ],
       [
         "TW",
-        1
-      ],
-      [
-        "IN",
         1
       ]
     ],
@@ -10106,7 +10178,7 @@
     "themes": [
       [
         "General seagrass news",
-        294
+        297
       ],
       [
         "Conservation & policy",
@@ -10152,7 +10224,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        238
+        241
       ],
       [
         "GDELT",
