@@ -1,10 +1,277 @@
 {
-  "generated_at": "2026-09-09T10:05:53.628922+00:00",
+  "generated_at": "2026-09-10T10:01:41.615193+00:00",
   "baseline_complete": true,
-  "article_count": 401,
-  "new_today": 3,
+  "article_count": 413,
+  "new_today": 12,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "1f4df33faefe127e69",
+      "title": "REGNO DI NETTUNO. I SEGRETI DELLA POSIDONIA OCEANICA (SPECIALE TG) - Teleischia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNms3MWJseTBhVmMteUpnckRZSk96SXdCVkNDX3dFdXAyenRtZlBROFpmTGx2S1BFVC12T0xiRmtfT3YyaHA2V0dna09tQ2RJdWZLQ0s5RzFKOWYzZk1ZVk5nbGVGNXpNSjBmUHBHOTdyck1tMWNyRlZoQVpyZHVkUVZ4SmtDallBNzJ2TWl6RUNlLWk4R1E?oc=5",
+      "outlet": "Teleischia",
+      "domain": "news.google.com",
+      "published_at": "2026-09-10T09:30:32+00:00",
+      "language": "Italian",
+      "source_country": "IT",
+      "image": "",
+      "description": "REGNO DI NETTUNO. I SEGRETI DELLA POSIDONIA OCEANICA (SPECIALE TG) Teleischia",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Italian (IT)",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "baseline": false
+    },
+    {
+      "id": "791f391c77632274a8",
+      "title": "A seagrass meadow was transplanted off an Italian island in 2009; 17 years later, scientists found signs - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPcjRPRV8tc3ViRTZsRVBmczNia0dHNmJCVnpHdGppSzMzcHF0WlkydVV3VlB5cU1CUWd2emN1VXF2VWFSUVVDMENpbmFRYmtaemxNZGUyb3NJeElBRXR2SXhTeFl5WXRtOVo1Vlk3SERYMTc5dy0wel9fMVNGbm5GTVFKV1dGSFRicmx2dVFPVzF2bzhueDNmTkhLZU1VeThId0pzX0d0X1M2SXo2anpKVGFHdnozbE85aDM1SHV3U1FHSUkwVWNMTms4UE5nQ3F0dlNMNm1VMVdrNm9Cbzd1b3pRVkUzeVhOUDViR2pfVGpmdDF5ODBIWGNMWTA2MExmSnRLQnJCanhyVGpRYWlYM251cTJVX3AxRGtucS02QXg0Z1hCYVViQnFXYVB5dDDSAbQCQVVfeXFMTXFfMjBMbWtPT0U1VS1oWkYyU05KWkFVVVYtcHZTUUZLeFZPUGdPQzZiVzRDbGY2TGlDN2Qzek1leW10M0QzTjcwRlQwczNIVk1zZTZOcy1Ob1hTVGtmM2NoandqQU5jTXFIeW8zaHhwNHZZSVYtWHNIWEdSWi1PdVJLYnRZVDQ2aWthWHU2Qlo0dUJCaENXMEhqTUlIN3lKTnN5TnVQd29CNk9leFNQVzlaYU85TWNYRk9jVFdKVVRsU2ZTS1ZDRWNXdlRVZGk4NmU4dUNTVEVEQzNBNmluVllfbTlHcE5Bb1U5dk9QNncwRFk4OHd1aU9KNEZnQTFJX2RKZFVFY1AyQUUtMWdDSndXZlJUdGRTNFBINXRLN21CaWhfclNOblJSb2ZiOEYtNkp0aDU?oc=5",
+      "outlet": "The Times of India",
+      "domain": "news.google.com",
+      "published_at": "2026-09-09T19:30:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "A seagrass meadow was transplanted off an Italian island in 2009; 17 years later, scientists found signs The Times of India",
+      "themes": [
+        "Restoration",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "baseline": false
+    },
+    {
+      "id": "86c6721ddfc92e13ad",
+      "title": "Paar aus Essen pflanzt Seegras in der Ostsee - WDR",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRUJYazBMaVZuTnJrNzczYWg3SlpBMy1BR3l3azBqeWRlelM0al95aEI1Sjh4a1hxdURvcmlobTV6bTZtcGFqSE1pNHFfLWlXcFFmcEJweXhHVzZteWk4UHlMTDlKWk9OM3UtNmtaRExiTUE3QWd3WGJfaFBfa0ZSUXlwYlVCdy1XMHVlRVpUdmtOTnhIVmE4WTZEZjF1YTF4QjVKLW5HZHdhaWVOZ2FRdGh0UXlNUdIBtAFBVV95cUxOM0pyaldVU3I0SF85S1pfUEljNl9IalA0c0g4d21rdjhwRVlZSVY5dlpvV0ZFVmNLVlQ5dm5TSG52MUhvOW9JVk4wSkZQYUY5QllqUXBiRGNadTREbUM2TVVBRWZNcHgwMFB4c1JBekxnUFV2RUNTSlBNTHpWclpjMjUxYm5ZUDI4UkJtSDlqdG5pal9JSE5HcDQxdUZwWDVWSl9UWTdqcjRZS052bmdaYWw2QXk?oc=5",
+      "outlet": "WDR",
+      "domain": "news.google.com",
+      "published_at": "2026-09-09T18:28:56+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Paar aus Essen pflanzt Seegras in der Ostsee WDR",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "baseline": false
+    },
+    {
+      "id": "1c9d8ad342bd9f43fc",
+      "title": "Sea otters returned to a polluted California estuary in 1984; eelgrass expanded 600%, while marsh-edge er - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPNmU5SWdtcmNkbkwwdUJNTDhwWDYtbXlCblJlZWxpTDdkUUpxWDZXQkh1WFVSRzBfbVdCRjF5WVB0TE1iMk55emtWUWNYZHp0cE1XZGdHLUVwNzI0YktIMjh2VDQ5Yklyd2tJOGRnSEl6WVJ3VFVzc2dNQ2FnSnhLcG9LUkQwMjUyUFpZQndBbHZtWVNBVjA2RTd4VGFTempqZW9xV0JfMlREZW92ZG1JVks1ejJGZDFnY0p3R0pQbU9NaXM4MVRGYlQ3WEJuVEV0eGtWY1o5anQ4V2dhTVdMeWE4elBqQnc1Qnd3cTNYLXZIYzVGN1o2NDFob1NPWEMtNWFmcm5vRHFFQ2dWb1FvWGxNRmIzM2tfR3Q0dURSU2otenNyWHJ0QjZaeTRhMXY0d1M0N2N6WEZmcnJr0gHCAkFVX3lxTE1TRENJeGlJeEpsYTN2WDFaQ1RSQndBU1h1dEdSWWNKWEdGN3AxaU4wSnRBYUNXMFNKb3RBZkpCZzFtSWdYRGRWQkVVQURNNlJVbWNaM2J0T3FsTDY2WnphV3lySnFkd3RwZ0k0UkNucXJPVGNnd3FlSU9EV1ZuZzJuLXVTcEM2QXdoNWN4d2ZaRlZaODQ5MWpOVW1KWkJ2VS01R05sQUFRdksxdHlmUUdYSmx1VDViSDZvaHl6UWEwZTViVmF0VDl5OEc3T0UzbTlfbTB5V0tkZkh4UG1sYnp5ZFU2RFhEOG85bE50Mm14YUY1dWhuY3JFdDllcUFnMWdaQkItY1ZpSi02emswN25fMndUbjA2c1h0WWtnakVVaUxHeTNfZW01UC15YUNYNlNxN2Fia3g3OGVveUF5cEFkUXc?oc=5",
+      "outlet": "The Times of India",
+      "domain": "news.google.com",
+      "published_at": "2026-09-09T18:25:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Sea otters returned to a polluted California estuary in 1984; eelgrass expanded 600%, while marsh-edge er The Times of India",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "baseline": false
+    },
+    {
+      "id": "b18d04574350aff241",
+      "title": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum: “Deniz çayırlarını yeniden güçlendiriyoruz” - CUMHA Cumhur Haber Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTGstUTZWX25VdzlHenpxVFgzUUZobVp5UlFMbkY1ZTlEZU1KbVljMTg2MkdPUWZHNjJtbUROdThNNFVBZTV4eWRxd3dxdVV5bzFVRWh4eTU4VlB4UW95aHRwMVNPcTFER2JGcEREcGhzcWY5RDNzZWkyekstWGZRNTdYQXZpN0VveEpfVWtZQVJEb19odll6cTdRRGlxcTQzTFVycTBiUVgxazZaN3Z6NllmS05vaFVIUDZr?oc=5",
+      "outlet": "CUMHA Cumhur Haber Ajansı",
+      "domain": "news.google.com",
+      "published_at": "2026-09-09T14:42:32+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum: “Deniz çayırlarını yeniden güçlendiriyoruz” CUMHA Cumhur Haber Ajansı",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "baseline": false
+    },
+    {
+      "id": "3344ff4453bfe3d6c1",
+      "title": "Bakan Kurum: Mapa-Şamandıra Sistemiyle Deniz Çayırlarını Güçlendiriyoruz - tekha.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa2xhVFVfRExmOVZJcXdfOVFqU3FjNVZROWlXQ2xvcXlsTmZ2SjU5WDdta0ZaU0d2dkNFQnhnZHU2dWVnS3hpZDd3Qkw2QnZqd1g2SUNBdDdxajZCQ2N3RmF1Vl95Uk5CUHdEb2xXNmhyQndCSEo4RDhybVBndGZZMWFGZnU0ZGVJa1FHM2NwS2M3VVU5Z2tJ?oc=5",
+      "outlet": "tekha.com.tr",
+      "domain": "news.google.com",
+      "published_at": "2026-09-09T13:09:04+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Bakan Kurum: Mapa-Şamandıra Sistemiyle Deniz Çayırlarını Güçlendiriyoruz tekha.com.tr",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "baseline": false
+    },
+    {
+      "id": "13e0336120cf5aebff",
+      "title": "Bakan Kurum'dan Göcek'teki deniz çayırlarına ilişkin paylaşım - Haberci TV",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaTc3MnZFSmVUYkVoU0pRVllITXdZVFVMUnJrZm5heHk4MXdEdHhWRlEtbkZXMkJHaURVZTFvSWU3S1JLelJpbVNCQmlnMnNCSlJhVHFoWndadlV5X29tN0hzeGNHMF96b2dTRUUtYnlsRUhZOEkxdlc4YzcxLWVKeWl5ck5QX056XzZEVHNNcV9Nd9IBlwFBVV95cUxNS3VFci1zbVUxUThHVFZhUHNzUTB1N0ZrLWk4a2V6c0tTc05QdDdhOGE5SUE4ZDZrM2dRSVFSMHYtVFljdERZejQ1UFpVSzdpRG5oNlExT2djLWtBUEpfdHNlU0hSZEZBUzBNcGxoR3c3VTFMcEdtUG5ud1l4eVQ3cUtFVWNESkZJVFpxbmpiU2ttVWE0eDVz?oc=5",
+      "outlet": "Haberci TV",
+      "domain": "news.google.com",
+      "published_at": "2026-09-09T11:58:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Bakan Kurum'dan Göcek'teki deniz çayırlarına ilişkin paylaşım Haberci TV",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "baseline": false
+    },
+    {
+      "id": "31ab59c96940b15d1c",
+      "title": "Gekweekt zeegras moet ecosysteem Nederlandse Cariben redden - Folia.nl",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSG80NGFReEpHZmtqeVlKNFBKbDJhTEU2em50WEJScUo5WXNSQldibS1XSzlXWFN4MHZjTERpUFNRbllfa09lRVZ2bnM1LXRLN0xQRE82R3FRdWNvMmFwLWFyLVZYcEFLQVAwS3lPLWQ4SzZtY1kyd2JlR0dqUXpnZ3RQZDg0c2UzNmd5WDExZHpxZ0xKQlBfOGthRXVVcG5SekZr?oc=5",
+      "outlet": "Folia.nl",
+      "domain": "news.google.com",
+      "published_at": "2026-09-09T11:43:52+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Gekweekt zeegras moet ecosysteem Nederlandse Cariben redden Folia.nl",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "baseline": false
+    },
+    {
+      "id": "36c9e91c81acc5ac8e",
+      "title": "Göcek Koylarında Deniz Çayırları İçin Mapa Şamandıra Sistemi - Haberizma",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXExdnpHU0ZUZnk1T2ZzN0FlRndiVm5mdG85UEdzNkNnOVpJODZxZnRuSmVEby1GcU9vU3FDa21qaXVVSlFpT3ZNNnd6T1psenE2cHZraTFpRjBLVjJQWThSUnNpWjNBTFA0VnlmV2dzV21Dc3Q4dDVkUVRUMkJPcnR6U1FFbTg2cVlRTFlnZTQ?oc=5",
+      "outlet": "Haberizma",
+      "domain": "news.google.com",
+      "published_at": "2026-09-09T11:42:09+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Göcek Koylarında Deniz Çayırları İçin Mapa Şamandıra Sistemi Haberizma",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "baseline": false
+    },
+    {
+      "id": "e69962070362593a78",
+      "title": "Bakan Kurum: Deniz çayırlarını yeniden güçlendiriyoruz - Son Dakika",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYzd3SmtZeTFnWFZKMTE5TTYxVkIwZGFrN3VVWm1tU1BrVl9TOGRnLUo1Sm9uSVRwNWhDaHJZUTlJZTlCelJNem9Wb2ExYTV0bF9HdGhyWlZVU2dFeXlDSDhWZVgwQUhaQ2Vsb3RHMk40STc3R3ZEVnEydGYxT2t2SHo2R2VIdG44WG1fb201VlpvektpRFVHYjdvRkfSAZwBQVVfeXFMTWM3d0prWXkxZ1hWSjExOU02MVZCMGRhazd1VVptbVNQa1ZfUzhkZy1KNUpvbklUcDVoQ2hyWVE5SWU5QnpSTXpvVm9hMWE1dGxfR3RoclpWVVNnRXl5Q0g4VmVYMEFIWkNlbG90RzJONEk3N0d2RFZxMnRmMU9rdkh6NkdlSHRuOFhtX29tNVZab3pLaURVR2I3b0ZH?oc=5",
+      "outlet": "Son Dakika",
+      "domain": "news.google.com",
+      "published_at": "2026-09-09T11:17:13+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Bakan Kurum: Deniz çayırlarını yeniden güçlendiriyoruz Son Dakika",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "baseline": false
+    },
+    {
+      "id": "300e2b661ede4738f6",
+      "title": "Göcek’te deniz çayırları için koruma sistemi - Manşet Haber",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0EwRUptSEdYMExYd2EwcjVSUjBMWTJvRVd1N2V6ZFZhUFRVTlczdlE3ajZmY2ptbXlzR0h2c0hJdXB5ZXRkNDRXa29YVG5uekt2OG83YmduZEtZR0RRajR2M2NYNnlJSWY2SUdZb3R5c3h1UW93NkVvdnBnZkRudG9QelktUUV3d082bA?oc=5",
+      "outlet": "Manşet Haber",
+      "domain": "news.google.com",
+      "published_at": "2026-09-09T10:22:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Göcek’te deniz çayırları için koruma sistemi Manşet Haber",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "baseline": false
+    },
     {
       "id": "f0d4c8f65badcf456b",
       "title": "国交省、ブルーカーボンの新ロゴ決定 アマモをモチーフに普及促進 - ツーリズムメディアサービス",
@@ -26,7 +293,31 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
+      "baseline": false
+    },
+    {
+      "id": "366e1b20c78b62f314",
+      "title": "国交省、ブルーカーボンの新ロゴ決定 アマモをモチーフに普及促進 - chiba-tv.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80bXBUM3JScWRyMGtEbGQ5LVQyU0hUalJ0bXg2Tzh4OVdVU25BMVVKVWdPLWR0aThkaE81QnVHUllKNnRtY0FIVUFud3NkTGtSb1B4RTFaUU1XWmNKNHow?oc=5",
+      "outlet": "chiba-tv.com",
+      "domain": "news.google.com",
+      "published_at": "2026-09-09T07:55:03+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "国交省、ブルーカーボンの新ロゴ決定 アマモをモチーフに普及促進 chiba-tv.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
       "baseline": false
     },
     {
@@ -50,7 +341,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "baseline": false
     },
     {
@@ -122,7 +413,7 @@
       ],
       "search_route": "Google News Thai (TH)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "baseline": false
     },
     {
@@ -146,7 +437,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "baseline": false
     },
     {
@@ -170,7 +461,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "baseline": false
     },
     {
@@ -194,7 +485,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "baseline": false
     },
     {
@@ -1619,7 +1910,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-10",
       "baseline": false
     },
     {
@@ -9708,7 +9999,11 @@
     "languages": [
       [
         "English",
-        138
+        140
+      ],
+      [
+        "Turkish",
+        48
       ],
       [
         "Indonesian",
@@ -9716,11 +10011,7 @@
       ],
       [
         "German",
-        43
-      ],
-      [
-        "Turkish",
-        42
+        44
       ],
       [
         "Chinese",
@@ -9728,11 +10019,11 @@
       ],
       [
         "Japanese",
-        20
+        21
       ],
       [
         "Italian",
-        19
+        20
       ],
       [
         "Spanish",
@@ -9744,7 +10035,7 @@
       ],
       [
         "Dutch",
-        8
+        9
       ],
       [
         "Thai",
@@ -9789,16 +10080,16 @@
     ],
     "countries": [
       [
+        "TR",
+        48
+      ],
+      [
         "GB",
-        45
+        47
       ],
       [
         "DE",
-        43
-      ],
-      [
-        "TR",
-        42
+        44
       ],
       [
         "United States",
@@ -9810,7 +10101,7 @@
       ],
       [
         "JP",
-        20
+        21
       ],
       [
         "Italy",
@@ -9837,6 +10128,10 @@
         10
       ],
       [
+        "NL",
+        9
+      ],
+      [
         "US",
         9
       ],
@@ -9845,12 +10140,12 @@
         9
       ],
       [
-        "NL",
-        8
-      ],
-      [
         "Australia",
         7
+      ],
+      [
+        "IT",
+        6
       ],
       [
         "TH",
@@ -9867,10 +10162,6 @@
       [
         "AE",
         6
-      ],
-      [
-        "IT",
-        5
       ],
       [
         "PT",
@@ -9979,15 +10270,15 @@
         8
       ],
       [
+        "Son Dakika",
+        5
+      ],
+      [
         "Aksiyon.com.TR",
         4
       ],
       [
         "news.mongabay.com",
-        4
-      ],
-      [
-        "Son Dakika",
         4
       ],
       [
@@ -10009,6 +10300,10 @@
       [
         "山陽新聞",
         4
+      ],
+      [
+        "The Times of India",
+        3
       ],
       [
         "Sohu",
@@ -10169,16 +10464,12 @@
       [
         "Ostsee Zeitung",
         2
-      ],
-      [
-        "Linth24",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        297
+        308
       ],
       [
         "Conservation & policy",
@@ -10186,11 +10477,11 @@
       ],
       [
         "Restoration",
-        23
+        24
       ],
       [
         "Science & discovery",
-        23
+        24
       ],
       [
         "Wildlife & biodiversity",
@@ -10224,7 +10515,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        241
+        253
       ],
       [
         "GDELT",
