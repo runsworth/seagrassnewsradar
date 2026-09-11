@@ -1,10 +1,106 @@
 {
-  "generated_at": "2026-09-10T10:01:41.615193+00:00",
+  "generated_at": "2026-09-11T09:59:43.790195+00:00",
   "baseline_complete": true,
-  "article_count": 413,
-  "new_today": 12,
+  "article_count": 418,
+  "new_today": 5,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "8f8990e5818ce31768",
+      "title": "Major Funding For Solent And Isle Of Wight Seagrass Project - Isle Of Wight Radio",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3BGQ01Ua3k4X25KYmk3Y3BUR05oUXdwQUZ2TzVlclFTd0w3NHRfdUFXYkZocmExV0xJVGRVaFJ2TGJRdVpobGJKaUZ3Vm5FR2lhallOS20xeS1OQ0FUNEYxTE1ZS3ozY3hXaEtuLTFTcjg3QjlmRkhGcXZFUFlDNXE1eFk0RHlSc0xCc2RLcGtBWFBMR0kyb1F6bw?oc=5",
+      "outlet": "Isle Of Wight Radio",
+      "domain": "news.google.com",
+      "published_at": "2026-09-10T17:35:25+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Major Funding For Solent And Isle Of Wight Seagrass Project Isle Of Wight Radio",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "baseline": false
+    },
+    {
+      "id": "3ccf680b0518d51066",
+      "title": "Hotels Have Focused on Coral Restoration — Palladium Is Betting on Seagrass Too - Skift",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2hPWmQwaWxXMHpLZVVLSzVXaXhzOVpDUzh4LXRhaXpVb29UMG54VGQwV0x3THl6ck1ROVhRZDYtQkprUlJESS0zbGIwR2dydC1PeW44U3g4MDBUcFdkU0t4Y0xMY2dtNU9lMzhQb2Z4ZEJkMkhoY3pyNDhsYjNUS0pkREp1dndtMG0wX2ZER1ZzRXhJLVNvZ1lwdlRGMW04RGNBd2lZVkFEd2M?oc=5",
+      "outlet": "Skift",
+      "domain": "news.google.com",
+      "published_at": "2026-09-10T15:34:58+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Hotels Have Focused on Coral Restoration — Palladium Is Betting on Seagrass Too Skift",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "baseline": false
+    },
+    {
+      "id": "79652469e065f63765",
+      "title": "Los hoteles se han centrado en la restauración de los corales; Palladium también apuesta por las praderas marinas - Skift",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdnFPWlFoMTFNMFZuSVRzdTFWTXVBTlFhYXJvYzNndUIyODNJZnA0STRNdy1LNFNSYVAxd2xKcDg2ckV5S3U3eDhzcFhkSm9Xd2RPWlFQbjNwR0lENmdLSXk5MElEaEh3U3ppdmdjSm52MmxCMy1SMlBKMTBHZUtjbURzWUN4TXd0aEJ5Zzg4S08wc3lsUUZBOGctOGFUNVF6aVJlM0hvTUpBRnMwN1B3?oc=5",
+      "outlet": "Skift",
+      "domain": "news.google.com",
+      "published_at": "2026-09-10T15:34:58+00:00",
+      "language": "Spanish",
+      "source_country": "MX",
+      "image": "",
+      "description": "Los hoteles se han centrado en la restauración de los corales; Palladium también apuesta por las praderas marinas Skift",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (MX)",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "baseline": false
+    },
+    {
+      "id": "eb9092ca353104ce82",
+      "title": "磯焼け解決に小さな一歩 アマモの種採取に初成功 - タウンニュース",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tSXZJc2p0WVZtRGw1ekJ4X0tJS2hpckdET2tFSjh0REJLNHJVdmlfTTU4ZlhmYmtlOXdLUkI0Y01aYjNvVVpZeVJUQ2ROaTNzSFZwTmg2dGRYNFBlTm1VdlVFcnE?oc=5",
+      "outlet": "タウンニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-09-10T15:00:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "磯焼け解決に小さな一歩 アマモの種採取に初成功 タウンニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "baseline": false
+    },
     {
       "id": "1f4df33faefe127e69",
       "title": "REGNO DI NETTUNO. I SEGRETI DELLA POSIDONIA OCEANICA (SPECIALE TG) - Teleischia",
@@ -28,7 +124,7 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -53,7 +149,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -77,7 +173,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -101,7 +197,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -125,7 +221,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -149,7 +245,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -173,7 +269,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -197,7 +293,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -221,7 +317,31 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
+      "baseline": false
+    },
+    {
+      "id": "26f6c62c7d328d47aa",
+      "title": "Bakan Kurum duyurdu: Göcek koylarında deniz çayırları koruma altında - İlkses Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3ZPSkhWbnRfb2hGWWE2cy1MMkF0TkttUXpzRjVfSGU5YTZWNHU1LVFPQ0N1LTNSVFBKaDF4bFU1RS1Icl9Hb2pWYUxkYmJjSVdPZVRHOWMtYm9NS0Iyak9HYWh4Ym5IMFdXU1NWM1V5RG5XcDdISzZIYnFodWdoQ0xiVzQtbVh2RFpXUEtBODU5ejhwQlJ5M29EbENhYnkzQXBVREhn0gGrAUFVX3lxTE9IZUJLOTFUTWZYLUFJNXVEM1RQd0Jod2dkcFdqSEFkNjFFbVAtaW5UOUp3WkdsOFdtb3lQdVpZRW1xdmVKbHlxWFV5NW03VEVkWFQtdmp5YkNFTUlIY0lnbWc3X0gxN0MxOGNPWkpPR2l2TDlETWR5eHVsdTNzTkU4cWg4dWxqQkxkSEwwYVo2QmFSMVhnc1VVZ0hieEQ5RnN2Zkw3bzRxTFVCRQ?oc=5",
+      "outlet": "İlkses Gazetesi",
+      "domain": "news.google.com",
+      "published_at": "2026-09-09T11:19:58+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Bakan Kurum duyurdu: Göcek koylarında deniz çayırları koruma altında İlkses Gazetesi",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -245,7 +365,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -269,7 +389,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -293,7 +413,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -317,7 +437,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -341,7 +461,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -389,7 +509,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -413,7 +533,7 @@
       ],
       "search_route": "Google News Thai (TH)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -437,7 +557,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -461,7 +581,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -1910,7 +2030,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "baseline": false
     },
     {
@@ -9999,11 +10119,11 @@
     "languages": [
       [
         "English",
-        140
+        142
       ],
       [
         "Turkish",
-        48
+        49
       ],
       [
         "Indonesian",
@@ -10019,7 +10139,7 @@
       ],
       [
         "Japanese",
-        21
+        22
       ],
       [
         "Italian",
@@ -10027,7 +10147,7 @@
       ],
       [
         "Spanish",
-        17
+        18
       ],
       [
         "Korean",
@@ -10080,12 +10200,12 @@
     ],
     "countries": [
       [
-        "TR",
-        48
+        "GB",
+        49
       ],
       [
-        "GB",
-        47
+        "TR",
+        49
       ],
       [
         "DE",
@@ -10101,7 +10221,7 @@
       ],
       [
         "JP",
-        21
+        22
       ],
       [
         "Italy",
@@ -10164,11 +10284,11 @@
         6
       ],
       [
-        "PT",
-        4
+        "MX",
+        5
       ],
       [
-        "MX",
+        "PT",
         4
       ],
       [
@@ -10334,6 +10454,10 @@
         3
       ],
       [
+        "Skift",
+        2
+      ],
+      [
         "Kompasiana.com",
         2
       ],
@@ -10460,24 +10584,20 @@
       [
         "수산인신문",
         2
-      ],
-      [
-        "Ostsee Zeitung",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        308
+        311
+      ],
+      [
+        "Restoration",
+        26
       ],
       [
         "Conservation & policy",
         25
-      ],
-      [
-        "Restoration",
-        24
       ],
       [
         "Science & discovery",
@@ -10515,7 +10635,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        253
+        258
       ],
       [
         "GDELT",
