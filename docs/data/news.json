@@ -1,10 +1,130 @@
 {
-  "generated_at": "2026-09-11T09:59:43.790195+00:00",
+  "generated_at": "2026-09-12T09:34:09.465087+00:00",
   "baseline_complete": true,
-  "article_count": 418,
+  "article_count": 423,
   "new_today": 5,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "b16cdea6ec648a1c7a",
+      "title": "Seegraswiesen im Wattenmeer sollen wiederbepflanzt werden - NDR.de",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS1Z4NlIyRFBsbWNMUm53Z3dQdnlkZ2NzSlJvSTAzVmx0YnFEZXQtY2k2Wi1zX0o2RE11bEFjV3pma2JyN091MHJhM0xaNjBvTHUyM0NvX0xqZ2RiTFVFaFF3VHZXVk9pX2tZd2RNWmhCUjEwMld3LWs5Ti1odjZJUnY3Z3ZNMXN1Wkw4THFmZlJZR3dscXJXeXE3Z3l4a1hQamFEaWV2SDM0RE1YRy1DNU1wbWlteVBNTWo5ZTJWV2czSVNnRFFkbzRBRkx6Z1VkaGc?oc=5",
+      "outlet": "NDR.de",
+      "domain": "news.google.com",
+      "published_at": "2026-09-11T20:01:39+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegraswiesen im Wattenmeer sollen wiederbepflanzt werden NDR.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "baseline": false
+    },
+    {
+      "id": "38e7870a5911bf0e42",
+      "title": "Wenn das Ruhrgebiet Seegraswiesen pflanzt - wdr.de",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUktWkpYMUExWHFGOHlQbVdRLXd2QTdPS0dmaWNKanlnaXVoWDE2S2NJSldnRGhNcHM1cWZlMDFVaTl5UzJOa1pFS1pZSWZQWWtVUWFyNUVNWW01THNVdWlORzVPNDRvZG9Sa2pxazB4UE12aE9WZUJ2RFRnWW0wR1FObkNjeDhDYmlPaUZsVU9GOFdkRWRid2w2QW8ydXpWTmlCWUZ2cVVrUVUwMzRiYThWYkhCUdIBtAFBVV95cUxNVTBYeWM1MUxTSVZRR2x4aThwanNGUTFHTTNkNERON1Y5eVdBR3NnNHBaUHVXMExiWm51RkNVektYZ0p2OUVJdHVkU29GLW1mUkhNekJWc3Q4TWhVQzR4SWtoYk5YUVNhT3ZjN1R5bjJSUU9tMnB0d2VFNjhDVGJnT0x5OVc4cy02aThreHlubFNubUtEMXZWNV9PT0pPWk1sSkE0NWx6blE4LUdmZVA1Z191azQ?oc=5",
+      "outlet": "wdr.de",
+      "domain": "news.google.com",
+      "published_at": "2026-09-11T18:20:06+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Wenn das Ruhrgebiet Seegraswiesen pflanzt wdr.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "baseline": false
+    },
+    {
+      "id": "0ab8f5f56e2cf925a3",
+      "title": "Seegras-Comeback im Wattenmeer? Forscher hoffen auf 10 Millionen Tonnen gebundenes CO2 - NDR.de",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVXZ0Yk15NXU5YkRYWEdsMllZY3NWVE94S2IxaEM2MHlDRnphNVRvRWlWSEc0YWs2TVlQR0VGZldWWU1ZTlJqRWtJV1pUdFdTRVdVMzBLaVRXa0hGZEZyRVRjMU5ZS05HdXFkXzdjWTJpaEtocmhxMmhHTUpRaklfcmRFYzBZa05SOE9DTXA0UU1KdlUtVHktYjMzS1Z5VnpvYTlpNjgtWEFwWnBzSU9zX25OUVNWQ1dSZVNSVFJkbHg2QTNvbzJjTFZLZHNSZ1hjQVp0c056MjhPOVM5TmFmN2RBRm9rS2JaZUdNX3hB?oc=5",
+      "outlet": "NDR.de",
+      "domain": "news.google.com",
+      "published_at": "2026-09-11T14:24:24+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegras-Comeback im Wattenmeer? Forscher hoffen auf 10 Millionen Tonnen gebundenes CO2 NDR.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "baseline": false
+    },
+    {
+      "id": "c66533d1e6249c3018",
+      "title": "Wattenmeer: Seegraswiesen werden aufgeforstet - NDR.de",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZUtYU3NrUjZVblc2TFp4NXlmR0NvTmpCZWduWTYtVlBnOTdFS0VhQnFaZkYzX0o3RzJpbkZCMUxJbEtNVVZjbElCdnBoUGFzekU4VWM5NEhjOGdvTzNldmg5cmhoZzB0eFpDeDVjR0cydGhNZ1JTTE1adlBrU2tiSVloa0d1TEZ4RE9UVVhIY3pqeHREamNjT3R6ZFN0Mlhx?oc=5",
+      "outlet": "NDR.de",
+      "domain": "news.google.com",
+      "published_at": "2026-09-11T13:25:13+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Wattenmeer: Seegraswiesen werden aufgeforstet NDR.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "baseline": false
+    },
+    {
+      "id": "98345ee47517217f22",
+      "title": "Essenerinnen pflanzen Seegras in der Ostsee - wdr.de",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTlQ0UDhTMEcyMmhsTmtZVU81WVFGcTlPSFdnN0FCRHVSR2EyYzIwVV93QU14QWQwRzNyeUtJd0ZDNUZZaUd4a01TNVE2MG9qaUtITm9JUjduS1l0U3dIaVVOZEFEU3JORGNwaldtazFxaTNmM1JBeXhlbk94R1R2S9IBf0FVX3lxTFBaRm5TNU5SZGR2Y01yUWpVVEQtMFphME1pQ1RVcl9kNVNhVHBfTHl6ZnF6TmNXQ0VmQ0Y1Yk9HZjY5LUtVV3FtaEVicmMzTjBzZTFITl81dzhxai1GeUhUa2xVdl8wMl8yN3ZEWkw1RjJBNmZNd3JQcDNaVkNHYzg?oc=5",
+      "outlet": "wdr.de",
+      "domain": "news.google.com",
+      "published_at": "2026-09-11T09:17:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Essenerinnen pflanzen Seegras in der Ostsee wdr.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "baseline": false
+    },
     {
       "id": "8f8990e5818ce31768",
       "title": "Major Funding For Solent And Isle Of Wight Seagrass Project - Isle Of Wight Radio",
@@ -98,7 +218,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -124,7 +244,7 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -173,7 +293,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -197,7 +317,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -221,7 +341,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -245,7 +365,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -269,7 +389,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -293,7 +413,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -317,7 +437,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -365,7 +485,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -389,7 +509,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -413,7 +533,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -437,7 +557,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -461,7 +581,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -509,7 +629,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -2030,7 +2150,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "baseline": false
     },
     {
@@ -10122,16 +10242,16 @@
         142
       ],
       [
+        "German",
+        49
+      ],
+      [
         "Turkish",
         49
       ],
       [
         "Indonesian",
         48
-      ],
-      [
-        "German",
-        44
       ],
       [
         "Chinese",
@@ -10200,16 +10320,16 @@
     ],
     "countries": [
       [
+        "DE",
+        49
+      ],
+      [
         "GB",
         49
       ],
       [
         "TR",
         49
-      ],
-      [
-        "DE",
-        44
       ],
       [
         "United States",
@@ -10390,6 +10510,10 @@
         8
       ],
       [
+        "NDR.de",
+        5
+      ],
+      [
         "Son Dakika",
         5
       ],
@@ -10452,6 +10576,10 @@
       [
         "DW.com",
         3
+      ],
+      [
+        "wdr.de",
+        2
       ],
       [
         "Skift",
@@ -10576,20 +10704,12 @@
       [
         "Südostschweiz",
         2
-      ],
-      [
-        "ArcGIS StoryMaps",
-        2
-      ],
-      [
-        "수산인신문",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        311
+        316
       ],
       [
         "Restoration",
@@ -10635,7 +10755,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        258
+        263
       ],
       [
         "GDELT",
