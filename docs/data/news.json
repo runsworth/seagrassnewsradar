@@ -1,10 +1,59 @@
 {
-  "generated_at": "2026-09-12T09:34:09.465087+00:00",
+  "generated_at": "2026-09-13T10:36:29.492262+00:00",
   "baseline_complete": true,
-  "article_count": 423,
-  "new_today": 5,
+  "article_count": 425,
+  "new_today": 2,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "e8e5658838255a7914",
+      "title": "SSEN SUPPORTS MAJOR SEAGRASS RESTORATION PROJECT ON THE ISLE OF WIGHT - islandecho.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMk5hZUNjenlwTzh4MXhHaHdDNVVqZ19hVnYzNmtuTzN3QkV3UnQ2Nk1rMHZqQ2pCMTMzbHVmdG1LcGREVkdLX2oxZVM4b2pKLUFiSlQ4VHVGR2lPMWZiM1JOeHJEUEJOeWd0bzdGQzktam80cEprQWNzY2VRb3ktUkNraTVYWVF3c0FCdi1jbUlVUy1LNVpLLWY1TXd2Unhy?oc=5",
+      "outlet": "islandecho.co.uk",
+      "domain": "news.google.com",
+      "published_at": "2026-09-12T14:11:57+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "SSEN SUPPORTS MAJOR SEAGRASS RESTORATION PROJECT ON THE ISLE OF WIGHT islandecho.co.uk",
+      "themes": [
+        "Restoration",
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "baseline": false
+    },
+    {
+      "id": "e33f1e852b3263cd2d",
+      "title": "アマモを通して海の環境を学ぶ催し 岡山 瀬戸内 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TT0N3UnAwUTlxUHhOLVJVMHZzLUdXNEpBWnJKLWJ0dURvVTNNdjl4cHBLYmVuRDFpa1otWDdtZG1YOTFTNUlSMjFDczRvbUsxV3p5ZWlYZnc?oc=5",
+      "outlet": "NHKニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-09-12T09:46:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "アマモを通して海の環境を学ぶ催し 岡山 瀬戸内 NHKニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "baseline": false
+    },
     {
       "id": "b16cdea6ec648a1c7a",
       "title": "Seegraswiesen im Wattenmeer sollen wiederbepflanzt werden - NDR.de",
@@ -26,7 +75,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -50,7 +99,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -74,7 +123,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -98,7 +147,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -122,7 +171,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -146,7 +195,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -218,7 +267,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -244,7 +293,7 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -269,7 +318,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -293,7 +342,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -317,7 +366,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -341,7 +390,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -365,7 +414,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -389,7 +438,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -413,7 +462,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -437,7 +486,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -461,7 +510,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -485,7 +534,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -509,7 +558,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -533,7 +582,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -557,7 +606,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -581,7 +630,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -605,7 +654,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -2150,7 +2199,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "baseline": false
     },
     {
@@ -7736,7 +7785,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-09-13",
       "baseline": true
     },
     {
@@ -10239,7 +10288,7 @@
     "languages": [
       [
         "English",
-        142
+        143
       ],
       [
         "German",
@@ -10259,7 +10308,7 @@
       ],
       [
         "Japanese",
-        22
+        23
       ],
       [
         "Italian",
@@ -10320,11 +10369,11 @@
     ],
     "countries": [
       [
-        "DE",
-        49
+        "GB",
+        50
       ],
       [
-        "GB",
+        "DE",
         49
       ],
       [
@@ -10341,7 +10390,7 @@
       ],
       [
         "JP",
-        22
+        23
       ],
       [
         "Italy",
@@ -10709,11 +10758,11 @@
     "themes": [
       [
         "General seagrass news",
-        316
+        317
       ],
       [
         "Restoration",
-        26
+        27
       ],
       [
         "Conservation & policy",
@@ -10733,7 +10782,7 @@
       ],
       [
         "Development & infrastructure",
-        16
+        17
       ],
       [
         "Blue carbon",
@@ -10755,7 +10804,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        263
+        265
       ],
       [
         "GDELT",
