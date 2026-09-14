@@ -1,10 +1,106 @@
 {
-  "generated_at": "2026-09-13T10:36:29.492262+00:00",
+  "generated_at": "2026-09-14T10:58:03.209872+00:00",
   "baseline_complete": true,
-  "article_count": 425,
-  "new_today": 2,
+  "article_count": 429,
+  "new_today": 4,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "8edc509c265800a4f5",
+      "title": "AO PNM की कहानी अल्ट्रा माइक्रो होल्डिंग के साथ समुद्री घास उद्योगपतियों की मदद करती है - VOI.ID",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1yQkNPUVR4NzJkYVRfbWQzVUZtaWFTaHk0TWVqTTdrRkhRNTJtaXFJclRPT1ZyZnlkNFNQMjlYTEFzUW8?oc=5",
+      "outlet": "VOI.ID",
+      "domain": "news.google.com",
+      "published_at": "2026-09-14T01:45:00+00:00",
+      "language": "Hindi",
+      "source_country": "IN",
+      "image": "",
+      "description": "AO PNM की कहानी अल्ट्रा माइक्रो होल्डिंग के साथ समुद्री घास उद्योगपतियों की मदद करती है VOI.ID",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Hindi (IN)",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "baseline": false
+    },
+    {
+      "id": "c8e73f29934076726c",
+      "title": "LG화학 사회공헌 한자리에…라이크그린부터 잘피 복원까지 - 뉴스탭",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qQlBaVkY3TkdpMWFKMzdmUUhRenhvMEpfa0NKMGdKTjgxdndVMXBEbkNmNXRXNVM4QmI3WnYwUUdFTUlHQU5hcUZRQ2hiQUQxTEpVZ1lYbmFTSzJQY21peVBSYlcxOTBRdHR4cg?oc=5",
+      "outlet": "뉴스탭",
+      "domain": "news.google.com",
+      "published_at": "2026-09-14T01:35:45+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "LG화학 사회공헌 한자리에…라이크그린부터 잘피 복원까지 뉴스탭",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "baseline": false
+    },
+    {
+      "id": "09fefb3da5b7113ae1",
+      "title": "Using seagrass to restore health of the Indian River lagoon - Spectrum News 13",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjVyZ2F3cHhySHpycFlaOG4zOGF4SmZ4eWY1VzVMLXNUSDdjRWU1eGE5dDMwZEtTV1J6VmlpWVVSUUFyZE9aQmRHUGVMclNrRFNSbS0xYmEzYkpadF9kUktTUnVYTm1ERGVsYy1Mal9sc2N2MjA2TFA4a3c1QmVibHNCbjdCS2tmc3RGdGNUUlpESVpLbXRHRnFKeUxjMlJBLXJ3YmFTYjhId0k?oc=5",
+      "outlet": "Spectrum News 13",
+      "domain": "news.google.com",
+      "published_at": "2026-09-13T17:51:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Using seagrass to restore health of the Indian River lagoon Spectrum News 13",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "baseline": false
+    },
+    {
+      "id": "fc112b11d081b869b9",
+      "title": "磯焼け解決に小さな一歩 アマモの種採取に初成功〈横須賀市・三浦市〉 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRk9oU180S2tVb21GaVpDVUF5MW5jNHhXZHRVVjZsbkNXZWlPazhqaU5CckwzYWEtcFF4dGd6ejFrVW9JZS1ibDJ2ckVMU2NUSk02NEp5bkxBanhjbmpnVUNTN0Zwcm1xM1NCNXVaT3FINkVibk0xdVZ2TURFem9QY9IBgAFBVV95cUxQRk9oU180S2tVb21GaVpDVUF5MW5jNHhXZHRVVjZsbkNXZWlPazhqaU5CckwzYWEtcFF4dGd6ejFrVW9JZS1ibDJ2ckVMU2NUSk02NEp5bkxBanhjbmpnVUNTN0Zwcm1xM1NCNXVaT3FINkVibk0xdVZ2TURFem9QYw?oc=5",
+      "outlet": "ｄメニューニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-09-13T11:00:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "磯焼け解決に小さな一歩 アマモの種採取に初成功〈横須賀市・三浦市〉 ｄメニューニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "baseline": false
+    },
     {
       "id": "e8e5658838255a7914",
       "title": "SSEN SUPPORTS MAJOR SEAGRASS RESTORATION PROJECT ON THE ISLE OF WIGHT - islandecho.co.uk",
@@ -27,7 +123,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -51,7 +147,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -75,7 +171,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -99,7 +195,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -123,7 +219,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -147,7 +243,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -171,7 +267,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -267,7 +363,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -293,7 +389,7 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -342,7 +438,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -390,7 +486,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -414,7 +510,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -438,7 +534,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -462,7 +558,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -486,7 +582,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -534,7 +630,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -582,7 +678,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -2199,7 +2295,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": false
     },
     {
@@ -7785,7 +7881,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "baseline": true
     },
     {
@@ -10288,7 +10384,7 @@
     "languages": [
       [
         "English",
-        143
+        144
       ],
       [
         "German",
@@ -10308,7 +10404,7 @@
       ],
       [
         "Japanese",
-        23
+        24
       ],
       [
         "Italian",
@@ -10320,7 +10416,7 @@
       ],
       [
         "Korean",
-        10
+        11
       ],
       [
         "Dutch",
@@ -10339,16 +10435,16 @@
         4
       ],
       [
+        "Hindi",
+        3
+      ],
+      [
         "Swahili",
         3
       ],
       [
         "Catalan",
         3
-      ],
-      [
-        "Hindi",
-        2
       ],
       [
         "Greek",
@@ -10370,7 +10466,7 @@
     "countries": [
       [
         "GB",
-        50
+        51
       ],
       [
         "DE",
@@ -10390,7 +10486,7 @@
       ],
       [
         "JP",
-        23
+        24
       ],
       [
         "Italy",
@@ -10405,15 +10501,15 @@
         13
       ],
       [
+        "KR",
+        11
+      ],
+      [
         "China",
         11
       ],
       [
         "Spain",
-        10
-      ],
-      [
-        "KR",
         10
       ],
       [
@@ -10461,12 +10557,12 @@
         4
       ],
       [
-        "KE",
+        "IN",
         3
       ],
       [
-        "IN",
-        2
+        "KE",
+        3
       ],
       [
         "Singapore",
@@ -10627,6 +10723,10 @@
         3
       ],
       [
+        "Spectrum News 13",
+        2
+      ],
+      [
         "wdr.de",
         2
       ],
@@ -10749,20 +10849,16 @@
       [
         "Mallorca Magazin",
         2
-      ],
-      [
-        "Südostschweiz",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        317
+        320
       ],
       [
         "Restoration",
-        27
+        28
       ],
       [
         "Conservation & policy",
@@ -10804,7 +10900,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        265
+        269
       ],
       [
         "GDELT",
