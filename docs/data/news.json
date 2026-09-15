@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-09-14T10:58:03.209872+00:00",
+  "generated_at": "2026-09-15T10:25:36.464710+00:00",
   "baseline_complete": true,
-  "article_count": 429,
-  "new_today": 4,
+  "article_count": 431,
+  "new_today": 2,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "d9d22a93901e925d6e",
+      "title": "Why Cat Parents Are Obsessed With This $18 IKEA Seagrass Basket - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4waGtPOW90MmNMck4zSUFTUnVHZGtMS0lhNmV2cFBBV29nU1k0OFAzLUhKVTJRZjFucXJOR0ViN0VueGRoRmJvdHVyZ2VCRkVtdVoxeUxLTDBNR21BXy1XSTloLV94TC1oOG1iTnU3WXYweVAyb2pHNjFIQQ?oc=5",
+      "outlet": "AOL.com",
+      "domain": "news.google.com",
+      "published_at": "2026-09-14T23:48:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Why Cat Parents Are Obsessed With This $18 IKEA Seagrass Basket AOL.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "baseline": false
+    },
+    {
+      "id": "8f8555366d2fb1b079",
+      "title": "잘피 7만 주 심은 뒤 바다는 어떻게 달라졌나…땡스카본·LG화학 4년의 기록 - 벤처스퀘어",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nX2xsaEFOOWFrLWxQblFCdVp2cjNhUXVmbjZCRlM5Qm02NDYzRG9SajdxWGNCZHg0SEJxeHBTUmFIWnF5U1FTSWl3THB1bGc?oc=5",
+      "outlet": "벤처스퀘어",
+      "domain": "news.google.com",
+      "published_at": "2026-09-14T14:35:27+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "잘피 7만 주 심은 뒤 바다는 어떻게 달라졌나…땡스카본·LG화학 4년의 기록 벤처스퀘어",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "baseline": false
+    },
     {
       "id": "8edc509c265800a4f5",
       "title": "AO PNM की कहानी अल्ट्रा माइक्रो होल्डिंग के साथ समुद्री घास उद्योगपतियों की मदद करती है - VOI.ID",
@@ -26,7 +74,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "baseline": false
     },
     {
@@ -50,7 +98,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "baseline": false
     },
     {
@@ -74,7 +122,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "baseline": false
     },
     {
@@ -98,7 +146,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "baseline": false
     },
     {
@@ -123,7 +171,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "baseline": false
     },
     {
@@ -147,7 +195,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "baseline": false
     },
     {
@@ -171,7 +219,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "baseline": false
     },
     {
@@ -195,7 +243,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "baseline": false
     },
     {
@@ -219,7 +267,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "baseline": false
     },
     {
@@ -243,7 +291,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "baseline": false
     },
     {
@@ -267,7 +315,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "baseline": false
     },
     {
@@ -363,7 +411,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "baseline": false
     },
     {
@@ -414,7 +462,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-15",
       "baseline": false
     },
     {
@@ -2295,7 +2343,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "baseline": false
     },
     {
@@ -10384,7 +10432,7 @@
     "languages": [
       [
         "English",
-        144
+        145
       ],
       [
         "German",
@@ -10416,7 +10464,7 @@
       ],
       [
         "Korean",
-        11
+        12
       ],
       [
         "Dutch",
@@ -10466,7 +10514,7 @@
     "countries": [
       [
         "GB",
-        51
+        52
       ],
       [
         "DE",
@@ -10502,7 +10550,7 @@
       ],
       [
         "KR",
-        11
+        12
       ],
       [
         "China",
@@ -10854,7 +10902,7 @@
     "themes": [
       [
         "General seagrass news",
-        320
+        322
       ],
       [
         "Restoration",
@@ -10900,7 +10948,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        269
+        271
       ],
       [
         "GDELT",
