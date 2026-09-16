@@ -1,10 +1,202 @@
 {
-  "generated_at": "2026-09-15T10:25:36.464710+00:00",
+  "generated_at": "2026-09-16T10:16:43.800415+00:00",
   "baseline_complete": true,
-  "article_count": 431,
-  "new_today": 2,
+  "article_count": 440,
+  "new_today": 9,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "e545e758926b1079a6",
+      "title": "에스제이, 통영·거제 방화섬 해양쓰레기 수거…잘피숲도 복원 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBybnpaOFRNSlZGVGNxekYxV1BXNmEzNDRzczlKdGF3RS1zSmp3MElXbjM0N2lzVG12dnMxNWowajVudTJWdVV5dkJxZjlXeXc?oc=5",
+      "outlet": "v.daum.net",
+      "domain": "news.google.com",
+      "published_at": "2026-09-16T08:17:09+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "에스제이, 통영·거제 방화섬 해양쓰레기 수거…잘피숲도 복원 v.daum.net",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "baseline": false
+    },
+    {
+      "id": "1408101f4c22398256",
+      "title": "에스제이, 해양쓰레기 수거서 ‘잘피이식블록’ 사업까지 확장 - 동아일보",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51LXZ4YkhqOVc4RFBSNjhFR0dNb0E4QklIQUdMc2xqRmhvbmJUaE9FalkxeXp5Z0c0cENZY3pDRDlYVlNnZndHaG5odzhkMEtUa3NCVjlPSnE1Q0N0cU9ZakZRdF9sUdIBZkFVX3lxTE51LXZ4YkhqOVc4RFBSNjhFR0dNb0E4QklIQUdMc2xqRmhvbmJUaE9FalkxeXp5Z0c0cENZY3pDRDlYVlNnZndHaG5odzhkMEtUa3NCVjlPSnE1Q0N0cU9ZakZRdF9sUQ?oc=5",
+      "outlet": "동아일보",
+      "domain": "news.google.com",
+      "published_at": "2026-09-16T08:12:36+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "에스제이, 해양쓰레기 수거서 ‘잘피이식블록’ 사업까지 확장 동아일보",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "baseline": false
+    },
+    {
+      "id": "295101c5254df8d225",
+      "title": "방화섬 해양쓰레기 수거부터 잘피숲 복원까지…에스제이㈜, 해양환경 활동 확대 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKQXVyOWJydUJZX0oxQWZCR1VOTW9jYU9HMXpHbERWektvbzdMQmZsd0czcm9fR1R0QmN4TGZKNFRsdE16ckwycXF0NGNLS3c?oc=5",
+      "outlet": "v.daum.net",
+      "domain": "news.google.com",
+      "published_at": "2026-09-16T07:56:10+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "방화섬 해양쓰레기 수거부터 잘피숲 복원까지…에스제이㈜, 해양환경 활동 확대 v.daum.net",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "baseline": false
+    },
+    {
+      "id": "a090f8db8267c9a131",
+      "title": "에스제이㈜, 통영 방화섬서 해양쓰레기 수거… 잘피숲 복원 연계 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9fUGxyUk16S1F0bDkyY3I3OU9YWUhwVWNVRmxmckR2MEw2ekZ2VF9ObV92RFZneG54SzJFNUh4c3pZUC1GMlE?oc=5",
+      "outlet": "매일경제",
+      "domain": "news.google.com",
+      "published_at": "2026-09-16T07:10:24+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "에스제이㈜, 통영 방화섬서 해양쓰레기 수거… 잘피숲 복원 연계 매일경제",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "baseline": false
+    },
+    {
+      "id": "58ddb569bd4b1a48fb",
+      "title": "땡스카본-LG화학, 사회적가치 페스타서 4년 잘피 복원 성과 공개 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4TXV4cjZ6VzZ3dThiSnZndHdDanBpSzZqUHlYVkRZNVE4eEJXY1JlMWdBbnF2TFJJa0ZtWW93b1NpN3FIcjhPbk5tQ3NUdWhPUGl3MWU0Y2Q0VXNON1hj?oc=5",
+      "outlet": "헬로티",
+      "domain": "news.google.com",
+      "published_at": "2026-09-16T03:28:06+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "땡스카본-LG화학, 사회적가치 페스타서 4년 잘피 복원 성과 공개 헬로티",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "baseline": false
+    },
+    {
+      "id": "3fe469032bc6d8c3a0",
+      "title": "Study will determine if warmer waters are stressing seagrass in Old Tampa Bay - Spectrum Bay News 9",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXpoeHBIRk5kdUgyTjlRU2E4aG5NejZCUEE2azNacnF2RXQ4RGQ1Y28tdVhLV281b2NFdGpQX2Vnc3JxUkFKRUkzNkd5U3JhV0VYSEVONllPOHB0NEhSa25DLW1Wd2ZOb1VYOHRHSWE3b2U2ajR1QjNXcVBZZ0NtblVVdGcwbl9EOVAyN1FzdXdfZ1ctVU1LTUxPM1owTUEwU241d01qMUNmWE1tanFzb1Q0Nkd4RWZQa3BualhtWFY?oc=5",
+      "outlet": "Spectrum Bay News 9",
+      "domain": "news.google.com",
+      "published_at": "2026-09-15T23:15:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Study will determine if warmer waters are stressing seagrass in Old Tampa Bay Spectrum Bay News 9",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "baseline": false
+    },
+    {
+      "id": "5bfb0c39a66c346552",
+      "title": "잘피 7만 주 심은 뒤 바다는 어떻게 달라졌나…땡스카본·LG화학 4년 성과 공개 - 뉴스탭",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rTmh4V1lXbWtjMy0wcHhWZi1FQVlXQllLZTVkME1ZU1N3OUh2amNMVjMtNkkwOVJNNFA3ajU5aGpLdkE0eUZrRmFlZFdGYnl0R0JJX0F4VFlJWU9MRjdCWS1GUDR4RklMUFdHdw?oc=5",
+      "outlet": "뉴스탭",
+      "domain": "news.google.com",
+      "published_at": "2026-09-15T23:11:55+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "잘피 7만 주 심은 뒤 바다는 어떻게 달라졌나…땡스카본·LG화학 4년 성과 공개 뉴스탭",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "baseline": false
+    },
+    {
+      "id": "0b80c88bb107f4bfa0",
+      "title": "여수 앞바다 잘피 4년 복원…해양생물 다시 돌아왔다 - 한경매거진&북",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CUVpDaU5BSHBKNWxVLVB0SmZlX2tDWjd1aExJTkE2RFNkTktfdzJGR2F6QmFnZ0VRdmtsTVdTLW1XcWR4V0pwREMxVjdrVWIybTVzb3pjWlRXMmE0TlFQekJZOWJ4WWN4SDJfOA?oc=5",
+      "outlet": "한경매거진&북",
+      "domain": "news.google.com",
+      "published_at": "2026-09-15T00:07:00+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "여수 앞바다 잘피 4년 복원…해양생물 다시 돌아왔다 한경매거진&북",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "baseline": false
+    },
     {
       "id": "d9d22a93901e925d6e",
       "title": "Why Cat Parents Are Obsessed With This $18 IKEA Seagrass Basket - AOL.com",
@@ -30,6 +222,30 @@
       "baseline": false
     },
     {
+      "id": "2db932c58819dc3c91",
+      "title": "The $18 IKEA Seagrass Basket That's Accidentally Become the Coziest Cat Bed on the Internet - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONWlId0R5ZWJ0Z1RZVEpHR05BaDk5OTZXVDJzMUdZb0d1akFwamFKMERpdDBUNzR5UldXbFdtUHYzSUFJdkhlN2NxQzh6VGE2eXlxYzh1NXZfYU9QY3JEeEYxVHJXVWpTeHptelllMHRrMnFueHlqZy1MMlFiTG1La1ctVGVvNVAxLW9EcW4xWUdLMXU2OWdRaHp0dnp1M3JIb2dBNk93?oc=5",
+      "outlet": "Yahoo",
+      "domain": "news.google.com",
+      "published_at": "2026-09-14T23:48:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "The $18 IKEA Seagrass Basket That's Accidentally Become the Coziest Cat Bed on the Internet Yahoo",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "baseline": false
+    },
+    {
       "id": "8f8555366d2fb1b079",
       "title": "잘피 7만 주 심은 뒤 바다는 어떻게 달라졌나…땡스카본·LG화학 4년의 기록 - 벤처스퀘어",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nX2xsaEFOOWFrLWxQblFCdVp2cjNhUXVmbjZCRlM5Qm02NDYzRG9SajdxWGNCZHg0SEJxeHBTUmFIWnF5U1FTSWl3THB1bGc?oc=5",
@@ -50,7 +266,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-15",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "baseline": false
     },
     {
@@ -74,7 +290,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "baseline": false
     },
     {
@@ -98,7 +314,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "baseline": false
     },
     {
@@ -122,7 +338,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "baseline": false
     },
     {
@@ -146,7 +362,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "baseline": false
     },
     {
@@ -171,7 +387,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "baseline": false
     },
     {
@@ -195,7 +411,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "baseline": false
     },
     {
@@ -219,7 +435,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "baseline": false
     },
     {
@@ -243,7 +459,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "baseline": false
     },
     {
@@ -267,7 +483,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "baseline": false
     },
     {
@@ -291,7 +507,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "baseline": false
     },
     {
@@ -10157,7 +10373,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-09-16",
       "baseline": true
     },
     {
@@ -10432,7 +10648,7 @@
     "languages": [
       [
         "English",
-        145
+        147
       ],
       [
         "German",
@@ -10459,12 +10675,12 @@
         20
       ],
       [
-        "Spanish",
-        18
+        "Korean",
+        19
       ],
       [
-        "Korean",
-        12
+        "Spanish",
+        18
       ],
       [
         "Dutch",
@@ -10514,7 +10730,7 @@
     "countries": [
       [
         "GB",
-        52
+        54
       ],
       [
         "DE",
@@ -10537,6 +10753,10 @@
         24
       ],
       [
+        "KR",
+        19
+      ],
+      [
         "Italy",
         14
       ],
@@ -10547,10 +10767,6 @@
       [
         "CN",
         13
-      ],
-      [
-        "KR",
-        12
       ],
       [
         "China",
@@ -10771,6 +10987,14 @@
         3
       ],
       [
+        "v.daum.net",
+        2
+      ],
+      [
+        "뉴스탭",
+        2
+      ],
+      [
         "Spectrum News 13",
         2
       ],
@@ -10889,32 +11113,24 @@
       [
         "italpress.com",
         2
-      ],
-      [
-        "dagbladet.no",
-        2
-      ],
-      [
-        "Mallorca Magazin",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        322
+        330
       ],
       [
         "Restoration",
         28
       ],
       [
-        "Conservation & policy",
+        "Science & discovery",
         25
       ],
       [
-        "Science & discovery",
-        24
+        "Conservation & policy",
+        25
       ],
       [
         "Wildlife & biodiversity",
@@ -10948,7 +11164,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        271
+        280
       ],
       [
         "GDELT",
