@@ -1,10 +1,130 @@
 {
-  "generated_at": "2026-09-16T10:16:43.800415+00:00",
+  "generated_at": "2026-09-17T10:24:42.343418+00:00",
   "baseline_complete": true,
-  "article_count": 440,
-  "new_today": 9,
+  "article_count": 445,
+  "new_today": 5,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "551a6b48ef2e7aea77",
+      "title": "Richardson Bay agency accepts $5 million in grants for debris, eelgrass work - The Ark newspaper",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbHhmRzlrclFNQm1uU3pUNUd2WUR2Nm5rb2lEYmpOR2NKS25uTHZSdmZsUVp0T2ZpZjh0MzNFQ295Uk9adDV4ZFpYaFFKbldZbHc5UmRIcXZPQ1lsaG85cHNjN2F4SmRGLVA1QmIyaWN2YkFKWHI2UVYtcmVoUlNTODFiYWZzZVFfMUJBUFFrM1FFbHlUeVdTZFNUeG9RQ1YtTk5DSDBqYi1aZlU5U05UaA?oc=5",
+      "outlet": "The Ark newspaper",
+      "domain": "news.google.com",
+      "published_at": "2026-09-17T01:15:30+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Richardson Bay agency accepts $5 million in grants for debris, eelgrass work The Ark newspaper",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "baseline": false
+    },
+    {
+      "id": "b3daf153eb010c8e36",
+      "title": "Hoe het zeegras wordt teruggebracht in Zeeland - NEMO Kennislink",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHdoTmI5eTdCNGhRcDdkdklkWWdtT2tBRGNZdjQ1RlExc2ZmY2NibFl1V1BzQ0pBQmFhNGVzNl9XbDE1dm83UWpVUWtsb3NKQjBTOUFCWTlPTGgzZEYwNnJsUlBPcVhUVU5sb3JGbllOajdDWjBRUlBmX3YydXdQWUFtTGpESWNOUjBGVmo1QjlaTGc?oc=5",
+      "outlet": "NEMO Kennislink",
+      "domain": "news.google.com",
+      "published_at": "2026-09-16T15:44:05+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Hoe het zeegras wordt teruggebracht in Zeeland NEMO Kennislink",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "baseline": false
+    },
+    {
+      "id": "03e11a5ab0a3e5c637",
+      "title": "Lübeck: Schüler gewinnen mit Seegras-Idee für Meeresschutzstadt - Lübecker Nachrichten",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc3dMLURFVVVPZFl1RDJ1ajZaS0s1RDRqSFRobUVsY004aWx4aTFwY0p5RTlsU2lzZlJJM1JBdWxNbDRBNU5mNGhGUnBKdTFiaVZzUVdfUEJaMDROYjRQeWRrOUNkT0JxQWdGMks0bV95VjdveFhQbVpmajVZdzBwRUFrLWJyTjJBWEtrSEdVSDdTMEYwOGc0aVVPUXFrMVF6Qkp2ZVM3NnAydUJIN3UwMEhGS0tVMHhnNHo5Tm1lUU1WZG92U1c5YVlXS2RyQnFqQm50eNIB8AFBVV95cUxNTU9XRlVWM1p0OVJBekpYck80UXJwMzRiY01wcDFoTDdaR1ppMTc2V1lpdVRXTFYycm9lajRTM0JCSzI4NkdiSlZEQXFtLTBMRGJHMGZwNFE2blZFQTZoMDY2YUxIMnIydU04cTlxLTJzeXBOYTh2X1FfZmhpMGJnWm91NWQ1bW00b1g5NGdxRmlIdWtMVzN1YzlicjcwU1pVUnZlUktwSElwc1c3N0tRbkZpNnJpN3o3MkdOeDgzbnd1bjFvTE1ZbU9iSlpjUno2N2RzbzZYVlJXUU1FNnYxVFZxcEtWei1JR0EzUWtUVk4?oc=5",
+      "outlet": "Lübecker Nachrichten",
+      "domain": "news.google.com",
+      "published_at": "2026-09-16T15:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Lübeck: Schüler gewinnen mit Seegras-Idee für Meeresschutzstadt Lübecker Nachrichten",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "baseline": false
+    },
+    {
+      "id": "5ec5bf56f95e56eefe",
+      "title": "Neue Methode zur Seegrasansiedlung wird vor Usedom erprobt - NDR.de",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUWNjcGEwaFZLM2N6Tjl4NmNmTmI4WU52cHRrak5lNEZ0ZWFNRWNNUVY2cTFpTmZxNko2eVgxdEZiN0duWmdmOUw1b0ZaTmNuaUgyUWxnZzFiOFdsanc3OFU2THFRalhpS0w0ZUVWZEY1Z1ZVSEdKV0lCYzBJdGdTdFJZLUluTnd5UGJfSUYxV2dveUo5SVNOTGJHZVZrZ2E4eEhjYUxkbjF1SEF6TnhnZ3BFOUw2TVRFMWpTU1hlVmw0VlZpQWhfTXZENjV0Q2pMMnI5SFA4UEttQi1wTlZSeFVTY0pLQQ?oc=5",
+      "outlet": "NDR.de",
+      "domain": "news.google.com",
+      "published_at": "2026-09-16T13:54:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Neue Methode zur Seegrasansiedlung wird vor Usedom erprobt NDR.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "baseline": false
+    },
+    {
+      "id": "a048acd47b11c25362",
+      "title": "Saving Maine's Eelgrass Meadows - FWS.gov",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zTFlhd3l5Y3JyR2w0NWdybkwxYnJkT2k0cmtoUkZRV19OT3B3ZjR0VGlmc3Z6UHNkNXV4cHhydjg4eTdyT1ZVa3gySWY3LVdZVDNNZ2NoV2tYUXBIb0ZPSUU3UW9WZld5a1E0LUlGNHd1Zw?oc=5",
+      "outlet": "FWS.gov",
+      "domain": "news.google.com",
+      "published_at": "2026-09-16T12:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Saving Maine's Eelgrass Meadows FWS.gov",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "baseline": false
+    },
     {
       "id": "e545e758926b1079a6",
       "title": "에스제이, 통영·거제 방화섬 해양쓰레기 수거…잘피숲도 복원 - v.daum.net",
@@ -26,7 +146,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "baseline": false
     },
     {
@@ -50,7 +170,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "baseline": false
     },
     {
@@ -74,7 +194,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "baseline": false
     },
     {
@@ -98,7 +218,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "baseline": false
     },
     {
@@ -122,7 +242,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "baseline": false
     },
     {
@@ -146,7 +266,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "baseline": false
     },
     {
@@ -170,7 +290,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "baseline": false
     },
     {
@@ -194,7 +314,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "baseline": false
     },
     {
@@ -266,7 +386,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-15",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "baseline": false
     },
     {
@@ -290,7 +410,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "baseline": false
     },
     {
@@ -314,7 +434,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "baseline": false
     },
     {
@@ -338,7 +458,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "baseline": false
     },
     {
@@ -362,7 +482,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "baseline": false
     },
     {
@@ -387,7 +507,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "baseline": false
     },
     {
@@ -10648,11 +10768,11 @@
     "languages": [
       [
         "English",
-        147
+        149
       ],
       [
         "German",
-        49
+        51
       ],
       [
         "Turkish",
@@ -10684,7 +10804,7 @@
       ],
       [
         "Dutch",
-        9
+        10
       ],
       [
         "Thai",
@@ -10730,11 +10850,11 @@
     "countries": [
       [
         "GB",
-        54
+        56
       ],
       [
         "DE",
-        49
+        51
       ],
       [
         "TR",
@@ -10773,12 +10893,12 @@
         11
       ],
       [
-        "Spain",
+        "NL",
         10
       ],
       [
-        "NL",
-        9
+        "Spain",
+        10
       ],
       [
         "US",
@@ -10920,7 +11040,7 @@
       ],
       [
         "NDR.de",
-        5
+        6
       ],
       [
         "Son Dakika",
@@ -10985,6 +11105,10 @@
       [
         "DW.com",
         3
+      ],
+      [
+        "The Ark newspaper",
+        2
       ],
       [
         "v.daum.net",
@@ -11109,27 +11233,23 @@
       [
         "islands.com",
         2
-      ],
-      [
-        "italpress.com",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        330
+        334
       ],
       [
         "Restoration",
         28
       ],
       [
-        "Science & discovery",
-        25
+        "Conservation & policy",
+        26
       ],
       [
-        "Conservation & policy",
+        "Science & discovery",
         25
       ],
       [
@@ -11164,7 +11284,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        280
+        285
       ],
       [
         "GDELT",
