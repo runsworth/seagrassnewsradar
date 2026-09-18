@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-09-17T10:24:42.343418+00:00",
+  "generated_at": "2026-09-18T10:02:28.666408+00:00",
   "baseline_complete": true,
-  "article_count": 445,
-  "new_today": 5,
+  "article_count": 447,
+  "new_today": 2,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "ea8caca32b2612145c",
+      "title": "闪电海报丨最大鳗草海草床为何出现在唐岛湾？ - 闪电新闻",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2WTFkOHo0SG5BenFsTVh0RjByQ1NUb2VfQ2RuamRYMkw3YlNSWVRaUVZDdElHMHJja3VFOHFrU3VNbXVNenVCYzZ0Y2dJMy02ZHFPdXRINXdLeGhjZ0lsZE9B?oc=5",
+      "outlet": "闪电新闻",
+      "domain": "news.google.com",
+      "published_at": "2026-09-18T01:21:00+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "闪电海报丨最大鳗草海草床为何出现在唐岛湾？ 闪电新闻",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "baseline": false
+    },
     {
       "id": "551a6b48ef2e7aea77",
       "title": "Richardson Bay agency accepts $5 million in grants for debris, eelgrass work - The Ark newspaper",
@@ -50,7 +74,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -74,7 +98,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -98,7 +122,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -122,7 +146,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -146,7 +170,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -170,7 +194,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -194,7 +218,31 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
+      "baseline": false
+    },
+    {
+      "id": "6f091cf24fae78401c",
+      "title": "Seegraswiesen für die Ostsee - Informationsdienst Wissenschaft",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yLW9CSEFHLXl2V3lGdDN4bmVUV0hiMmpadGF4UmlZd0NZM3c1aE56YWZOdEJsNEdhVkF3WHdPOEswNDh4Ti1xTjNxZ2VQMFlnVzhmbGkzci1zRS0wdnlvcnBHdzA2MVhmMlhvVEpSdkZmcjA4em5hYWtFekVqRE0?oc=5",
+      "outlet": "Informationsdienst Wissenschaft",
+      "domain": "news.google.com",
+      "published_at": "2026-09-16T07:52:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegraswiesen für die Ostsee Informationsdienst Wissenschaft",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -218,7 +266,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -242,7 +290,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -266,7 +314,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -290,7 +338,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -314,7 +362,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -386,7 +434,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-15",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -410,7 +458,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -434,7 +482,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -458,7 +506,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -482,7 +530,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "baseline": false
     },
     {
@@ -10772,7 +10820,7 @@
       ],
       [
         "German",
-        51
+        52
       ],
       [
         "Turkish",
@@ -10784,7 +10832,7 @@
       ],
       [
         "Chinese",
-        25
+        26
       ],
       [
         "Japanese",
@@ -10854,7 +10902,7 @@
       ],
       [
         "DE",
-        51
+        52
       ],
       [
         "TR",
@@ -10877,15 +10925,15 @@
         19
       ],
       [
+        "CN",
+        14
+      ],
+      [
         "Italy",
         14
       ],
       [
         "ID",
-        13
-      ],
-      [
-        "CN",
         13
       ],
       [
@@ -11238,7 +11286,7 @@
     "themes": [
       [
         "General seagrass news",
-        334
+        336
       ],
       [
         "Restoration",
@@ -11284,7 +11332,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        285
+        287
       ],
       [
         "GDELT",
