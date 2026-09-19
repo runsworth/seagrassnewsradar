@@ -1,10 +1,59 @@
 {
-  "generated_at": "2026-09-18T10:02:28.666408+00:00",
+  "generated_at": "2026-09-19T09:42:27.779216+00:00",
   "baseline_complete": true,
-  "article_count": 447,
-  "new_today": 2,
+  "article_count": 451,
+  "new_today": 4,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "075a40ae4f98f98c3b",
+      "title": "Seagrass species recorded in Coron village proposed for marine protection - Palawan News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjlRNHhtaU4wTXF0X3ptZUl2UTdodXg4dHhzYWwtU3ZiSHJDNlVpNUZuYVJHTHhTVmQyLWg5cXFwLUV0am55U0pLbnRtSmNtYkJtRGhQTDhuSUlSbHN4MlRMU1pia2J4ZUFvWUxQaEtzY09TaEtaX0thUHBQT2xMQzhlRjdQXzI2RnhUeFBub3l5anlYc3ZRbU82cXNibDd3?oc=5",
+      "outlet": "Palawan News",
+      "domain": "news.google.com",
+      "published_at": "2026-09-19T01:20:44+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass species recorded in Coron village proposed for marine protection Palawan News",
+      "themes": [
+        "Conservation & policy",
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "baseline": false
+    },
+    {
+      "id": "381ec5451a372bfa36",
+      "title": "Exploring Eelgrass Ecosystems with WLW-ECOS Extern Chrishera Smith in the Pacific Northwest - Florida Atlantic University",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcnBveUc5aWF0cVlsUnoydHE5OFlzOFlobi1ZQzV4NnF1TDdBNnhLTGVGRmNMbkM1YTF4d1ktT1J3THVzU1ZsVF9jUG1tczdxX09IRTBCOTc3c0xTLU9QQ3lQaEV0ZDJjVG1QQ2ZyNlhmTTBudDN0UzZWZHpUTnRzNWNKVlpqQQ?oc=5",
+      "outlet": "Florida Atlantic University",
+      "domain": "news.google.com",
+      "published_at": "2026-09-18T18:56:06+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Exploring Eelgrass Ecosystems with WLW-ECOS Extern Chrishera Smith in the Pacific Northwest Florida Atlantic University",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "baseline": false
+    },
     {
       "id": "ea8caca32b2612145c",
       "title": "闪电海报丨最大鳗草海草床为何出现在唐岛湾？ - 闪电新闻",
@@ -74,7 +123,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "baseline": false
     },
     {
@@ -122,7 +171,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "baseline": false
     },
     {
@@ -170,7 +219,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "baseline": false
     },
     {
@@ -194,7 +243,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "baseline": false
     },
     {
@@ -218,7 +267,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "baseline": false
     },
     {
@@ -266,7 +315,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "baseline": false
     },
     {
@@ -290,7 +339,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "baseline": false
     },
     {
@@ -314,7 +363,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "baseline": false
     },
     {
@@ -338,7 +387,31 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
+      "baseline": false
+    },
+    {
+      "id": "4ff02fee13290ef273",
+      "title": "phục hồi thảm cỏ biển - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zbGxrMkxrNDAxZVFtb2JPakRlOGJhaU9VQk02TEx1dkV0NExDN3R1RE9tUXVKdHdBbk1wSTNRY0FQLWJycENHb3ZsWE51Q1l5MTloY0N2bV9LWVdI?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-09-15T16:59:32+00:00",
+      "language": "Vietnamese",
+      "source_country": "VN",
+      "image": "",
+      "description": "phục hồi thảm cỏ biển Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Vietnamese (VN)",
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
       "baseline": false
     },
     {
@@ -362,7 +435,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "baseline": false
     },
     {
@@ -414,6 +487,30 @@
       "baseline": false
     },
     {
+      "id": "52b6f34dbdaf47667e",
+      "title": "\"4년간 복원한 여수 바다, 잘피가 만든 변화\" 땡스카본-LG화학, ‘대한민국 사회적가치 페스타 2026’ 참여 - 매드클럽",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aTE8tYW5sdkpNYjBxYjhTYTM5VE9aRGlSNUZ4ZTBjZFNlTVRpSjhaVm1XaTU0OW9xZmVhT3pHLVZ2cEpnODROYUtQaVJodjlvR2VoRERFVGQtTlZ1eXZhR3hVUzZhU055Y3c?oc=5",
+      "outlet": "매드클럽",
+      "domain": "news.google.com",
+      "published_at": "2026-09-14T23:31:47+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "\"4년간 복원한 여수 바다, 잘피가 만든 변화\" 땡스카본-LG화학, ‘대한민국 사회적가치 페스타 2026’ 참여 매드클럽",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "baseline": false
+    },
+    {
       "id": "8f8555366d2fb1b079",
       "title": "잘피 7만 주 심은 뒤 바다는 어떻게 달라졌나…땡스카본·LG화학 4년의 기록 - 벤처스퀘어",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nX2xsaEFOOWFrLWxQblFCdVp2cjNhUXVmbjZCRlM5Qm02NDYzRG9SajdxWGNCZHg0SEJxeHBTUmFIWnF5U1FTSWl3THB1bGc?oc=5",
@@ -458,7 +555,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "baseline": false
     },
     {
@@ -10816,7 +10913,7 @@
     "languages": [
       [
         "English",
-        149
+        151
       ],
       [
         "German",
@@ -10839,12 +10936,12 @@
         24
       ],
       [
-        "Italian",
+        "Korean",
         20
       ],
       [
-        "Korean",
-        19
+        "Italian",
+        20
       ],
       [
         "Spanish",
@@ -10879,6 +10976,10 @@
         3
       ],
       [
+        "Vietnamese",
+        2
+      ],
+      [
         "Greek",
         2
       ],
@@ -10889,16 +10990,12 @@
       [
         "Norwegian",
         2
-      ],
-      [
-        "Vietnamese",
-        1
       ]
     ],
     "countries": [
       [
         "GB",
-        56
+        58
       ],
       [
         "DE",
@@ -10922,7 +11019,7 @@
       ],
       [
         "KR",
-        19
+        20
       ],
       [
         "CN",
@@ -10995,6 +11092,10 @@
       [
         "KE",
         3
+      ],
+      [
+        "VN",
+        2
       ],
       [
         "Singapore",
@@ -11070,10 +11171,6 @@
       ],
       [
         "Philippines",
-        1
-      ],
-      [
-        "VN",
         1
       ],
       [
@@ -11153,6 +11250,10 @@
       [
         "DW.com",
         3
+      ],
+      [
+        "Florida Atlantic University",
+        2
       ],
       [
         "The Ark newspaper",
@@ -11277,16 +11378,12 @@
       [
         "Scinexx",
         2
-      ],
-      [
-        "islands.com",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        336
+        338
       ],
       [
         "Restoration",
@@ -11294,15 +11391,15 @@
       ],
       [
         "Conservation & policy",
-        26
+        27
       ],
       [
         "Science & discovery",
-        25
+        26
       ],
       [
         "Wildlife & biodiversity",
-        19
+        20
       ],
       [
         "Climate & heat",
@@ -11332,7 +11429,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        287
+        291
       ],
       [
         "GDELT",
