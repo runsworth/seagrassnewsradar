@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-09-19T09:42:27.779216+00:00",
+  "generated_at": "2026-09-20T10:05:30.004423+00:00",
   "baseline_complete": true,
-  "article_count": 451,
+  "article_count": 455,
   "new_today": 4,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "a9fee3a63d84b66df2",
+      "title": "🐠Vous souhaitez en savoir plus sur les herbiers marins ? Rendez-vous ce jeudi 24 septembre de 11h à 16h sur le front de mer. Le jeune collectif Seagrass Guards, venu d'Allemagne, vous attend nombreux pour échanger sur la richesse de la Posidonie et les - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNW1ta1dRbm50R0VCNkkwVVVmMjlQWGVtVjNMTjZob3pTUHR1WGJ0R0dyb1VoMGVZWmk0YjFJNFE1R2JVWWdvMlNUVnlLTnBOVlJHMDBINzJZeU5oamRQOWJ2TkVFaDRnb0Frclk4bGM3T3IwTXlPQ0xEY1lSc1FiZmM0TW1pOFRPdjJGaG4zMElaajFSN0wzcWxNWWVsY3lZUGxnQWlJamJGSXdCeUJHVVJoeHVRTGlPWFBBRTlvLTlKY1ctWW1YXzBLR3ZtZjI4cEdkTDBaYkUyTFhZTWc?oc=5",
+      "outlet": "facebook.com",
+      "domain": "news.google.com",
+      "published_at": "2026-09-20T07:00:53+00:00",
+      "language": "French",
+      "source_country": "FR",
+      "image": "",
+      "description": "🐠Vous souhaitez en savoir plus sur les herbiers marins ? Rendez-vous ce jeudi 24 septembre de 11h à 16h sur le front de mer. Le jeune collectif Seagrass Guards, venu d'Allemagne, vous attend nombreux pour échanger sur la richesse de la Posidonie et les facebook.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News French (FR)",
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "baseline": false
+    },
+    {
+      "id": "62f9f521601a629399",
+      "title": "Hobby Lobby's $10 Seagrass Pet Toy Basket: A Stylish Solution for Pet Clutter - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyZWJaWTNBNFdXeEs5aU9IRml6WHY5RWVKeGM4Z2R6cG9ZVUdjdHgxeWJRRzlzUWRNUkc4RGlEUUlWbTVWTExrVERNREp5X2VTbUpiTGhBUmNjQU5tNF9hOXRETDFyeUpDX05WWXpqV29SUm44anlGeFNWR3I?oc=5",
+      "outlet": "AOL.com",
+      "domain": "news.google.com",
+      "published_at": "2026-09-19T22:30:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Hobby Lobby's $10 Seagrass Pet Toy Basket: A Stylish Solution for Pet Clutter AOL.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "baseline": false
+    },
+    {
+      "id": "9d4adf2826aaaa526b",
+      "title": "走进深蓝丨东营已修复575公顷的盐地碱蓬和50公顷的海草床 - 闪电新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90bnVydDBFVVIyR2ItMTBLX2tvZTRmQ2NLVW9jZGkzSmRRaFI5UXBsLXJKMW1zOWduVWhvNURxYjVnZzd3WXdFMTFoRWpCTERnWUI1R1V6MHcwTUxuUU9XMjZtR0pTdnM?oc=5",
+      "outlet": "闪电新闻",
+      "domain": "news.google.com",
+      "published_at": "2026-09-19T10:15:00+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "走进深蓝丨东营已修复575公顷的盐地碱蓬和50公顷的海草床 闪电新闻",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "baseline": false
+    },
     {
       "id": "075a40ae4f98f98c3b",
       "title": "Seagrass species recorded in Coron village proposed for marine protection - Palawan News",
@@ -31,6 +103,30 @@
       "baseline": false
     },
     {
+      "id": "8fc8fb412a16cd1eca",
+      "title": "BRIDA Kaltim dan mitra kembangkan riset restorasi lamun - ANTARA News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON1Q3Vm9LUnhhMmI2enBKbmpIaGxpcm5YYWtHU1ZTYnJOd0hTWFY4bzNZVGwzV2NqOF9YVFVVaUVzVFhtYmhDNTFKZEROcTRvczYyWW1YQ2t3TUl1a19kQWhKSnhtT1plVlRkOVZ6M2hSN0x6blFreVRVQnZtdTFxVjdTaTY2c2FpZ3lhaW1XcHJ3MDlqRWNzNUJzckRLWTRfVDFOUkNTV0d4TVdoaG03T2ZuX2lQMWNvTkZaVnZVMA?oc=5",
+      "outlet": "ANTARA News",
+      "domain": "news.google.com",
+      "published_at": "2026-09-19T00:41:41+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "BRIDA Kaltim dan mitra kembangkan riset restorasi lamun ANTARA News",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "baseline": false
+    },
+    {
       "id": "381ec5451a372bfa36",
       "title": "Exploring Eelgrass Ecosystems with WLW-ECOS Extern Chrishera Smith in the Pacific Northwest - Florida Atlantic University",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcnBveUc5aWF0cVlsUnoydHE5OFlzOFlobi1ZQzV4NnF1TDdBNnhLTGVGRmNMbkM1YTF4d1ktT1J3THVzU1ZsVF9jUG1tczdxX09IRTBCOTc3c0xTLU9QQ3lQaEV0ZDJjVG1QQ2ZyNlhmTTBudDN0UzZWZHpUTnRzNWNKVlpqQQ?oc=5",
@@ -51,7 +147,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "baseline": false
     },
     {
@@ -123,7 +219,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "baseline": false
     },
     {
@@ -147,7 +243,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-20",
       "baseline": false
     },
     {
@@ -171,7 +267,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "baseline": false
     },
     {
@@ -219,7 +315,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "baseline": false
     },
     {
@@ -243,7 +339,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "baseline": false
     },
     {
@@ -267,7 +363,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "baseline": false
     },
     {
@@ -315,7 +411,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "baseline": false
     },
     {
@@ -339,7 +435,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "baseline": false
     },
     {
@@ -363,7 +459,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "baseline": false
     },
     {
@@ -387,7 +483,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "baseline": false
     },
     {
@@ -411,7 +507,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "baseline": false
     },
     {
@@ -10913,23 +11009,23 @@
     "languages": [
       [
         "English",
-        151
+        152
       ],
       [
         "German",
         52
       ],
       [
+        "Indonesian",
+        49
+      ],
+      [
         "Turkish",
         49
       ],
       [
-        "Indonesian",
-        48
-      ],
-      [
         "Chinese",
-        26
+        27
       ],
       [
         "Japanese",
@@ -10990,12 +11086,16 @@
       [
         "Norwegian",
         2
+      ],
+      [
+        "French",
+        1
       ]
     ],
     "countries": [
       [
         "GB",
-        58
+        59
       ],
       [
         "DE",
@@ -11023,15 +11123,15 @@
       ],
       [
         "CN",
+        15
+      ],
+      [
+        "ID",
         14
       ],
       [
         "Italy",
         14
-      ],
-      [
-        "ID",
-        13
       ],
       [
         "China",
@@ -11120,6 +11220,10 @@
       [
         "Norway",
         2
+      ],
+      [
+        "FR",
+        1
       ],
       [
         "Canada",
@@ -11252,6 +11356,18 @@
         3
       ],
       [
+        "AOL.com",
+        2
+      ],
+      [
+        "闪电新闻",
+        2
+      ],
+      [
+        "ANTARA News",
+        2
+      ],
+      [
         "Florida Atlantic University",
         2
       ],
@@ -11366,28 +11482,16 @@
       [
         "wflx.com",
         2
-      ],
-      [
-        "PR TIMES",
-        2
-      ],
-      [
-        "Kompas.com",
-        2
-      ],
-      [
-        "Scinexx",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        338
+        341
       ],
       [
         "Restoration",
-        28
+        29
       ],
       [
         "Conservation & policy",
@@ -11429,7 +11533,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        291
+        295
       ],
       [
         "GDELT",
