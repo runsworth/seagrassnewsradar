@@ -1,10 +1,396 @@
 {
-  "generated_at": "2026-09-21T11:05:13.109044+00:00",
+  "generated_at": "2026-09-22T10:18:50.359548+00:00",
   "baseline_complete": true,
-  "article_count": 461,
-  "new_today": 6,
+  "article_count": 481,
+  "new_today": 20,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "9a9d07484520089ee7",
+      "title": "BNP Paribas AM dan UOB Indonesia Lanjutkan Dana Sosial Rp 2 Miliar , Ini Programnya",
+      "url": "https://keuangan.kontan.co.id/news/bnp-paribas-am-dan-uob-indonesia-lanjutkan-dana-sosial-rp-2-miliar-ini-programnya",
+      "outlet": "keuangan.kontan.co.id",
+      "domain": "keuangan.kontan.co.id",
+      "published_at": "2026-09-22T08:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://foto.kontan.co.id/65rtZ8xCANDri8_H7Kx3boBdbQE=/smart/2025/01/17/147412396p.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "b6e09d96fba529d76a",
+      "title": "Walmart’s ‘Gorgeous’ Woven Seagrass Basket Set With Pottery Barn Vibes Contains Clutter for Under $25 - parade.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0JwX01XRW9qVmR5WDhDcjZBVjE4NGtZaW1CS05NLWJ3c0ZPbS12eTgxeTk4WlBMNHV0dGt6X1dfdWNMU2Y4YXBpbHZ5RmVKRDdxcExna3Y4dl83cXpyZFp3OFpla3Z0NEJwb2VkSjFwQlByb0Z3SUpRYzFOMkdLT1NPeDFkek5KYXVqYXREbGpzVGd6cXk1UEdyVEUzZGlOM3FkcmQzWldrVU1JcHM0R21OcUtyN1E?oc=5",
+      "outlet": "parade.com",
+      "domain": "news.google.com",
+      "published_at": "2026-09-22T07:30:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Walmart’s ‘Gorgeous’ Woven Seagrass Basket Set With Pottery Barn Vibes Contains Clutter for Under $25 parade.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "d46d8826a090171a41",
+      "title": "땡스카본, 탄소흡수원 잘피 복원 성과 발표 - 투데이에너지",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6N1doNTBBdXltbU1iczJHVXlQVkRwdmtpTUNjeE85Mk1CLU9QVzlURndmYmMxOGphR2RyNXhZSnJ4WWFKTER6ZVB2R0xuMm94OG5pQTRzVXcycUVLNmU4c0FnbnZnSHpGclNENQ?oc=5",
+      "outlet": "투데이에너지",
+      "domain": "news.google.com",
+      "published_at": "2026-09-22T06:42:17+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "땡스카본, 탄소흡수원 잘피 복원 성과 발표 투데이에너지",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "ffeb0550f1f98334c0",
+      "title": "Tourism has potential to slow coral decline at Bali travel hotspot : Study",
+      "url": "https://news.mongabay.com/2026/09/tourism-has-potential-to-slow-coral-decline-at-bali-travel-hotspot-study",
+      "outlet": "news.mongabay.com",
+      "domain": "news.mongabay.com",
+      "published_at": "2026-09-22T06:00:00+00:00",
+      "language": "English",
+      "source_country": "Indonesia",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/21153916/Image-by-Anett-SzasziOcean-Image-Bank-1200x800.jpg",
+      "description": "",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "118bd82df2c10109c0",
+      "title": "Eco - moorings helping to restore Studland Bay seagrass",
+      "url": "https://www.bournemouthecho.co.uk/news/26568757.eco-moorings-helping-restore-seabed-studland-bay",
+      "outlet": "bournemouthecho.co.uk",
+      "domain": "bournemouthecho.co.uk",
+      "published_at": "2026-09-22T06:00:00+00:00",
+      "language": "English",
+      "source_country": "United Kingdom",
+      "image": "https://www.bournemouthecho.co.uk/resources/images/21480466.jpg?type=og-image&xType=0&yType=170",
+      "description": "",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "f75efaf49b30ced3de",
+      "title": "昆明 世界咖啡风尚之城 雏形渐显 _ 新华网",
+      "url": "http://yn.xinhuanet.com/20260922/df870eac02964f9b98514386cb54b52e/c.html",
+      "outlet": "yn.xinhuanet.com",
+      "domain": "yn.xinhuanet.com",
+      "published_at": "2026-09-22T05:00:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "92111567b82e0fcba8",
+      "title": "Vorschau: Weltbilder • Die Seegras-Retter von den Balearen - ARD Mediathek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ObWx2ak1yRUlRMEdMeFRzaTJuVmJVUi1Edmg0aGY5SGwyNEFaYkY2Z2VTckdoRWlLUEFZMXduN0ZaZ2ZGUHNRRFJDQW5paVR1TjFvbXlQUm9pWDJ1T211dnVScXJrZGdGRElLVkNWbHcxdw?oc=5",
+      "outlet": "ARD Mediathek",
+      "domain": "news.google.com",
+      "published_at": "2026-09-22T04:43:36+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Vorschau: Weltbilder • Die Seegras-Retter von den Balearen ARD Mediathek",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "9706e9306c8fe1c9e5",
+      "title": "Studland Bay study shows that eco-moorings can restore damaged seagrass meadows - Bournemouth Echo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU0FvdXZULXBVRVFhc1YzcXdiRk1JWVBiU2M5YWJWS2cyMGlfQWdpcjJKUXlUN2JCWURneTRCX2JxQmNHdm9DNHZabm05MVVSSlpFU1lFSVlNNmdER0NSYXJPNzMwN2hLNFZwbVRyTS1XZExoUGc4aGJRdlZDYjhIYUdsenVvbEYzM1dwZmtWVHZ0bUIzY09BeWt0NXNLUQ?oc=5",
+      "outlet": "Bournemouth Echo",
+      "domain": "news.google.com",
+      "published_at": "2026-09-22T04:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Studland Bay study shows that eco-moorings can restore damaged seagrass meadows Bournemouth Echo",
+      "themes": [
+        "Restoration",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "6e778b20ce3eb6c1e7",
+      "title": "New study provides evidence eco-moorings can restore damaged seagrass meadows - Dorset Echo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa2xzZVZ5OU82OXg2VGpTcUNUVk1DOGZEbXQ4a3lmSmFkdm9zM0FCY0NLQm5kTVJrUnNxMXR4V2xzakFtSjNmNUo5OXF1VTdOcFozZkRxcy1pQkcxb1huU1RHMUc5dWZBY0p3T2ZuUmZzdU50WkhPWU1jMmhfalhLWVAxekMySF9kTWh3VWp2VXN1RUc1T2xZ?oc=5",
+      "outlet": "Dorset Echo",
+      "domain": "news.google.com",
+      "published_at": "2026-09-22T04:00:00+00:00",
+      "language": "English",
+      "source_country": "US",
+      "image": "",
+      "description": "New study provides evidence eco-moorings can restore damaged seagrass meadows Dorset Echo",
+      "themes": [
+        "Restoration",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (US)",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "23c1706e357d5fb55a",
+      "title": "Sail to Indonesia 2026 bawa pesona pariwisata Sumbawa ke pasar dunia",
+      "url": "https://www.antaranews.com/berita/5752116/sail-to-indonesia-2026-bawa-pesona-pariwisata-sumbawa-ke-pasar-dunia",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-09-22T02:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/09/22/1001960251.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "3ceb03e14e5fbb441c",
+      "title": "여수 앞바다에 잘피 7만 주…땡스카본·LG화학 ‘블루 포레스트’ 4년 성과 공개 - 뉴스탭",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WQjItSlBkajNtWTk1TWlnajN3UVBJOUp5al83OW9HLVVnRXJYblN1R0ZkUF9HRjdIV3NTSjRwLUsxZ29xSldHMEdxQkpNVC1uc1FJcVdjWXk2UjAzRThRbUZZdGxpVXNxSWxMNA?oc=5",
+      "outlet": "뉴스탭",
+      "domain": "news.google.com",
+      "published_at": "2026-09-22T02:00:00+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "여수 앞바다에 잘피 7만 주…땡스카본·LG화학 ‘블루 포레스트’ 4년 성과 공개 뉴스탭",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "6351ff52933d820646",
+      "title": "[이로운넷현장]저상버스부터 잘피·AI까지...2026 대한민국 사회적가치 페스타, 사회문제 해법 한자리에 - 이로운넷",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOc0h0QWpDRVRRVWZ2eVBhckJiVHpFU0JZdzQ5WVNMdTFSQWZEYWdIQVhHR0VNVlVTMmpHaktGU3NidXRYaVFMV0VuNkJESDF6SzRPR2YybHZLUFgzQjF2SzlnNUxxQQ?oc=5",
+      "outlet": "이로운넷",
+      "domain": "news.google.com",
+      "published_at": "2026-09-22T00:33:10+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "[이로운넷현장]저상버스부터 잘피·AI까지...2026 대한민국 사회적가치 페스타, 사회문제 해법 한자리에 이로운넷",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "81ef13ba8a735eb1c0",
+      "title": "Spain Largest National Park Is An Underrated Mediterranean Gem With Ethereal Blue Waters And Underwater Forests",
+      "url": "https://www.islands.com/2262528/cabrera-archipelago-maritime-terrestrial-national-park-spain-largest-national-park-untouched-gem-ethereal-turquoise-waters-underwater-forests",
+      "outlet": "islands.com",
+      "domain": "islands.com",
+      "published_at": "2026-09-21T23:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://www.islands.com/img/gallery/spains-largest-national-park-is-an-underrated-mediterranean-gem-with-ethereal-blue-waters-and-underwater-forests/l-intro-1789751582.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "64626821960e2f6055",
+      "title": "Studland trial shows near‑complete shrinkage of seagrass anchor scars after eco‑moorings - London Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeVNiYzFJVEJaa0xwNFZ0WFpzZzlpNWtqNGJwcU55b2tvZWFGakNham52UTk0bjNfN3N0UVgzZU1fZTFYREZIUFdIcGxiQUF1enpZVGtTRmF5ZTBUQ0xuMDFoZndQODg5N3U4Q21GaGpGYVVOLTZoNTNaeXpVbk9LOTl4aUZHNnFtRU1ldmZZd20zeGU0c2tDSlZaTm1wMEJuWUNHZlNYSmd5VzY4TXdMdDZwVC1IN2psZUE?oc=5",
+      "outlet": "London Daily News",
+      "domain": "news.google.com",
+      "published_at": "2026-09-21T17:33:50+00:00",
+      "language": "Swahili",
+      "source_country": "KE",
+      "image": "",
+      "description": "Studland trial shows near‑complete shrinkage of seagrass anchor scars after eco‑moorings London Daily News",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Swahili (KE)",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "e931a07e1324266c81",
+      "title": "昆明这里藏了个 水下森林 ！ 海菜花开成片 …… |滇池|草海|高原|植被|肖雨迪|昆明市",
+      "url": "https://www.163.com/dy/article/L7CK2FQS0552SO56.html",
+      "outlet": "163.com",
+      "domain": "163.com",
+      "published_at": "2026-09-21T13:00:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "833f9cadd26d4669aa",
+      "title": "New Project To Explore Coral Reefs, Mangroves And Seagrass Meadows With EU Support - Carbon Herald",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY05Ob2k4VXVjaG9jc3Z1UDFfSGF2MVBWS25YSDJCVkFSdFNJXzllbjFYTER3c1lOcHlNQ1hBNlVFeXp5V1lSOW1RdHBfOFJPcXN1el9ObGpiTUtSQnJDNHhCc0Ntb0pVSTdxNmJRbWxFLVVOMTRKWkpHdVFpeUw2dTZNWVRpTHE1RWJmSlcxVVp2eW40WnA1bG9HOWZLU1NsQ3Bfd0ZqTEh3dm8?oc=5",
+      "outlet": "Carbon Herald",
+      "domain": "news.google.com",
+      "published_at": "2026-09-21T11:50:08+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "New Project To Explore Coral Reefs, Mangroves And Seagrass Meadows With EU Support Carbon Herald",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
     {
       "id": "7b3f97ba48e14dc994",
       "title": "‘Inredibly enouraging’: healing the scars of traditional anchors in Dorset’s seagrass meadows - The Guardian",
@@ -27,7 +413,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "baseline": false
     },
     {
@@ -51,7 +437,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "baseline": false
     },
     {
@@ -75,7 +461,31 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "dec4a966f5221a1639",
+      "title": "9月不去挤苍洱 ， 来鹤庆草海却有惊喜 ， 荷花莲蓬多到看不过来 ！",
+      "url": "https://www.163.com/dy/article/L7BOQ0FJ0536702E.html",
+      "outlet": "163.com",
+      "domain": "163.com",
+      "published_at": "2026-09-21T05:15:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
       "baseline": false
     },
     {
@@ -123,7 +533,31 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "bf116dc359fe4b6c5d",
+      "title": "6 springs in 2 days : A Florida road trip reveals freshwater treasures",
+      "url": "https://www.orlandosentinel.com/2026/09/20/6-springs-in-2-days-a-florida-road-trip-reveals-the-states-freshwater-treasures",
+      "outlet": "orlandosentinel.com",
+      "domain": "orlandosentinel.com",
+      "published_at": "2026-09-20T13:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://www.orlandosentinel.com/wp-content/uploads/2026/03/TOS-L-ex-fl-springs-road-trip-05.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
       "baseline": false
     },
     {
@@ -147,7 +581,55 @@
       ],
       "search_route": "Google News French (FR)",
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "7def1210602f6585b0",
+      "title": "Kolaborasi PGN - BRIN - Pemkab Batang Sukses Panen 166 , 5 Ton Padi Biosalin",
+      "url": "https://semarang.bisnis.com/read/20260920/535/2005604/kolaborasi-pgn-brin-pemkab-batang-sukses-panen-1665-ton-padi-biosalin",
+      "outlet": "semarang.bisnis.com",
+      "domain": "semarang.bisnis.com",
+      "published_at": "2026-09-20T06:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://images.bisnis.com/posts/2026/09/20/2005604/padi_biosalin_1_1789876815.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "baseline": false
+    },
+    {
+      "id": "302fd818ad23cffc07",
+      "title": "云南省发布2026年第二批省级重大项目清单 总投资557 . 02亿元 _ 央广网",
+      "url": "https://www.cnr.cn/yn/gstjyn/20260920/t20260920_527818880.shtml",
+      "outlet": "cnr.cn",
+      "domain": "cnr.cn",
+      "published_at": "2026-09-20T03:00:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
       "baseline": false
     },
     {
@@ -171,7 +653,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "baseline": false
     },
     {
@@ -195,7 +677,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "baseline": false
     },
     {
@@ -268,7 +750,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "baseline": false
     },
     {
@@ -292,7 +774,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-19",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "baseline": false
     },
     {
@@ -316,7 +798,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-09-18",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "baseline": false
     },
     {
@@ -11154,15 +11636,15 @@
     "languages": [
       [
         "English",
-        156
+        164
       ],
       [
         "German",
-        53
+        54
       ],
       [
         "Indonesian",
-        49
+        52
       ],
       [
         "Turkish",
@@ -11170,7 +11652,7 @@
       ],
       [
         "Chinese",
-        28
+        32
       ],
       [
         "Japanese",
@@ -11178,7 +11660,7 @@
       ],
       [
         "Korean",
-        20
+        23
       ],
       [
         "Italian",
@@ -11201,15 +11683,15 @@
         6
       ],
       [
+        "Swahili",
+        4
+      ],
+      [
         "Portuguese",
         4
       ],
       [
         "Hindi",
-        3
-      ],
-      [
-        "Swahili",
         3
       ],
       [
@@ -11240,23 +11722,23 @@
     "countries": [
       [
         "GB",
-        63
+        66
       ],
       [
         "DE",
-        53
+        54
       ],
       [
         "TR",
         49
       ],
       [
-        "United States",
-        39
+        "Indonesia",
+        43
       ],
       [
-        "Indonesia",
-        39
+        "United States",
+        41
       ],
       [
         "JP",
@@ -11264,11 +11746,15 @@
       ],
       [
         "KR",
-        20
+        23
       ],
       [
         "CN",
         16
+      ],
+      [
+        "China",
+        15
       ],
       [
         "ID",
@@ -11279,8 +11765,12 @@
         14
       ],
       [
-        "China",
-        11
+        "United Kingdom",
+        10
+      ],
+      [
+        "US",
+        10
       ],
       [
         "NL",
@@ -11289,14 +11779,6 @@
       [
         "Spain",
         10
-      ],
-      [
-        "US",
-        9
-      ],
-      [
-        "United Kingdom",
-        9
       ],
       [
         "Australia",
@@ -11327,15 +11809,15 @@
         5
       ],
       [
+        "KE",
+        4
+      ],
+      [
         "PT",
         4
       ],
       [
         "IN",
-        3
-      ],
-      [
-        "KE",
         3
       ],
       [
@@ -11430,11 +11912,15 @@
     "outlets": [
       [
         "antaranews.com",
-        8
+        9
       ],
       [
         "NDR.de",
         6
+      ],
+      [
+        "news.mongabay.com",
+        5
       ],
       [
         "Son Dakika",
@@ -11442,10 +11928,6 @@
       ],
       [
         "Aksiyon.com.TR",
-        4
-      ],
-      [
-        "news.mongabay.com",
         4
       ],
       [
@@ -11467,6 +11949,14 @@
       [
         "山陽新聞",
         4
+      ],
+      [
+        "뉴스탭",
+        3
+      ],
+      [
+        "islands.com",
+        3
       ],
       [
         "The Times of India",
@@ -11501,6 +11991,22 @@
         3
       ],
       [
+        "yn.xinhuanet.com",
+        2
+      ],
+      [
+        "이로운넷",
+        2
+      ],
+      [
+        "163.com",
+        2
+      ],
+      [
+        "Carbon Herald",
+        2
+      ],
+      [
         "아시아경제",
         2
       ],
@@ -11530,10 +12036,6 @@
       ],
       [
         "v.daum.net",
-        2
-      ],
-      [
-        "뉴스탭",
         2
       ],
       [
@@ -11607,44 +12109,28 @@
       [
         "Nature",
         2
-      ],
-      [
-        "openPR.de",
-        2
-      ],
-      [
-        "lankaweb.com",
-        2
-      ],
-      [
-        "Analiz Gazetesi",
-        2
-      ],
-      [
-        "Data Portuaria",
-        2
-      ],
-      [
-        "wptv.com",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        344
+        358
       ],
       [
         "Restoration",
-        31
+        34
+      ],
+      [
+        "Science & discovery",
+        29
       ],
       [
         "Conservation & policy",
         27
       ],
       [
-        "Science & discovery",
-        26
+        "Development & infrastructure",
+        20
       ],
       [
         "Wildlife & biodiversity",
@@ -11653,10 +12139,6 @@
       [
         "Climate & heat",
         19
-      ],
-      [
-        "Development & infrastructure",
-        18
       ],
       [
         "Community & culture",
@@ -11678,11 +12160,11 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        301
+        310
       ],
       [
         "GDELT",
-        163
+        174
       ]
     ]
   }
