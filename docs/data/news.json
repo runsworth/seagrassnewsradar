@@ -1,10 +1,106 @@
 {
-  "generated_at": "2026-09-23T10:16:23.215220+00:00",
+  "generated_at": "2026-09-24T10:29:56.979354+00:00",
   "baseline_complete": true,
-  "article_count": 491,
-  "new_today": 10,
+  "article_count": 495,
+  "new_today": 4,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "bd36bdc0f76d71620f",
+      "title": "Bringing back lost seagrass - victorharbortimes.com.au",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNEYxc1lGdW5wa2hOTWdTQ0hSZ2JDb2pHTnlpQXM2bGg1clJXY09ROUJteFUwczhVMjJsYzZlQ0pSMVNaa09ueDVaaDJZUDBlZDhfLUQ2RTV3VzJCQ2plaEl2aDVWeWt2cDhtT0tNS01xY0N6SFNVYnRmWWV4eV82LUhKYw?oc=5",
+      "outlet": "victorharbortimes.com.au",
+      "domain": "news.google.com",
+      "published_at": "2026-09-24T02:22:13+00:00",
+      "language": "Swahili",
+      "source_country": "KE",
+      "image": "",
+      "description": "Bringing back lost seagrass victorharbortimes.com.au",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Swahili (KE)",
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "baseline": false
+    },
+    {
+      "id": "083cb197e5c9c4582d",
+      "title": "Fleurieu community rallies to give seagrass a second chance - InDaily South Australia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNW1RSEo3NUVGLXl5ZVh6RjUtTkY3QUpJbnQ2OUdIR2VHWXB6TFByUmRlcUo5RDVyRGtKOEhMYnBLd2VjUFFjTjJ1SHpJUTVBMldVcUtyb2h0SUZTT0hhUUVpNWtSRzhGRVlCWU1feGY0WEU1aEw1VkZob19ERkNfejIyckhPSUtqZUQxU3ozTzllU2dTS0dHdmswdHJaTzcwN19RdGVMYzRIOWtjZWFYbVdR?oc=5",
+      "outlet": "InDaily South Australia",
+      "domain": "news.google.com",
+      "published_at": "2026-09-24T02:01:01+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Fleurieu community rallies to give seagrass a second chance InDaily South Australia",
+      "themes": [
+        "Community & culture"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "baseline": false
+    },
+    {
+      "id": "41a468ee2e12f20ad3",
+      "title": "Eyes on Seagrass: Inside the Citizen Science Program - ABC7 WWSB",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQnM4dzRmOFlwOUNjNHF1SHRFUGhtUHlGakNVU0ppeVZJRG1ld1pJODFydG92enNNOEdQUUx6bDZaWXlLdFFRQXR3ZVk4dnlCSW0tbVo0QWxoX3k4Nkc2TXk5VzJ4Mk9tQ01ldzR2N2ppeXMyc1pKRF91QXBleVJTTm9SSVdEeFNPY1VF0gGfAUFVX3lxTE8tSUJhblZMRlpERXJIdXlDVjJnUmJuSndNdmE5b2xDNEJNc2tacFJTLWRaRlUyXzk0c2w4U2Vzb1ZGWml4eVNfR1NpaFhjYS1hUTNHTXAzTF9VcDBhWklNMWFQcFhqZHRGVUZCSnBlcEJ6ZjVlR0FpcFZidUJ4T0ZLVDRfaUVyQnZ5UkxBVTE3NXN1RnlXYlBDZFpIb2lTaw?oc=5",
+      "outlet": "ABC7 WWSB",
+      "domain": "news.google.com",
+      "published_at": "2026-09-23T23:39:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Eyes on Seagrass: Inside the Citizen Science Program ABC7 WWSB",
+      "themes": [
+        "Community & culture"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "baseline": false
+    },
+    {
+      "id": "3f034e40ba92f161ba",
+      "title": "Blue crab-critical seagrass expands 7% in US Chesapeake Bay - Undercurrent News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVkyN21jdDVsbm1IYkhXTjFIV2E0ZUhDWWVwNmdfNnpMSkRKcXcwM3RCWDhZUmdtYTNfSkxUX0NJQk1LUFdpSE1nYkdpMFEzckdsT3NVY3o3NzAybHkwYU91ZWFvZnJuQ2FQakRVcXJtT1U5aEhISF9VWE85a2hvTi1lc1dQVXduRkJnVGpZT0ZZSTBMenhwQ0I4VE5rcWxVS1YzbmZn?oc=5",
+      "outlet": "Undercurrent News",
+      "domain": "news.google.com",
+      "published_at": "2026-09-23T13:54:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Blue crab-critical seagrass expands 7% in US Chesapeake Bay Undercurrent News",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "baseline": false
+    },
     {
       "id": "6ec9e0362af4cf4b2a",
       "title": "Seaweed, Seagrass and Phytoplankton Shape the Ocean’s Iodine Cycle, Review Finds - Bioengineer.org",
@@ -26,7 +122,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -50,7 +146,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -196,7 +292,7 @@
       ],
       "search_route": "Google News Norwegian (NO)",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -220,7 +316,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -292,7 +388,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -388,7 +484,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -413,7 +509,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -438,7 +534,7 @@
       ],
       "search_route": "Google News English (US)",
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -486,7 +582,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -510,7 +606,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -584,7 +680,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -632,7 +728,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -657,7 +753,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-21",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -681,7 +777,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-21",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -777,7 +873,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-09-21",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -825,7 +921,7 @@
       ],
       "search_route": "Google News French (FR)",
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -921,7 +1017,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "baseline": false
     },
     {
@@ -11880,7 +11976,7 @@
     "languages": [
       [
         "English",
-        170
+        173
       ],
       [
         "German",
@@ -11928,7 +12024,7 @@
       ],
       [
         "Swahili",
-        4
+        5
       ],
       [
         "Portuguese",
@@ -11966,7 +12062,7 @@
     "countries": [
       [
         "GB",
-        68
+        71
       ],
       [
         "DE",
@@ -12054,7 +12150,7 @@
       ],
       [
         "KE",
-        4
+        5
       ],
       [
         "PT",
@@ -12362,7 +12458,7 @@
     "themes": [
       [
         "General seagrass news",
-        365
+        366
       ],
       [
         "Restoration",
@@ -12377,11 +12473,11 @@
         27
       ],
       [
-        "Wildlife & biodiversity",
-        21
+        "Development & infrastructure",
+        22
       ],
       [
-        "Development & infrastructure",
+        "Wildlife & biodiversity",
         21
       ],
       [
@@ -12390,7 +12486,7 @@
       ],
       [
         "Community & culture",
-        9
+        11
       ],
       [
         "Blue carbon",
@@ -12408,7 +12504,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        316
+        320
       ],
       [
         "GDELT",
