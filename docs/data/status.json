@@ -1,21 +1,34 @@
 {
-  "generated_at": "2026-09-25T10:32:37.693608+00:00",
+  "generated_at": "2026-09-26T10:14:38.548257+00:00",
   "baseline_mode": false,
   "sources": {
     "gdelt": {
       "name": "GDELT",
       "ok": false,
-      "fetched": 24,
-      "kept": 24,
+      "fetched": 17,
+      "kept": 17,
       "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22Cymodocea+nodosa%22+OR+%22Cymodocea+serrulata%22+OR+%22Enhalus+acoroides%22+OR+%22Syringodium+filiforme%22+OR+Phyllospadix%29&mode=artlist&format=json&maxrecords=250&timespan=4d&sort=datedesc"
     },
     "google_news_rss": {
       "name": "Google News RSS",
-      "ok": true,
-      "fetched": 3173,
-      "kept": 20,
-      "feeds": 58,
-      "errors": []
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "feeds": 0,
+      "errors": [
+        "English/GB: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=seagrass+OR+eelgrass&hl=en-GB&gl=GB&",
+        "English/GB: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Zostera+marina%22+OR+%22Posidonia",
+        "English/US: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=seagrass+OR+eelgrass&hl=en-US&gl=US&",
+        "English/US: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Zostera+marina%22+OR+%22Thalassia",
+        "Spanish/ES: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=pastos+marinos+OR+praderas+marinas&h",
+        "Spanish/ES: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Zostera+marina%22+OR+%22Posidonia",
+        "Spanish/MX: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=pastos+marinos+OR+praderas+marinas&h",
+        "Spanish/MX: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=seagrass+OR+Zostera+OR+Halophila&hl=",
+        "Portuguese/PT: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=ervas+marinhas+OR+pradarias+marinhas",
+        "Portuguese/PT: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Zostera+marina%22+OR+%22Cymodocea",
+        "Portuguese/BR: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=ervas+marinhas+OR+pradarias+marinhas",
+        "Portuguese/BR: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=seagrass+OR+Halodule+OR+Halophila&hl"
+      ]
     }
   },
   "coverage": {
