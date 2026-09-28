@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-09-27T10:44:09.032298+00:00",
+  "generated_at": "2026-09-28T11:58:34.696503+00:00",
   "baseline_complete": true,
-  "article_count": 515,
-  "new_today": 5,
+  "article_count": 517,
+  "new_today": 2,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "ce4f37526aca9df228",
+      "title": "Eco-moorings for boats introduced to protect vulnerable underwater seagrass meadows - itv.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDhCNlBnb2V6OWxaM3B3aVlBek1HVml4eTRBTWl6MmhCbThyRHdlYVgyeFk5YnFsTzRwYmFoYWxwZHlnRUhjSkUtRm1hREpYeElkQ2VDMHM5d0lIRGtsTWxjT3dsckNFN3lLc2UwNEw1c0pUU1hEbWVUTmo3ZkdKX25VN2U0WHJ3ZWhNbU5OZHBicGE3Z0xpalBLMmE0QUNuTFJyS0FJOUZEcjJvSmp5YWNWTzhaZmNNU0F5Y3l1NA?oc=5",
+      "outlet": "itv.com",
+      "domain": "news.google.com",
+      "published_at": "2026-09-28T09:32:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Eco-moorings for boats introduced to protect vulnerable underwater seagrass meadows itv.com",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "baseline": false
+    },
+    {
+      "id": "b1afc0121d8d1b5ac1",
+      "title": "Lindungi Pesisir, Pemprov Maluku Perkuat Rehabilitasi Mangrove & Padang Lamun - RRI.co.id",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSWNSZllMdkVvQndJakhtRU5adDNQTXp4eW1VbUdKenJrVjZoZlFETThNdWR0ZU13TUF6QVpkUnVSSlZ0bE9nRENieEZSM1BjbjFxazlvaG13UkVSZEtWdGhEdE5ieVRYRnlEcktMbzl3MTZpbEF0TjJmUkJ1V0VHUW9EajVFTUpQLU1odG5VdjY5d09yZDNRWE44VGdMRFVwNjFSTURjZWlPdUUyakVDOEh6ZGtQdw?oc=5",
+      "outlet": "RRI.co.id",
+      "domain": "news.google.com",
+      "published_at": "2026-09-28T02:55:00+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Lindungi Pesisir, Pemprov Maluku Perkuat Rehabilitasi Mangrove & Padang Lamun RRI.co.id",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "baseline": false
+    },
     {
       "id": "f377c3dad361598f7f",
       "title": "Pemetaan Digital Ungkap Potensi Karbon Lamun Indonesia, Nilainya Sangat Besar - ecobiz.asia",
@@ -26,7 +74,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-28",
       "baseline": false
     },
     {
@@ -50,7 +98,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-28",
       "baseline": false
     },
     {
@@ -74,7 +122,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-28",
       "baseline": false
     },
     {
@@ -99,7 +147,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-28",
       "baseline": false
     },
     {
@@ -219,7 +267,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-28",
       "baseline": false
     },
     {
@@ -291,7 +339,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-28",
       "baseline": false
     },
     {
@@ -387,7 +435,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-28",
       "baseline": false
     },
     {
@@ -532,7 +580,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-24",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-09-28",
       "baseline": false
     },
     {
@@ -12459,11 +12507,11 @@
     "languages": [
       [
         "English",
-        181
+        182
       ],
       [
         "Indonesian",
-        57
+        58
       ],
       [
         "German",
@@ -12545,7 +12593,7 @@
     "countries": [
       [
         "GB",
-        74
+        75
       ],
       [
         "DE",
@@ -12572,16 +12620,16 @@
         24
       ],
       [
+        "ID",
+        16
+      ],
+      [
         "China",
         16
       ],
       [
         "CN",
         16
-      ],
-      [
-        "ID",
-        15
       ],
       [
         "Italy",
@@ -12826,6 +12874,10 @@
         3
       ],
       [
+        "RRI.co.id",
+        2
+      ],
+      [
         "jawapos.com",
         2
       ],
@@ -12936,16 +12988,12 @@
       [
         "economictimes.indiatimes.com",
         2
-      ],
-      [
-        "miragenews.com",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        379
+        380
       ],
       [
         "Restoration",
@@ -12957,7 +13005,7 @@
       ],
       [
         "Conservation & policy",
-        28
+        29
       ],
       [
         "Development & infrastructure",
@@ -12991,7 +13039,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        329
+        331
       ],
       [
         "GDELT",
