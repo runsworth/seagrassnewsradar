@@ -1,10 +1,804 @@
 {
-  "generated_at": "2026-09-28T11:58:34.696503+00:00",
+  "generated_at": "2026-09-29T11:33:28.127791+00:00",
   "baseline_complete": true,
-  "article_count": 517,
-  "new_today": 2,
+  "article_count": 556,
+  "new_today": 39,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "9642f4c31b4797dd33",
+      "title": "India recurre a corales y praderas marinas ante la subida del nivel del mar - France 24",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWhZdksxTTBQTXRadTVPTHJJc0hvTXFWQ28yc0VMYXI4b0VQQ29rMFhUOFRMUVlQYUdCOENRdkJXZFF4Wkp6cEZVak1jcjFSVnh3QXl1VDdhN09tSUVFcVJ3QnBYNWJUWjZ6dHhuVjFfYTVPTlpCTi1ZZnhWS3RpYS1kZGlobE5IMVU5dV95WldvMmIybC0ybktnTnJjWVlEbUsweGhxYXlrM0pWSWFWZWc3RE1ycFlVUlNKRWRXNmt0QkNUOWZn?oc=5",
+      "outlet": "France 24",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T10:50:02+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "India recurre a corales y praderas marinas ante la subida del nivel del mar France 24",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "86eb2ad6b6e0274608",
+      "title": "BRIN kembangkan sensor pendeteksi MBG basi menggunakan rumput laut",
+      "url": "https://www.antaranews.com/berita/5763328/brin-kembangkan-sensor-pendeteksi-mbg-basi-menggunakan-rumput-laut",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-09-29T10:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/09/29/IMG_20260929_162936.jpg.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "5e4412e3d12e451d8a",
+      "title": "10 Olahan Sup Terbaik di Dunia Versi TasteAtlas , Kuliner Indonesia Bersaing dengan Jepang",
+      "url": "https://www.liputan6.com/lifestyle/read/8301728/10-olahan-sup-terbaik-di-dunia-versi-tasteatlas-kuliner-indonesia-bersaing-dengan-jepang",
+      "outlet": "liputan6.com",
+      "domain": "liputan6.com",
+      "published_at": "2026-09-29T09:30:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn0-production-images-kly.akamaized.net/UQ7sxgBWrdLIJrdLhYlhJwb46fM=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9360482/original/000802900_1790648968-Soto_Betawi.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "4392f3dca4570a69d4",
+      "title": "Dunelm perfect bathroom storage solution reduced to £70",
+      "url": "https://www.belfastlive.co.uk/whats-on/be/dunelms-perfect-bathroom-storage-solution-34687041",
+      "outlet": "belfastlive.co.uk",
+      "domain": "belfastlive.co.uk",
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "language": "English",
+      "source_country": "United Kingdom",
+      "image": "https://i2-prod.belfastlive.co.uk/article34642732.ece/ALTERNATES/s1200d/0_GettyImages-2256065698-2.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "0436643a57600b2c88",
+      "title": "IPB University Latih Warga Sukarame Pandeglang Restorasi Padang Lamun - Bogor Online",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM0o0TEg0THJuc2FSa2h5VGY4WlBrVjd2aDJ3TnVEUlNiVFo0TFdsZW1HRW91aWZ3WG9NT3pfN1VrdlJqUnRaUWMtYXdITE5CMEFhZnkwZWFzbzNUTVFQZTNGeU5Yczhobld3WFVzLUhqOGZoYU41QnJvdVc1bkVKNU5ObmpuWkhvRi1UVGlzRzNQSXBvVGU1ZS1LaVE5UmJtcFRj?oc=5",
+      "outlet": "Bogor Online",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T08:38:17+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "IPB University Latih Warga Sukarame Pandeglang Restorasi Padang Lamun Bogor Online",
+      "themes": [
+        "Restoration",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "052848bff7a6a9b5d1",
+      "title": "Kementerian KKP RI Bangun Lima Kampung Nelayan di Bangkalan",
+      "url": "https://koran-jakarta.com/2026-09-29/kementerian-kkp-ri-bangun-lima-kampung-nelayan-di-bangkalan",
+      "outlet": "koran-jakarta.com",
+      "domain": "koran-jakarta.com",
+      "published_at": "2026-09-29T07:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://media.koran-jakarta.com/images/image-article/2026-09/29/kementerian-kkp-ri-bangun-lima-kampung-nelayan-di-bangkalan-6abb511b5b2f8.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "2db0724d9489bbb747",
+      "title": "Seegras-Abfälle illegal entsorgt? Prozess in Ostholstein beginnt - NDR.de",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQWFrS25YWFMxSGxKOWpxQ3F1aFJWYnJ3TDNNWlVlQllyWEswWmlFSGFGdUJ6enljMjg3R2pvTldhVVp2MnpUVlVrMDZQU2RiTERXQmY5VzEwZVcxUm5sRkh1ZGxkWnQ5bXZlY1dTemFRT1R2VXR4MHlac3FLQnVhQVV1RFlrNUdTRXBnZGVubFliQkNhQUZLZ2MxbUlyckhmT3VsM1ZnQ2VHSlM2Rnl0YmFZS2FKS1pvX2M0NW5Xck5TYmdJOU85TkJIN3FUdDMwQkc4NC1LakdmT2JZazJyR0JCZUlkTVVpalFRbDVMSWJDRENhSHNkaEktb2lHMzBZd2I3eUllNGZlZw?oc=5",
+      "outlet": "NDR.de",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T07:04:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegras-Abfälle illegal entsorgt? Prozess in Ostholstein beginnt NDR.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "36477434b5982bc53b",
+      "title": "RI backs blue carbon to balance growth , sustainability",
+      "url": "https://en.antaranews.com/news/433371/ri-backs-blue-carbon-to-balance-growth-sustainability",
+      "outlet": "en.antaranews.com",
+      "domain": "en.antaranews.com",
+      "published_at": "2026-09-29T07:00:00+00:00",
+      "language": "English",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/09/29/PPN-RP.jpg",
+      "description": "",
+      "themes": [
+        "Blue carbon"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "04a17d0689edbaaacd",
+      "title": "한국해양과학기술원(KIOST), 동해 연안 침식 대응 ‘잘피 블루인프라’ 개발 - hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TTm0zM0dPb0t2UmVtOFlfT0J6MlJKNEJQeVVENTM1RjlLNllBTG1RVHJsZmpNTnk2QnROTDJJdW51cXNJUjJKS1pjcEw0TFN0ZHZRbkdkWGR4LTdNajFqa1FRTXN0TlBsR0E?oc=5",
+      "outlet": "hidomin.com",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T06:58:28+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "한국해양과학기술원(KIOST), 동해 연안 침식 대응 ‘잘피 블루인프라’ 개발 hidomin.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "ce7123319e0759633b",
+      "title": "KIOST, 바닷속 잘피로 동해 연안 되살린다 - BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ldEJRRU5hcnFBZXU5cDlVQjlqcDhJNmJ4bjlzSE9zTV9zYVQxczVIZlBHRE40eXI1WGpxQTlMR29kQ0xqZVpkOTlsYW5wUjRWZW5PZTFaWWxGaHhlNG95T2R2cTRuUm95V1d3?oc=5",
+      "outlet": "BBS불교방송",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T06:52:46+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "KIOST, 바닷속 잘피로 동해 연안 되살린다 BBS불교방송",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "044afe8b6575fe2706",
+      "title": "사라지는 동해 모래, 바닷속 ‘잘피숲’으로 붙잡는다 - ppss.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14TW5qYTZ1Y3BHMkhUUWg3NWFKMEhILXIzbnJSWHA2azgyWkNmRHhzVGRfUFpfU2paaHhqYU5sWFYzUzRDMmRVeTZ5azhoQmRHbG52bFgyNFVFeUN6TUVuU1lmZ2Y?oc=5",
+      "outlet": "ppss.kr",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T05:02:17+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "사라지는 동해 모래, 바닷속 ‘잘피숲’으로 붙잡는다 ppss.kr",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "5bfba5d78502d78139",
+      "title": "UNDP representative highlights priorities for Việt Nam to become strong maritime nation",
+      "url": "https://vietnamnews.vn/opinion/1800806/undp-representative-highlights-priorities-for-viet-nam-to-become-strong-maritime-nation.html",
+      "outlet": "vietnamnews.vn",
+      "domain": "vietnamnews.vn",
+      "published_at": "2026-09-29T05:00:00+00:00",
+      "language": "English",
+      "source_country": "Vietnam",
+      "image": "https://image.vietnamnews.vn/uploadvnnews/Article/2026/9/29/533811_vna_potal_thuc_day_binh_dang_gioi_trong_khu_vuc_cong_gan_voi_tinh_gon_bo_may_he_thong_chinh_tri_9025419.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "c0afe946cc10640466",
+      "title": "잘피 군락지, 동해 연안 침식 해결할까...KIOST, 바닷속 방파제 연구 추진 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zaHhQZXFpU1g5RkRPbEpERlNaWXpGUnJvdXZrTk1ZU1JKaG9aR01qWk5jbV9LbDV2LVdkbjBpVFc5eEZUTEZXYmNpVlBPcE9QSGlLOVVrd3NDZw?oc=5",
+      "outlet": "한국경제",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T04:58:48+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "잘피 군락지, 동해 연안 침식 해결할까...KIOST, 바닷속 방파제 연구 추진 한국경제",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "48adaec8e5b0c8ead9",
+      "title": "동해 토종 잘피로 ‘살아있는 방파제’ 만든다…연안침식·자원 감소 해결 - 강원도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91aFRMRVdvcXNVbDB4VXNvWHJzQnY1cmhDMjNuUEtJMWY5UzBZS0h5Z2ZIOTJERmpVWXhad0hOVjhCZ2tUSmtqcjh2Rms0cWJlUmdJb0xVdjJ0YTJWWEpZaV9fcDR6eVpS?oc=5",
+      "outlet": "강원도민일보",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T04:43:04+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "동해 토종 잘피로 ‘살아있는 방파제’ 만든다…연안침식·자원 감소 해결 강원도민일보",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "71136c91bc28f1f785",
+      "title": "India turns to corals and seagrass to shield against rising seas - abs-cbn.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdEZaLXlYRlhKQ0xzQUZLRVVuOVlzaGVNa1pfZndmVUVoMU52aGxveWs5ejNXR0NhRTUtNURObnExMDJvR3BvX1RFOTlPMXMwbUFTanVFYUlZT0VtdkhDSF90SlU1UmlRYl8wNE9lOE5wellaOWlNRlk2RXB3S0tvUHJlc2kzRmZFR3gzbDZJV2hjUlVYRVRPUl9VSDFNRTFGenBrbngyX2htTDRxN3RiMTRUYS0?oc=5",
+      "outlet": "abs-cbn.com",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T04:33:57+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "India turns to corals and seagrass to shield against rising seas abs-cbn.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "7a8b35573d65e56db3",
+      "title": "wild shores of singapore : Oct workshop : Let guide for our Mother Shores !",
+      "url": "https://wildshores.blogspot.com/2026/09/oct-workshop-lets-guide-for-our-mother.html",
+      "outlet": "wildshores.blogspot.com",
+      "domain": "wildshores.blogspot.com",
+      "published_at": "2026-09-29T04:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "59a39f03502027d2ef",
+      "title": "Bappenas tegaskan urgensi pengarusutamaan karbon biru",
+      "url": "https://www.antaranews.com/berita/5762641/bappenas-tegaskan-urgensi-pengarusutamaan-karbon-biru",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-09-29T04:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/09/29/PPN-RP.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "d2d7db6d61dafecaf1",
+      "title": "India turns to corals and seagrass to shield against rising seas - push.abs-cbn.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZmdGM3Y0c2xaWVZ0d0xtUTlhS25PeHgzV3Bac0s5RzRtVkpjX3VBU1lRYzJmNVd6SnpSNENjNktlR3FycVJfOEpRT1lsWUJqaGF0RlROeEtxNlBNd0diSXM5VE4zUEpWYlNDb0Y1alJCdWswdmZGWVR4VXF1NTBfaE5rN1U5eks2RncwaEEyNUZ6d1JNc0g1djFSSFFiSUpmaGNFYVVubVpoRUxMQjE2dWwwdVJBQQ?oc=5",
+      "outlet": "push.abs-cbn.com",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T03:12:00+00:00",
+      "language": "Swahili",
+      "source_country": "KE",
+      "image": "",
+      "description": "India turns to corals and seagrass to shield against rising seas push.abs-cbn.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Swahili (KE)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "5492a20e7396afc4dc",
+      "title": "海平面上升恐吞噬小島！印度搶救珊瑚與海草床 - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yUDB0OFAxM0ZNR01xUHl2Nmc4M2ZQMUpFVnRYRUMtSWJMMHFwSV96TG1tZE5aSk9Za0E0RGJISS1TV2lFcm8xNVNuTWJIWjRNV3BwOE5LZzJSejhOaWkzdA?oc=5",
+      "outlet": "民視新聞網",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T02:30:18+00:00",
+      "language": "Chinese",
+      "source_country": "TW",
+      "image": "",
+      "description": "海平面上升恐吞噬小島！印度搶救珊瑚與海草床 民視新聞網",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (TW)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "c66f2c992f30f7e4f4",
+      "title": "KIOST builds living seagrass breakwaters to curb East Sea coastal erosion by 2031 - DongA Science",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NNVVSYXpEOE1UQ3pDMUtqRlIzWU9wOXFNX1V3T1hDZnZaTmxqcG5iVHhLQm1CNlZnWGhuajJFTXFad0V1ZzJQdzFhM3FlZzRNUFNVYw?oc=5",
+      "outlet": "DongA Science",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T02:04:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "KIOST builds living seagrass breakwaters to curb East Sea coastal erosion by 2031 DongA Science",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "4c3aab14681868818b",
+      "title": "'잘피숲'으로 '살아있는 방파제' 조성…동해 연안 침식 막는다 - DongA Science",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hSW1PQ09obGEzZXgtdUt4RWtNSWtwRDNiV3VfVkhNdjBTc09PeGpUNktxRUVpNEpVaUJqX1ZwWmpqTHBTTEdYOG9kQ0NJV1J2THEtaQ?oc=5",
+      "outlet": "DongA Science",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T02:04:00+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "'잘피숲'으로 '살아있는 방파제' 조성…동해 연안 침식 막는다 DongA Science",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "71b3f42316f3e373a5",
+      "title": "'침식 심각' 동해안, 바닷속 잘피로 살린다…KIOST '자율형 블루인프라' 착수 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Qa2RzVk9yVVlBNFNOZXNETlFrbUxMU0tiOFdHdHFfWU1scTQ2Z24xMkpwRDBubm5zSkdhdXh1YXFKaC1YY3hxa2JxV2FkY3duelBsemFLY3FJZ9IBWkFVX3lxTE1Qa2RzVk9yVVlBNFNOZXNETlFrbUxMU0tiOFdHdHFfWU1scTQ2Z24xMkpwRDBubm5zSkdhdXh1YXFKaC1YY3hxa2JxV2FkY3duelBsemFLY3FJZw?oc=5",
+      "outlet": "뉴스1",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T02:00:32+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "'침식 심각' 동해안, 바닷속 잘피로 살린다…KIOST '자율형 블루인프라' 착수 뉴스1",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "badf0c6d30637edacf",
+      "title": "쓸려가는 동해안 모래, ‘잘피숲’으로 붙잡는다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkcHVXMGoteW1pQkVmRkNqSGNJbU84Q1I4NnpESHh4UXp1ZEg2bE92R28xX25qNmNxNmM1U2o0U0VoaFFFV3hPcXJST254c3c?oc=5",
+      "outlet": "v.daum.net",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T01:45:15+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "쓸려가는 동해안 모래, ‘잘피숲’으로 붙잡는다 v.daum.net",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "7448112ea3118e6a4f",
+      "title": "깎여나가는 동해안 모래...'잘피'로 자연방파제 만든다 - 뉴스;트리",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95OWlGdEdyT1VOd2I0cjU1Vl9uTC1qUldyTmtmUlN3NmFxdGF3UGJGRmMwdVRBTDUteG9jYXllUVNhSlhFV1FPekRIZXBweXBxb3FIQmdpejhyWmVL?oc=5",
+      "outlet": "뉴스;트리",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T01:42:22+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "깎여나가는 동해안 모래...'잘피'로 자연방파제 만든다 뉴스;트리",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "144264da3bcaa4138f",
+      "title": "'잘피숲' 조성해 동해 연안 생태계 수호 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44UF9Kb2JfNVdpdTI0ZG9HcC1uUVpBd0VyaUlUMUhMTXVFR2J2LUp4WHJhUlRsVmpxVUZMdmVDcnAtTklIOW5Ca29qNnE5Zw?oc=5",
+      "outlet": "전자신문",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T01:02:07+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "'잘피숲' 조성해 동해 연안 생태계 수호 전자신문",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "821d8a2bd4525c7fef",
+      "title": "The latest tool to reduce nitrogen pollution : restoring retired cranberry bogs to natural wetlands",
+      "url": "https://www.capeandislands.org/local-news/2026-09-28/the-latest-tool-to-reduce-nitrogen-pollution-restoring-retired-cranberry-bogs-to-natural-wetlands",
+      "outlet": "capeandislands.org",
+      "domain": "capeandislands.org",
+      "published_at": "2026-09-29T00:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "http://npr-brightspot.s3.amazonaws.com/97/7a/f2086a0f45f88656169f8bad1953/sign-reader-09152026-akn.jpg",
+      "description": "",
+      "themes": [
+        "Restoration",
+        "Pollution & water quality"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "a517b3ec4051f90cbe",
+      "title": "무너지는 동해 연안, ‘바닷속 잘피’로 되살린다 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPUlZZcjRwUHY5SHBxdWQtMkY5NmRnTW9oZXI4enVIT2RDRHpGWVphcGZXUFU3VlFrOUlwN1lsdVBwWFZ1NVhwNE1UcVlOeWZPdzlVOWx5WmhHRkw0V0p0N2FvM2tkWUF1NkRpdk1PMEc4bVk2SzFrT1NxaUdlMUJZRFVLX2RsVWVkS0o5WTQtamEyM0JsektkMUpIMTNoc0lIemRtN2dFM3FIbHFGWnZMQ0hsWkp3UkRzWnc0VEQ4LWhyMi1TZ1FGYlhRR2p3ME1EZVVNVFY4UW9tbE92a0RyMEcybnJ5RDd1RnczeFBtQ1FCU21USURoeEwzb1VXaTFfLVdFeVFJa1hoeDB2cHVKdVJDcTVmaHJSTEJFbmdsYm03cWs?oc=5",
+      "outlet": "데일리안",
+      "domain": "news.google.com",
+      "published_at": "2026-09-28T23:22:00+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "무너지는 동해 연안, ‘바닷속 잘피’로 되살린다 데일리안",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "e3eae10b694b476b7f",
+      "title": "동해 바닷속 ‘살아있는 방파제’…잘피로 연안침식 30% 줄인다 - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80VjI1bXM0X25OQnU1SjRTb1dvTDdpZHgtaS1DNk4xLUpIalZCbWtlRzNSTFhSenJBMDcyZktaalhWM2Z2MXU1anNoSU9hZ1JGWUU0d3ZoWQ?oc=5",
+      "outlet": "헤럴드경제",
+      "domain": "news.google.com",
+      "published_at": "2026-09-28T22:45:08+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "동해 바닷속 ‘살아있는 방파제’…잘피로 연안침식 30% 줄인다 헤럴드경제",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "9a5820dc01ffc20d07",
+      "title": "At St . Pete Crescent lake , Stewards of our Urban Lake work goes far beyond plantings",
+      "url": "https://www.cltampa.com/news/at-st-petes-crescent-lake-stewards-of-our-urban-lakes-work-goes-far-beyond-plantings",
+      "outlet": "cltampa.com",
+      "domain": "cltampa.com",
+      "published_at": "2026-09-28T17:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://www.cltampa.com/wp-content/uploads/2026/09/Crescent-Lake-cityofstpeteFlickr-scaled.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "e161ac01b8d21cdc59",
+      "title": "잘피는 해조류가 아니다…바닷속 꽃식물의 생태 - 비건뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOaFZ4eVJhUGlScER0c0pBdWRyTXF2WmVSMENZRGlDOXJtLVVabGtWbEprWVhCV1UtNEtGcHhDREZLYkNWX1RjYzByM2ZDNXlhMmtXRW9HV2NTektPUzM1MVk2QXBNZw?oc=5",
+      "outlet": "비건뉴스",
+      "domain": "news.google.com",
+      "published_at": "2026-09-28T15:33:47+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "잘피는 해조류가 아니다…바닷속 꽃식물의 생태 비건뉴스",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "bad2ae026fc177c49e",
+      "title": "KKP : 97 persen kawasan konservasi Maksegara untuk pemanfaatan terbatas",
+      "url": "https://www.antaranews.com/berita/5762255/kkp-97-persen-kawasan-konservasi-maksegara-untuk-pemanfaatan-terbatas",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-09-28T15:15:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://img.antaranews.com/cache/1200x800/2026/09/28/WhatsApp-Image-2026-09-28-at-09.27.16-2.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "0c866138fbf5899885",
+      "title": "De lalta muntanya al Mediterrani : descobreix els espais naturals de Catalunya de manera responsable",
+      "url": "https://www.elperiodico.cat/societat/20260928/de-lalta-muntanya-al-mediterrani-132220360",
+      "outlet": "elperiodico.cat",
+      "domain": "elperiodico.cat",
+      "published_at": "2026-09-28T11:00:00+00:00",
+      "language": "Catalan",
+      "source_country": "Spain",
+      "image": "https://estaticos-cdn.prensaiberica.es/clip/b6f3e43d-8357-48f8-81b8-438b22624d86_alta-libre-aspect-ratio_default_0.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "3e8addaea66b23be43",
+      "title": "SON Estrella Galicia Posidonia celebrates its 10th anniversary with a decade of music , culture and unique experiences in Formentera",
+      "url": "http://www.prnewswire.com/news-releases/son-estrella-galicia-posidonia-celebrates-its-10th-anniversary-with-a-decade-of-music-culture-and-unique-experiences-in-formentera-302890496.html",
+      "outlet": "prnewswire.com",
+      "domain": "prnewswire.com",
+      "published_at": "2026-09-28T09:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://mmx.prnewswire.com/media/MS1996700/SONEstrellaGaliciaPosidonia2022_-2022-sbado_SONEstrellaGaliciaPosidonia2022.jpg?id=OA2971780&p=facebook",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
     {
       "id": "ce4f37526aca9df228",
       "title": "Eco-moorings for boats introduced to protect vulnerable underwater seagrass meadows - itv.com",
@@ -26,7 +820,31 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "1a211f4bcf1bd2dce8",
+      "title": "Laut Papua Seluas 162 Ribu Ha Resmi Jadi Kawasan Konservasi",
+      "url": "https://koran-jakarta.com/2026-09-28/laut-papua-seluas-162-ribu-ha-resmi-jadi-kawasan-konservasi",
+      "outlet": "koran-jakarta.com",
+      "domain": "koran-jakarta.com",
+      "published_at": "2026-09-28T07:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://media.koran-jakarta.com/images/image-article/2026-09/28/laut-papua-seluas-162-ribu-ha-resmi-jadi-kawasan-konservasi-6aba10e4b427a.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
       "baseline": false
     },
     {
@@ -50,7 +868,127 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "349d10c90a04f8a0c5",
+      "title": "001267 ， 拟加码高速率光模块产能 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202609273884539212.html",
+      "outlet": "finance.eastmoney.com",
+      "domain": "finance.eastmoney.com",
+      "published_at": "2026-09-27T19:00:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "958c85554e8468ebeb",
+      "title": "El PNUMA recupera el hábitat de un millón de especies amenazadas de extinción",
+      "url": "https://www.ecoportal.net/mundo/el-pnuma-recupera-el-habitat",
+      "outlet": "ecoportal.net",
+      "domain": "ecoportal.net",
+      "published_at": "2026-09-27T18:30:00+00:00",
+      "language": "Spanish",
+      "source_country": "United States",
+      "image": "https://www.ecoportal.net/wp-content/uploads/2026/09/getty-images-uW9tajpDcJQ-unsplash-1.jpg",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "ad560bb4b8d8545880",
+      "title": "9月27日晚间重要公告集锦 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202609273884525546.html",
+      "outlet": "finance.eastmoney.com",
+      "domain": "finance.eastmoney.com",
+      "published_at": "2026-09-27T14:45:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "48fa76064e993f2049",
+      "title": "Menjelajah Kelezatan Udon Autentik di Jantung Kuliner Singapura",
+      "url": "https://wisata.viva.co.id/wisata/30570-menjelajah-kelezatan-udon-autentik-di-jantung-kuliner-singapura",
+      "outlet": "wisata.viva.co.id",
+      "domain": "wisata.viva.co.id",
+      "published_at": "2026-09-27T12:30:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://thumb.viva.id/vivawisata/665x374/2026/09/27/6ab9049f4fe31-kitsune-udon_wisata.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "baseline": false
+    },
+    {
+      "id": "b85c6a7d44affb61f7",
+      "title": "Toilet Paper Stand Toilet Paper Storage , Toilet Paper Storage Holder For 6 Basket For Toilet Paper",
+      "url": "https://roarmag.org/Toilet-Paper-Storage-Toilet-Paper-Storage-Holder-For-b-635758",
+      "outlet": "roarmag.org",
+      "domain": "roarmag.org",
+      "published_at": "2026-09-27T11:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/819QGwfo1wL.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
       "baseline": false
     },
     {
@@ -74,7 +1012,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
       "baseline": false
     },
     {
@@ -98,7 +1036,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
       "baseline": false
     },
     {
@@ -122,7 +1060,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
       "baseline": false
     },
     {
@@ -147,7 +1085,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
       "baseline": false
     },
     {
@@ -267,7 +1205,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
       "baseline": false
     },
     {
@@ -12507,35 +13445,35 @@
     "languages": [
       [
         "English",
-        182
+        192
       ],
       [
         "Indonesian",
-        58
+        66
       ],
       [
         "German",
-        55
+        56
       ],
       [
         "Turkish",
         50
       ],
       [
+        "Korean",
+        37
+      ],
+      [
         "Chinese",
-        34
+        37
       ],
       [
         "Japanese",
         26
       ],
       [
-        "Korean",
-        24
-      ],
-      [
         "Spanish",
-        21
+        23
       ],
       [
         "Italian",
@@ -12546,6 +13484,10 @@
         10
       ],
       [
+        "Swahili",
+        6
+      ],
+      [
         "Thai",
         6
       ],
@@ -12554,8 +13496,8 @@
         6
       ],
       [
-        "Swahili",
-        5
+        "Catalan",
+        4
       ],
       [
         "Portuguese",
@@ -12567,10 +13509,6 @@
       ],
       [
         "Hindi",
-        3
-      ],
-      [
-        "Catalan",
         3
       ],
       [
@@ -12593,39 +13531,39 @@
     "countries": [
       [
         "GB",
-        75
+        77
       ],
       [
         "DE",
+        56
+      ],
+      [
+        "Indonesia",
         55
+      ],
+      [
+        "United States",
+        52
       ],
       [
         "TR",
         50
       ],
       [
-        "Indonesia",
-        47
-      ],
-      [
-        "United States",
-        46
+        "KR",
+        37
       ],
       [
         "JP",
         26
       ],
       [
-        "KR",
-        24
+        "China",
+        18
       ],
       [
         "ID",
-        16
-      ],
-      [
-        "China",
-        16
+        17
       ],
       [
         "CN",
@@ -12637,6 +13575,10 @@
       ],
       [
         "United Kingdom",
+        12
+      ],
+      [
+        "Spain",
         11
       ],
       [
@@ -12648,12 +13590,12 @@
         10
       ],
       [
-        "Spain",
-        10
-      ],
-      [
         "Australia",
         8
+      ],
+      [
+        "KE",
+        6
       ],
       [
         "MX",
@@ -12680,12 +13622,8 @@
         6
       ],
       [
-        "KE",
-        5
-      ],
-      [
         "ES",
-        4
+        5
       ],
       [
         "PT",
@@ -12694,6 +13632,10 @@
       [
         "IN",
         3
+      ],
+      [
+        "TW",
+        2
       ],
       [
         "Turkey",
@@ -12726,6 +13668,10 @@
       [
         "Norway",
         2
+      ],
+      [
+        "Vietnam",
+        1
       ],
       [
         "Taiwan",
@@ -12782,23 +13728,23 @@
       [
         "Jordan",
         1
-      ],
-      [
-        "TW",
-        1
       ]
     ],
     "outlets": [
       [
         "antaranews.com",
-        10
-      ],
-      [
-        "NDR.de",
-        6
+        13
       ],
       [
         "koran-jakarta.com",
+        7
+      ],
+      [
+        "NDR.de",
+        7
+      ],
+      [
+        "liputan6.com",
         5
       ],
       [
@@ -12830,8 +13776,12 @@
         4
       ],
       [
-        "liputan6.com",
-        4
+        "v.daum.net",
+        3
+      ],
+      [
+        "ecoportal.net",
+        3
       ],
       [
         "163.com",
@@ -12874,7 +13824,31 @@
         3
       ],
       [
+        "en.antaranews.com",
+        2
+      ],
+      [
+        "vietnamnews.vn",
+        2
+      ],
+      [
+        "wildshores.blogspot.com",
+        2
+      ],
+      [
+        "DongA Science",
+        2
+      ],
+      [
+        "capeandislands.org",
+        2
+      ],
+      [
         "RRI.co.id",
+        2
+      ],
+      [
+        "finance.eastmoney.com",
         2
       ],
       [
@@ -12930,10 +13904,6 @@
         2
       ],
       [
-        "v.daum.net",
-        2
-      ],
-      [
         "Spectrum News 13",
         2
       ],
@@ -12960,48 +13930,20 @@
       [
         "Yahoo!ニュース",
         2
-      ],
-      [
-        "日テレNEWS NNN",
-        2
-      ],
-      [
-        "straitstimes.com",
-        2
-      ],
-      [
-        "Haberler",
-        2
-      ],
-      [
-        "environment coastal & offshore",
-        2
-      ],
-      [
-        "ecoportal.net",
-        2
-      ],
-      [
-        "wlrn.org",
-        2
-      ],
-      [
-        "economictimes.indiatimes.com",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        380
+        415
       ],
       [
         "Restoration",
-        35
+        37
       ],
       [
         "Science & discovery",
-        32
+        33
       ],
       [
         "Conservation & policy",
@@ -13013,7 +13955,7 @@
       ],
       [
         "Wildlife & biodiversity",
-        22
+        23
       ],
       [
         "Climate & heat",
@@ -13025,7 +13967,7 @@
       ],
       [
         "Blue carbon",
-        9
+        10
       ],
       [
         "Fisheries & food",
@@ -13033,17 +13975,17 @@
       ],
       [
         "Pollution & water quality",
-        4
+        5
       ]
     ],
     "discovery_sources": [
       [
         "Google News RSS",
-        331
+        351
       ],
       [
         "GDELT",
-        189
+        208
       ]
     ]
   }
