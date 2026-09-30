@@ -1,10 +1,399 @@
 {
-  "generated_at": "2026-09-29T11:33:28.127791+00:00",
+  "generated_at": "2026-09-30T11:20:55.260105+00:00",
   "baseline_complete": true,
-  "article_count": 556,
-  "new_today": 39,
+  "article_count": 572,
+  "new_today": 16,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "d95ecf2479c4b004fd",
+      "title": "태안 파도리 잘피숲 1만 주 이식 완료…생존율 92.4% - 투데이충남",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5N1Z2OUhrNnVWT2VLd2dGcFdEcG5OcGp0QXNhMmVEVjdKdzRvRk81bkZhU00xY1k5Q3hwVFE1M0RZZ1FMakQ3X0dTZjA2U01wY2RENTNLaVo5MVBpb3E5cE9yQW5qRExoSUFvdnljS2JEZw?oc=5",
+      "outlet": "투데이충남",
+      "domain": "news.google.com",
+      "published_at": "2026-09-30T06:38:48+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "태안 파도리 잘피숲 1만 주 이식 완료…생존율 92.4% 투데이충남",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
+    {
+      "id": "eed3346c7d9cc90bd6",
+      "title": "한국수산자원공단 ‘생태계 복원, 잘피 숲 조성’ 성공적 마무리 - 서울신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RblNZZzFWSkd2Um5nVUJJRmUtaTFPeWdpVGs1MGh0UWZWbTN0MnQtblduNDU0QU0yNU0wSW16T1NnS2h0V1FneXJyQTZSaXMtb2NydWMyYWU0OXVqY1kxTFl1WXV0M0RiUVFwS3hMdw?oc=5",
+      "outlet": "서울신문",
+      "domain": "news.google.com",
+      "published_at": "2026-09-30T06:30:29+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "한국수산자원공단 ‘생태계 복원, 잘피 숲 조성’ 성공적 마무리 서울신문",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
+    {
+      "id": "70ef3295a3aec1b210",
+      "title": "한국수산자원공단, 민·관 협력 잘피숲 조성 사업 성료 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jVWxQTGF3bTNGckxBMmlsNjdKTnRsSzB2Y2VVck84cHowblNNT2ZLZC10blo5Q3RueUxZTTBWSHhnNlNYMFIyRndKY09vS3MzeVp4d0d0X3d5cjFhcFJkMVZXR0V1OWp5TV9yX2tNbUx3THpCTHFiTUdWMA?oc=5",
+      "outlet": "부산일보",
+      "domain": "news.google.com",
+      "published_at": "2026-09-30T05:37:28+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "한국수산자원공단, 민·관 협력 잘피숲 조성 사업 성료 부산일보",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
+    {
+      "id": "3466cc6b77a7ded1ae",
+      "title": "점토·한지로 태안 바다에 잘피 1만 주 이식…생존율 92.4% - 해양레저신문",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jbDhCSGNiZlBRY0tSdHprU0lWVjBYT1NGaE9RNDNGbVlESXlqeERKWmZ4a2xLT282cjJuc1I4VlZYZzZNakVBN2VYeHdyWEpwSzBKajhQbw?oc=5",
+      "outlet": "해양레저신문",
+      "domain": "news.google.com",
+      "published_at": "2026-09-30T05:09:00+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "점토·한지로 태안 바다에 잘피 1만 주 이식…생존율 92.4% 해양레저신문",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
+    {
+      "id": "d37fd26983f502e210",
+      "title": "Padang Lamun, Ekosistem Tersembunyi di Bawah Cantiknya Pantai Bali - RRI.co.id",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYl9PZkdQWjR4REl3VFBXSkY0WmpLbTdQZExVYS0wN0FnSGpvcG9mWnRuMmtQaWtxUkxhblpEWWZidFBuMGhBUXBiYTdsa0N0SlNDSm5RalI2Y3hsbG1YaHlweWlIUTA1QTVQQnBPSFZNbGVOWTJnUDViT1R1MHVLU08tWERpVzQ2UXZ4MGIzZ3duaTdjdE5jZmUxeV84c0h6c0FmNW5VS0Fua1BZbXRKN1V3?oc=5",
+      "outlet": "RRI.co.id",
+      "domain": "news.google.com",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Padang Lamun, Ekosistem Tersembunyi di Bawah Cantiknya Pantai Bali RRI.co.id",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
+    {
+      "id": "e7706ff5c0707bb5dd",
+      "title": "Indie odnawiają koralowce i trawy morskie, by chronić wyspę — Taipei Times - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUE5OWTFVMHlQUnFHZnFtNEI1V015akdXS0g5OTlKMXJxeUEzWWFjYmswZ0lfeGFXTUt2X2QweXpLcnpwRS1iUS1zcXZHSlRxY2tScTh4LXh1Vl9LRGdPVURuS0tvaGk2UGNBRndGNDVyUFpwUkRJRUo5WWg3b1kzS1pBQzBmVFdrNm9pRk85TXFWVkZnck0wOVI0Y081blcyY1E?oc=5",
+      "outlet": "UA.NEWS",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T23:13:06+00:00",
+      "language": "Polish",
+      "source_country": "PL",
+      "image": "",
+      "description": "Indie odnawiają koralowce i trawy morskie, by chronić wyspę — Taipei Times UA.NEWS",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Polish (PL)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
+    {
+      "id": "4ac8958f218b65a044",
+      "title": "India restores corals and seagrass to protect island — Taipei Times - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYlNOUEVzaWZBZDE2M3JsQmd1UF9RSU8yYnBVTzdidFFqanh1TmVJeW8zbkNtQkIwcE1ZWU45QUdtempTT2xGaEgxR0JsNmduSW1XTHBjYi16dkVvODF4TkIzbUdndVczVmhNRFFnVU9XeVpmd21kSXZUdjY0VUJsdW4wcEY2Njc0VGd3VzY0Vk9sSHNPVGd4RUhwdFhZdklnQ0E?oc=5",
+      "outlet": "UA.NEWS",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T23:09:05+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "India restores corals and seagrass to protect island — Taipei Times UA.NEWS",
+      "themes": [
+        "Restoration",
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
+    {
+      "id": "cb14e789d39f5511f0",
+      "title": "Индия восстанавливает кораллы и морские травы для защиты острова — Taipei Times - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWTdvZk5IR2h5SVN3Yk9lLTFyM2lMVXBDaDZzMklyaUNoaVlPMzcxanByLVBkeTU2OFVVZWUwQ3ZNc0w1UnZoUTRLLTlybDNhVnFUMTRlMVp2N3V4YTN6Z3RZMTI1MG9oVW50Y2tXTHBzR0hMUjhfamxTakl4VWhPZHdLd0ZEN09aeHVDeDJoMm5jRExGd1BLTmhrWEhVb09oUmc?oc=5",
+      "outlet": "UA.NEWS",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T23:02:37+00:00",
+      "language": "Russian",
+      "source_country": "RU",
+      "image": "",
+      "description": "Индия восстанавливает кораллы и морские травы для защиты острова — Taipei Times UA.NEWS",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Russian (RU)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
+    {
+      "id": "af5790dfb5c8548088",
+      "title": "India turns to corals and seagrass to shield against rising sea levels On a shrinking island off India's southern coast, workers thread bright green seagrass shoots onto wooden frames before they are planted on the ocean floor. The restoration work unfolding o - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3RYelVIM2xqRC1xYlRucHkwQmozYkFDdnduemg3ektLOVdIWnJtdUtWeDdmcDJLZkM3MzltamlDTzluQ01jakZuck1EVXNrSVZpNlo4cnR5YjNpT0NWZWZiYzhZTjBWX19PMS1qNklRVVFDVHZqaXZaVklfd0VfLWNEVUhnX2dsandRY0hfamM5Q2xYbTNWeDlKcmgtTkZWaWZ6dDd2MktMMkFVT1YxMUN4Q0RId3AxMmpHYjljU1pHa3hT?oc=5",
+      "outlet": "LinkedIn",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T19:45:20+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "India turns to corals and seagrass to shield against rising sea levels On a shrinking island off India's southern coast, workers thread bright green seagrass shoots onto wooden frames before they are planted on the ocean floor. The restoration work unfolding o LinkedIn",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
+    {
+      "id": "ddc047e7a6b22b35db",
+      "title": "Scientists call for protection and restoration of Africa's seagrass meadows - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BbG9ENUZ5cTJxNElURlJIZFFQVy1VTFpldGJyVFJXZkZVU3BLZ3hscXF2UGs4eENwZmtzU3ZvaktuSVhja3daOTRwOHRSNkdQZ2FrRlNvdnhSWS0xN3FnOTdrcXNNRHFKblVuOXlGWU1lUUZJcEFWYw?oc=5",
+      "outlet": "Phys.org",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T19:10:01+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Scientists call for protection and restoration of Africa's seagrass meadows Phys.org",
+      "themes": [
+        "Restoration",
+        "Conservation & policy",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
+    {
+      "id": "4be0461249dc0963dd",
+      "title": "Estepona's Museo del Mar to add new exhibits, videos and immersive seagrass meadow - Sur in English",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNalIyaXlqT0ZENFBiR0FHdVAyNjdlVGdibnRDZDE4d0J2SURQYkNYMVFMRGpaWG5hMkswN2VSNkM4NFVTMGw3UDZQcTFJZWZCN25nSGRfQldEQnNfaHNPTVpWcUNhZjNnWWx1anhGcjhiMHRjeHpNa1c3N09UX1IzYjVtTkhYMUVoX28zUUVQVU9zWkNKWmhJM0dlQUtRdjZMX2c?oc=5",
+      "outlet": "Sur in English",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T18:40:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Estepona's Museo del Mar to add new exhibits, videos and immersive seagrass meadow Sur in English",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
+    {
+      "id": "7aed8309b4db6cae23",
+      "title": "Scientists call for protection and restoration of Africa’s seagrass meadows - EurekAlert! Science News Releases",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtZjB2WFhSSGdkTm55UGFHUzFEUjItaDFRd29GLThtVWtQS2poR3l1RUtpQVl0TjFoRDZ4cURHbFViR3dNSmlqR1BCR09mVk83NFBTd3RhaU9QX21J?oc=5",
+      "outlet": "EurekAlert! Science News Releases",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T17:46:35+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Scientists call for protection and restoration of Africa’s seagrass meadows EurekAlert! Science News Releases",
+      "themes": [
+        "Restoration",
+        "Conservation & policy",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
+    {
+      "id": "7beb7d3795e2bcd3b5",
+      "title": "India uses corals, seagrass to shield against rising seas - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JSlhBYmFKQ1ZocUJaRjZTU2VuRU16Z2RZRTg2LWhuTzdkdGZIVHI4MlZVQ1J6Y1BzZi0yejFCM1JJUHFZaEVrV0pyQXB1bTR4THMyU2VjT0t3VmJ4cmJVYjVaMnpMTExLc0Z6MkZQRTkyUFlCRmNVaQ?oc=5",
+      "outlet": "Taipei Times",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T16:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "India uses corals, seagrass to shield against rising seas Taipei Times",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
+    {
+      "id": "bd9e5fb228ee335425",
+      "title": "Ấn Độ xây dựng lá chắn xanh từ san hô và cỏ biển - Laodong.vn",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbThxQlUwUTJZMHdUeldJUUlCYTNsMDBmQXg2WjNVN19pOWxSdmM5Qjhjc2hNVEpEWXZMWVgzQU01Smo1QUlNbUtwYnJyWjhtWm5rX2sxaE14RWhVQWJ1VHlIcU16eEVnMEJYWUwwQjBXcFY4RnJvM3ROMHRXOWl1MVdLVUNHS1U2bHBuSWd1emRQZHN4eGF3?oc=5",
+      "outlet": "Laodong.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T15:28:11+00:00",
+      "language": "Vietnamese",
+      "source_country": "VN",
+      "image": "",
+      "description": "Ấn Độ xây dựng lá chắn xanh từ san hô và cỏ biển Laodong.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Vietnamese (VN)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
+    {
+      "id": "6faf143cf7a6668762",
+      "title": "India turns to corals and seagrass to shield against rising seas - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51NVJQUEZEaDFUOUhDOFdtOTB1UENsbGE4MENyWEVOdnUySDd2dnhiYXg2T1lTTzNkblg2X3M5dzZUYUw1dEgybnlmdFlwSDc2a0RPdnRHUF9IN0N5WjBndVlXSUZ2UExXcm5XYTlJRU9valZUX2s4?oc=5",
+      "outlet": "Phys.org",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T15:20:02+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "India turns to corals and seagrass to shield against rising seas Phys.org",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
+    {
+      "id": "6e9d1b6cfec1f5f64e",
+      "title": "India gebruikt kunstmatige riffen en zeegras tegen stijgende zeespiegel - newsmonkey.be",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU25MS1c4S3ZDcURyd2pMUHQwZU1XSU9GVW9TbW1jS3hNcEw5Sm9Mb3dDb0x0bmxxMkRtc042U2xDWjR0MnJlcENwajdIM1Vha201Zl92elRGSEIzVjJVTVphWElELVdDZFRORlhvcElGdTJORWlTSk5sSUVOSFF5dWRpYkFnTkxPQjc4M3RPSXZaS3Z1Qmk1WUJR?oc=5",
+      "outlet": "newsmonkey.be",
+      "domain": "news.google.com",
+      "published_at": "2026-09-29T13:17:52+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "India gebruikt kunstmatige riffen en zeegras tegen stijgende zeespiegel newsmonkey.be",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "baseline": false
+    },
     {
       "id": "9642f4c31b4797dd33",
       "title": "India recurre a corales y praderas marinas ante la subida del nivel del mar - France 24",
@@ -26,7 +415,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -123,7 +512,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -171,7 +560,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -219,7 +608,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -243,7 +632,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -267,7 +656,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -315,7 +704,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -339,7 +728,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -363,7 +752,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -459,7 +848,7 @@
       ],
       "search_route": "Google News Chinese (TW)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -483,7 +872,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -507,7 +896,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -531,7 +920,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -555,7 +944,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -579,7 +968,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -603,7 +992,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -652,7 +1041,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -676,7 +1065,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -724,7 +1113,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -820,7 +1209,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -868,7 +1257,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -1012,7 +1401,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -1036,7 +1425,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -1060,7 +1449,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -1085,7 +1474,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "baseline": false
     },
     {
@@ -13445,11 +13834,11 @@
     "languages": [
       [
         "English",
-        192
+        199
       ],
       [
         "Indonesian",
-        66
+        67
       ],
       [
         "German",
@@ -13461,7 +13850,7 @@
       ],
       [
         "Korean",
-        37
+        41
       ],
       [
         "Chinese",
@@ -13481,7 +13870,7 @@
       ],
       [
         "Dutch",
-        10
+        11
       ],
       [
         "Swahili",
@@ -13504,6 +13893,14 @@
         4
       ],
       [
+        "Russian",
+        3
+      ],
+      [
+        "Vietnamese",
+        3
+      ],
+      [
         "Norwegian",
         3
       ],
@@ -13512,16 +13909,12 @@
         3
       ],
       [
-        "Vietnamese",
-        2
-      ],
-      [
         "Greek",
         2
       ],
       [
-        "Russian",
-        2
+        "Polish",
+        1
       ],
       [
         "French",
@@ -13531,7 +13924,7 @@
     "countries": [
       [
         "GB",
-        77
+        84
       ],
       [
         "DE",
@@ -13551,19 +13944,19 @@
       ],
       [
         "KR",
-        37
+        41
       ],
       [
         "JP",
         26
       ],
       [
-        "China",
+        "ID",
         18
       ],
       [
-        "ID",
-        17
+        "China",
+        18
       ],
       [
         "CN",
@@ -13578,15 +13971,15 @@
         12
       ],
       [
+        "NL",
+        11
+      ],
+      [
         "Spain",
         11
       ],
       [
         "US",
-        10
-      ],
-      [
-        "NL",
         10
       ],
       [
@@ -13630,6 +14023,14 @@
         4
       ],
       [
+        "RU",
+        3
+      ],
+      [
+        "VN",
+        3
+      ],
+      [
         "IN",
         3
       ],
@@ -13646,10 +14047,6 @@
         2
       ],
       [
-        "VN",
-        2
-      ],
-      [
         "Singapore",
         2
       ],
@@ -13662,12 +14059,12 @@
         2
       ],
       [
-        "RU",
+        "Norway",
         2
       ],
       [
-        "Norway",
-        2
+        "PL",
+        1
       ],
       [
         "Vietnam",
@@ -13744,6 +14141,10 @@
         7
       ],
       [
+        "Phys.org",
+        5
+      ],
+      [
         "liputan6.com",
         5
       ],
@@ -13774,6 +14175,14 @@
       [
         "kupang.tribunnews.com",
         4
+      ],
+      [
+        "RRI.co.id",
+        3
+      ],
+      [
+        "UA.NEWS",
+        3
       ],
       [
         "v.daum.net",
@@ -13812,16 +14221,16 @@
         3
       ],
       [
-        "Phys.org",
-        3
-      ],
-      [
         "搜狐网",
         3
       ],
       [
         "DW.com",
         3
+      ],
+      [
+        "부산일보",
+        2
       ],
       [
         "en.antaranews.com",
@@ -13841,10 +14250,6 @@
       ],
       [
         "capeandislands.org",
-        2
-      ],
-      [
-        "RRI.co.id",
         2
       ],
       [
@@ -13922,32 +14327,24 @@
       [
         "pic.hangzhou.com.cn",
         2
-      ],
-      [
-        "Betahita",
-        2
-      ],
-      [
-        "Yahoo!ニュース",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        415
+        427
       ],
       [
         "Restoration",
-        37
+        41
       ],
       [
         "Science & discovery",
-        33
+        35
       ],
       [
         "Conservation & policy",
-        29
+        32
       ],
       [
         "Development & infrastructure",
@@ -13981,7 +14378,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        351
+        367
       ],
       [
         "GDELT",
