@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:20:55.260105+00:00",
+  "generated_at": "2026-10-01T11:47:39.606899+00:00",
   "baseline_mode": false,
   "sources": {
     "gdelt": {
@@ -11,13 +11,11 @@
     },
     "google_news_rss": {
       "name": "Google News RSS",
-      "ok": false,
-      "fetched": 3093,
-      "kept": 42,
-      "feeds": 57,
-      "errors": [
-        "English/US: 404 Client Error: Not Found for url: https://news.google.com/rss/search?q=seagrass+OR+eelgrass&hl=en-US&gl=US&ceid=US%3A"
-      ]
+      "ok": true,
+      "fetched": 3201,
+      "kept": 45,
+      "feeds": 58,
+      "errors": []
     }
   },
   "coverage": {

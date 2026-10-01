@@ -1,10 +1,179 @@
 {
-  "generated_at": "2026-09-30T11:20:55.260105+00:00",
+  "generated_at": "2026-10-01T11:47:39.606899+00:00",
   "baseline_complete": true,
-  "article_count": 572,
-  "new_today": 16,
+  "article_count": 581,
+  "new_today": 9,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "ffed8ac3bd36eabefd",
+      "title": "Prozess um mutmaßlich illegale Entsorgung von Seegras-Abfällen - EUWID Recycling und Entsorgung",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1RFNjJUWWl5TU8yNmh3R3hucVgwOFFkSnhIREx2MlFqbkY4bjRVUFNycG4xS1JYTk1Gb3pQUDgtajFaYk55OU8ySzZCcV91enUyei02LW8ybEhwYUZvTV9zbUdrbWVKcElHS1pkVWtXRWNBV0NRTkh2TkpMRENydXlLbDgzMXphQTRrLVIxWkJjWWI5ODNra3JXUHF5UTBmbXlQb1l5QTUwbHUwMXVHWG9CSHMwQnlPZS13?oc=5",
+      "outlet": "EUWID Recycling und Entsorgung",
+      "domain": "news.google.com",
+      "published_at": "2026-10-01T10:44:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Prozess um mutmaßlich illegale Entsorgung von Seegras-Abfällen EUWID Recycling und Entsorgung",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "baseline": false
+    },
+    {
+      "id": "b8714040850c8bd2f4",
+      "title": "FWC research shapes seagrass restoration in Tampa Bay - Bay News 9",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHFHTy1QYy10V1U0TTJvQ3VnODA2WUhFaW1tYlk3Z2NaU3RIVGg1X0d2ZGZ6ZjVqSkp5WUphSGlWZ1h0ZmZtR08yY21aWmRiQzRGNU9aSXN0dS1wZWlNbDJhR1NvS2xOSHhTc200U055bG9jT0J3U1BfdkdKanN3aEdLaDlaeTlvemdHaGtHSHVoYVBqc1JIN2hzMkJCemNQ?oc=5",
+      "outlet": "Bay News 9",
+      "domain": "news.google.com",
+      "published_at": "2026-10-01T10:21:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "FWC research shapes seagrass restoration in Tampa Bay Bay News 9",
+      "themes": [
+        "Restoration",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "baseline": false
+    },
+    {
+      "id": "48fb0406de905425f4",
+      "title": "アマモをマモろう - web.nhk",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82cm1INWZTMGNEUV9vZW0zTzczWTFHYkdoNjRwbzNTX2xmd1BxVjFVbVU3ejlkWEkxdERPM1cyMG5HNVF3a2FranEzb2FSMXUyVkdhX2RqLUszZHp5WUdNT2NnQk1SM1FtVnYyUWwyV2x4cFJ3eS1CeERTemI?oc=5",
+      "outlet": "web.nhk",
+      "domain": "news.google.com",
+      "published_at": "2026-10-01T05:47:16+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "アマモをマモろう web.nhk",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "baseline": false
+    },
+    {
+      "id": "bca6860e6752f9a910",
+      "title": "Seagrass Microbes from Tanzania Hint at New Antibiotic Sources - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU09QSXFibnh2RVRycG40b1JFLXNQRjh0Y1JLQl8tRW5td2hUdDNQMEo5T2RrZzk0YnZfRXNRNm40UHY1cmpsWTMxRjZyMXBvazRUT0xoVzNqZ3ZTNDVXT3ZPeVhqWURhQ19WSklzRHVKMjl0aVB5VjNKbHZhbkFYOGVpNGl5QUNvUjlPblFYbE4?oc=5",
+      "outlet": "Bioengineer.org",
+      "domain": "news.google.com",
+      "published_at": "2026-10-01T00:22:12+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass Microbes from Tanzania Hint at New Antibiotic Sources Bioengineer.org",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "baseline": false
+    },
+    {
+      "id": "3588a84355106c9079",
+      "title": "Potensi Padang Lamun Kaltim Sebagai Pilar Ekonomi Biru - diksi.co",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tVDdwQXFrZVF1WnJvRUxJX1FyMEg2cVg5ejl6Ylg2VFF2d0hVQmFndHA4STJNT1lDZy1ud3RwNzAwT1hWVHA0OGpVeEJOU1FIX05JWFZqekZwd21sMmxiYl9UdEpUTmNWMUE?oc=5",
+      "outlet": "diksi.co",
+      "domain": "news.google.com",
+      "published_at": "2026-09-30T21:52:12+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Potensi Padang Lamun Kaltim Sebagai Pilar Ekonomi Biru diksi.co",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "baseline": false
+    },
+    {
+      "id": "57b2f580407ae551d2",
+      "title": "바닷속 살아있는 방파제 ‘잘피’ 동해연안 황폐화 해법될까 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41RjdUTkdLOElsTlltUjR2QWZtMl83SnN2TDA4Xzdnd3Z1eDJfOVpkMHIxbnh6S3U2MU9NaWtiS0Q2dGpYYWdvTy1jZGsyaFk?oc=5",
+      "outlet": "v.daum.net",
+      "domain": "news.google.com",
+      "published_at": "2026-09-30T15:07:00+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "바닷속 살아있는 방파제 ‘잘피’ 동해연안 황폐화 해법될까 v.daum.net",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "baseline": false
+    },
+    {
+      "id": "57d624115d44190dec",
+      "title": "Menghidupkan lamun, menabur harapan ekonomi biru - ANTARA News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeWtsOTNIRUZhN2M0MnpVUm85bXRHWVhEV0o3QUVYMjQ3UVRjYmNZV0RUX29jamdyQUhfT1N1VFNEOXZfdkYtbzVBMHp0VjZQNm1hQjhmdEgzakY1S2c5Mk5VLUJPeUV0OUU3dHlVQXJFNVRxZktSNG9tUzVhaEkwNmo4ZnhkYWtpSzQ0R2lMbFE2NEVfZ3A5T0ZGUdIBmwFBVV95cUxOeWtsOTNIRUZhN2M0MnpVUm85bXRHWVhEV0o3QUVYMjQ3UVRjYmNZV0RUX29jamdyQUhfT1N1VFNEOXZfdkYtbzVBMHp0VjZQNm1hQjhmdEgzakY1S2c5Mk5VLUJPeUV0OUU3dHlVQXJFNVRxZktSNG9tUzVhaEkwNmo4ZnhkYWtpSzQ0R2lMbFE2NEVfZ3A5T0ZGUQ?oc=5",
+      "outlet": "ANTARA News",
+      "domain": "news.google.com",
+      "published_at": "2026-09-30T13:22:26+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Menghidupkan lamun, menabur harapan ekonomi biru ANTARA News",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "baseline": false
+    },
     {
       "id": "d95ecf2479c4b004fd",
       "title": "태안 파도리 잘피숲 1만 주 이식 완료…생존율 92.4% - 투데이충남",
@@ -26,7 +195,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -50,7 +219,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -74,7 +243,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -98,7 +267,56 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
+      "baseline": false
+    },
+    {
+      "id": "c07992175d6c2111c0",
+      "title": "Scientists urge protection of Africa’s seagrass meadows - novanews.co.za",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON25PT3JRNzRXOUpFQ0NDN3hveGgwUWR5c0xUX0VOQW5hWF94bzlDUnFtVm9SRWt5UzdmVnJNOGtLZm83M1FSYWIxT1ZCM254blBMVFU0a2xnRkdobU1CemUtOXNXZUNKTFZsMGkwZ2FyTUY4WmxjX2U1ZGY2em5MVkszcnI?oc=5",
+      "outlet": "novanews.co.za",
+      "domain": "news.google.com",
+      "published_at": "2026-09-30T03:10:00+00:00",
+      "language": "English",
+      "source_country": "US",
+      "image": "",
+      "description": "Scientists urge protection of Africa’s seagrass meadows novanews.co.za",
+      "themes": [
+        "Conservation & policy",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (US)",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "baseline": false
+    },
+    {
+      "id": "ee6409062509e932a4",
+      "title": "풀등을 걷는 대이작도 생태여행...풀등부터 블루카본 잘피까지 - dnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OWVFrbWdJTjM3dXlhWVFjN25tNWdxVk4wQjA3OWxZSjBsTjhtcW4wSjlCRXlLbWIwYmozWFVWQ3ViQzdBdnJIV1FxX2FVQWcwc0dEWkxhU2J5V2JlWVdGWVZtenpQSFJEOXZWdWtUUDlQUEh1?oc=5",
+      "outlet": "dnews.co.kr",
+      "domain": "news.google.com",
+      "published_at": "2026-09-30T02:40:58+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "풀등을 걷는 대이작도 생태여행...풀등부터 블루카본 잘피까지 dnews.co.kr",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -122,7 +340,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -195,7 +413,7 @@
       ],
       "search_route": "Google News Russian (RU)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -219,7 +437,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -245,7 +463,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -295,7 +513,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -319,7 +537,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -343,7 +561,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -367,7 +585,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -415,7 +633,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -512,7 +730,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -560,7 +778,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -608,7 +826,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -632,7 +850,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -656,7 +874,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -704,7 +922,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -728,7 +946,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -752,7 +970,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -848,7 +1066,7 @@
       ],
       "search_route": "Google News Chinese (TW)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -896,7 +1114,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -920,7 +1138,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -944,7 +1162,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -968,7 +1186,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -992,7 +1210,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -1041,7 +1259,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -1065,7 +1283,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -1113,7 +1331,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -1209,7 +1427,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -1257,7 +1475,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -1401,7 +1619,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "baseline": false
     },
     {
@@ -13834,15 +14052,15 @@
     "languages": [
       [
         "English",
-        199
+        202
       ],
       [
         "Indonesian",
-        67
+        69
       ],
       [
         "German",
-        56
+        57
       ],
       [
         "Turkish",
@@ -13850,7 +14068,7 @@
       ],
       [
         "Korean",
-        41
+        43
       ],
       [
         "Chinese",
@@ -13858,7 +14076,7 @@
       ],
       [
         "Japanese",
-        26
+        27
       ],
       [
         "Spanish",
@@ -13924,11 +14142,11 @@
     "countries": [
       [
         "GB",
-        84
+        86
       ],
       [
         "DE",
-        56
+        57
       ],
       [
         "Indonesia",
@@ -13944,15 +14162,15 @@
       ],
       [
         "KR",
-        41
+        43
       ],
       [
         "JP",
-        26
+        27
       ],
       [
         "ID",
-        18
+        20
       ],
       [
         "China",
@@ -13971,16 +14189,16 @@
         12
       ],
       [
+        "US",
+        11
+      ],
+      [
         "NL",
         11
       ],
       [
         "Spain",
         11
-      ],
-      [
-        "US",
-        10
       ],
       [
         "Australia",
@@ -14165,6 +14383,10 @@
         5
       ],
       [
+        "v.daum.net",
+        4
+      ],
+      [
         "Aksiyon.com.TR",
         4
       ],
@@ -14177,15 +14399,15 @@
         4
       ],
       [
+        "ANTARA News",
+        3
+      ],
+      [
         "RRI.co.id",
         3
       ],
       [
         "UA.NEWS",
-        3
-      ],
-      [
-        "v.daum.net",
         3
       ],
       [
@@ -14227,6 +14449,10 @@
       [
         "DW.com",
         3
+      ],
+      [
+        "Bioengineer.org",
+        2
       ],
       [
         "부산일보",
@@ -14297,10 +14523,6 @@
         2
       ],
       [
-        "ANTARA News",
-        2
-      ],
-      [
         "Florida Atlantic University",
         2
       ],
@@ -14323,28 +14545,24 @@
       [
         "Kompasiana.com",
         2
-      ],
-      [
-        "pic.hangzhou.com.cn",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        427
+        434
       ],
       [
         "Restoration",
-        41
+        42
       ],
       [
         "Science & discovery",
-        35
+        37
       ],
       [
         "Conservation & policy",
-        32
+        33
       ],
       [
         "Development & infrastructure",
@@ -14378,7 +14596,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        367
+        376
       ],
       [
         "GDELT",
