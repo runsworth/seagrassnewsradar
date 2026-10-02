@@ -1,10 +1,276 @@
 {
-  "generated_at": "2026-10-01T11:47:39.606899+00:00",
+  "generated_at": "2026-10-02T11:20:37.635575+00:00",
   "baseline_complete": true,
-  "article_count": 581,
-  "new_today": 9,
+  "article_count": 594,
+  "new_today": 13,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "5a38f4b574ebb3d8bf",
+      "title": "El IEO-CSIC pone en marcha una nueva campaña de evaluación de la Posidonia oceanica en el litoral murciano - Industrias pesqueras",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGQ5czZWUEpFTXFLam40b1ptbldJWjBhR2Z3RUZmV0M5R3RiVkpyUXRpNGRYTzY3T1V4ZHFZd1hTSE5ZYUlDOWkzN1JxLU8wQnVJZTRKVTM4ZGhwR2F1R2E3eHZuM0NibHl0Uk1UT09Ieks2S3RSZm05WHNDVG1ZbTFB?oc=5",
+      "outlet": "Industrias pesqueras",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T07:21:11+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "El IEO-CSIC pone en marcha una nueva campaña de evaluación de la Posidonia oceanica en el litoral murciano Industrias pesqueras",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "baseline": false
+    },
+    {
+      "id": "405a1174a101a02306",
+      "title": "Avaliação do estado atual e da capacidade de sequestro de carbono dos bancos de ervas marinhas em Quang Tri. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUGh1bmZLR0stTGVQVXFTSmt6TXBEd2FUUU8zMTJLSW5wOFp0TE9FaVBTaHVvekcwWkxUTnZpWnczcUJOX243QW5yeEJ2ZU5QeXUtSS1KN29YeEdhMktRSXVCRk1kRjFBS0p5TXdBX3pjenQ2c0dURnNKSjlibzBYXzhNZ19qS3VpUFJUZlNuRDhBT1NWUmYwSVBmOUV1MV93?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T05:08:15+00:00",
+      "language": "Portuguese",
+      "source_country": "PT",
+      "image": "",
+      "description": "Avaliação do estado atual e da capacidade de sequestro de carbono dos bancos de ervas marinhas em Quang Tri. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Portuguese (PT)",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "baseline": false
+    },
+    {
+      "id": "3796c5125a8f2945bf",
+      "title": "Assessing the current status and carbon sequestration capacity of seagrass beds in Quang Tri. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOExVNF9aXzdmZldOd0R2bEIzWnMyRXZ5cE90NnA3bC1BaFNzd2RHVUNwUHI4ckdoMVVZdXI0OEhvWWFWcXA5bWpfWXpySGdMRWZvNlFFOFpfMjJnSFlxNUdtZXpNUENxajNpOVJvWFdhMFRTUDFKOF9Qczd2c1FzUUZsdGNjNTVQTmZhU3pGSGg5N3NiQ0EteDktdWQySFBP?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T04:45:53+00:00",
+      "language": "Vietnamese",
+      "source_country": "VN",
+      "image": "",
+      "description": "Assessing the current status and carbon sequestration capacity of seagrass beds in Quang Tri. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Vietnamese (VN)",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "baseline": false
+    },
+    {
+      "id": "a1b18e250b874a6721",
+      "title": "Bewertung des aktuellen Zustands und der Kohlenstoffspeicherkapazität von Seegraswiesen in Quang Tri. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3dDUUpPcHpSRlBTN2ktUW1pcE5iVlJpWGlwOTJwVVRFV2NNU0NTZkFabnBldHhqbkpPbEtSMVlFdlRKaFRfaU10LXlvbG1PUUNiV0FBR29lMDdDWFBUVVBHRWVPQXc4azh0c3hRZmthNG9WaXJIQWZXWmU3ZldhMTFhdFF6SEdqSFJCaVBVSEo5UmtPUHBvRTNyMnMtRTh5?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T04:36:59+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Bewertung des aktuellen Zustands und der Kohlenstoffspeicherkapazität von Seegraswiesen in Quang Tri. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "baseline": false
+    },
+    {
+      "id": "59154124aeca4e35a5",
+      "title": "Menilai status terkini dan kapasitas penyerapan karbon dari hamparan lamun di Quang Tri. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcTNnVXVuTnA3ekptQ0NUV01HMERacU9kRm1xX0xBUGNfdElpTEsxQ1dzOE1VNVlBek53RWFCM1NRQXd5T0pBMzRpWUh3M0JyeGFSSWxpdEtfZFJOTHJkRU5wVEhxcnVYV3VBRGVMVmV5RjljdDFyZ0Q1Wm9udnE1TXJlcXAyX0JaaHNQazB3THFkaTFyYUpxRlBkNGpUMk9p?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T04:34:34+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Menilai status terkini dan kapasitas penyerapan karbon dari hamparan lamun di Quang Tri. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "baseline": false
+    },
+    {
+      "id": "28e3172ef275f16e1b",
+      "title": "การประเมินสถานะปัจจุบันและศักยภาพในการกักเก็บคาร์บอนของแหล่งหญ้าทะเลในจังหวัดกวางตรี - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3pPSEVRWG12Qy1KWVVKejI0c3FweDV2eDI1OG1zZlA5SFJMMzJxQXVIT2hwMU9nYko5QVFqeVlDOXIwN1BQdk9zYzNZNHZMMEk1YVZzekxGV3J1bXpwTzFNYldLM3dHQ3RudE04dV9ZUnVOc21uQVZKenJHV1V5cTdIQTI0VHowQ3VmUmF1MjdFUHhYT181QmRDRVpFV1dw?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T04:22:38+00:00",
+      "language": "Thai",
+      "source_country": "TH",
+      "image": "",
+      "description": "การประเมินสถานะปัจจุบันและศักยภาพในการกักเก็บคาร์บอนของแหล่งหญ้าทะเลในจังหวัดกวางตรี Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Thai (TH)",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "baseline": false
+    },
+    {
+      "id": "3432b0129b71882973",
+      "title": "Het beoordelen van de huidige status en het koolstofvastleggingsvermogen van zeegrasvelden in Quang Tri. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWZrdlRuaTdkUE1qc2hEdVl0S0tTRGlVNnhJT3ZuQ1pORzRnZ2FrZ3l3N0RZbzJEbHBtYndYcVJGODVsTXlmeG5lQldaNHJMVFcwX0Y5RkdGS1dyRzE2RC1ublZON0o3Y1BuM0JJaTZXRzdGa1MzdS1kTGp5R1c4cERfZ2FxOXdEZ1cwa2RtTDBWbmJyWkJ1dUY3c0tNVVlZ?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T04:10:30+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Het beoordelen van de huidige status en het koolstofvastleggingsvermogen van zeegrasvelden in Quang Tri. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "baseline": false
+    },
+    {
+      "id": "6a7d49cee105440b81",
+      "title": "Quang Tri'deki deniz çayırlarının mevcut durumunun ve karbon tutma kapasitesinin değerlendirilmesi. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXdfZGg4TExyY0Z5Sk44cjBDNFpUcDl5NV95cW4zU3ZZNVhMS2tYcGQtM2FBbWZna2VRQlJFME1TaGozZ25vOFBiazktbU5FSkdwV3JDbVNhaGE1VFp1d1FoVjh0RHhZYmZ6cGNjN3J0OXU2UmZRa2FjWUlHRFJsd1FUNWRELS1ZTUgyck9jWk9aWXMxVzVmaFppQnRSMW5E?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T04:08:30+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Quang Tri'deki deniz çayırlarının mevcut durumunun ve karbon tutma kapasitesinin değerlendirilmesi. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "baseline": false
+    },
+    {
+      "id": "b65ab4f44845bfb783",
+      "title": "Evaluación del estado actual y la capacidad de secuestro de carbono de las praderas marinas en Quang Tri. - شبكة تواصل الإخبارية",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53VTBnXzR5UFdwV0NnRkpNNjBnX0thX1BuVTdBamlBWHpldU1uYmxPdHhhZTVtc1kzX2UxZjYtb2xOUm10amdzNXVoRmxLV1NmRG9j?oc=5",
+      "outlet": "شبكة تواصل الإخبارية",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T04:06:10+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "Evaluación del estado actual y la capacidad de secuestro de carbono de las praderas marinas en Quang Tri. شبكة تواصل الإخبارية",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "baseline": false
+    },
+    {
+      "id": "395f6b5690cbfab9a7",
+      "title": "Đánh giá hiện trạng, khả năng lưu trữ các-bon các thảm cỏ biển ở Quảng Trị - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWJxMUFEcFdYY1NRblJhWnZYbTRYVzhZVUl3UUVNMExRQWgxQmxPa01paGxoUks3Z2RwazBEaGNWa1ViRnhtVnZxbkRacVVaMm94SnFJN2owSm9JeWtDbWo2YWFVdTFKUEVZbWNWdHRoQy12MGFKWl84RG0ta0d5M0VoMVpPbHE0eTloWUxybFBTRkhvd2VWT3VRUS0?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T04:05:26+00:00",
+      "language": "Vietnamese",
+      "source_country": "VN",
+      "image": "",
+      "description": "Đánh giá hiện trạng, khả năng lưu trữ các-bon các thảm cỏ biển ở Quảng Trị Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Vietnamese (VN)",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "baseline": false
+    },
+    {
+      "id": "0d4090e5cb51e01a3f",
+      "title": "Ocena obecnego stanu i zdolności sekwestracji węgla przez skupiska trawy morskiej w Quang Tri. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV2hTWktBRlc5U0hOZ3gzaG0xUEluVlpaUHV2S1lHVjdydGZfd241bVJTM2VEbDRsbFRDV0h4Z2c1b2dUd1g1aEpjLXBPamZCcDNqVE5qRGctQi1lVDJKQVNLQnRHUXlCWUNPODZ4ZDEwU2lRWUNWcjZOMkVpSGpqOG9OZ2hBYnhGVnV3TFdSZTVOckNMamZyTHJPd0hmcU1R?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T04:02:25+00:00",
+      "language": "Polish",
+      "source_country": "PL",
+      "image": "",
+      "description": "Ocena obecnego stanu i zdolności sekwestracji węgla przez skupiska trawy morskiej w Quang Tri. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Polish (PL)",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "baseline": false
+    },
     {
       "id": "ffed8ac3bd36eabefd",
       "title": "Prozess um mutmaßlich illegale Entsorgung von Seegras-Abfällen - EUWID Recycling und Entsorgung",
@@ -26,7 +292,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -51,7 +317,31 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
+      "baseline": false
+    },
+    {
+      "id": "f6423152df5b6703dc",
+      "title": "환경재단 ‘잘피숲’ 조성, 해양 생태계 복원 효과 입증 - ecojournal.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TLUppUEp2V25yWFQtZjR0ZmVuWDl2UFRkZkFLSzdJcTNSUXAwbjJuZGVXYkx0WERsRDd1NjJxZTkyQy11SzJUUW5CZDZUazltTC1JUTBlaE5GTHJRSmtaSVF4RjFzX180X285NldYd0xOcC1mT1VXbA?oc=5",
+      "outlet": "ecojournal.co.kr",
+      "domain": "news.google.com",
+      "published_at": "2026-10-01T06:34:10+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "환경재단 ‘잘피숲’ 조성, 해양 생태계 복원 효과 입증 ecojournal.co.kr",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -123,7 +413,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -147,7 +437,31 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
+      "baseline": false
+    },
+    {
+      "id": "73a86282956c74c76c",
+      "title": "Palm Beach County hosts fifth annual soirée for seagrass - Florida Weekly",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQmxCRW9iVVl4Q0dOajZDTHhZcHJvS25Vb1FORzVvTjRXYU1fZmowOXZ3elJicHdmaEdTRG55VDlqNGpHU0Nna2l0Znk5S2ZDMXp1Qm16dDZkTUVtY1pGS3A5UVpzSDRIcEh1UVJ3b3A5Umtmc1haclVMQjhvUzZCN0FWa1lzM3RVLXlLNEZGYjZLWTNmRTFORGhKZ1BucTlCd0hNR21vTTBrTVBoYTRLNG80Qy1iMWdIX3l2dUp3X3FZbk5TaVpubDhQT2RISDl3VHRENU4tVG9scGRoalNrUUNR?oc=5",
+      "outlet": "Florida Weekly",
+      "domain": "news.google.com",
+      "published_at": "2026-09-30T15:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Palm Beach County hosts fifth annual soirée for seagrass Florida Weekly",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -171,7 +485,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -195,7 +509,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -219,7 +533,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -243,7 +557,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -267,7 +581,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -316,7 +630,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -340,7 +654,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -413,7 +727,7 @@
       ],
       "search_route": "Google News Russian (RU)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -463,7 +777,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -513,7 +827,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -537,7 +851,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -561,7 +875,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -585,7 +899,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -633,7 +947,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -730,7 +1044,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -778,7 +1092,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -826,7 +1140,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -850,7 +1164,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -874,7 +1188,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -922,7 +1236,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -946,7 +1260,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -970,7 +1284,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -1066,7 +1380,7 @@
       ],
       "search_route": "Google News Chinese (TW)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -1090,7 +1404,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -1114,7 +1428,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -1138,7 +1452,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -1162,7 +1476,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -1186,7 +1500,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -1210,7 +1524,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -1259,7 +1573,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -1283,7 +1597,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -1331,7 +1645,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -1427,7 +1741,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -1475,7 +1789,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "baseline": false
     },
     {
@@ -14052,23 +14366,23 @@
     "languages": [
       [
         "English",
-        202
+        203
       ],
       [
         "Indonesian",
-        69
+        70
       ],
       [
         "German",
-        57
+        58
       ],
       [
         "Turkish",
-        50
+        51
       ],
       [
         "Korean",
-        43
+        44
       ],
       [
         "Chinese",
@@ -14080,7 +14394,7 @@
       ],
       [
         "Spanish",
-        23
+        25
       ],
       [
         "Italian",
@@ -14088,14 +14402,14 @@
       ],
       [
         "Dutch",
-        11
-      ],
-      [
-        "Swahili",
-        6
+        12
       ],
       [
         "Thai",
+        7
+      ],
+      [
+        "Swahili",
         6
       ],
       [
@@ -14103,19 +14417,19 @@
         6
       ],
       [
+        "Portuguese",
+        5
+      ],
+      [
+        "Vietnamese",
+        5
+      ],
+      [
         "Catalan",
         4
       ],
       [
-        "Portuguese",
-        4
-      ],
-      [
         "Russian",
-        3
-      ],
-      [
-        "Vietnamese",
         3
       ],
       [
@@ -14127,12 +14441,12 @@
         3
       ],
       [
-        "Greek",
+        "Polish",
         2
       ],
       [
-        "Polish",
-        1
+        "Greek",
+        2
       ],
       [
         "French",
@@ -14142,11 +14456,11 @@
     "countries": [
       [
         "GB",
-        86
+        87
       ],
       [
         "DE",
-        57
+        58
       ],
       [
         "Indonesia",
@@ -14158,11 +14472,11 @@
       ],
       [
         "TR",
-        50
+        51
       ],
       [
         "KR",
-        43
+        44
       ],
       [
         "JP",
@@ -14170,7 +14484,7 @@
       ],
       [
         "ID",
-        20
+        21
       ],
       [
         "China",
@@ -14185,15 +14499,15 @@
         14
       ],
       [
+        "NL",
+        12
+      ],
+      [
         "United Kingdom",
         12
       ],
       [
         "US",
-        11
-      ],
-      [
-        "NL",
         11
       ],
       [
@@ -14205,6 +14519,14 @@
         8
       ],
       [
+        "ES",
+        7
+      ],
+      [
+        "TH",
+        7
+      ],
+      [
         "KE",
         6
       ],
@@ -14214,10 +14536,6 @@
       ],
       [
         "IT",
-        6
-      ],
-      [
-        "TH",
         6
       ],
       [
@@ -14233,24 +14551,24 @@
         6
       ],
       [
-        "ES",
+        "PT",
         5
       ],
       [
-        "PT",
-        4
+        "VN",
+        5
       ],
       [
         "RU",
         3
       ],
       [
-        "VN",
+        "IN",
         3
       ],
       [
-        "IN",
-        3
+        "PL",
+        2
       ],
       [
         "TW",
@@ -14279,10 +14597,6 @@
       [
         "Norway",
         2
-      ],
-      [
-        "PL",
-        1
       ],
       [
         "Vietnam",
@@ -14349,6 +14663,10 @@
       [
         "antaranews.com",
         13
+      ],
+      [
+        "Vietnam.vn",
+        10
       ],
       [
         "koran-jakarta.com",
@@ -14451,6 +14769,10 @@
         3
       ],
       [
+        "ecojournal.co.kr",
+        2
+      ],
+      [
         "Bioengineer.org",
         2
       ],
@@ -14537,20 +14859,12 @@
       [
         "wdr.de",
         2
-      ],
-      [
-        "Skift",
-        2
-      ],
-      [
-        "Kompasiana.com",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        434
+        447
       ],
       [
         "Restoration",
@@ -14596,7 +14910,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        376
+        389
       ],
       [
         "GDELT",
