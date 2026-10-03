@@ -1,10 +1,178 @@
 {
-  "generated_at": "2026-10-02T11:20:37.635575+00:00",
+  "generated_at": "2026-10-03T10:36:00.134435+00:00",
   "baseline_complete": true,
-  "article_count": 594,
-  "new_today": 13,
+  "article_count": 601,
+  "new_today": 7,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "2647cdc31144ee9004",
+      "title": "Eelgrass Rising - Watershed Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RcFlmTUFaVlYzQ0FkaHd1RzF4TVhYaUdidmMtRU00N1hTUGxibGJkOWlNR1dnZG55LUd5anVtUFM0UkdFMEF3NlV3V3FjTXIyUnZCWnR3LW55cldZM2k2VVJBcw?oc=5",
+      "outlet": "Watershed Sentinel",
+      "domain": "news.google.com",
+      "published_at": "2026-10-03T07:23:27+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Eelgrass Rising Watershed Sentinel",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "baseline": false
+    },
+    {
+      "id": "dd689aca69f62b3673",
+      "title": "Lamun Kaltim Simpan 1.157 Ton Karbon, Potensi Nilai Ekonominya Capai Rp5,78 Miliar - EKSPOSKALTIM",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTI2bUd5UmZOR1Y2a3VoRGRXRVZLcTJoM3R5SWRUUXJZWkZhUjdJNmJvclYzWlJHS2tvekUwT1d3YUhzWEVFTWs4cTduQ1ZlZWRKb00tQlpYSkNwT1VORWE1UWl3TlhrSE9GRGc4bHhtQWQzODBfbXpUUWNZSU53N1daalFzUWlJUEFmQTJBQzlKZEd1WE9xZjFTdVI1S21qNkxOQ1lCei1SWXlEUUZ3MTNBR29XSW80X0dvQS05VQ?oc=5",
+      "outlet": "EKSPOSKALTIM",
+      "domain": "news.google.com",
+      "published_at": "2026-10-03T05:07:17+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Lamun Kaltim Simpan 1.157 Ton Karbon, Potensi Nilai Ekonominya Capai Rp5,78 Miliar EKSPOSKALTIM",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "baseline": false
+    },
+    {
+      "id": "836ce8354f92e6bea9",
+      "title": "Brida Kaltim: Potensi Karbon Biru Padang Lamun Senilai Rp5,78 Miliar - IDN Times Kaltim",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTzVwZXNKRjFJaHlXdC1zaU9PTFhsZW5LX1pkcWJhMGJCQVhmekkzNHlhSVRfZ0JxYkl4RXlHb1puMlNKcy1JSHFEOW82WWhfVXh3Z1lYNy1jdURzX0xqbk1fOUhqYzBaSVY3TWVHZGNGcFBGQTRONUEzTFREdzJHTnZzVkMyalJYWU9HZ2lZdXh0a2ZPeXNjZGQyOU5PVVNDRklOc3pFZWd2RWVYM0FpaFBfUUZVdDZQTHkwaVpmcGpSdVBFYzlpSzBQaHFVQdIB0wFBVV95cUxOT0c5ekJHT2E0eEdqTkFuS29RMUlXSkhsV2ZEdHYwbHlRSlpVdG04RHQwM08taFZxc182U1pEOEtLeGZQdUc0R3RhQzdxc2tXVFpXYnVSLWlVc3lkQ2ZKOFV2bnVNb1dOQjNqckdzY21TN0wtazYzUHFYNFp6b0lodC1hVTVEQXBqUXBueEJsU0dPYWxraUpEdVVlNzNMcWpnemx5V2xOSExkUV90eFhRd1RMdWZSbUN5RDdrMms4Sk9icFdFQ29FQjFWQWRHaHZPbGFJ?oc=5",
+      "outlet": "IDN Times Kaltim",
+      "domain": "news.google.com",
+      "published_at": "2026-10-03T02:21:52+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Brida Kaltim: Potensi Karbon Biru Padang Lamun Senilai Rp5,78 Miliar IDN Times Kaltim",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "baseline": false
+    },
+    {
+      "id": "59e0840a727657094b",
+      "title": "Ekonomi karbon biru dari lamun Kaltim berpotensi peroleh Rp5,78 miliar - ANTARA News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZXhoUEUtaDJtRnNQdnNKOU9LYXpYOGFKN3NaXzFmR3ktN1NmTDlEVDB6TUZxbVJKSEpWeGJ4dUV2TWtmODgzS0VBZ2MwQmxFZ3BsUXJjRVpZZE4zeFh5ekk4eTNfX192b1p6bWpKeGwzcF9zRGlJamN2NzVpc3FGMl91dmFaR0lEaHdyUXlUWThUdEZDcUVsZlRHaTgzMUtFRmxzd3hqc2hSS214cm5hdjRvSlhvN3hO0gG4AUFVX3lxTE9leGhQRS1oMm1Gc1B2c0o5T0thelg4YUo3c1pfMWZHeS03U2ZMOURUMHpNRnFtUkpISlZ4Ynh1RXZNa2Y4ODNLRUFnYzBCbEVncGxRcmNFWllkTjN4WHl6STh5M19fX3ZvWnptakp4bDNwX3NEaUlqY3Y3NWlzcUYyX3V2YVpHSURod3JReVRZOFR0RkNxRWxmVEdpODMxS0VGbHN3eGpzaFJLbXhybmF2NG9KWG83eE4?oc=5",
+      "outlet": "ANTARA News",
+      "domain": "news.google.com",
+      "published_at": "2026-10-03T00:39:13+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Ekonomi karbon biru dari lamun Kaltim berpotensi peroleh Rp5,78 miliar ANTARA News",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "baseline": false
+    },
+    {
+      "id": "f4857d5d585a677ce2",
+      "title": "【神戸市兵庫区】兵庫運河でごみ拾いやアマモの種を投げ込む体験も！「TOYOTA SOCIAL FES!!」10月18日開催、応募は4日まで - 地域ニュースサイト号外NET",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtS1JlNXdNYUlXaEFUQzVWejY0cnF2U0pwMnd1MDVTOXBxLWs4N1FmVU9tRUF2SmkyR2NRUnhEaTZlakE4UXlpRGdGT0ZaWThfcG85RUxOd3phNmNqMFVzLXR0UHNzTFBacl9UZ3J1V25ON1ljWnJJ?oc=5",
+      "outlet": "地域ニュースサイト号外NET",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T23:18:33+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "【神戸市兵庫区】兵庫運河でごみ拾いやアマモの種を投げ込む体験も！「TOYOTA SOCIAL FES!!」10月18日開催、応募は4日まで 地域ニュースサイト号外NET",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "baseline": false
+    },
+    {
+      "id": "a9bacb4618758a13b3",
+      "title": "Seagrass Survives Coastal Pollution by Splitting Microbial Labor Between Root Zones - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGpCZmxLbmxsdmxoSkswZUZtWDVvQWtZN3B2MktVS1I2SVc1Sm5JYk5HQ2NlSTF3UGI2clNwYlZjdWhJZlJIZHhsZFlHZXpCWm4xbG9hM2tKXzQyNWhLY3lKOHREazFTNkRmV0lqUzEtclFtczZfYW1UbTcwUEh0Q193c1hwYlR3d3JZNzhveDd2WllZTWRJSjRObFVRblNZTk84Qm9BX3JpWXlG?oc=5",
+      "outlet": "Bioengineer.org",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T16:54:46+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass Survives Coastal Pollution by Splitting Microbial Labor Between Root Zones Bioengineer.org",
+      "themes": [
+        "Pollution & water quality"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "baseline": false
+    },
+    {
+      "id": "cd0f4884e903f4788a",
+      "title": "Riset Brida Kaltim ungkap lamun simpan karbon 383 ton per hektare - ANTARA News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUThUX0NDN1A2WG8tb0ZpVUM0bFFCVkNtLWRFZUdfN2dhNExSQ2t3clhMUy0wdndyNUxoV1NsVW1UQkE1ak5LdmlZRzZDWlpHTnlaWUtqOF95MWpaSVBPM1NLc2JhaC02SnBqdngzNV95WU1sUHdFTXJfVlBwY1p3NlRHaC1oRkhmd3JFR21UUXJSQ25pRGY0Vi1xQXAwZTQ5MmtzMG9tS2RqcUd3UFc2dkJDWdIBswFBVV95cUxPUThUX0NDN1A2WG8tb0ZpVUM0bFFCVkNtLWRFZUdfN2dhNExSQ2t3clhMUy0wdndyNUxoV1NsVW1UQkE1ak5LdmlZRzZDWlpHTnlaWUtqOF95MWpaSVBPM1NLc2JhaC02SnBqdngzNV95WU1sUHdFTXJfVlBwY1p3NlRHaC1oRkhmd3JFR21UUXJSQ25pRGY0Vi1xQXAwZTQ5MmtzMG9tS2RqcUd3UFc2dkJDWQ?oc=5",
+      "outlet": "ANTARA News",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T12:06:08+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Riset Brida Kaltim ungkap lamun simpan karbon 383 ton per hektare ANTARA News",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "baseline": false
+    },
     {
       "id": "5a38f4b574ebb3d8bf",
       "title": "El IEO-CSIC pone en marcha una nueva campaña de evaluación de la Posidonia oceanica en el litoral murciano - Industrias pesqueras",
@@ -52,7 +220,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -76,7 +244,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -100,7 +268,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -124,7 +292,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -148,7 +316,7 @@
       ],
       "search_route": "Google News Thai (TH)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -172,7 +340,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -196,7 +364,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -220,7 +388,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -244,7 +412,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -292,7 +460,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -317,7 +485,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -341,7 +509,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -437,7 +605,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -485,7 +653,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -509,7 +677,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -533,7 +701,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -557,7 +725,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -581,7 +749,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -630,7 +798,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -654,7 +822,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -727,7 +895,7 @@
       ],
       "search_route": "Google News Russian (RU)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -777,7 +945,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -801,7 +969,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -827,7 +995,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -851,7 +1019,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -875,7 +1043,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -899,7 +1067,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -947,7 +1115,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -1044,7 +1212,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -1092,7 +1260,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -1140,7 +1308,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -1164,7 +1332,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -1188,7 +1356,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -1236,7 +1404,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -1380,7 +1548,7 @@
       ],
       "search_route": "Google News Chinese (TW)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -1428,7 +1596,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -1452,7 +1620,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -1476,7 +1644,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -1500,7 +1668,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -1524,7 +1692,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -1573,7 +1741,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -1597,7 +1765,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -1645,7 +1813,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "baseline": false
     },
     {
@@ -14366,11 +14534,11 @@
     "languages": [
       [
         "English",
-        203
+        205
       ],
       [
         "Indonesian",
-        70
+        74
       ],
       [
         "German",
@@ -14390,7 +14558,7 @@
       ],
       [
         "Japanese",
-        27
+        28
       ],
       [
         "Spanish",
@@ -14456,7 +14624,7 @@
     "countries": [
       [
         "GB",
-        87
+        89
       ],
       [
         "DE",
@@ -14480,11 +14648,11 @@
       ],
       [
         "JP",
-        27
+        28
       ],
       [
         "ID",
-        21
+        25
       ],
       [
         "China",
@@ -14677,6 +14845,10 @@
         7
       ],
       [
+        "ANTARA News",
+        5
+      ],
+      [
         "Phys.org",
         5
       ],
@@ -14717,7 +14889,7 @@
         4
       ],
       [
-        "ANTARA News",
+        "Bioengineer.org",
         3
       ],
       [
@@ -14770,10 +14942,6 @@
       ],
       [
         "ecojournal.co.kr",
-        2
-      ],
-      [
-        "Bioengineer.org",
         2
       ],
       [
@@ -14864,7 +15032,7 @@
     "themes": [
       [
         "General seagrass news",
-        447
+        453
       ],
       [
         "Restoration",
@@ -14904,13 +15072,13 @@
       ],
       [
         "Pollution & water quality",
-        5
+        6
       ]
     ],
     "discovery_sources": [
       [
         "Google News RSS",
-        389
+        396
       ],
       [
         "GDELT",
