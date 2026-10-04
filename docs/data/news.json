@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-10-03T10:36:00.134435+00:00",
+  "generated_at": "2026-10-04T11:16:14.108918+00:00",
   "baseline_complete": true,
-  "article_count": 601,
-  "new_today": 7,
+  "article_count": 606,
+  "new_today": 5,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "cb867be4243627e085",
+      "title": "‘It can be quite magical’: Galway’s seagrass defenders on a vital underwater carbon store - The Irish Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNczdVWkZzT3djUmdjTGg5enoyZFhTS2ZsNlBOekotX0s1cVRUSXd6VmxKY0xhN0IzckxEWjZJUGNjUnJBUWlYdHR2eGRpa1dRRVROSnI1bUFqbEZyanBNUV9tMHVSVmlMRU5MOUtPdUhYSHpjNkxhVHFmQVdnV0t0aC1yQjREVFNNcUNQbmRFd1lOa2hlbS1xYlZEdk9fSjhwdFp4enFTdlM3VHJ6eDJyR1ltY1BxcjJmRm1HWmRRT2t1TVBqVFNxcHdXV2V3WmplS0E?oc=5",
+      "outlet": "The Irish Times",
+      "domain": "news.google.com",
+      "published_at": "2026-10-04T10:29:14+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "‘It can be quite magical’: Galway’s seagrass defenders on a vital underwater carbon store The Irish Times",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "baseline": false
+    },
+    {
+      "id": "6f2e4d5dc4a797db74",
+      "title": "Ekonomi Karbon Biru dari Lamun Kaltim Berpotensi Hasilkan Rp5,78 Miliar - Koran Jakarta ®",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGxnb3BTVnlvQjBjcWwxZDB4QVBxTzU5dGw4clBCUHk5UXRDV3pzTEtxVEtBUm5hY29sWEJHMzFiX1lUcGF5anU3ak1tamRpaGZMWTVENXRMUjlCaU5LQzdrRzhFMzJXcHY5amtoRy04WnlXMEVYWllrUTNqWVRPUEhGN0QxVW9SSGVCV1k5MThoNm40cUV1TmhBaThWUWptTTdqOTVyU1loZW9hMkZwT9IBsAFBVV95cUxOVGxnb3BTVnlvQjBjcWwxZDB4QVBxTzU5dGw4clBCUHk5UXRDV3pzTEtxVEtBUm5hY29sWEJHMzFiX1lUcGF5anU3ak1tamRpaGZMWTVENXRMUjlCaU5LQzdrRzhFMzJXcHY5amtoRy04WnlXMEVYWllrUTNqWVRPUEhGN0QxVW9SSGVCV1k5MThoNm40cUV1TmhBaThWUWptTTdqOTVyU1loZW9hMkZwTw?oc=5",
+      "outlet": "Koran Jakarta ®",
+      "domain": "news.google.com",
+      "published_at": "2026-10-04T02:40:00+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Ekonomi Karbon Biru dari Lamun Kaltim Berpotensi Hasilkan Rp5,78 Miliar Koran Jakarta ®",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "baseline": false
+    },
+    {
+      "id": "1265be0cdd188a86c2",
+      "title": "旬の魚・こぼれ話＝【アカアシ】アマモ復活 漁獲増期待 天ぷら、素焼きが美味（県水産・海洋技術研究所） - 静岡新聞DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tVnFTSmtXSDk3ZG83U0FfMHhqS3pjdlJnelF1N05fYXZpMHZqSVN0ejVXUk00WnNMRlVtdTlDNkxyMFJGM0tBR1JVZHZsUQ?oc=5",
+      "outlet": "静岡新聞DIGITAL",
+      "domain": "news.google.com",
+      "published_at": "2026-10-03T19:00:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "旬の魚・こぼれ話＝【アカアシ】アマモ復活 漁獲増期待 天ぷら、素焼きが美味（県水産・海洋技術研究所） 静岡新聞DIGITAL",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "baseline": false
+    },
     {
       "id": "2647cdc31144ee9004",
       "title": "Eelgrass Rising - Watershed Sentinel",
@@ -26,7 +98,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -50,7 +122,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -74,7 +146,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -122,7 +194,31 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
+      "baseline": false
+    },
+    {
+      "id": "a0a40efff59b9fef6b",
+      "title": "मलुकू टेराउंडा के रेजिमेंटल ब्यूरेट ने Wamen KKP RI के साथ समुद्री घास और मछुआरा गांवों को मजबूत करने पर चर्चा की - VOI.ID",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE04TEZuWlpIb21wVVEybmtqR0k0SkMydVJFUmpaZlhKZWRURkZrSnU2TmVvMWtOTTJKZnVNdjJrRy1MYVnSAUJBVV95cUxQOUlTSmk1QnpmemRJVEgwcld2SkpDMVZyUlRqOFNxSnRnZnU5cVF0TDhBX2FYQmR6UUlQTnRUeDc4WFE?oc=5",
+      "outlet": "VOI.ID",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T18:31:30+00:00",
+      "language": "Hindi",
+      "source_country": "IN",
+      "image": "",
+      "description": "मलुकू टेराउंडा के रेजिमेंटल ब्यूरेट ने Wamen KKP RI के साथ समुद्री घास और मछुआरा गांवों को मजबूत करने पर चर्चा की VOI.ID",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Hindi (IN)",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -170,7 +266,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -220,7 +316,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -244,7 +340,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -268,7 +364,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -292,7 +388,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -316,7 +412,7 @@
       ],
       "search_route": "Google News Thai (TH)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -340,7 +436,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -364,7 +460,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -388,7 +484,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -412,7 +508,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -460,7 +556,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -485,7 +581,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -509,7 +605,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -581,7 +677,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -605,7 +701,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -657,6 +753,30 @@
       "baseline": false
     },
     {
+      "id": "775dfe9a3b0ef1dcbc",
+      "title": "Menghidupkan kembali lamun, menabur harapan ekonomi biru - ANTARA News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSDFvWWZ1alFUZkRTZTd1b3RJSlFmNVF6Zi1zeE9FeVN3YmlLbEtkejh6enlCWmhXZGpwcHZlT2poNWdHVGlSaEZtNjJCRG5oN2pKMnl4WlVLcjNCTWN6eDVIZFdnNDY0bk1iaWtoUU5aNGZYQWY5RkhKbFNubWdlMFhYY0FzclhVV1Q5UEZnM1h1ODhwQzJnd2xjRm5DTmNLc3ZGSTkxQmwxUdIBoAFBVV95cUxQaS14TTFjaDRhYjc1OVdPTHdrZmpLbkluM3dpMG8yVm5FejF4VnZjRThSaHl5QVNyWjFQUkJjLVJRQjVwd05JUV9GVDU0Sm1jWE92MHhRQ09PTTkycGx2RTVOcG9FazdEX0NubTA4ZTUxaE1Zcm1vSFEwSE1OaHJkLWYwZExXWFZia3NJNU50U3FqeTBYRVNJRlB0TVRWRzY4?oc=5",
+      "outlet": "ANTARA News",
+      "domain": "news.google.com",
+      "published_at": "2026-09-30T12:46:00+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Menghidupkan kembali lamun, menabur harapan ekonomi biru ANTARA News",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "baseline": false
+    },
+    {
       "id": "d95ecf2479c4b004fd",
       "title": "태안 파도리 잘피숲 1만 주 이식 완료…생존율 92.4% - 투데이충남",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5N1Z2OUhrNnVWT2VLd2dGcFdEcG5OcGp0QXNhMmVEVjdKdzRvRk81bkZhU00xY1k5Q3hwVFE1M0RZZ1FMakQ3X0dTZjA2U01wY2RENTNLaVo5MVBpb3E5cE9yQW5qRExoSUFvdnljS2JEZw?oc=5",
@@ -677,7 +797,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -701,7 +821,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -725,7 +845,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -749,7 +869,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -798,7 +918,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -822,7 +942,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -895,7 +1015,7 @@
       ],
       "search_route": "Google News Russian (RU)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -945,7 +1065,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -995,7 +1115,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -1043,7 +1163,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -1067,7 +1187,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -2462,7 +2582,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -3238,7 +3358,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-10-04",
       "baseline": false
     },
     {
@@ -14534,11 +14654,11 @@
     "languages": [
       [
         "English",
-        205
+        206
       ],
       [
         "Indonesian",
-        74
+        76
       ],
       [
         "German",
@@ -14558,7 +14678,7 @@
       ],
       [
         "Japanese",
-        28
+        29
       ],
       [
         "Spanish",
@@ -14593,6 +14713,10 @@
         5
       ],
       [
+        "Hindi",
+        4
+      ],
+      [
         "Catalan",
         4
       ],
@@ -14602,10 +14726,6 @@
       ],
       [
         "Norwegian",
-        3
-      ],
-      [
-        "Hindi",
         3
       ],
       [
@@ -14624,7 +14744,7 @@
     "countries": [
       [
         "GB",
-        89
+        90
       ],
       [
         "DE",
@@ -14648,11 +14768,11 @@
       ],
       [
         "JP",
-        28
+        29
       ],
       [
         "ID",
-        25
+        27
       ],
       [
         "China",
@@ -14727,11 +14847,11 @@
         5
       ],
       [
-        "RU",
-        3
+        "IN",
+        4
       ],
       [
-        "IN",
+        "RU",
         3
       ],
       [
@@ -14846,7 +14966,7 @@
       ],
       [
         "ANTARA News",
-        5
+        6
       ],
       [
         "Phys.org",
@@ -14941,6 +15061,10 @@
         3
       ],
       [
+        "VOI.ID",
+        2
+      ],
+      [
         "ecojournal.co.kr",
         2
       ],
@@ -15023,16 +15147,12 @@
       [
         "Spectrum News 13",
         2
-      ],
-      [
-        "wdr.de",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        453
+        458
       ],
       [
         "Restoration",
@@ -15078,7 +15198,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        396
+        401
       ],
       [
         "GDELT",
