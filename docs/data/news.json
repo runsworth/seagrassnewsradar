@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-10-04T11:16:14.108918+00:00",
+  "generated_at": "2026-10-05T12:37:01.248741+00:00",
   "baseline_complete": true,
-  "article_count": 606,
-  "new_today": 5,
+  "article_count": 609,
+  "new_today": 3,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "97105df43172ffc690",
+      "title": "Grote zeedier beweegt door dicht zeegras - MSN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcURoei1VNG1JV1E1Z1phNXFySTRqOEVNZUZzN2puZUtvWjV1M29kRGxUdE5XT0VJeHdzb0NOZXV2WWR2V2dpYWtCNk55d3U5eDlwWHhkNzNSTHFFNk9rd1RmdzNHeHFCUlpteEE3cDlLalJ0WThWczlfRjBSZThZNEEyZ1JnMkd5bnpxMWFqQ3R1Y1V0dTZ2VTJOWUtJSC1qWDN0aA?oc=5",
+      "outlet": "MSN",
+      "domain": "news.google.com",
+      "published_at": "2026-10-05T11:20:29+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Grote zeedier beweegt door dicht zeegras MSN",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "baseline": false
+    },
+    {
+      "id": "a4c5f81eb752d7d86b",
+      "title": "India's disappearing islands turn to seagrass to fight rising seas - Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rbVNfaWM5ZUdFM1pQSnFadWxkcEpaQXZ2WVN0SGxzNW8wcXJCSmt0TXRCV1RNeTRUaVNDSkhSM2Q1eVFEVU95eXowbmZDbVNDbjkyRmo3N2RxSm53VFo2R2pqcXIyNzDSAVxBVV95cUxNZ09wd1BLczRoU3Z5UVVjLWFvUFVWSGxDcXlWaXN1MnNPWnptbXNEOENXai0yalZRVXo5TEhIYzhiVFdfYnBUNXVxT1Q0VnZ6N254dFlxcktJNGJ3SA?oc=5",
+      "outlet": "Modern Ghana",
+      "domain": "news.google.com",
+      "published_at": "2026-10-04T22:30:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "India's disappearing islands turn to seagrass to fight rising seas Modern Ghana",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "baseline": false
+    },
     {
       "id": "cb867be4243627e085",
       "title": "‘It can be quite magical’: Galway’s seagrass defenders on a vital underwater carbon store - The Irish Times",
@@ -50,7 +98,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -74,7 +122,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -98,7 +146,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -122,7 +170,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -146,7 +194,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -194,7 +242,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -218,7 +266,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -266,7 +314,33 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
+      "baseline": false
+    },
+    {
+      "id": "15000eceeba2b47691",
+      "title": "La Red ciudadana para la restauración de Posidonia oceanica en el Mediterráneo, Medmar, galardonada en los Premios Sea Positive - IPac Acuicultura",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBudUdzS0czUTNIeU0wZ21vR0VFaGFHbGtBa2ZaX3k0X2tRWGF6NE1UX2U0NXFON011T1pDMTFxamNSY1hZcElGaFJVLWM3a0ZtcXJQdVlfYW9RWUpXRXNZdmQyYW5vQkVyZkMw?oc=5",
+      "outlet": "IPac Acuicultura",
+      "domain": "news.google.com",
+      "published_at": "2026-10-02T11:52:05+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "La Red ciudadana para la restauración de Posidonia oceanica en el Mediterráneo, Medmar, galardonada en los Premios Sea Positive IPac Acuicultura",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -316,7 +390,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -340,7 +414,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -364,7 +438,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -388,7 +462,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -412,7 +486,7 @@
       ],
       "search_route": "Google News Thai (TH)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -436,7 +510,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -460,7 +534,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -484,7 +558,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -508,7 +582,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -556,7 +630,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -581,7 +655,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -605,7 +679,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -653,7 +727,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -677,7 +751,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -701,7 +775,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -773,7 +847,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -3358,7 +3432,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "baseline": false
     },
     {
@@ -14654,7 +14728,7 @@
     "languages": [
       [
         "English",
-        206
+        207
       ],
       [
         "Indonesian",
@@ -14682,7 +14756,7 @@
       ],
       [
         "Spanish",
-        25
+        26
       ],
       [
         "Italian",
@@ -14690,7 +14764,7 @@
       ],
       [
         "Dutch",
-        12
+        13
       ],
       [
         "Thai",
@@ -14744,7 +14818,7 @@
     "countries": [
       [
         "GB",
-        90
+        91
       ],
       [
         "DE",
@@ -14788,7 +14862,7 @@
       ],
       [
         "NL",
-        12
+        13
       ],
       [
         "United Kingdom",
@@ -14803,12 +14877,12 @@
         11
       ],
       [
-        "Australia",
+        "ES",
         8
       ],
       [
-        "ES",
-        7
+        "Australia",
+        8
       ],
       [
         "TH",
@@ -15152,11 +15226,11 @@
     "themes": [
       [
         "General seagrass news",
-        458
+        460
       ],
       [
         "Restoration",
-        42
+        43
       ],
       [
         "Science & discovery",
@@ -15198,7 +15272,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        401
+        404
       ],
       [
         "GDELT",
