@@ -1,10 +1,131 @@
 {
-  "generated_at": "2026-10-05T12:37:01.248741+00:00",
+  "generated_at": "2026-10-06T12:12:52.427353+00:00",
   "baseline_complete": true,
-  "article_count": 609,
-  "new_today": 3,
+  "article_count": 615,
+  "new_today": 6,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "96e58f5ce57e5e17b2",
+      "title": "Seagrass meadows bounce back with new fish communities - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iZmdwQ3V6elVfMEtVS2swNFlFVUd1QjBOTXFUcnc4d3JFMVRfRFpPcWZtRFNyOF9tMWZtOWZsQVY2cVBndTFwNFlTZkxyZzBOMlM0OXc1aHY1WFctUEhyT1BWSnZfN19CMHoxWmpOVGpvdTVLbTJV?oc=5",
+      "outlet": "Phys.org",
+      "domain": "news.google.com",
+      "published_at": "2026-10-06T11:40:02+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass meadows bounce back with new fish communities Phys.org",
+      "themes": [
+        "Wildlife & biodiversity",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "baseline": false
+    },
+    {
+      "id": "274d68b8036a2ac3e8",
+      "title": "Seagrass: The tiny plant worth more than you think | DW News - modernghana.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14TnE4djBBTG5hMGpOaDBoZVFPUTRQUlVWZnFLdms0MmxxM3hSSVlaUzkyZHJpNHZnRnVMQTdSZkQ0Zl8tSE5KZ3VMMnZMNGRDZ2lEWU9RQXBlNzNBSHfSAVxBVV95cUxQUkZVc0dKQ0ZNTkxLcm13enV6dkgwYVBidDBmQVQzaWVHSXYzX2hNTlBTOUhlbFZaX2RjNnFBYktnZWpnN3FEcFF4ZVRYMHdZZUFva0VwTjFIb2ZtbA?oc=5",
+      "outlet": "modernghana.com",
+      "domain": "news.google.com",
+      "published_at": "2026-10-06T10:10:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass: The tiny plant worth more than you think | DW News modernghana.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "baseline": false
+    },
+    {
+      "id": "73cba41009aa6764b9",
+      "title": "JCU study reveals changes to revived seagrass meadows near Cairns - cairnspost.com.au",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQS2RIZjVQV1ZmZkVIUm5NSnZtVjNYU1ZDSUdwT2RacWdxYndRQ2tkUm9vZHhKNHBmM2RCTGl2SmRfVDVxTm5KYjdRUVFEa3B2RVB3elpXMlluS3F1MHJLUGdzbjczdnEtaEMzcXdQWjNpLWFkMnVQWEV2V0NXbkFvZnlyVmJsSFdvUl9zUDQ5X2ptVTEtVHJ2cl9oR01lbzVIYTRSUmVDd3F0TU5mUWhYX2Vxa1JaUGJkRVdDZXFlbDVBSWs3bnZTMHJ0UHVuLXYxNmtOSkFpMGJKM2xoWmFZMzY0OEVJbDF5amJ6Nm5tUkJ4d2ZndDBQczlBYi1mbDRhazNhRQ?oc=5",
+      "outlet": "cairnspost.com.au",
+      "domain": "news.google.com",
+      "published_at": "2026-10-06T09:00:08+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "JCU study reveals changes to revived seagrass meadows near Cairns cairnspost.com.au",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "baseline": false
+    },
+    {
+      "id": "da66dff216774c6837",
+      "title": "伊豆伊東高校に水槽を寄贈 アマモ観察でネーチャーポジティブ研究へ（みんなの経済新聞ネットワーク） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wQTA1OXhDd3Jxd2pNOWc1NEpJRWt3YjhwTWd3Z3htdUdXSWVhNDc4TlZoM3E0ZmcxdnBMT0FTTS1RZTNZYmI0dU5Ua2JwY1c4UUw1UHVZT09CTGdOR1ZtQWRFMEluNlhCYmlUeE13SEsxX1RqNWNjRjBKbUx0WkE?oc=5",
+      "outlet": "Yahoo!ニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-10-06T04:30:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "伊豆伊東高校に水槽を寄贈 アマモ観察でネーチャーポジティブ研究へ（みんなの経済新聞ネットワーク） Yahoo!ニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "baseline": false
+    },
+    {
+      "id": "f341c533a25dd40215",
+      "title": "Ålegras i Store Lungegårdsvannet - Bergen kommune",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcHUyS0FRNzdFUmY1YmVKclVsa1pKM0xpdS1vOFZzb0UwSm1jWWdHck1RZmx6S05fVHFzc05Oa3lzbkYzazBJVkFKVGd5eXl0S05Db3VGZlZDRHV2MkNOOTVaaEZHOFpTVGNkMmRtTEU1M1BOTk4yRU1XTFQ5T25pbzkwNGhRb29EMXBlamw1S2VwVmRwZC05ZDRiS3pEQW1Ja05iTUNQZTc4QmlLRlNfVzVLVWUwa1FpbGRyckp2V1BXYXZycnJKTQ?oc=5",
+      "outlet": "Bergen kommune",
+      "domain": "news.google.com",
+      "published_at": "2026-10-05T16:30:36+00:00",
+      "language": "Norwegian",
+      "source_country": "NO",
+      "image": "",
+      "description": "Ålegras i Store Lungegårdsvannet Bergen kommune",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Norwegian (NO)",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "baseline": false
+    },
     {
       "id": "97105df43172ffc690",
       "title": "Grote zeedier beweegt door dicht zeegras - MSN",
@@ -26,7 +147,33 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
+      "baseline": false
+    },
+    {
+      "id": "2d92c47b45f74fd1a5",
+      "title": "Arriva in città “Non Sono un'alga” - la campagna di sensibilizzazione sulla Posidonia oceanica - Comune di Porto Torres",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTHFhSXg2RG1nWGhHb3k4R1U3aWVtM2JnM3dIVUV5Q2xDOTJ6YlV2OW5EWFlNdVZnUUtjdVVZRF9CNGpNTUdKNWxnZ0o0cDlPVmR1ZDQ1Qk41anZUem9oTnVQRWdKRW1GeTF2d2I4dXl2TEpRXy1Ec1NmanpFV1lZcTF2bWV2TV9GbUtwdnE4WmE5ZTlfWWJlTkxWeDMxZFkxYWVBVjFxbjA0bjlWeWxXSzFoeE1yMEp4VjdkT1dZZnBoTU5KSm1BY0xEQ0tZMVFTWGJjLS1FZFZCdw?oc=5",
+      "outlet": "Comune di Porto Torres",
+      "domain": "news.google.com",
+      "published_at": "2026-10-05T11:02:00+00:00",
+      "language": "Italian",
+      "source_country": "IT",
+      "image": "",
+      "description": "Arriva in città “Non Sono un'alga” - la campagna di sensibilizzazione sulla Posidonia oceanica Comune di Porto Torres",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Italian (IT)",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -122,7 +269,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -170,7 +317,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -194,7 +341,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -218,7 +365,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -242,7 +389,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -266,7 +413,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -290,7 +437,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -314,7 +461,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -340,7 +487,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -390,7 +537,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -414,7 +561,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -438,7 +585,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -462,7 +609,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -486,7 +633,7 @@
       ],
       "search_route": "Google News Thai (TH)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -510,7 +657,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -534,7 +681,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -582,7 +729,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -655,7 +802,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -1261,7 +1408,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -3432,7 +3579,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -4106,7 +4253,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-06",
       "baseline": false
     },
     {
@@ -14728,7 +14875,7 @@
     "languages": [
       [
         "English",
-        207
+        210
       ],
       [
         "Indonesian",
@@ -14752,7 +14899,7 @@
       ],
       [
         "Japanese",
-        29
+        30
       ],
       [
         "Spanish",
@@ -14760,7 +14907,7 @@
       ],
       [
         "Italian",
-        20
+        21
       ],
       [
         "Dutch",
@@ -14787,6 +14934,10 @@
         5
       ],
       [
+        "Norwegian",
+        4
+      ],
+      [
         "Hindi",
         4
       ],
@@ -14796,10 +14947,6 @@
       ],
       [
         "Russian",
-        3
-      ],
-      [
-        "Norwegian",
         3
       ],
       [
@@ -14818,7 +14965,7 @@
     "countries": [
       [
         "GB",
-        91
+        94
       ],
       [
         "DE",
@@ -14842,7 +14989,7 @@
       ],
       [
         "JP",
-        29
+        30
       ],
       [
         "ID",
@@ -14885,6 +15032,10 @@
         8
       ],
       [
+        "IT",
+        7
+      ],
+      [
         "TH",
         7
       ],
@@ -14894,10 +15045,6 @@
       ],
       [
         "MX",
-        6
-      ],
-      [
-        "IT",
         6
       ],
       [
@@ -14927,6 +15074,10 @@
       [
         "RU",
         3
+      ],
+      [
+        "NO",
+        2
       ],
       [
         "PL",
@@ -14966,10 +15117,6 @@
       ],
       [
         "Taiwan",
-        1
-      ],
-      [
-        "NO",
         1
       ],
       [
@@ -15039,12 +15186,12 @@
         7
       ],
       [
-        "ANTARA News",
+        "Phys.org",
         6
       ],
       [
-        "Phys.org",
-        5
+        "ANTARA News",
+        6
       ],
       [
         "liputan6.com",
@@ -15081,6 +15228,10 @@
       [
         "kupang.tribunnews.com",
         4
+      ],
+      [
+        "Yahoo!ニュース",
+        3
       ],
       [
         "Bioengineer.org",
@@ -15217,16 +15368,12 @@
       [
         "The Ark newspaper",
         2
-      ],
-      [
-        "Spectrum News 13",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        460
+        463
       ],
       [
         "Restoration",
@@ -15234,7 +15381,7 @@
       ],
       [
         "Science & discovery",
-        37
+        39
       ],
       [
         "Conservation & policy",
@@ -15242,11 +15389,11 @@
       ],
       [
         "Development & infrastructure",
-        26
+        27
       ],
       [
         "Wildlife & biodiversity",
-        23
+        24
       ],
       [
         "Climate & heat",
@@ -15272,7 +15419,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        404
+        410
       ],
       [
         "GDELT",
