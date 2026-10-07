@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-10-06T12:12:52.427353+00:00",
+  "generated_at": "2026-10-07T11:59:12.988416+00:00",
   "baseline_complete": true,
-  "article_count": 615,
-  "new_today": 6,
+  "article_count": 618,
+  "new_today": 3,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "3347723b6f174e4297",
+      "title": "減少するアマモ類に関心を 観察用水槽 伊東の団体→伊豆伊東高に寄贈 - 静岡新聞DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OWXNUb1ZNV1FTamlkQ0x3aEFsWmhxS1Y0ZElwdW5QUDFUMEJ5djZ5ZUxpYko3Q3ozdTJMN1lyb1RYZUQ0SkVOREg4eWxUQQ?oc=5",
+      "outlet": "静岡新聞DIGITAL",
+      "domain": "news.google.com",
+      "published_at": "2026-10-06T21:00:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "減少するアマモ類に関心を 観察用水槽 伊東の団体→伊豆伊東高に寄贈 静岡新聞DIGITAL",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "baseline": false
+    },
+    {
+      "id": "364d79fd86f93a9028",
+      "title": "Seagrass bounces back in Cairns, but fish populations are changed - Oceanographic Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNDVDMVJyWm1MMzVhWlpsQi1fOVBnZ2NjVWpZaFllVWtQZDJrLUc3aDM3SWNfVUNpRDV1YktRTG04RGMxSkZfbWhQZ1BLSFJHZ2NCUEdjbTdPS0lsMkRaLXlPMnY3cVRNZnJjOGNIZWVKbDROYWhfNi1QM2JPMGZmeGFPdXpuTjVIc21JYnM4SUtMVWVKUWtkUFhNTERVNlZldTFCUlJDUQ?oc=5",
+      "outlet": "Oceanographic Magazine",
+      "domain": "news.google.com",
+      "published_at": "2026-10-06T14:25:13+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass bounces back in Cairns, but fish populations are changed Oceanographic Magazine",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "baseline": false
+    },
     {
       "id": "96e58f5ce57e5e17b2",
       "title": "Seagrass meadows bounce back with new fish communities - Phys.org",
@@ -27,7 +75,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -51,7 +99,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -75,7 +123,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -99,7 +147,31 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
+      "baseline": false
+    },
+    {
+      "id": "53bf373c113b4f4cda",
+      "title": "伊豆伊東高校に水槽を寄贈 アマモ観察でネーチャーポジティブ研究へ - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hbUowM0VxVzZmMWQxaGJUcjRDYjE4T3ZZUlRPMmxmVE05MWVjb1hlcmM1ZzNURFZSQzZiQXhpSmN4QnpvcllVdXc5ejR6cVpyaWFCS0FRZU5QeXVCRGVkWWZodUgwUmNLMFRYY0Iza1NBTkhPSF9na0N30gF6QVVfeXFMTmFtSjAzRXFXNmYxZDFoYlRyNENiMThPdllSVE8ybGZUTTkxZWNvWGVyYzVnM1REVlJDNmJBeGlKY3hCem9yWVV1dzl6NHpxWnJpYUJLQVFlTlB5dUJEZWRZZmh1SDBSY0swVFhjQjNrU0FOSE9IX2drQ3c?oc=5",
+      "outlet": "ｄメニューニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-10-06T04:30:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "伊豆伊東高校に水槽を寄贈 アマモ観察でネーチャーポジティブ研究へ ｄメニューニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -123,7 +195,7 @@
       ],
       "search_route": "Google News Norwegian (NO)",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -173,7 +245,7 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -269,7 +341,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -317,7 +389,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -341,7 +413,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -365,7 +437,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -389,7 +461,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -413,7 +485,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -437,7 +509,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -461,7 +533,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -1408,7 +1480,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -3579,7 +3651,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "baseline": false
     },
     {
@@ -14875,7 +14947,7 @@
     "languages": [
       [
         "English",
-        210
+        211
       ],
       [
         "Indonesian",
@@ -14899,7 +14971,7 @@
       ],
       [
         "Japanese",
-        30
+        32
       ],
       [
         "Spanish",
@@ -14965,7 +15037,7 @@
     "countries": [
       [
         "GB",
-        94
+        95
       ],
       [
         "DE",
@@ -14989,7 +15061,7 @@
       ],
       [
         "JP",
-        30
+        32
       ],
       [
         "ID",
@@ -15286,6 +15358,18 @@
         3
       ],
       [
+        "静岡新聞DIGITAL",
+        2
+      ],
+      [
+        "Oceanographic Magazine",
+        2
+      ],
+      [
+        "ｄメニューニュース",
+        2
+      ],
+      [
         "VOI.ID",
         2
       ],
@@ -15356,24 +15440,12 @@
       [
         "闪电新闻",
         2
-      ],
-      [
-        "HÖRZU",
-        2
-      ],
-      [
-        "Florida Atlantic University",
-        2
-      ],
-      [
-        "The Ark newspaper",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        463
+        465
       ],
       [
         "Restoration",
@@ -15393,7 +15465,7 @@
       ],
       [
         "Wildlife & biodiversity",
-        24
+        25
       ],
       [
         "Climate & heat",
@@ -15419,7 +15491,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        410
+        413
       ],
       [
         "GDELT",
