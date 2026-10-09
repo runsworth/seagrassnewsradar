@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-10-08T12:13:47.231687+00:00",
+  "generated_at": "2026-10-09T12:05:21.170149+00:00",
   "baseline_complete": true,
-  "article_count": 623,
-  "new_today": 5,
+  "article_count": 626,
+  "new_today": 3,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "d5132633aa7e030647",
+      "title": "Un alga invasora amenaza la posidonia oceánica, endémica del Mediterráneo: ya está colonizando las praderas marinas de Formentera - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQYk5HUUJTRjlpNmExNlc0bld6QTJDU2h6X2JORkJGTmZnLXhoM3J6S2JrdElsTHNnMHJuVjU1R1BGdzViOGl0MzVGM1I0ZXpXSUplRWFsN1ZoM2l4Sk5rQkltemJSVUdGWWFBYnZOdjd3cW9MTFlOSXQxc0o0ME1TNG5tb0htbmVRU0xWajVFU1AtaVdIX0RrWFZRcjI5aDY4bWVWM2s3XzMtM1hhdUtnTzVmWUF5d1hqTDFCVElja3llc2w4d0RnX0x6SmhUR1luSmw1U3pTVDJMSFNvQTZMVHdwNnBWdGQtVFBzcmxWcXhZRjZOQXJucEpvNjAyUlVBdFE2Tm84SzZIVk5iYktObnpheFI3a0lFd3fSAZoCQVVfeXFMUGJOR1FCU0Y5aTZhMTZXNG5XekEyQ1Noel9iTkZCRk5mZy14aDNyektia3RJbExzZzByblY1NUdQRnc1YjhpdDM1RjNSNGV6V0lKZUVhbDdWaDNpeEpOa0JJbXpiUlVHRllhQWJ2TnY3d3FvTExZTkl0MXNKNDBNUzRubW9IbW5lUVNMVmo1RVNQLWlXSF9Ea1hWUXIyOWg2OG1lVjNrN18zLTNYYXVLZ081ZllBeXdYakwxQlRJY2t5ZXNsOHdEZ19MekpoVEdZbkpsNVN6U1QyTEhTb0E2TFR3cDZwVnRkLVRQc3JsVnF4WUY2TkFybnBKbzYwMlJVQXRRNk5vOEs2SFZOYmJLTm56YXhSN2tJRXd3?oc=5",
+      "outlet": "Infobae",
+      "domain": "news.google.com",
+      "published_at": "2026-10-09T06:17:44+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "Un alga invasora amenaza la posidonia oceánica, endémica del Mediterráneo: ya está colonizando las praderas marinas de Formentera Infobae",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "baseline": false
+    },
+    {
+      "id": "31658a83740a2163cb",
+      "title": "[29일 낙찰/계약 동향] 2019년 서해잘피숲(굴업도)조성, 2019년도 매립시설 주변 토양오염도 검사 용역, 상수도 배수관 연장공사(삼숭동 467-1) 폐기물 용역外 낙찰/계약 동향 - 파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqNEtuclNtSjBvd1pENkJaa2FaMWVIWDBQSTQzYnNpNEE0bGFYRTlETllFN1VMZE4zaDlIWlFneUJMdUVyWmtKQmFDYnBaVGZPdFR4d1k0ak1VT1Z4U29RclFXY0ZwcUkyTmY5SkdhVThjY1U?oc=5",
+      "outlet": "파이낸셜포스트",
+      "domain": "news.google.com",
+      "published_at": "2026-10-08T22:07:45+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "[29일 낙찰/계약 동향] 2019년 서해잘피숲(굴업도)조성, 2019년도 매립시설 주변 토양오염도 검사 용역, 상수도 배수관 연장공사(삼숭동 467-1) 폐기물 용역外 낙찰/계약 동향 파이낸셜포스트",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "baseline": false
+    },
     {
       "id": "4efc19caafb807d997",
       "title": "WATERLINE: Five Years Underwater — What Eyes on Seagrass data shows & how it’s used - yoursun.com",
@@ -26,7 +74,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "baseline": false
     },
     {
@@ -50,7 +98,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "baseline": false
     },
     {
@@ -74,7 +122,31 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
+      "baseline": false
+    },
+    {
+      "id": "ac8e84cf9a01655a23",
+      "title": "A Pacific island will be swallowed by the sea within decades . Is Ireland paying attention ? – The Irish Times",
+      "url": "https://www.irishtimes.com/environment/climate-crisis/2026/10/08/a-pacific-island-will-be-swallowed-by-the-sea-within-decades-is-ireland-paying-attention",
+      "outlet": "irishtimes.com",
+      "domain": "irishtimes.com",
+      "published_at": "2026-10-08T05:30:00+00:00",
+      "language": "English",
+      "source_country": "Ireland",
+      "image": "https://www.irishtimes.com/resizer/v2/T5AA5UEKBFG37GB3ALT4EBDTKI.jpg?smart=true&auth=7f01af1268edf0b0ca4838318d7da82d744f55334f09a5a7097a14c3bb831246",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
       "baseline": false
     },
     {
@@ -99,7 +171,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "baseline": false
     },
     {
@@ -147,7 +219,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "baseline": false
     },
     {
@@ -172,7 +244,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "baseline": false
     },
     {
@@ -196,7 +268,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "baseline": false
     },
     {
@@ -244,7 +316,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "baseline": false
     },
     {
@@ -292,7 +364,7 @@
       ],
       "search_route": "Google News Norwegian (NO)",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "baseline": false
     },
     {
@@ -342,7 +414,7 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "baseline": false
     },
     {
@@ -367,7 +439,7 @@
       ],
       "search_route": "Google News English (US)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "baseline": false
     },
     {
@@ -1602,7 +1674,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "baseline": false
     },
     {
@@ -2997,7 +3069,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-09",
       "baseline": false
     },
     {
@@ -15069,7 +15141,7 @@
     "languages": [
       [
         "English",
-        214
+        215
       ],
       [
         "Indonesian",
@@ -15085,7 +15157,7 @@
       ],
       [
         "Korean",
-        44
+        45
       ],
       [
         "Chinese",
@@ -15097,7 +15169,7 @@
       ],
       [
         "Spanish",
-        26
+        27
       ],
       [
         "Italian",
@@ -15179,7 +15251,7 @@
       ],
       [
         "KR",
-        44
+        45
       ],
       [
         "JP",
@@ -15219,7 +15291,7 @@
       ],
       [
         "ES",
-        8
+        9
       ],
       [
         "Australia",
@@ -15304,6 +15376,10 @@
       [
         "Norway",
         2
+      ],
+      [
+        "Ireland",
+        1
       ],
       [
         "Vietnam",
@@ -15567,7 +15643,7 @@
     "themes": [
       [
         "General seagrass news",
-        467
+        470
       ],
       [
         "Restoration",
@@ -15613,11 +15689,11 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        418
+        420
       ],
       [
         "GDELT",
-        208
+        209
       ]
     ]
   }
