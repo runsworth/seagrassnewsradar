@@ -1,10 +1,84 @@
 {
-  "generated_at": "2026-10-09T12:05:21.170149+00:00",
+  "generated_at": "2026-10-10T11:21:27.950583+00:00",
   "baseline_complete": true,
-  "article_count": 626,
+  "article_count": 629,
   "new_today": 3,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "5301452c3fbbcd6ef2",
+      "title": "Menjaga Lamun, Sama Pentingnya seperti Menjaga Terumbu Karang - Koran Buleleng",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWdheS1Dd3dHTUN5ck1rUE9pT09lQnFlMXlfTG9SdmxGV042LTAtSVYteWhmOHplak51UExiS2lzZVNCRnJDQmwxNHNMM2lER2F6LUZzbjhxa3BkbFdtZXdrMEZ6ZXNlbFBVcVFkbHk0RS1ib0tVU2kyMXhsZHNzMnVPMDVGLTE3cWV4QUl5WnRYcmcxeHJYOHc1bFNNRE0?oc=5",
+      "outlet": "Koran Buleleng",
+      "domain": "news.google.com",
+      "published_at": "2026-10-09T14:18:28+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Menjaga Lamun, Sama Pentingnya seperti Menjaga Terumbu Karang Koran Buleleng",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "baseline": false
+    },
+    {
+      "id": "8c6aa9b47b6db02a04",
+      "title": "Peixes das pradarias de ervas marinhas podem ser mais nutritivos do que os dos recifes de coral - SAPO",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYjFlTWFDZEtncUJTZTl3OVZCeEE3RWhaMi05X1hHcnpUX0xDVjBzSUI5UElwSU9NUTNMMmVCVTVsTWNKSWdaUElEOGhSb0RXdXhyU2NONVV0Rkh4M1FwQTBkTU1hYVVfMUZucHh0THdrcVVONVlqTGtRWENvQVhkdEdUVVB6dG1mRDR3b0xSdDNkTXk2OHQyOERWVDFOTHRQMFdIUFFzam9uYTVablZSVEZzaXdXS2lXUFJQWHVibEVnZw?oc=5",
+      "outlet": "SAPO",
+      "domain": "news.google.com",
+      "published_at": "2026-10-09T14:03:29+00:00",
+      "language": "Portuguese",
+      "source_country": "PT",
+      "image": "",
+      "description": "Peixes das pradarias de ervas marinhas podem ser mais nutritivos do que os dos recifes de coral SAPO",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Portuguese (PT)",
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "baseline": false
+    },
+    {
+      "id": "5576a7f100460f6ebb",
+      "title": "Ibiza & Formentera Preservation organiza su quinta gincana familiar sobre Posidonia oceanica - Periódico de Ibiza y Formentera",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdzdRcXNRRTZoWUl2MjNLMFgwTzBrcHI0T002RnJWTkZjdzJXc3ExYjR3ajloeDJzdGl4ZFBVUXdyQVdIQnhxdk41RjZSZGxhZzZhV0loYzZZeEVnM0wzcGZIcVRDYUJ0MngxRWF2UXFfZEQ4SFl4Z3VZUkRpLVhmZWNXUFVhU3pHWU0tVUFINTcwUU94MHZDemhXTTNvVEp2THltcjNYSVFLNzg1dTFiZTlPYVEtT2dBUncwOHZ0cmhVdjhrbGwzNTFTQVk0MmdZV2ZCZFRhT1hjS3Y2R0xQUGtISkM2N2NqdzZIM1lHMNIB7wFBVV95cUxQRm9SbmpxNW5KWmVGcU5leFBvR1pDTDdwaVdwb01qY213czMyek5UbldQc2ZReUlBNjVEYUFBbzR4QmVqajMyLUY0dE45MENGVUQ3QjRCbEhIbmJQS2laSVM4bDNmVEswOU1VcTVrQ3I0RmVpbjNBNEZleUxQTzVXVEIyajJnWG5sQzRxa19QcFlFRE55YmRyczdSVS1EV2M0emhlVUlMcUJZc2IwdThCclUtUmV2bURNdmMzNi14VlFOWXZkQUxpcEFubjZrRnd4b3BPUkZKQ2pUYkZadmVkR1dscVJkTUs2SGpnRFVqdw?oc=5",
+      "outlet": "Periódico de Ibiza y Formentera",
+      "domain": "news.google.com",
+      "published_at": "2026-10-09T12:19:45+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "Ibiza & Formentera Preservation organiza su quinta gincana familiar sobre Posidonia oceanica Periódico de Ibiza y Formentera",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "baseline": false
+    },
     {
       "id": "d5132633aa7e030647",
       "title": "Un alga invasora amenaza la posidonia oceánica, endémica del Mediterráneo: ya está colonizando las praderas marinas de Formentera - Infobae",
@@ -26,7 +100,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "baseline": false
     },
     {
@@ -50,7 +124,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "baseline": false
     },
     {
@@ -74,7 +148,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "baseline": false
     },
     {
@@ -98,7 +172,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "baseline": false
     },
     {
@@ -122,7 +196,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "baseline": false
     },
     {
@@ -171,7 +245,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "baseline": false
     },
     {
@@ -195,7 +269,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-10",
       "baseline": false
     },
     {
@@ -219,7 +293,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "baseline": false
     },
     {
@@ -244,7 +318,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "baseline": false
     },
     {
@@ -316,7 +390,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "baseline": false
     },
     {
@@ -364,7 +438,7 @@
       ],
       "search_route": "Google News Norwegian (NO)",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "baseline": false
     },
     {
@@ -439,7 +513,7 @@
       ],
       "search_route": "Google News English (US)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "baseline": false
     },
     {
@@ -3069,7 +3143,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "baseline": false
     },
     {
@@ -15145,7 +15219,7 @@
       ],
       [
         "Indonesian",
-        77
+        78
       ],
       [
         "German",
@@ -15169,7 +15243,7 @@
       ],
       [
         "Spanish",
-        27
+        28
       ],
       [
         "Italian",
@@ -15184,16 +15258,16 @@
         7
       ],
       [
+        "Portuguese",
+        6
+      ],
+      [
         "Swahili",
         6
       ],
       [
         "Arabic",
         6
-      ],
-      [
-        "Portuguese",
-        5
       ],
       [
         "Vietnamese",
@@ -15259,7 +15333,7 @@
       ],
       [
         "ID",
-        28
+        29
       ],
       [
         "China",
@@ -15291,7 +15365,7 @@
       ],
       [
         "ES",
-        9
+        10
       ],
       [
         "Australia",
@@ -15304,6 +15378,10 @@
       [
         "TH",
         7
+      ],
+      [
+        "PT",
+        6
       ],
       [
         "KE",
@@ -15324,10 +15402,6 @@
       [
         "AE",
         6
-      ],
-      [
-        "PT",
-        5
       ],
       [
         "VN",
@@ -15643,7 +15717,7 @@
     "themes": [
       [
         "General seagrass news",
-        470
+        473
       ],
       [
         "Restoration",
@@ -15689,7 +15763,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        420
+        423
       ],
       [
         "GDELT",
