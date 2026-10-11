@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T11:21:27.950583+00:00",
+  "generated_at": "2026-10-11T11:35:34.473789+00:00",
   "baseline_complete": true,
   "article_count": 629,
-  "new_today": 3,
+  "new_today": 0,
   "lookback_days_this_run": 4,
   "articles": [
     {
@@ -26,7 +26,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "baseline": false
     },
     {
@@ -50,7 +50,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "baseline": false
     },
     {
@@ -76,7 +76,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "baseline": false
     },
     {
@@ -100,7 +100,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "baseline": false
     },
     {
@@ -124,7 +124,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "baseline": false
     },
     {
@@ -148,7 +148,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "baseline": false
     },
     {
@@ -172,7 +172,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "baseline": false
     },
     {
@@ -196,7 +196,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "baseline": false
     },
     {
@@ -245,7 +245,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "baseline": false
     },
     {
@@ -269,7 +269,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "baseline": false
     },
     {
@@ -293,7 +293,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "baseline": false
     },
     {
@@ -318,7 +318,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "baseline": false
     },
     {
