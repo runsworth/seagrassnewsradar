@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-10-11T11:35:34.473789+00:00",
+  "generated_at": "2026-10-12T13:30:26.391003+00:00",
   "baseline_complete": true,
-  "article_count": 629,
-  "new_today": 0,
+  "article_count": 632,
+  "new_today": 3,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "6da145c61134b8a086",
+      "title": "Laugharne-based Project Seagrass boosts seagrass restoration with new polytunnel - Tenby Observer",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ1l3R1pHbVRvMnhzQ3ViMFhNMTF6Z29zdW41V1lCNWVyRmM5M24xOXE3UDZTYU5vQTB2c284WnJDQUhScW5pbXo4bGNnakFUZEc3OTV0Yk00U0E4VXpZUEt3TktaMklWVFdETlZjNXRPeC0zNVVrWmJPYkY4S3ctakZ6TkE1bW04MnlwRmZGUW5pUzdLVzg3QVY2cVpVM2NlQl85b3AyeHNxd0VJb1BJNw?oc=5",
+      "outlet": "Tenby Observer",
+      "domain": "news.google.com",
+      "published_at": "2026-10-12T10:12:42+00:00",
+      "language": "Swahili",
+      "source_country": "KE",
+      "image": "",
+      "description": "Laugharne-based Project Seagrass boosts seagrass restoration with new polytunnel Tenby Observer",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Swahili (KE)",
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "baseline": false
+    },
+    {
+      "id": "9b2421ded719ccae49",
+      "title": "Las praderas marinas de Australia se recuperaron tras ciclones e inundaciones, pero cambiaron sus comunidades de peces - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbzdfQ19OQ3NROUZSNFg5SmU3S0RNVUExOHdmREliY3RMTVg1RTdnaWd1Q2VCd0dwdXNSR1BIcVBpUTY4OWNFQ3dqNjVqeVIwNnNjOVU2dlFQQ0hGS1lsVmhCY0RPODlxQjY5aGlBdGdkRVdkcm1FOFN0ZTRKa2VRVWY4WUExN2IwVDBXMjBYT3UyYkpqY2NVTVE1YmZDWXM1TWpzak9xZGNXb2F4Yjk4azZYQWRIZzdONHpRWkxNMHNjVzBSWkMtdlFRcElHUjZXOUQtTUhoMnpoQVhlX0pWZ0ZBZURkNEFnVF90UFc3ZUFwS0xPSzFWMGJSUdIBlgJBVV95cUxPdG9uNGdQT2I0QmU2c3JVN0xBWVF3NVFaNTNCOGw4dGtHcVR4c1lYRHZHUmRLLW9laGMyWjJ1OTM3QnJQUmFNUHBhODZVeWlzdTBGb2hQNXctdkliSmZKRUJTcnY3LVNDNzU5WE8zQjF3aUYyYm45dzJTVGtKU2NHaGllblBnN1pEWVFKNnhEMEMtY3NaRjh0LUtPaWNJY2pvejFGNTFzeS1Nb0JrQkE5MmEtZ1M4MVhnUk1mc01FeFMzSXg4aXoyZGp4Q2owN3JUUzJlR1pGczNhTTJHS3VXVUpEQWR2aHJHSDg3eVloVGxfT21YZzExczZWaFJ6dE5tcWx1X0pmQjFsc0NYU054M3o0aFUxdw?oc=5",
+      "outlet": "Infobae",
+      "domain": "news.google.com",
+      "published_at": "2026-10-11T14:51:00+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "Las praderas marinas de Australia se recuperaron tras ciclones e inundaciones, pero cambiaron sus comunidades de peces Infobae",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "baseline": false
+    },
+    {
+      "id": "91e50617f538bff60b",
+      "title": "수산자원공단, 잘피숲 가꾸기 사업 추진 - 수산인신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80Y2pFQ2xsUnJKZndqV2RzeUNWWnR5YTd4VlBrc0NtMzMzRDRwREF3T3hkSzBvZG1hUFUxOVNCdVZvU0dScnp5aHNPV1V3eGxMcEwtVHRKRDI5MUpFd0s5djhUeWxPbWJsY3c?oc=5",
+      "outlet": "수산인신문",
+      "domain": "news.google.com",
+      "published_at": "2026-10-11T12:37:32+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "수산자원공단, 잘피숲 가꾸기 사업 추진 수산인신문",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "baseline": false
+    },
     {
       "id": "5301452c3fbbcd6ef2",
       "title": "Menjaga Lamun, Sama Pentingnya seperti Menjaga Terumbu Karang - Koran Buleleng",
@@ -50,7 +122,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "baseline": false
     },
     {
@@ -76,7 +148,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "baseline": false
     },
     {
@@ -124,7 +196,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "baseline": false
     },
     {
@@ -148,7 +220,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "baseline": false
     },
     {
@@ -172,7 +244,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "baseline": false
     },
     {
@@ -245,7 +317,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "baseline": false
     },
     {
@@ -15231,7 +15303,7 @@
       ],
       [
         "Korean",
-        45
+        46
       ],
       [
         "Chinese",
@@ -15243,7 +15315,7 @@
       ],
       [
         "Spanish",
-        28
+        29
       ],
       [
         "Italian",
@@ -15254,15 +15326,15 @@
         13
       ],
       [
+        "Swahili",
+        7
+      ],
+      [
         "Thai",
         7
       ],
       [
         "Portuguese",
-        6
-      ],
-      [
-        "Swahili",
         6
       ],
       [
@@ -15325,7 +15397,7 @@
       ],
       [
         "KR",
-        45
+        46
       ],
       [
         "JP",
@@ -15360,16 +15432,20 @@
         12
       ],
       [
+        "ES",
+        11
+      ],
+      [
         "Spain",
         11
       ],
       [
-        "ES",
-        10
-      ],
-      [
         "Australia",
         8
+      ],
+      [
+        "KE",
+        7
       ],
       [
         "IT",
@@ -15381,10 +15457,6 @@
       ],
       [
         "PT",
-        6
-      ],
-      [
-        "KE",
         6
       ],
       [
@@ -15578,6 +15650,10 @@
         4
       ],
       [
+        "수산인신문",
+        3
+      ],
+      [
         "VOI.ID",
         3
       ],
@@ -15632,6 +15708,10 @@
       [
         "搜狐网",
         3
+      ],
+      [
+        "Infobae",
+        2
       ],
       [
         "静岡新聞DIGITAL",
@@ -15704,24 +15784,16 @@
       [
         "아시아경제",
         2
-      ],
-      [
-        "AOL.com",
-        2
-      ],
-      [
-        "闪电新闻",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        473
+        475
       ],
       [
         "Restoration",
-        44
+        45
       ],
       [
         "Science & discovery",
@@ -15763,7 +15835,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        423
+        426
       ],
       [
         "GDELT",
