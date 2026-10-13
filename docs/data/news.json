@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-10-12T13:30:26.391003+00:00",
+  "generated_at": "2026-10-13T12:56:11.804765+00:00",
   "baseline_complete": true,
-  "article_count": 632,
-  "new_today": 3,
+  "article_count": 636,
+  "new_today": 4,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "0fe262ee61de98fcee",
+      "title": "Seagrass Meadows and Seaweed Release a Surprising Chemical Cocktail Into Coastal Air - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY19WX1BaWTVKZG45Y2FPY3loQW8tUmpucHpGNktDcnZJV2lJMkRQUjhIY1MtV3kzelJ0UGJ2WVNDQ1huU3FWR3p5WE5SSVJNTDZ1MXZ2SXBBUGhxVjdZREhoRDZQNWNfVk4taGlVLUtKZ3daWGE1YTZyTGhmTnN3UElTUE5VUGc3SjQ3MnJTWTlrRGlBVHh2WUNYUXFZMDdxWVFZM1dhbXhsS1Q2bnc?oc=5",
+      "outlet": "Bioengineer.org",
+      "domain": "news.google.com",
+      "published_at": "2026-10-13T08:13:30+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass Meadows and Seaweed Release a Surprising Chemical Cocktail Into Coastal Air Bioengineer.org",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "baseline": false
+    },
+    {
+      "id": "8c22516837daa36341",
+      "title": "Pottery Barn’s Seagrass Pet Bed Is the Stylish, Natural-Finish Upgrade Your Dog Deserves - PetHelpful",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XYzFDTjZpTzlaSUJidGwyVVl6UWZ0MmY4dmN1NWFGOTd0eUhNME5KMFFvX1N1TFFaQzZTZDVNLXBBNHJ5Z1hWcmpsTjdOektLOEF1eUI5MjQ4WTBnUXZ4WXlWS1pkbDNr?oc=5",
+      "outlet": "PetHelpful",
+      "domain": "news.google.com",
+      "published_at": "2026-10-13T01:19:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Pottery Barn’s Seagrass Pet Bed Is the Stylish, Natural-Finish Upgrade Your Dog Deserves PetHelpful",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "baseline": false
+    },
     {
       "id": "6da145c61134b8a086",
       "title": "Laugharne-based Project Seagrass boosts seagrass restoration with new polytunnel - Tenby Observer",
@@ -17,7 +65,8 @@
       "image": "",
       "description": "Laugharne-based Project Seagrass boosts seagrass restoration with new polytunnel Tenby Observer",
       "themes": [
-        "Restoration"
+        "Restoration",
+        "General seagrass news"
       ],
       "taxa": [],
       "relevance": 6,
@@ -26,7 +75,7 @@
       ],
       "search_route": "Google News Swahili (KE)",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "baseline": false
     },
     {
@@ -50,7 +99,31 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
+      "baseline": false
+    },
+    {
+      "id": "2d8682a11867fe0d65",
+      "title": "Tim Peneliti UNIPMA Rancang Ensiklopedia Digital Padang Lamun Pantai Pidakan Pacitan - TIMES Indonesia",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQlNheDZWQlA4dlVqeDltQmFaRGVKd3NfVEtsRG5VdE1aMkNITEt1ZjZMNVQ4dVU3YTYzWWNubE9BV3U4NUE1TFdHQUVPSkQ1MzI5RzFqS2RxT2Z5MHRnSnJESUFNN1FZSGswbTJ1S0VhQllQRUUxblpHNm5RQUdpczhJRlB2MzRiNzd6QVNBTFlOejlrb3MtNTZEbzFaUEhaYWpOQU9NaWx4V1dqTHBXRF84NFg4WHlTTk03NjN4MHJIQ0t0cHdrT0VKYUhxVm9OUkhiVQ?oc=5",
+      "outlet": "TIMES Indonesia",
+      "domain": "news.google.com",
+      "published_at": "2026-10-11T13:18:00+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Tim Peneliti UNIPMA Rancang Ensiklopedia Digital Padang Lamun Pantai Pidakan Pacitan TIMES Indonesia",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
       "baseline": false
     },
     {
@@ -74,7 +147,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "baseline": false
     },
     {
@@ -98,7 +171,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-13",
       "baseline": false
     },
     {
@@ -122,7 +195,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "baseline": false
     },
     {
@@ -148,7 +221,31 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
+      "baseline": false
+    },
+    {
+      "id": "a16e4f8a5e3aee2b9b",
+      "title": "新手法で玉野のアマモ場再生へ 胸上漁協や旭化成、不織布で種流出防ぐ - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuRWU4RVNoQmtsTXBldWVrLUNMSTdta1VGVmU3cjdFSlJPT25VV05mODdEYUZXalVQdFhjSGxVMUJSZ1lpS1c0enpWdTV2MEFBY1E?oc=5",
+      "outlet": "山陽新聞",
+      "domain": "news.google.com",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "新手法で玉野のアマモ場再生へ 胸上漁協や旭化成、不織布で種流出防ぐ 山陽新聞",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
       "baseline": false
     },
     {
@@ -172,7 +269,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-13",
       "baseline": false
     },
     {
@@ -196,7 +293,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "baseline": false
     },
     {
@@ -15287,11 +15384,11 @@
     "languages": [
       [
         "English",
-        215
+        217
       ],
       [
         "Indonesian",
-        78
+        79
       ],
       [
         "German",
@@ -15311,7 +15408,7 @@
       ],
       [
         "Japanese",
-        32
+        33
       ],
       [
         "Spanish",
@@ -15377,7 +15474,7 @@
     "countries": [
       [
         "GB",
-        97
+        99
       ],
       [
         "DE",
@@ -15401,11 +15498,11 @@
       ],
       [
         "JP",
-        32
+        33
       ],
       [
         "ID",
-        29
+        30
       ],
       [
         "China",
@@ -15602,6 +15699,10 @@
         7
       ],
       [
+        "山陽新聞",
+        6
+      ],
+      [
         "Phys.org",
         6
       ],
@@ -15618,16 +15719,16 @@
         5
       ],
       [
-        "山陽新聞",
-        5
-      ],
-      [
         "news.mongabay.com",
         5
       ],
       [
         "Son Dakika",
         5
+      ],
+      [
+        "Bioengineer.org",
+        4
       ],
       [
         "DW.com",
@@ -15659,10 +15760,6 @@
       ],
       [
         "Yahoo!ニュース",
-        3
-      ],
-      [
-        "Bioengineer.org",
         3
       ],
       [
@@ -15789,7 +15886,7 @@
     "themes": [
       [
         "General seagrass news",
-        475
+        480
       ],
       [
         "Restoration",
@@ -15835,7 +15932,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        426
+        430
       ],
       [
         "GDELT",
