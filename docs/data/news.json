@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-10-14T10:35:32.827488+00:00",
+  "generated_at": "2026-10-15T10:17:10.646429+00:00",
   "baseline_complete": true,
-  "article_count": 637,
-  "new_today": 1,
+  "article_count": 640,
+  "new_today": 3,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "0a6e4663b4e55c5a26",
+      "title": "お台場海浜公園 東京港藻場創出活動のお知らせ ～アマモ種播き会に参加する都民を募集します～ - RBB TODAY",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFa0R0U2dVRU5zbXpfSGZkamJaeDZlNTRlQ242ak01WEFIZVgxX0hlMEJmVG91eDRNVThHTkhRMWJvM1dhNEk4MkpJeWVHR2x3X1dDc3c2cnBKZ01VZ3dsOFA5aFBGalpYNDRGQmwtSXZVTEVMSU5lZA?oc=5",
+      "outlet": "RBB TODAY",
+      "domain": "news.google.com",
+      "published_at": "2026-10-15T09:16:40+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "お台場海浜公園 東京港藻場創出活動のお知らせ ～アマモ種播き会に参加する都民を募集します～ RBB TODAY",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "baseline": false
+    },
+    {
+      "id": "fe37747e0248015327",
+      "title": "Duiker ontdekt bizar metalen voorwerp: niemand verwachtte wat er onder zeegras lag - Futura, le média qui explore le monde",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb3VIaWpLa3FJMmZxbXozeTd2OXA3Z3VZeU82bXlVNXJaa3RyMnFZeU5LM3lZd1I5WDZvV3MzOVRRMVQzaDhYU2gtTU5OVXgwdjY5dGl2LWM1UkRhTFFZNFdoZTdyQ3QzY1RTTHQyVXdPOXdWZ1MxUUNaSDMzMi04Q3VtcWJuNHZWZWJaM0lWS25acVNJbDQ4SWJpeU9DNEk1LV9KZUkxWnRkRFpmU3hMMERLOHhVcEtXT3hydEdzeVE?oc=5",
+      "outlet": "Futura, le média qui explore le monde",
+      "domain": "news.google.com",
+      "published_at": "2026-10-15T05:05:32+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Duiker ontdekt bizar metalen voorwerp: niemand verwachtte wat er onder zeegras lag Futura, le média qui explore le monde",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "baseline": false
+    },
+    {
+      "id": "7bb4712be84c31cb8e",
+      "title": "消失近十年，深圳這片海草床又回來了 - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zRU00WU5tNlhQaEpjaWZoS21BejZQNmxkdzk4NVlZRFlCcnIyM2FzYWZfc0xTVE9fbllrdVFNelJJTDl2V25NaQ?oc=5",
+      "outlet": "鉅亨號",
+      "domain": "news.google.com",
+      "published_at": "2026-10-15T03:55:26+00:00",
+      "language": "Chinese",
+      "source_country": "TW",
+      "image": "",
+      "description": "消失近十年，深圳這片海草床又回來了 鉅亨號",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (TW)",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "baseline": false
+    },
     {
       "id": "093e04752d4af5a562",
       "title": "Volunteers Work to to Reestablish Eelgrass Growth in Offshore Waters - Greenwich Free Press",
@@ -26,7 +98,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "baseline": false
     },
     {
@@ -74,7 +146,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "baseline": false
     },
     {
@@ -123,7 +195,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "baseline": false
     },
     {
@@ -147,7 +219,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "baseline": false
     },
     {
@@ -171,7 +243,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "baseline": false
     },
     {
@@ -15428,11 +15500,11 @@
       ],
       [
         "Chinese",
-        37
+        38
       ],
       [
         "Japanese",
-        33
+        34
       ],
       [
         "Spanish",
@@ -15444,7 +15516,7 @@
       ],
       [
         "Dutch",
-        13
+        14
       ],
       [
         "Swahili",
@@ -15522,7 +15594,7 @@
       ],
       [
         "JP",
-        33
+        34
       ],
       [
         "ID",
@@ -15537,12 +15609,12 @@
         16
       ],
       [
-        "Italy",
+        "NL",
         14
       ],
       [
-        "NL",
-        13
+        "Italy",
+        14
       ],
       [
         "US",
@@ -15605,6 +15677,10 @@
         4
       ],
       [
+        "TW",
+        3
+      ],
+      [
         "RU",
         3
       ],
@@ -15614,10 +15690,6 @@
       ],
       [
         "PL",
-        2
-      ],
-      [
-        "TW",
         2
       ],
       [
@@ -15831,6 +15903,10 @@
         3
       ],
       [
+        "Futura, le média qui explore le monde",
+        2
+      ],
+      [
         "Infobae",
         2
       ],
@@ -15901,16 +15977,12 @@
       [
         "Carbon Herald",
         2
-      ],
-      [
-        "아시아경제",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        480
+        483
       ],
       [
         "Restoration",
@@ -15956,7 +16028,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        431
+        434
       ],
       [
         "GDELT",
