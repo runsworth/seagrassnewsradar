@@ -1,10 +1,180 @@
 {
-  "generated_at": "2026-10-16T10:05:37.917327+00:00",
+  "generated_at": "2026-10-17T09:39:39.482692+00:00",
   "baseline_complete": true,
-  "article_count": 640,
-  "new_today": 0,
+  "article_count": 650,
+  "new_today": 10,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "483319f92be762973d",
+      "title": "Browns Ferry and the fight against eelgrass - American Nuclear Society",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU1hYSlNKVktYZXc5R3l2bDQwblByR2lDa1YyUmV5S2JIUFRzamtCaGM3VGpSS2luMkhXR192ekNhNUJ1NVVxUjVGZWNqTEdwb01QZE5VNkJQS3k3V0RwTGF1Z1BoRkRQM2VOWVZfY0taNHU5Rkc2elltUHljTDJpYWZuXzNUSTVLNlE?oc=5",
+      "outlet": "American Nuclear Society",
+      "domain": "news.google.com",
+      "published_at": "2026-10-17T07:02:59+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Browns Ferry and the fight against eelgrass American Nuclear Society",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "baseline": false
+    },
+    {
+      "id": "7ca47864d7b8d492d9",
+      "title": "In 1999, Virginia launched an eelgrass restoration project: Decades later, nature has restored itself and the - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPeS1mRDhtbHcyLWJqNWF0SnpGclBZNFBxQkJ3bWxiLWZwcmU3bjM3aW4tbVQySGFySXd3MEFjZTd0Y1FSUFVkODVkdXZvS01tSm1YZVBMdjVyQmR6Y0dHTnQzNzg0UDNqaUs4UlBWRkZzSDFQYmFzRWQyTk5TNUZZeUZFNHVFVmxjcnlrNlQyMDdrVE9EWUI3NVJiVTE3QW0wUGswclVOM2FYeTJ6Y2ZGaHJMQ28xdGNkY1ZtN2k2YzN6VW9nVzR0QzAydWxnUGxPRDh3Q09Ec3dDTUo5SW0yTGNHcDJXNWN2WHhLVHUtczYwTDZnUDBEcEJUekw5Q0Y4TjRidTdpd9IBmwJBVV95cUxNMGVEN2pjTEViMEoyT3cxd1hmcVdGQWM3c0t5cHhvTmc1aGR2R2xJWWdsc0pQeThXUlAzUUtLVmdVdWlxeUY4T01ObElwSTl6ZHp3Y1JWN2VkOFZaLUc3MW9tdDdYVnZ1a3p3a2tISTI3NWtaLWRvS2pfWkx4NmJpZENYS1pKTFk3ZzgyaWxIWkxLWmtaSFg4T1JHQnpKSURBNnhBcG0ySmd2d0dVeE5mMjRwVFBBTGJrMFotX19XdTJmOWI5MGpTeGI2TjdkM1lITDBPRVJtTFhRU1dVTWNpQnV3NHVfei1xeUxxcWVmQXhXcVZ0cTRQeGJpYlRRT3Jla0dxdDZWU3VDMmxBMDBMUDY1X3IzYjJlRHQ0?oc=5",
+      "outlet": "Diario AS",
+      "domain": "news.google.com",
+      "published_at": "2026-10-16T16:31:36+00:00",
+      "language": "English",
+      "source_country": "US",
+      "image": "",
+      "description": "In 1999, Virginia launched an eelgrass restoration project: Decades later, nature has restored itself and the Diario AS",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (US)",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "baseline": false
+    },
+    {
+      "id": "5837977b0f0e922962",
+      "title": "Hidden Worlds in Seagrass Beds: Microbes Follow Latitude and Habitat, Landmark Study Finds - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ29BN1NTQzRFQ01YYjRaR244b1pHX0g3a3l3RE1BdnpfSElBTWtlQVp0YWY2dEtBRHpsTFB0MjUwaU1vNHI5VFZvR2J2bVRab1AwQnRzYURoMWUzYlZtZTRadlJZaFRLZ0F1MGtnR2txR3EyLU1ZX2Z5N2hIUHN6NkpiR29HR2p6Z0ttM0VaVFhzZnJTNU9sbEoyWGg4RWtvYmU0ZVBveXN0Y2Z4czNlX2pMYw?oc=5",
+      "outlet": "Bioengineer.org",
+      "domain": "news.google.com",
+      "published_at": "2026-10-16T14:41:11+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Hidden Worlds in Seagrass Beds: Microbes Follow Latitude and Habitat, Landmark Study Finds Bioengineer.org",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "baseline": false
+    },
+    {
+      "id": "e75786e0fb4424a584",
+      "title": "덴마크 레쇠섬, 잘피로 지붕 이은 전통 가옥 - 비건뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zTFlIeUZyYTNOT3d2eUJXZV9HM19nYV9RZnZKeFNmMWpQcGl2LWFQTFQyNkJSM0lhLThXaXpfdktnbjVlM3JQdFpiYzZpTVF5SnE1ejJJdVdMMUFfeWFEeTE1Y1F2QQ?oc=5",
+      "outlet": "비건뉴스",
+      "domain": "news.google.com",
+      "published_at": "2026-10-16T14:36:49+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "덴마크 레쇠섬, 잘피로 지붕 이은 전통 가옥 비건뉴스",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "baseline": false
+    },
+    {
+      "id": "8d38e0031a0f1e0bdb",
+      "title": "Seagrass meadows may offer coastal communities a more nutritious catch than reefs - news - Mongabay",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR3Jobm11b1A0NkcxVlVGMEpoaWtGM19QMnhlb25VYml5ay1CcG8zS1BvaWx3QUhwRTJtOXFlMlU4SG81OF9nTHVlMF9qSTJYYWs0TkZ5bXlMRlJpTE9mZnhVNURlc3JZdmZRTVZXd1licUw2QVBZWmN6NWNUc0R3SURDNVhkdE9FVTF1WDBPajFGdHRoY0FrczdlQzhsSmtwdzhoc0lKanRjNWUwNjczU0dMa1pJZU3SAbwBQVVfeXFMT1FLLVRSV2ZCbGp1c0cyeUxUMjJHYVhNZ3JFSEpTbTdUR1VfWVQ1cGZ6R3ZCbGpkOE9JZkd6Z1d5Wk1FdjBCRXZYYmhTLVhHb3FUaTJRZ1ZYV3dpREVuWUtkWXh4aHBWdlM4bU53anVmTUhzN055dlU1ZWR6eTM3SkF1ZUhBYWI2UDBWYVJxdUU3Y0pERzFHdW5LNWc2YmRWUHlpYTF3cnhmVm02M0thNEFCMnZKbV9NOEEzM1k?oc=5",
+      "outlet": "news - Mongabay",
+      "domain": "news.google.com",
+      "published_at": "2026-10-16T07:36:35+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass meadows may offer coastal communities a more nutritious catch than reefs news - Mongabay",
+      "themes": [
+        "Fisheries & food"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "baseline": false
+    },
+    {
+      "id": "31d39108043dae3be5",
+      "title": "News - Ganavan seagrass project takes root - West Coast Today",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMbzBPSllrSVY1V3VNV21ib2lxZDVOTXh6S21wT0JfbnN5MlVuN2MwRTRqUUgzbWtqQmFvSlJlWXR4ZnltYzJadU1aSmdPZGRleGxxNUpXbXhEV1RLNUZPVVU3VDhNUXozTkpKNWFWeVoyWm5oaExvUXVqTkdVZw?oc=5",
+      "outlet": "West Coast Today",
+      "domain": "news.google.com",
+      "published_at": "2026-10-15T23:03:05+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "News - Ganavan seagrass project takes root West Coast Today",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "baseline": false
+    },
+    {
+      "id": "2c79a1e83e411bd437",
+      "title": "Thermo-hydraulic performance of zeolite-bentonite mixtures stabilized with Zostera marina biomass - Scielo.cl",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONlBTeUpzNFA1blJHLVk2M2oySW5ucjRhazczdFBGU2xhaWo4UU5COGlsaERTZDVzQXh1OGhlZFlGenRPVGV3UlA3enhXbmxZTTIxM1U4ZDVLelIxTkpQV2JuV0tYYVhfSlRsSlpNLVZrR2VLNlZmcDBkX0Q3c3ZHSU5vTW9OQW5uRDY0MVluV0tTX0wzZjhuUkx4ZmlNb2paX3Y3Xw?oc=5",
+      "outlet": "Scielo.cl",
+      "domain": "news.google.com",
+      "published_at": "2026-10-15T21:26:46+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Thermo-hydraulic performance of zeolite-bentonite mixtures stabilized with Zostera marina biomass Scielo.cl",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Zostera Marina"
+      ],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "baseline": false
+    },
     {
       "id": "0a6e4663b4e55c5a26",
       "title": "お台場海浜公園 東京港藻場創出活動のお知らせ ～アマモ種播き会に参加する都民を募集します～ - RBB TODAY",
@@ -26,7 +196,55 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-17",
+      "baseline": false
+    },
+    {
+      "id": "244f23e93316cf26b9",
+      "title": "東京港藻場創出活動 お台場海浜公園アマモ種播き会の都民参加者募集|10月 - 都庁総合ホームページ",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05UkRXWGxHdVAzWm1fUHNRYUxSZFBvTlZLR3ZxOFhDakVEQThRTnBFM0Q2cnBFVU1wX1VPWmE2dTVlUE1DTnFkLUpfbG1ncU8ySUw1OUQ1SmNpYkdHekl4SFZJdl9uUVhDd1NHa2tyT3Y1Sjdo?oc=5",
+      "outlet": "都庁総合ホームページ",
+      "domain": "news.google.com",
+      "published_at": "2026-10-15T09:05:43+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "東京港藻場創出活動 お台場海浜公園アマモ種播き会の都民参加者募集|10月 都庁総合ホームページ",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "baseline": false
+    },
+    {
+      "id": "122c3e89e7af7cce31",
+      "title": "Grasshopper: Unterwasserroboter soll zur Wiederherstellung von Posidonia-Seegraswiesen im Mittelmeer beitragen - Pressmare",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRHQ3eVlySUc3ZFBOQl9OX1pjb3M3NE0taWVSSW9lcHpqQUN5djVXMlp4cllpNDVSNHVabzdBcWpMejFwSUVFM2dvbF92WkdXMmtGQXVhT0g5R0VLTVE1NWpNSXh2U0QtbG00MEhSN2t5RUx2QkllLWFnWXNWRjd5Qy01dlNWM3ZMM1cySGkwanRDTTlTWVRWUjFHcTVTaF9wb0JHU3BYb3Y1eFhCN2NUQkN1aVFCQU1HWldJ0gHAAUFVX3lxTE83MXdLVlRMc2JzRklrZ3RwNUJaZC1xOG5ZUnZWdmw1bktwOC1xMlQyTWR4WUk3UnlScElJMGo0TnZvNjE4UmpTMGktYnNqbGZ0Z1g1cUhHZ2p6MDVseC11MmpSS2tOTXNieUNxQTVVbllpc1pjNmZFVURzOTZDZ1VIRndBU2p6S29MUjJhd1hpRDFObC1ZMFJRaDdpUzVfLVhXSTFtV0twNEFsTE5DM05CREs2MzEzRUYtS09GNzJxbA?oc=5",
+      "outlet": "Pressmare",
+      "domain": "news.google.com",
+      "published_at": "2026-10-15T08:08:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Grasshopper: Unterwasserroboter soll zur Wiederherstellung von Posidonia-Seegraswiesen im Mittelmeer beitragen Pressmare",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
       "baseline": false
     },
     {
@@ -50,7 +268,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-17",
       "baseline": false
     },
     {
@@ -74,7 +292,31 @@
       ],
       "search_route": "Google News Chinese (TW)",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-17",
+      "baseline": false
+    },
+    {
+      "id": "f526911fe67065d4ae",
+      "title": "Seagrass meadows - UNEP - UN Environment Programme",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZVczSDZDREpRMS1Ia1RCTVZEZUxQYVMtSjBwQ3J0MV9qMGVIcVAzN2k5b2ZqUTlqem81UFVrdEFIOHh0MTZCY1U3aG5JMVd2Mmcyamlsc2NjaHlnczNiSjlITUViUk9qQ3dMdDZEdkJvQWlJMEZ6ZF9qN1JSZ1NsaG9wR0xnX0FhU01vNy1EM0xPX00?oc=5",
+      "outlet": "UNEP - UN Environment Programme",
+      "domain": "news.google.com",
+      "published_at": "2026-10-15T02:46:27+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass meadows UNEP - UN Environment Programme",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
       "baseline": false
     },
     {
@@ -146,7 +388,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-17",
       "baseline": false
     },
     {
@@ -15480,7 +15722,7 @@
     "languages": [
       [
         "English",
-        218
+        225
       ],
       [
         "Indonesian",
@@ -15488,7 +15730,7 @@
       ],
       [
         "German",
-        59
+        60
       ],
       [
         "Turkish",
@@ -15496,7 +15738,7 @@
       ],
       [
         "Korean",
-        46
+        47
       ],
       [
         "Chinese",
@@ -15504,7 +15746,7 @@
       ],
       [
         "Japanese",
-        34
+        35
       ],
       [
         "Spanish",
@@ -15570,11 +15812,11 @@
     "countries": [
       [
         "GB",
-        100
+        106
       ],
       [
         "DE",
-        59
+        60
       ],
       [
         "Indonesia",
@@ -15590,11 +15832,11 @@
       ],
       [
         "KR",
-        46
+        47
       ],
       [
         "JP",
-        34
+        35
       ],
       [
         "ID",
@@ -15618,7 +15860,7 @@
       ],
       [
         "US",
-        12
+        13
       ],
       [
         "United Kingdom",
@@ -15807,6 +16049,10 @@
         6
       ],
       [
+        "Bioengineer.org",
+        5
+      ],
+      [
         "liputan6.com",
         5
       ],
@@ -15821,10 +16067,6 @@
       [
         "Son Dakika",
         5
-      ],
-      [
-        "Bioengineer.org",
-        4
       ],
       [
         "DW.com",
@@ -15903,6 +16145,14 @@
         3
       ],
       [
+        "비건뉴스",
+        2
+      ],
+      [
+        "Pressmare",
+        2
+      ],
+      [
         "Futura, le média qui explore le monde",
         2
       ],
@@ -15969,28 +16219,20 @@
       [
         "이로운넷",
         2
-      ],
-      [
-        "University of Delaware",
-        2
-      ],
-      [
-        "Carbon Herald",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        483
+        490
       ],
       [
         "Restoration",
-        45
+        46
       ],
       [
         "Science & discovery",
-        39
+        40
       ],
       [
         "Conservation & policy",
@@ -16018,7 +16260,7 @@
       ],
       [
         "Fisheries & food",
-        7
+        8
       ],
       [
         "Pollution & water quality",
@@ -16028,7 +16270,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        434
+        444
       ],
       [
         "GDELT",
