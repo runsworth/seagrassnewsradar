@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-10-17T09:39:39.482692+00:00",
+  "generated_at": "2026-10-18T09:52:42.223663+00:00",
   "baseline_complete": true,
-  "article_count": 650,
-  "new_today": 10,
+  "article_count": 652,
+  "new_today": 2,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "f74592f3b87d1aad55",
+      "title": "神戸『兵庫運河』で“アマモ”の種まき 海の水質改善などに取り組むイベント | MBSニュース | 関西の最新ニュースを分かりやすく。 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hMndRaDZEWFlzcl96cDZuYkdhSV9wdl9zRUpQbzlobnhhdnZYY2VDSmptbGZLWGM2cWUwY09JOF8tOFd6eDg1X3dmdVJYenFsZkwyMm51UndjZw?oc=5",
+      "outlet": "TBS NEWS DIG",
+      "domain": "news.google.com",
+      "published_at": "2026-10-18T09:00:52+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "神戸『兵庫運河』で“アマモ”の種まき 海の水質改善などに取り組むイベント | MBSニュース | 関西の最新ニュースを分かりやすく。 TBS NEWS DIG",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "baseline": false
+    },
+    {
+      "id": "8ac8a0303c11028ee7",
+      "title": "神戸『兵庫運河』で“アマモ”の種まき 海の水質改善などに取り組むイベント - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HYVpQWUctTGs1WXo2U1NpTklXNG5TNVAwMVppSU9nVGxaZ215b2tVUTltY1JqSkI4SVN1NjdXMnRvUmd3amZLSXpSYUViNzJocVBfRm5UUFlPbDgwUnZnX1VodW9WeFIteE14dnNnQm02TlIzWTJObHZmUTHSAYIBQVVfeXFMT1hsREF6djZCb0tpM2lWRVI5VWxHb3V5VGdlQUZqT0hNeUdEcmw0T2lRNTlNenA1TGNVejI2NlAyazFwekVKaWt6VGF4a2pNXzNFU1N6cFM5R0JXenlhdkFTQ0xrUFBDWk5BNjgtVkpVWDBvZDFoYk80QW5CdjloS1VmQQ?oc=5",
+      "outlet": "ｄメニューニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-10-18T09:00:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "神戸『兵庫運河』で“アマモ”の種まき 海の水質改善などに取り組むイベント ｄメニューニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "baseline": false
+    },
     {
       "id": "483319f92be762973d",
       "title": "Browns Ferry and the fight against eelgrass - American Nuclear Society",
@@ -26,7 +74,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "baseline": false
     },
     {
@@ -50,7 +98,7 @@
       ],
       "search_route": "Google News English (US)",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "baseline": false
     },
     {
@@ -98,7 +146,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "baseline": false
     },
     {
@@ -122,7 +170,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "baseline": false
     },
     {
@@ -146,7 +194,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "baseline": false
     },
     {
@@ -172,7 +220,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "baseline": false
     },
     {
@@ -196,7 +244,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "baseline": false
     },
     {
@@ -220,7 +268,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "baseline": false
     },
     {
@@ -244,7 +292,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "baseline": false
     },
     {
@@ -268,7 +316,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "baseline": false
     },
     {
@@ -292,7 +340,7 @@
       ],
       "search_route": "Google News Chinese (TW)",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "baseline": false
     },
     {
@@ -316,7 +364,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "baseline": false
     },
     {
@@ -15746,7 +15794,7 @@
       ],
       [
         "Japanese",
-        35
+        37
       ],
       [
         "Spanish",
@@ -15836,7 +15884,7 @@
       ],
       [
         "JP",
-        35
+        37
       ],
       [
         "ID",
@@ -16089,6 +16137,10 @@
         4
       ],
       [
+        "ｄメニューニュース",
+        3
+      ],
+      [
         "수산인신문",
         3
       ],
@@ -16145,6 +16197,10 @@
         3
       ],
       [
+        "TBS NEWS DIG",
+        2
+      ],
+      [
         "비건뉴스",
         2
       ],
@@ -16166,10 +16222,6 @@
       ],
       [
         "Oceanographic Magazine",
-        2
-      ],
-      [
-        "ｄメニューニュース",
         2
       ],
       [
@@ -16215,16 +16267,12 @@
       [
         "yn.xinhuanet.com",
         2
-      ],
-      [
-        "이로운넷",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        490
+        492
       ],
       [
         "Restoration",
@@ -16270,7 +16318,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        444
+        446
       ],
       [
         "GDELT",
