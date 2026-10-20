@@ -1,10 +1,373 @@
 {
-  "generated_at": "2026-10-19T11:14:45.787978+00:00",
+  "generated_at": "2026-10-20T10:24:14.570294+00:00",
   "baseline_complete": true,
-  "article_count": 658,
-  "new_today": 6,
+  "article_count": 718,
+  "new_today": 60,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "889f976b17584a5e19",
+      "title": "Hồi sinh những thảm cỏ biển ở Cù Lao Chàm - Báo Nông nghiệp và Môi trường",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOE8yc2tkZDV0ZmdmczVXYURicWxneTc4Mi03c3pvRkdHSHp4OEI0RlU2M3VPQUVpWmI1UjZSY2t2SGxqRXo3SjN3VXFPV1MyaFExT2RPYi1ydHJSel9jU0ppOUxKRE83UlpCOWpiclJUejBlRXcxbEhMaHo2V2RNVmVMaEs0cEZtWS1iSlZR?oc=5",
+      "outlet": "Báo Nông nghiệp và Môi trường",
+      "domain": "news.google.com",
+      "published_at": "2026-10-20T08:05:44+00:00",
+      "language": "Vietnamese",
+      "source_country": "VN",
+      "image": "",
+      "description": "Hồi sinh những thảm cỏ biển ở Cù Lao Chàm Báo Nông nghiệp và Môi trường",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Vietnamese (VN)",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "53eb858cf24d7b2c79",
+      "title": "Kepunahan Massal Keenam : Masih Bisakah Dicegah ?",
+      "url": "https://www.dw.com/id/bumi-terancam-kepunahan-massal-keenam-apa-risikonya/a-79697571",
+      "outlet": "dw.com",
+      "domain": "dw.com",
+      "published_at": "2026-10-20T06:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Germany",
+      "image": "https://static.dw.com/image/76479293_6.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "8656fdc89377daacfb",
+      "title": "Pamilacan Island Uneven Transition from Marine Wildlife Hunting to Ecotourism",
+      "url": "https://verafiles.org/articles/pamilacan-islands-uneven-transition-from-marine-wildlife-hunting-to-ecotourism",
+      "outlet": "verafiles.org",
+      "domain": "verafiles.org",
+      "published_at": "2026-10-20T03:30:00+00:00",
+      "language": "English",
+      "source_country": "Philippines",
+      "image": "https://verafiles.org/wp-content/uploads/2026/10/DJI_0011.jpg",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "74e89b07a0e43f0428",
+      "title": "Isle of Palms investing $150K in dune planting and sand fencing",
+      "url": "https://www.live5news.com/2026/10/19/isle-palms-investing-150k-in-dune-planting-sand-fencing",
+      "outlet": "live5news.com",
+      "domain": "live5news.com",
+      "published_at": "2026-10-19T22:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/3QTXGF2FRVFMPJQN5AU34M33OU.png?auth=f26939cba3af4e64cae344bef60117f67be49bfd9ad02dfc82138c81dfe0587d&smart=true",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "f3f4fd0d6a7c0b2de8",
+      "title": "Florida Parks Are Worth The Drive : Ten Places To Put On Your List",
+      "url": "https://www.aol.com/articles/florida-parks-worth-drive-ten-191832000.html",
+      "outlet": "aol.com",
+      "domain": "aol.com",
+      "published_at": "2026-10-19T20:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://hermes.media.transform.aol.com/4bd8f5a75ecf2956dba857e27d6ec90cdefb37b5/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/19/87981926-f565-31f5-9bfb-81a5ce7e82c4/0a55331c-d122-4d17-90ec-5f2ac15ac164.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "d5d355542700bd1282",
+      "title": "FWC : New Law in Effect Will Make Boat Owners More Accountable Outdoors",
+      "url": "https://dailyridge.com/2025/07/06/fwc-new-law-in-effect-will-make-boat-owners-more-accountable-2",
+      "outlet": "dailyridge.com",
+      "domain": "dailyridge.com",
+      "published_at": "2026-10-19T20:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "",
+      "description": "",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "e2747952129a42a032",
+      "title": "Tropical Seagrass Meadows Bury Carbon but Quietly Leak Methane, Study Finds - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVWhybmhzblhiSjFoU21jWjk4WGxlclU2SGlnYktpWG9PbVZmUG8wUzZnQlRZRlFxbmlvRVRQUFN5eDVUTjhGZnVTeFVXa2FtYUlEYnZlbHVrOHd5ZFVEemgwWnM5Y19MMWZhdkhIX3RHcGY3bWR0VHk4eHE1cDFUTGRJTHQ2NEt0UlVaLVM2MXpUZEZxcWVGUmtUdldwaEtU?oc=5",
+      "outlet": "Bioengineer.org",
+      "domain": "news.google.com",
+      "published_at": "2026-10-19T19:51:21+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Tropical Seagrass Meadows Bury Carbon but Quietly Leak Methane, Study Finds Bioengineer.org",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "e0bf397d3fe16be375",
+      "title": "Birds are among Earth most important nutrient - movers",
+      "url": "https://news.cornell.edu/stories/2026/10/birds-are-among-earths-most-important-nutrient-movers",
+      "outlet": "news.cornell.edu",
+      "domain": "news.cornell.edu",
+      "published_at": "2026-10-19T17:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-10/red-faced_cormorant_by_lars_petersson.jpg?itok=NiZ_DsjH",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity",
+        "Development & infrastructure",
+        "Pollution & water quality"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "e9c9fb0f8f8011ee1d",
+      "title": "Australia to expand protected wetlands to safeguard migratory shorebirds",
+      "url": "http://www.australianherald.com/news/279385017/australia-to-expand-protected-wetlands-to-safeguard-migratory-shorebirds",
+      "outlet": "australianherald.com",
+      "domain": "australianherald.com",
+      "published_at": "2026-10-19T17:30:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "",
+      "description": "",
+      "themes": [
+        "Conservation & policy",
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "608c3f82a2dc3960b5",
+      "title": "Sandbanks residents rail against yacht club expansion claiming it will let boat owners look into their luxury homes",
+      "url": "https://www.dailymail.com/news/article-16220039/Sandbanks-residents-against-yacht-club-expansion.html",
+      "outlet": "dailymail.com",
+      "domain": "dailymail.com",
+      "published_at": "2026-10-19T17:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://i.dailymail.com/1s/2026/10/19/10/111951141-0-image-a-8_1792403400250.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "70ba394b2a5260cb00",
+      "title": "Studland Bay Trial Records 93 . 6 % Drop in Bare Seagrass Patches",
+      "url": "https://econotimes.com/Studland-Bay-Trial-Records-93-6-Drop-in-Bare-Seagrass-Patches-1756573",
+      "outlet": "econotimes.com",
+      "domain": "econotimes.com",
+      "published_at": "2026-10-19T16:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://wfuxxvxhdynkhcrlavdu.supabase.co/storage/v1/object/public/article-media/articles/c3ff668caa3074bf8a678b41126c3396a96b7a0cdf617a6becfef927e0418467.webp",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "befbdb9adc5d71c4bb",
+      "title": "Le palle di mare di Posidonia intrappolano le microplastiche",
+      "url": "https://www.greenreport.it/news/inquinamenti-e-disinquinamenti/64417-le-palle-di-mare-di-posidonia-intrappolano-le-microplastiche",
+      "outlet": "greenreport.it",
+      "domain": "greenreport.it",
+      "published_at": "2026-10-19T16:00:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "https://www.greenreport.it/images/news/Posidonia_microplastiche.jpg",
+      "description": "",
+      "themes": [
+        "Pollution & water quality"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "e8646dd63b22cf7851",
+      "title": "Strait of Hormuz scoured for spilt cargo after Iran attacks container ships",
+      "url": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
+      "outlet": "theguardian.com",
+      "domain": "theguardian.com",
+      "published_at": "2026-10-19T15:45:00+00:00",
+      "language": "English",
+      "source_country": "United Kingdom",
+      "image": "https://i.guim.co.uk/img/media/0d4cf88c5f52288ec22b532a48cb137684da74e9/0_0_5000_4000/master/5000.jpg?&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=378001bce6600e307cdc4cbfda6718f4",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "5d358b36707f9c1568",
+      "title": "Ekosistem Padang Lamun Menghadapi Ancaman - RRI.co.id",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVBtRzhtcGt3akxoN0t2bVhtUzB5a3drakhjclNPS3NDTno1a0FmMFVYY1ViMUZrNmJCeWxRMTgxSmhSVXZSZkM2Z2dZczNhMFgyMzV5YjRhT2I3ZnRUSXJwZlJPTkpRNkhQLTctd0dVVWV1NzdreVFyUldSWWdGR2VqVi1IR21fbzlwVlVLY1JGZw?oc=5",
+      "outlet": "RRI.co.id",
+      "domain": "news.google.com",
+      "published_at": "2026-10-19T12:26:00+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Ekosistem Padang Lamun Menghadapi Ancaman RRI.co.id",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "ab3587e5abca5f7473",
+      "title": "Dugong | Daily Tribune",
+      "url": "https://tribune.net.ph/topic/dugong",
+      "outlet": "tribune.net.ph",
+      "domain": "tribune.net.ph",
+      "published_at": "2026-10-19T11:30:00+00:00",
+      "language": "English",
+      "source_country": "Philippines",
+      "image": "https://tribune.net.ph/tribune-og-fallback.jpg",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
     {
       "id": "62879411fd43354a30",
       "title": "”海のゆりかご”を増やして佐久島を豊かに 小学生が海草「アマモ」の再生活動取り組む（テレビ愛知） - Yahoo!ニュース",
@@ -26,7 +389,31 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "e8f719e0316b1c42f3",
+      "title": "”海のゆりかご”を増やして佐久島を豊かに 小学生が海草「アマモ」の再生活動取り組む（愛知のニュース（テレビ愛知）） - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2xmMmVBTHlzbVFYSHloM2F4Q1dzNk0xcFVrdE45MUhNQ0RiWTdYY193Q3VmYjVNZ3FndWp6WkVFcGV3ekpfc2dYLUFPcElnY2VTTkpPRU1GRGYxcm5vWjBoR3hyV2xlV1ctajNwemkzdVdvUUxOWEFlUFEyZVM1aUU5QjRER2FZbjRramE1OA?oc=5",
+      "outlet": "ｄメニューニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-10-19T09:57:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "”海のゆりかご”を増やして佐久島を豊かに 小学生が海草「アマモ」の再生活動取り組む（愛知のニュース（テレビ愛知）） ｄメニューニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
       "baseline": false
     },
     {
@@ -50,7 +437,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "baseline": false
     },
     {
@@ -74,7 +461,55 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "cbbf438260a55e0942",
+      "title": "Seabird numbers bounce back in Solent region after 2022 avian flu wipeout",
+      "url": "https://www.aol.co.uk/articles/seabird-numbers-bounce-back-solent-060021000.html",
+      "outlet": "aol.co.uk",
+      "domain": "aol.co.uk",
+      "published_at": "2026-10-19T07:15:00+00:00",
+      "language": "English",
+      "source_country": "United Kingdom",
+      "image": "https://hermes.media.transform.aol.com/a0bc660f0b3d07fede5ff54e8d8eb284d6692251/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/19/07844610-f0c1-34bb-a0ec-78de9b9aa0df/913aad1a-865c-4fdc-ae7e-fe9ba04bbe63.jpg",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "b982fff1fc736bc1dd",
+      "title": "Biodiversity crisis : Nature collapse threatens humanity",
+      "url": "https://www.dw.com/en/what-earths-sixth-mass-extinction-event-means-for-humans/a-79680410",
+      "outlet": "dw.com",
+      "domain": "dw.com",
+      "published_at": "2026-10-19T06:45:00+00:00",
+      "language": "English",
+      "source_country": "Germany",
+      "image": "https://static.dw.com/image/76479293_6.jpg",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
       "baseline": false
     },
     {
@@ -99,7 +534,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "baseline": false
     },
     {
@@ -123,7 +558,511 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "e4152c9bad726b9d39",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Moree Champion",
+      "url": "https://www.moreechampion.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "moreechampion.com.au",
+      "domain": "moreechampion.com.au",
+      "published_at": "2026-10-18T17:15:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.moreechampion.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "f0d54b535672c84f13",
+      "title": "Ekowisata Bahari Wakatobi , Peluang Ekonomi Masyarakat Pesisir",
+      "url": "https://bali.viva.co.id/wisata/11359-ekowisata-bahari-wakatobi-peluang-ekonomi-masyarakat-pesisir",
+      "outlet": "bali.viva.co.id",
+      "domain": "bali.viva.co.id",
+      "published_at": "2026-10-18T16:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://thumb.viva.id/vivabali/665x374/2026/10/18/6ad4ef7a1294e-ekowisata-bahari-wakatobi-peluang-ekonomi-masyarakat-pesisir_bali.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "63d4f83f18d9c7de49",
+      "title": "Boaters from the anchor out movement go to war with Marin County for forcing them on to land",
+      "url": "https://nypost.com/2026/10/18/us-news/boaters-from-the-anchor-outs-movement-go-to-war-with-marin-county-for-forcing-them-on-to-land",
+      "outlet": "nypost.com",
+      "domain": "nypost.com",
+      "published_at": "2026-10-18T16:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/145366154.jpg?quality=75&strip=all",
+      "description": "",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "2adf8028c3a81c04af",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | The Area News",
+      "url": "https://www.areanews.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "areanews.com.au",
+      "domain": "areanews.com.au",
+      "published_at": "2026-10-18T13:45:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.areanews.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "a38bc9cd3764a52dae",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Camden Haven Courier",
+      "url": "https://www.camdencourier.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "camdencourier.com.au",
+      "domain": "camdencourier.com.au",
+      "published_at": "2026-10-18T13:30:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.camdencourier.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "c7e1685c2aa482777d",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Narooma News",
+      "url": "https://www.naroomanewsonline.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "naroomanewsonline.com.au",
+      "domain": "naroomanewsonline.com.au",
+      "published_at": "2026-10-18T13:30:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.naroomanewsonline.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "82bca908bcffc62a80",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Manning River Times",
+      "url": "https://www.manningrivertimes.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "manningrivertimes.com.au",
+      "domain": "manningrivertimes.com.au",
+      "published_at": "2026-10-18T13:00:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.manningrivertimes.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "f659dc28e994e915a9",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Milton Ulladulla Times",
+      "url": "https://www.ulladullatimes.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "ulladullatimes.com.au",
+      "domain": "ulladullatimes.com.au",
+      "published_at": "2026-10-18T13:00:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.ulladullatimes.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "e6c39892bd25bc173c",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Nyngan Observer",
+      "url": "https://www.nynganobserver.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "nynganobserver.com.au",
+      "domain": "nynganobserver.com.au",
+      "published_at": "2026-10-18T13:00:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.nynganobserver.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "23cb93e1cc6e8ee4d4",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Narromine News",
+      "url": "https://www.narrominenewsonline.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "narrominenewsonline.com.au",
+      "domain": "narrominenewsonline.com.au",
+      "published_at": "2026-10-18T12:45:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.narrominenewsonline.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "4932aa2427ff9ee01f",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | The Courier",
+      "url": "https://www.thecourier.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "thecourier.com.au",
+      "domain": "thecourier.com.au",
+      "published_at": "2026-10-18T12:45:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.thecourier.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "885a7fdd0803ad4d9f",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Dungog Chronicle",
+      "url": "https://www.dungogchronicle.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "dungogchronicle.com.au",
+      "domain": "dungogchronicle.com.au",
+      "published_at": "2026-10-18T12:30:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.dungogchronicle.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "1bfdeec803d20426a2",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | The Examiner",
+      "url": "https://www.examiner.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "examiner.com.au",
+      "domain": "examiner.com.au",
+      "published_at": "2026-10-18T12:00:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.examiner.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "f5ea5adee3e4f7b64c",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Port Macquarie News",
+      "url": "https://www.portnews.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "portnews.com.au",
+      "domain": "portnews.com.au",
+      "published_at": "2026-10-18T12:00:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.portnews.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "24f7abdc6b7e9e7a9b",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | The North West Star",
+      "url": "https://www.northweststar.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "northweststar.com.au",
+      "domain": "northweststar.com.au",
+      "published_at": "2026-10-18T12:00:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.northweststar.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "b1982478b619522f2e",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | The Advocate - Hepburn",
+      "url": "https://www.hepburnadvocate.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "hepburnadvocate.com.au",
+      "domain": "hepburnadvocate.com.au",
+      "published_at": "2026-10-18T11:15:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.hepburnadvocate.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "3737746a2067ba1847",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Katherine Times",
+      "url": "https://www.katherinetimes.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "katherinetimes.com.au",
+      "domain": "katherinetimes.com.au",
+      "published_at": "2026-10-18T11:15:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.katherinetimes.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "7ab9e1f124079d3c57",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "canberratimes.com.au",
+      "domain": "canberratimes.com.au",
+      "published_at": "2026-10-18T10:30:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "df278ac3fbfac8e036",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Mudgee Guardian",
+      "url": "https://www.mudgeeguardian.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "mudgeeguardian.com.au",
+      "domain": "mudgeeguardian.com.au",
+      "published_at": "2026-10-18T10:30:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.mudgeeguardian.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "afdb3a08fb2e01b9e7",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Bunbury Mail",
+      "url": "https://www.bunburymail.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "bunburymail.com.au",
+      "domain": "bunburymail.com.au",
+      "published_at": "2026-10-18T10:30:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.bunburymail.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "6250b8b6bbdc5d5721",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Port Stephens Examiner",
+      "url": "https://www.portstephensexaminer.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "portstephensexaminer.com.au",
+      "domain": "portstephensexaminer.com.au",
+      "published_at": "2026-10-18T10:30:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.portstephensexaminer.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
       "baseline": false
     },
     {
@@ -147,7 +1086,223 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "84e5ceeb15eae78ded",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | The Irrigator",
+      "url": "https://www.irrigator.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "irrigator.com.au",
+      "domain": "irrigator.com.au",
+      "published_at": "2026-10-18T10:00:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.irrigator.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "b410e28c91c53a49e4",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | The Northern Daily Leader",
+      "url": "https://www.northerndailyleader.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "northerndailyleader.com.au",
+      "domain": "northerndailyleader.com.au",
+      "published_at": "2026-10-18T09:45:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.northerndailyleader.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "ce3f4d22c1c6119b00",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | St George & Sutherland Shire Leader",
+      "url": "https://www.theleader.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "theleader.com.au",
+      "domain": "theleader.com.au",
+      "published_at": "2026-10-18T09:45:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.theleader.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "525d401f4df8deee42",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Blue Mountains Gazette",
+      "url": "https://www.bluemountainsgazette.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "bluemountainsgazette.com.au",
+      "domain": "bluemountainsgazette.com.au",
+      "published_at": "2026-10-18T09:30:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.bluemountainsgazette.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "5e04c7730c7d6d6bf0",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | The Scone Advocate",
+      "url": "https://www.sconeadvocate.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "sconeadvocate.com.au",
+      "domain": "sconeadvocate.com.au",
+      "published_at": "2026-10-18T09:30:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.sconeadvocate.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "33c31fc8334adbe7bd",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | The Singleton Argus",
+      "url": "https://www.singletonargus.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "singletonargus.com.au",
+      "domain": "singletonargus.com.au",
+      "published_at": "2026-10-18T09:30:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.singletonargus.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "0f01c86b636ff39fc2",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Blayney Chronicle",
+      "url": "https://www.blayneychronicle.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "blayneychronicle.com.au",
+      "domain": "blayneychronicle.com.au",
+      "published_at": "2026-10-18T09:15:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.blayneychronicle.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "a6e039f87f9e1e29a3",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | The Border Mail",
+      "url": "https://www.bordermail.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "bordermail.com.au",
+      "domain": "bordermail.com.au",
+      "published_at": "2026-10-18T09:15:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.bordermail.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "62aed49329e62034be",
+      "title": "WA Australian of the Year : 16 inspiring nominees revealed | Southern Highland News",
+      "url": "https://www.southernhighlandnews.com.au/story/9369609/wa-australian-of-the-year-16-inspiring-nominees-revealed",
+      "outlet": "southernhighlandnews.com.au",
+      "domain": "southernhighlandnews.com.au",
+      "published_at": "2026-10-18T09:15:00+00:00",
+      "language": "English",
+      "source_country": "Australia",
+      "image": "https://www.southernhighlandnews.com.au/images/transform/v1/crop/frm/F68DHB4cw7rmBiCxPMDWN3/5362dd8e-f639-49df-8482-c2d771cfc350.jpg/r0_51_2048_1126_w1200_h630_fmax.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
       "baseline": false
     },
     {
@@ -171,7 +1326,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "baseline": false
     },
     {
@@ -195,7 +1350,127 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "dc63dc17bdcf4084dc",
+      "title": "Indonesia buka peluang kemitraan tilapia dan rumput laut dengan Eropa",
+      "url": "https://www.antaranews.com/berita/5794593/indonesia-buka-peluang-kemitraan-tilapia-dan-rumput-laut-dengan-eropa",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-10-18T07:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/05/18/WhatsApp-Image-2026-05-18-at-08.34.17.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "e080347ba9fe5643e2",
+      "title": "COP17 : Nature knows no boundaries – neither can our solutions",
+      "url": "https://www.eco-business.com/news/cop17-nature-knows-no-boundaries-neither-can-our-solutions",
+      "outlet": "eco-business.com",
+      "domain": "eco-business.com",
+      "published_at": "2026-10-17T11:30:00+00:00",
+      "language": "English",
+      "source_country": "China",
+      "image": "https://eco-business.imgix.net/ebmedia/fileuploads/sebastian-pena-lambarri-Abj_zUko6Mg-unsplash.jpg?fit=crop&ixlib=django-1.2.0&q=85",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "0e264e5724fb94a80c",
+      "title": "Wisata Bahari Berkelanjutan : Menjaga Terumbu Karang Indonesia",
+      "url": "https://bali.viva.co.id/wisata/11341-wisata-bahari-berkelanjutan-menjaga-terumbu-karang-indonesia",
+      "outlet": "bali.viva.co.id",
+      "domain": "bali.viva.co.id",
+      "published_at": "2026-10-17T08:15:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://thumb.viva.id/vivabali/665x374/2026/10/17/6ad3261b60698-wisata-bahari-berkelanjutan-menjaga-terumbu-karang-indonesia_bali.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "78596d511746a37a29",
+      "title": "Nilai Ekspor Tilapia RI Tertinggi di Dunia , Tapi Pasar Eropa Baru 8 , 1 Persen",
+      "url": "https://koran-jakarta.com/2026-10-17/nilai-ekspor-tilapia-ri-tertinggi-di-dunia-tapi-pasar-eropa-baru-81-persen",
+      "outlet": "koran-jakarta.com",
+      "domain": "koran-jakarta.com",
+      "published_at": "2026-10-17T08:15:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://media.koran-jakarta.com/images/image-article/2026-10/17/nilai-ekspor-tilapia-ri-tertinggi-di-dunia-tapi-pasar-eropa-baru-8-1-persen-6ad31ab8dc71f.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "79459d818eea3a8f80",
+      "title": "Resep Spicy Tuna Rice Ball , Ide Bekal Praktis dengan Isian Tuna Pedas",
+      "url": "https://www.jawapos.com/kuliner/2610170209/resep-spicy-tuna-rice-ball-ide-bekal-praktis-dengan-isian-tuna-pedas",
+      "outlet": "jawapos.com",
+      "domain": "jawapos.com",
+      "published_at": "2026-10-17T08:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
       "baseline": false
     },
     {
@@ -219,7 +1494,79 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "33344eca1f8bef0840",
+      "title": "Arab News | How Red Sea Global plans to prove a 30 % net conservation gain by 2040",
+      "url": "https://www.arabnews.com/green-blue/how-red-sea-global-plans-to-prove-a-30-net-conservation-gain-by-2040-3006287",
+      "outlet": "arabnews.com",
+      "domain": "arabnews.com",
+      "published_at": "2026-10-16T22:30:00+00:00",
+      "language": "English",
+      "source_country": "Saudi Arabia",
+      "image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1791976646182-2b7f9810b30d0146.jpeg",
+      "description": "",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "07f8262f7dfbe9bcf5",
+      "title": "Under Two Hours From Exeter Is An English Seaside Escape With A Vibrant Town Center , Sandy Beaches , And Fresh Seafood",
+      "url": "https://www.islands.com/2285187/salcombe-under-two-hours-exeter-english-seaside-escape-sandy-beaches-vibrant-town-center-fresh-seafood",
+      "outlet": "islands.com",
+      "domain": "islands.com",
+      "published_at": "2026-10-16T20:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://www.islands.com/img/gallery/under-two-hours-from-exeter-is-an-english-seaside-escape-with-a-vibrant-town-center-sandy-beaches-and-fresh-seafood/l-intro-1791899254.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "88bd26461ff22712e5",
+      "title": "Digital tools can guard PH vanishing mangroves",
+      "url": "https://www.manilatimes.net/2026/10/17/business/science-technology/digital-tools-can-guard-phs-vanishing-mangroves/2447323",
+      "outlet": "manilatimes.net",
+      "domain": "manilatimes.net",
+      "published_at": "2026-10-16T18:00:00+00:00",
+      "language": "English",
+      "source_country": "Philippines",
+      "image": "https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
       "baseline": false
     },
     {
@@ -243,7 +1590,31 @@
       ],
       "search_route": "Google News English (US)",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "ff9e8e6637e04f59d8",
+      "title": "Scientists Fear Super El Niño and a Strange Uptick in Trafficking Could Decimate Galápagos Iguana Populations",
+      "url": "https://gizmodo.com/scientists-fear-super-el-nino-and-a-strange-uptick-in-trafficking-could-decimate-galapagos-iguana-populations-2000826882",
+      "outlet": "gizmodo.com",
+      "domain": "gizmodo.com",
+      "published_at": "2026-10-16T14:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://gizmodo.com/app/uploads/2026/10/Galapagos-Marine-Iguana-trafficking-1200x675.jpeg",
+      "description": "",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
       "baseline": false
     },
     {
@@ -291,7 +1662,79 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "a11d9be3660884e544",
+      "title": "Draft Penang Structure Plan 2040 : Who are they building for ?",
+      "url": "https://anilnetto.com/economy/development-issues/draft-penang-structure-plan-who-are-they-building-for",
+      "outlet": "anilnetto.com",
+      "domain": "anilnetto.com",
+      "published_at": "2026-10-16T13:15:00+00:00",
+      "language": "English",
+      "source_country": "Malaysia",
+      "image": "https://anilnetto.com/wp-content/uploads/2026/10/draft-Penang-Structure-Plan-2040.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "d2dc27a9d266eca816",
+      "title": "Kemenko Pangan - UNDP perluas Sungai Lestari lindungi pangan pesisir",
+      "url": "https://www.antaranews.com/berita/5791817/kemenko-pangan-undp-perluas-sungai-lestari-lindungi-pangan-pesisir",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-10-16T12:30:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/10/16/1000208015.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "baseline": false
+    },
+    {
+      "id": "8f3e7d9cac393f8b92",
+      "title": "Seagrass meadows may offer coastal communities a more nutritious catch than reefs",
+      "url": "https://news.mongabay.com/2026/10/seagrass-meadows-may-offer-coastal-communities-a-more-nutritious-catch-than-reefs",
+      "outlet": "news.mongabay.com",
+      "domain": "news.mongabay.com",
+      "published_at": "2026-10-16T11:30:00+00:00",
+      "language": "English",
+      "source_country": "Indonesia",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/15150732/3-1200x800.png",
+      "description": "",
+      "themes": [
+        "Fisheries & food"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
       "baseline": false
     },
     {
@@ -315,7 +1758,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "baseline": false
     },
     {
@@ -365,7 +1808,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "baseline": false
     },
     {
@@ -15915,11 +17358,11 @@
     "languages": [
       [
         "English",
-        228
+        277
       ],
       [
         "Indonesian",
-        79
+        87
       ],
       [
         "German",
@@ -15935,7 +17378,7 @@
       ],
       [
         "Japanese",
-        39
+        40
       ],
       [
         "Chinese",
@@ -15947,7 +17390,7 @@
       ],
       [
         "Italian",
-        21
+        22
       ],
       [
         "Dutch",
@@ -15966,12 +17409,12 @@
         7
       ],
       [
-        "Portuguese",
+        "Vietnamese",
         6
       ],
       [
-        "Vietnamese",
-        5
+        "Portuguese",
+        6
       ],
       [
         "Norwegian",
@@ -16005,19 +17448,19 @@
     "countries": [
       [
         "GB",
-        109
+        110
+      ],
+      [
+        "Indonesia",
+        62
+      ],
+      [
+        "United States",
+        61
       ],
       [
         "DE",
         60
-      ],
-      [
-        "Indonesia",
-        55
-      ],
-      [
-        "United States",
-        52
       ],
       [
         "TR",
@@ -16029,35 +17472,39 @@
       ],
       [
         "JP",
-        39
+        40
+      ],
+      [
+        "Australia",
+        37
       ],
       [
         "ID",
-        30
+        31
       ],
       [
         "China",
-        18
+        19
       ],
       [
         "CN",
         16
       ],
       [
-        "NL",
+        "Italy",
+        15
+      ],
+      [
+        "United Kingdom",
         14
       ],
       [
-        "Italy",
+        "NL",
         14
       ],
       [
         "US",
         13
-      ],
-      [
-        "United Kingdom",
-        12
       ],
       [
         "ES",
@@ -16066,10 +17513,6 @@
       [
         "Spain",
         11
-      ],
-      [
-        "Australia",
-        8
       ],
       [
         "AE",
@@ -16088,6 +17531,10 @@
         7
       ],
       [
+        "VN",
+        6
+      ],
+      [
         "PT",
         6
       ],
@@ -16104,7 +17551,7 @@
         6
       ],
       [
-        "VN",
+        "Philippines",
         5
       ],
       [
@@ -16120,6 +17567,14 @@
         3
       ],
       [
+        "Germany",
+        2
+      ],
+      [
+        "Malaysia",
+        2
+      ],
+      [
         "NO",
         2
       ],
@@ -16129,10 +17584,6 @@
       ],
       [
         "Turkey",
-        2
-      ],
-      [
-        "Philippines",
         2
       ],
       [
@@ -16150,6 +17601,10 @@
       [
         "Norway",
         2
+      ],
+      [
+        "Saudi Arabia",
+        1
       ],
       [
         "Ireland",
@@ -16177,10 +17632,6 @@
       ],
       [
         "Libya",
-        1
-      ],
-      [
-        "Malaysia",
         1
       ],
       [
@@ -16215,19 +17666,27 @@
     "outlets": [
       [
         "antaranews.com",
-        13
+        15
       ],
       [
         "Vietnam.vn",
         10
       ],
       [
+        "koran-jakarta.com",
+        8
+      ],
+      [
         "NDR.de",
         8
       ],
       [
-        "koran-jakarta.com",
-        7
+        "Bioengineer.org",
+        6
+      ],
+      [
+        "news.mongabay.com",
+        6
       ],
       [
         "山陽新聞",
@@ -16242,10 +17701,6 @@
         6
       ],
       [
-        "Bioengineer.org",
-        5
-      ],
-      [
         "liputan6.com",
         5
       ],
@@ -16254,15 +17709,23 @@
         5
       ],
       [
-        "news.mongabay.com",
-        5
-      ],
-      [
         "Son Dakika",
         5
       ],
       [
+        "RRI.co.id",
+        4
+      ],
+      [
         "Yahoo!ニュース",
+        4
+      ],
+      [
+        "ｄメニューニュース",
+        4
+      ],
+      [
+        "islands.com",
         4
       ],
       [
@@ -16286,11 +17749,15 @@
         4
       ],
       [
+        "aol.co.uk",
+        3
+      ],
+      [
         "日テレNEWS NNN",
         3
       ],
       [
-        "ｄメニューニュース",
+        "jawapos.com",
         3
       ],
       [
@@ -16299,10 +17766,6 @@
       ],
       [
         "VOI.ID",
-        3
-      ],
-      [
-        "RRI.co.id",
         3
       ],
       [
@@ -16319,10 +17782,6 @@
       ],
       [
         "뉴스탭",
-        3
-      ],
-      [
-        "islands.com",
         3
       ],
       [
@@ -16344,6 +17803,18 @@
       [
         "搜狐网",
         3
+      ],
+      [
+        "dw.com",
+        2
+      ],
+      [
+        "greenreport.it",
+        2
+      ],
+      [
+        "bali.viva.co.id",
+        2
       ],
       [
         "TBS NEWS DIG",
@@ -16392,32 +17863,12 @@
       [
         "wildshores.blogspot.com",
         2
-      ],
-      [
-        "DongA Science",
-        2
-      ],
-      [
-        "capeandislands.org",
-        2
-      ],
-      [
-        "finance.eastmoney.com",
-        2
-      ],
-      [
-        "jawapos.com",
-        2
-      ],
-      [
-        "abc.net.au",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        497
+        542
       ],
       [
         "Restoration",
@@ -16425,19 +17876,19 @@
       ],
       [
         "Science & discovery",
-        41
+        43
       ],
       [
         "Conservation & policy",
-        34
+        37
       ],
       [
         "Development & infrastructure",
-        28
+        32
       ],
       [
         "Wildlife & biodiversity",
-        25
+        31
       ],
       [
         "Climate & heat",
@@ -16453,21 +17904,21 @@
       ],
       [
         "Fisheries & food",
-        8
+        9
       ],
       [
         "Pollution & water quality",
-        6
+        8
       ]
     ],
     "discovery_sources": [
       [
         "Google News RSS",
-        452
+        456
       ],
       [
         "GDELT",
-        209
+        265
       ]
     ]
   }
