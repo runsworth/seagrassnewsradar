@@ -1,10 +1,228 @@
 {
-  "generated_at": "2026-10-21T10:34:17.617419+00:00",
+  "generated_at": "2026-10-22T10:37:53.318891+00:00",
   "baseline_complete": true,
-  "article_count": 728,
-  "new_today": 10,
+  "article_count": 744,
+  "new_today": 16,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "aefab0562201eac95f",
+      "title": "WATERLINE: Five Years Underwater — The Eyes on Seagrass Community - yoursun.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcXRhcWRNa3VJUEJhZTBKcC1jSXROcjZCZWZrempsQTBrUFA2VWY1emJ5M1NfT3hSMWdPYVJkVFJkMlZnTFlEYVREeFpUcWJWRG9zSEtGLUZEOUc1aEtfZGVmM3hJc3hMRzhBd2FEQzE4NUNTNmN4dmdvazhNRE9oODBwczlqbVpXdXRvd29iU3Z2dE5kcHE4cGNkSFRfOENpX0hnUWNqQVI0T19ycGlRUXF6TWoxZm9DTjlPTnhPMldjNW1zZ1JLMUxsRlBNYmNPbVpQWVAxVUg2QlpjU1B6TkE4ZlR5QWRVSnluMFc1SXY5anRN?oc=5",
+      "outlet": "yoursun.com",
+      "domain": "news.google.com",
+      "published_at": "2026-10-22T09:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "WATERLINE: Five Years Underwater — The Eyes on Seagrass Community yoursun.com",
+      "themes": [
+        "Community & culture"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
+    {
+      "id": "7470ab271e68f0fe6b",
+      "title": "The Curious Connection Between Bacteria, Seagrass, and Carbon - bioGraphic",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaDAxR1ZGanJmRVJ0MVpmZUM4bnVkY2IzT2U4TVprclFWYUxZNDhkQm9xQmtVUVFYUGhGd05NdkoyTXVvWEVhY2JnOG1tTU1nSjdPWUFYMm9wUDB5TFVQN3dLLXZMSDFDakNWdnBzMU5nMm1za0ZsOUNOZEc1VmNBTFBqbEhvVjRZdGJN?oc=5",
+      "outlet": "bioGraphic",
+      "domain": "news.google.com",
+      "published_at": "2026-10-22T08:05:48+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "The Curious Connection Between Bacteria, Seagrass, and Carbon bioGraphic",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
+    {
+      "id": "f019f2eaf4e40587ec",
+      "title": "İzmir Haberleri - Deniz çayırlarının korunmasında yeni model: Mavi nefes - Yerel Haberler - Hürriyet",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOejFja08xRkVaSDBTSU1DbEhKNE15SzNGcDJFR2lXVlZ4cWNnQzk4SkFnZDF6QXU0alE0cHgwdlI3bllWRDBTdHdtQXpzU2EyM1FwNTljbUZnTllIYnNYRFUtbFRPNUJENDZfZkp6YUdOTTRRVjhBS211MVYyQVFPcEhpNHhUX2dFREJUYWVGa0NYUjVPdl9RYjItUENZWjJrS01GOHhXYWJKb1lCNmlpazRR?oc=5",
+      "outlet": "Hürriyet",
+      "domain": "news.google.com",
+      "published_at": "2026-10-22T04:42:26+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "İzmir Haberleri - Deniz çayırlarının korunmasında yeni model: Mavi nefes - Yerel Haberler Hürriyet",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
+    {
+      "id": "53a0ea610563187fdb",
+      "title": "四国水族館で宇多津アマモ場再生に向けたアマモの苗床作成体験イベントを開催します！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMckJQQ3hXRHRpTnZWNnF4Zm4tRkx4OG5RQ0I1aENaWjJLOExvVEhwVmxJRkpSM2FIY0o2aWFmYnhXYzE2dG0wSHJNTHhGTFRMZzR1RmgwaDFzcEhhbUtiYkNEeXNpdkxwRnc?oc=5",
+      "outlet": "PR TIMES",
+      "domain": "news.google.com",
+      "published_at": "2026-10-22T02:48:40+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "四国水族館で宇多津アマモ場再生に向けたアマモの苗床作成体験イベントを開催します！ PR TIMES",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
+    {
+      "id": "8a6769a03a2864e9d2",
+      "title": "藍碳是什麼？海大教授周文臣解析東沙海草床研究，揭開海洋碳匯的「隱形」面貌【專訪】 - ESG永續台灣",
+      "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxOdEdnMWp6QjJ0V3FSMmlER01yTktOZGhoLWNuOHM5ZHpLWWVfVmc3cFZrUmhxUU1acE14QlNnQUl4a0lneDF5WExySzRmQ0lJYXhBR2VDWklwd3hLVVpYUUxfRjFDaUp1QUtNSmJ6UVNhZ2VEUkJLWnN1QjV2WTJQWlJfbEQ4WEw1cl9xLXBDUnhyRHdPdVNodXQzLWR3QTFGTVhvaXhHM1R5NVpwNUlJMkNMVm9YMi1FZFR2MFM5aTJ6RFBzWTJPeTFsZFdVZF8yVTR5MU9kTDdNRG90UXotMmhBZTZYZzNDd1hNSHY4Z0t3V0JmVHBha3VwUUpEUFA4a28zLUN0MndxUTByWDJZajZmdFpocjNTWnJ2WloxUlJXdVJVa2ZXdzFvanVVQmd0R2g1U01vQXJ5MWNnLUJQUVJ2b2liRU5YNnRMSnltRHBURjRXSzVxXzc2c2Y3bTRrcmgtNnRCNWt4ZVhCZktHeGp5cEdmWGViQWE3UXRTQnRYN01Ca2R4VUZnOGVnMTFYUzZpWUxpcjkyczlRR2pjbXEtRVVuMnA0NDZvYWdpOEN2ZXpJMHRFYzVnNWpUdldJSUhacUNFeTlvVmFzckE3Yi1sQi1UZndObEEyR0UxbzdSb2RYT1luWlpGTnpHbV94WC1CM0xfNFd4YXFUb29DbmtkTEloQTkxZ0E2Yjc0UmM3WmJzVXVoNWVGM0p6OGw2VGpBUW9rMlRIcF9JRkVfUTJ0eTFhbFpuOXlfVWFMUE43Vzh6Zmt1ZE53S0ZsQkp0a0hTTTE2YV8xOFZuaEJpYw?oc=5",
+      "outlet": "ESG永續台灣",
+      "domain": "news.google.com",
+      "published_at": "2026-10-22T01:47:23+00:00",
+      "language": "Chinese",
+      "source_country": "TW",
+      "image": "",
+      "description": "藍碳是什麼？海大教授周文臣解析東沙海草床研究，揭開海洋碳匯的「隱形」面貌【專訪】 ESG永續台灣",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (TW)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
+    {
+      "id": "d4f78b3a1f7d4f0a3f",
+      "title": "잘피 복원에 공학 기술 더했다… 한양대 ERICA 학생팀, 해양공학 CAE 경진대회서 최우수상 수상 - 뉴스H",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNOHlKQVNLd1otNnlnUDFDeHNSVnJFZnNOZVBZNWRnUmlIYlUtRVZrcG5WR2ZVQktDamdkcGN3b2FaQmI2TmFjWHV0aWhVbzNoRU9oVVlvZDdaZDFIdXNWVFRkTVBIWWdBMWdF?oc=5",
+      "outlet": "뉴스H",
+      "domain": "news.google.com",
+      "published_at": "2026-10-22T01:27:18+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "잘피 복원에 공학 기술 더했다… 한양대 ERICA 학생팀, 해양공학 CAE 경진대회서 최우수상 수상 뉴스H",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
+    {
+      "id": "a3a2f7cbb3f2fbc5ac",
+      "title": "Gagas Restorasi Padang Lamun di Teluk Tomini Mahasiwa FMIPA UNG Juara 3 Lomba Esai Nasional - Darilaut.id",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcVczYnBXc2h2OEhHaTFkRHNRb3VtNG5hWkJvZThjeGotbXM2VEcyOEpjX0lTUmZkbEhnRjNjbHd5LUdHS055WThUTkpxT2UxY1Y4VzNwc3VJaUNTQWxrbnNaclpac19RYjFsSDM0ODJkNi1lMmVVZDRLQ2xFVmpWcWJibUlTS3NNMFJ1X2FOTXZCd2xaVEN5R085RlJpT3ZIM2lhb19jZEh3LUp0LW5tZE5WSC0xeUpSTFHSAb8BQVVfeXFMTVVmOEd1c2JiTWg1WlRTckZvcXdFTkMyd0pyZ28ydEtCcXRuTUU5WE1GYVE2ckNwN3g0NUg0elB4ZDBTZVBUN3IzQXRqTG50b25RUXB0dkkwOHEyOENDbzZERFFtcVV6b1IxcDZvNV94SUNHZUdVUHhaM3FFamlxam9xVTJPaEV0QlFFc1RaaXRXaDlOTUt0WVRIako3bncwbDhmQlBHMVo5c19CX1hmQU1jODhUV1dKa0dvSkxFSTA?oc=5",
+      "outlet": "Darilaut.id",
+      "domain": "news.google.com",
+      "published_at": "2026-10-21T20:37:09+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Gagas Restorasi Padang Lamun di Teluk Tomini Mahasiwa FMIPA UNG Juara 3 Lomba Esai Nasional Darilaut.id",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
+    {
+      "id": "1a36e13cb2d1427894",
+      "title": "Deniz çayırlarının korunmasında yeni model | Son dakika haberleri - Habertürk",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjQ5enktT0RVcnk0d01HWE54YXRIeHBCVnFnU25NYXZuZlU0QTU1X0R1QkdZV0FEcnBjSEl3M0N3LUIzVkI0U3B1WG1fR211amF2M2k3VmxxN1JTSXpNR1F4MjRTNTVpZExMdUJ6RzRDWnRzRDB4NmlPb2RQcGh3SUdGbklKVG5uOEYw?oc=5",
+      "outlet": "Habertürk",
+      "domain": "news.google.com",
+      "published_at": "2026-10-21T11:01:17+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Deniz çayırlarının korunmasında yeni model | Son dakika haberleri Habertürk",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
+    {
+      "id": "fb1784eb21c668d3ea",
+      "title": "Zostera Lostera: arte y ciencia marina en Penryn - Foro3D",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbWJKS0JUNGwwZTN4SmR6TlZQdWpBZ1hndG1HM2VaU1RwaXpJYlV3dDItRWNXckY4b2NSM1RDV1JHS0EwSjZTT1ZrY3RJb2ltSTFnaS1zLXVNRm1FU09ESzMtUVZmS25VZUJVQklvbXRMcVdaR1ZBTFZ1Q0tUdFN0TjREZUhFbjk1LTFHNg?oc=5",
+      "outlet": "Foro3D",
+      "domain": "news.google.com",
+      "published_at": "2026-10-21T10:00:00+00:00",
+      "language": "Spanish",
+      "source_country": "MX",
+      "image": "",
+      "description": "Zostera Lostera: arte y ciencia marina en Penryn Foro3D",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Zostera"
+      ],
+      "relevance": 4,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (MX)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
     {
       "id": "2669a012b49bd19577",
       "title": "Deniz çayırlarına koruma kalkanı: Mavi karbon depoları için Türkiye'de ilk kez model geliştirildi - 24 Saat Gazetesi",
@@ -26,7 +244,31 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
+    {
+      "id": "760d9c34017cef8bd3",
+      "title": "ペットボトルで育て 海のゆりかご「アマモ」の苗床づくり 香川（KSB瀬戸内海放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52UTd1Q1ltV1B1ZFJQMVVOZlhKcmxUS1Q4QjBSSzBFcTdEdkJBYnFWOTEtZ0ZNUm1uQ0d4cWN5dEVQMURDSVVPOE9fcWpyUHVONmQwWkhqel9DSzd6SzBKQ1dyNVEzakl2S0lnMW1PZGx6Um15MnZFYnplemU4bGs?oc=5",
+      "outlet": "Yahoo!ニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-10-21T08:20:14+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "ペットボトルで育て 海のゆりかご「アマモ」の苗床づくり 香川（KSB瀬戸内海放送） Yahoo!ニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -54,6 +296,32 @@
       "baseline": false
     },
     {
+      "id": "a551ee0f87064d45ae",
+      "title": "Etiket: Ulusal Deniz Çayırı Posidonia Oceanica Önceliklendirme İndeksi - Haber 1",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSnRRcEJ3Q3hoT0tidkZsWk5TT1FReHhJWFFfclRDbmhYV1piYXRZWGQ4eUNkeFhGTDNWREUxMkp6RmlLQ1dKNDluVGxaRGNkbUxyRjZzR2ltb2pzRTFhdlJoeUlobXVkX3gwUThfUy0wTXlCc09BS1Nqb0ljNUZUQ2NNYVNneGpNWHBaaEt4STBiSjREZldN?oc=5",
+      "outlet": "Haber 1",
+      "domain": "news.google.com",
+      "published_at": "2026-10-21T08:20:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Etiket: Ulusal Deniz Çayırı Posidonia Oceanica Önceliklendirme İndeksi Haber 1",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 14,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
+    {
       "id": "7f9d39b787a96b301c",
       "title": "Deniz çayırı modeli Göcek'te 3 istasyonda restorasyon önceliği belirledi - Haberler",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNFdNRHBleFR6TFdjWXk4QWE2eHZLTnpYY0Fka3BqZXdGMEplV2dVY2NkZmZWRTlVV0dYaEdPdXpDZGV3X1pCZGJmNmVVOHIzNzlNV3BUWTlneE9BWnNRVGRYNGJGRmF0Z3Q2OEJYclNobGdEaER0TERNaHNweGx4eUdpTDdZaW1wNUk1VEI2aTPSAZABQVVfeXFMUDRXTURwZXhUekxXY1l5OEFhNnh2S056WGNBZGtwamV3RjBKZVdnVWNjZGZmVkU5VVdHWGhHT3V6Q2Rld19aQmRiZjZlVThyMzc5TVdwVFk5Z3hPQVpzUVRkWDRiRkZhdGd0NjhCWHJTaGxnRGhEdExETWhzcHhseHlHaUw3WWltcDVJNVRCNmkz?oc=5",
@@ -78,6 +346,126 @@
       "baseline": false
     },
     {
+      "id": "3d4dc5bbf796a650a7",
+      "title": "Régénérer les herbiers marins de l'île de Cu Lao Cham. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16Vmd2dlYtS3FPZmZMdDVia2ZNdTZkcmQ1LXhWZXVNUDVPNGF4UmRXajkwYlJlbC0wYlBwcnVpcmpGNHdnNXVRRjBHWkF6eHdPQ3BfLWJjS3VBUlQyay0yY2JfemhzZU16UGc0UEdQY1RwT2RuMnc?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-21T06:48:20+00:00",
+      "language": "French",
+      "source_country": "FR",
+      "image": "",
+      "description": "Régénérer les herbiers marins de l'île de Cu Lao Cham. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News French (FR)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
+    {
+      "id": "59a4ee76a6aad26464",
+      "title": "Reviving the seagrass beds on Cu Lao Cham Island. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OY1VVZEZZWHQ1VHlic1RqejJRN0FUUTNGSEdLenlfbDFPbW5KTFM0YzJYTEFza1Bob205dkZKM1lTLXJfR1EzVzhpNWE4UzZ4WWpXNVlTcm5qWEtzSHNNTGlsX2F0cnJZUVA5TDJvWVpIR2Rpemc?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-21T06:47:40+00:00",
+      "language": "Vietnamese",
+      "source_country": "VN",
+      "image": "",
+      "description": "Reviving the seagrass beds on Cu Lao Cham Island. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Vietnamese (VN)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
+    {
+      "id": "9a3fe58b03d186dddc",
+      "title": "ฟื้นฟูแหล่งหญ้าทะเลบนเกาะกู่เหลาจาม - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yeG92eEcyVWgyUG45ZW4wd1JNU3FpaGFBWXo4dGVudEppeWt0dnFzZkJ0V3lqamZWb0YtVE5ESDhaeWR2b05uaGhkVkhieVloVFAyTnRlN3VvVTl0X0R1Ry1SX3pQVDBzYnk5WEdfSUQ4YVA0SXc?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-21T06:37:02+00:00",
+      "language": "Thai",
+      "source_country": "TH",
+      "image": "",
+      "description": "ฟื้นฟูแหล่งหญ้าทะเลบนเกาะกู่เหลาจาม Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Thai (TH)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
+    {
+      "id": "b256527c37e6719f22",
+      "title": "कु लाओ चाम द्वीप पर समुद्री घास के बिस्तरों को पुनर्जीवित करना। - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LaWthQkxVbm9oTllvTVFIbUU3dlVCLWRpdDA3dEJmaXdsNWhsanhQbFhhZEkxVXBidHNQV1dWRnJMYmc5Nkk0eVZoR0MyYnVuaGVTR0hQR2RJbUZ5OV91NE1WaFV5OURMWDM0MzlvRXdCSDNrSlE?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-21T06:35:09+00:00",
+      "language": "Hindi",
+      "source_country": "IN",
+      "image": "",
+      "description": "कु लाओ चाम द्वीप पर समुद्री घास के बिस्तरों को पुनर्जीवित करना। Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Hindi (IN)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
+    {
+      "id": "fc03151ad790d462f1",
+      "title": "Upaya menghidupkan kembali hamparan lamun di Pulau Cu Lao Cham. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lNHdtWXJHd25NV0lJU3c3M2t1TUowRjU2T3BKLXpUcXhUMDVJZ2Y4cFVIbmlhejRZT3BaUDFGeGloZS1mZ0FCMXdWUnhKZGJ1WDZnSWVYSnA2dXkzMm5TVElfWEJwMXVhNWJPVE9QWUlYVElEWUE?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-21T06:34:12+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Upaya menghidupkan kembali hamparan lamun di Pulau Cu Lao Cham. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "baseline": false
+    },
+    {
       "id": "74c175011d91bbd9ce",
       "title": "Ålegras – framtidas havrestaurering i Finnmark - Ságat",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GQnRLM0ZTQk5tTlJsZDhyTGFYMEFLZEdQOFB1OW92cVRfY3BxUDN6MFZJVXNoWi15NWNlVm80VTZfM0phejk1LU01bU85TEwzZkRJMDdyZVdVaWVuc1NGZEIwdTBSaklvWUVUUmo1TnFveTYyMWZBa1B1a0psOXM?oc=5",
@@ -98,7 +486,7 @@
       ],
       "search_route": "Google News Norwegian (NO)",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -146,7 +534,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -194,7 +582,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -218,7 +606,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -533,7 +921,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -581,7 +969,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -629,7 +1017,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -653,7 +1041,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -677,7 +1065,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -750,7 +1138,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -774,7 +1162,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -1302,7 +1690,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -1542,7 +1930,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -1566,7 +1954,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -1615,7 +2003,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -1735,7 +2123,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "baseline": false
     },
     {
@@ -17599,11 +17987,11 @@
     "languages": [
       [
         "English",
-        278
+        280
       ],
       [
         "Indonesian",
-        88
+        90
       ],
       [
         "German",
@@ -17611,23 +17999,23 @@
       ],
       [
         "Turkish",
-        53
+        56
       ],
       [
         "Korean",
-        47
+        48
       ],
       [
         "Japanese",
-        43
+        45
       ],
       [
         "Chinese",
-        38
+        39
       ],
       [
         "Spanish",
-        29
+        30
       ],
       [
         "Italian",
@@ -17639,7 +18027,11 @@
       ],
       [
         "Vietnamese",
-        7
+        8
+      ],
+      [
+        "Thai",
+        8
       ],
       [
         "Arabic",
@@ -17650,20 +18042,16 @@
         7
       ],
       [
-        "Thai",
-        7
-      ],
-      [
         "Portuguese",
         6
       ],
       [
-        "Norwegian",
+        "Hindi",
         5
       ],
       [
-        "Hindi",
-        4
+        "Norwegian",
+        5
       ],
       [
         "Catalan",
@@ -17674,22 +18062,22 @@
         3
       ],
       [
+        "French",
+        2
+      ],
+      [
         "Polish",
         2
       ],
       [
         "Greek",
         2
-      ],
-      [
-        "French",
-        1
       ]
     ],
     "countries": [
       [
         "GB",
-        111
+        113
       ],
       [
         "Indonesia",
@@ -17705,15 +18093,15 @@
       ],
       [
         "TR",
-        53
+        56
       ],
       [
         "KR",
-        47
+        48
       ],
       [
         "JP",
-        43
+        45
       ],
       [
         "Australia",
@@ -17721,7 +18109,7 @@
       ],
       [
         "ID",
-        32
+        34
       ],
       [
         "China",
@@ -17757,6 +18145,14 @@
       ],
       [
         "VN",
+        8
+      ],
+      [
+        "TH",
+        8
+      ],
+      [
+        "MX",
         7
       ],
       [
@@ -17772,15 +18168,7 @@
         7
       ],
       [
-        "TH",
-        7
-      ],
-      [
         "PT",
-        6
-      ],
-      [
-        "MX",
         6
       ],
       [
@@ -17792,11 +18180,15 @@
         6
       ],
       [
+        "IN",
+        5
+      ],
+      [
         "Philippines",
         5
       ],
       [
-        "IN",
+        "TW",
         4
       ],
       [
@@ -17804,12 +18196,12 @@
         3
       ],
       [
-        "TW",
+        "RU",
         3
       ],
       [
-        "RU",
-        3
+        "FR",
+        2
       ],
       [
         "Germany",
@@ -17860,10 +18252,6 @@
         1
       ],
       [
-        "FR",
-        1
-      ],
-      [
         "Canada",
         1
       ],
@@ -17906,12 +18294,12 @@
     ],
     "outlets": [
       [
-        "antaranews.com",
+        "Vietnam.vn",
         15
       ],
       [
-        "Vietnam.vn",
-        10
+        "antaranews.com",
+        15
       ],
       [
         "koran-jakarta.com",
@@ -17942,6 +18330,10 @@
         6
       ],
       [
+        "Yahoo!ニュース",
+        5
+      ],
+      [
         "ｄメニューニュース",
         5
       ],
@@ -17959,10 +18351,6 @@
       ],
       [
         "RRI.co.id",
-        4
-      ],
-      [
-        "Yahoo!ニュース",
         4
       ],
       [
@@ -17988,6 +18376,10 @@
       [
         "kupang.tribunnews.com",
         4
+      ],
+      [
+        "PR TIMES",
+        3
       ],
       [
         "Haberler",
@@ -18050,6 +18442,14 @@
         3
       ],
       [
+        "yoursun.com",
+        2
+      ],
+      [
+        "Habertürk",
+        2
+      ],
+      [
         "dw.com",
         2
       ],
@@ -18092,28 +18492,16 @@
       [
         "ecojournal.co.kr",
         2
-      ],
-      [
-        "부산일보",
-        2
-      ],
-      [
-        "en.antaranews.com",
-        2
-      ],
-      [
-        "vietnamnews.vn",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        549
+        563
       ],
       [
         "Restoration",
-        48
+        49
       ],
       [
         "Science & discovery",
@@ -18137,7 +18525,7 @@
       ],
       [
         "Community & culture",
-        13
+        14
       ],
       [
         "Blue carbon",
@@ -18155,7 +18543,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        466
+        482
       ],
       [
         "GDELT",
