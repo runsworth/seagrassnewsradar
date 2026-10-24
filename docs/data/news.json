@@ -1,10 +1,61 @@
 {
-  "generated_at": "2026-10-23T10:29:52.610692+00:00",
+  "generated_at": "2026-10-24T09:46:53.383661+00:00",
   "baseline_complete": true,
-  "article_count": 749,
-  "new_today": 5,
+  "article_count": 755,
+  "new_today": 6,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "64ce61aa2d09a68ecb",
+      "title": "Seagrass meadows bounce back with new fish communities - JCU Australia - James Cook University",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWFoyNzhNSlBoaFdVMFZMYTBHUTFTdkJPWi01Y0JBQUU0QTdreUx5VzhieVliaVV6SUhZYWsweGVZVXBpdkRtckxvMXRvQXVtYkVyeFlQRHZZZ3p5TDgzNHl6WTlpU0poNUUxeWljeEdMX2tPMW9obFJmdFVGV2wtb0k4ZTRDaGNGcjNVTGxSUmtlRGphSlN2NXlfcHFtcTdnOFptT0o2Yw?oc=5",
+      "outlet": "James Cook University",
+      "domain": "news.google.com",
+      "published_at": "2026-10-24T00:42:33+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass meadows bounce back with new fish communities - JCU Australia James Cook University",
+      "themes": [
+        "Wildlife & biodiversity",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "baseline": false
+    },
+    {
+      "id": "f0bbc8daf5fbc12534",
+      "title": "Del mar a la mesa: la UA obtiene de restos de ‘Posidonia oceanica’ un sustrato que mejora el sabor y aroma del tomate - Universidad de Alicante",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOSC0zVjhidUd5X1FCM0ZPSDk3ZFV1ZHVzSnJvQUNSSzc4blgyazhNcjRkaF82dTlpX29kcEptbmJMbHZnTWR1Y09rMkpaR19FZ1JvNzdVOHpaNFpPT3RHOHpvTGd0VU9PLURTVkpCR1hHYVBfTTJNY3JiSHQ5bUhWdDNQeTF2T012RzRPOFdNYlJZOGZpZjF0OThSdnZpZTVyRGotMU9hazc4NnpTV2FObEJCUWhNaGtLWEZ1eVp1UElMbUFNb2wzZFA3UUVPbUxPXzNrdTJ5Q3REZEdjVFFrRThHbXdMSnhvVDNRTm45b29GMXY0VGM0N0NYWndfSjhkTVBXaEg4M01vemRuSUJnRDQ3aW9Za2s?oc=5",
+      "outlet": "Universidad de Alicante",
+      "domain": "news.google.com",
+      "published_at": "2026-10-23T12:27:18+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "Del mar a la mesa: la UA obtiene de restos de ‘Posidonia oceanica’ un sustrato que mejora el sabor y aroma del tomate Universidad de Alicante",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "baseline": false
+    },
     {
       "id": "e46c4e8b622fb77ca1",
       "title": "幸福河畔｜灵感来自一碗汤圆 “泥丸播种法”破解黄河三角洲海草床修复难题 - 搜狐",
@@ -26,7 +77,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -50,7 +101,7 @@
       ],
       "search_route": "Google News Russian (RU)",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -98,7 +149,31 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
+      "baseline": false
+    },
+    {
+      "id": "6d068ea92b1f8e51ff",
+      "title": "What divers miss – and how to see more on your next dive",
+      "url": "https://divernet.com/scuba-diving/technique-scuba-diving/what-divers-miss-and-how-to-see-more-on-your-next-dive",
+      "outlet": "divernet.com",
+      "domain": "divernet.com",
+      "published_at": "2026-10-22T06:30:00+00:00",
+      "language": "English",
+      "source_country": "United Kingdom",
+      "image": "https://divernet.com/wp-content/uploads/2026/10/Moray-2-1.webp",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -122,7 +197,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -146,7 +221,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -170,7 +245,7 @@
       ],
       "search_route": "Google News Chinese (TW)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -218,7 +293,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -242,7 +317,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -266,7 +341,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -292,7 +367,7 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -316,7 +391,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -340,7 +415,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -390,7 +465,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -418,6 +493,54 @@
       "baseline": false
     },
     {
+      "id": "d20952731fbae048ed",
+      "title": "Recuperación de las praderas marinas en la isla de Cu Lao Cham. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lNmFONE5tMG5sWXRGbVZGaEd5RHUtYkRtUU9PU3NXa216ZlBHQ0dGNFZLT2pYY0pMcjY3RTFMTnlPZVQyMlUyRkJ5R1ljcGhQYjZGaFY2cG1zN3djRFphMVRFYjgzRTJNUk1iNDQtc1N5amp0Z3c?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-21T06:58:26+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "Recuperación de las praderas marinas en la isla de Cu Lao Cham. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "baseline": false
+    },
+    {
+      "id": "b944b925c92f77b15f",
+      "title": "Het herstellen van de zeegrasvelden op het eiland Cu Lao Cham. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zcXZldDdIUEk5Q29OUldKcHg5MHNwdTItZTRrVE5qV1pmWTEzeG9fa3NIbnEtdzFzY1Iyc2lZcHNFMkw4Y3ZnVkliSWttY05HSkVoeHFxQWpkNHdiUWIwRHBBZzhvZTg5Z3ZLVGYzMWluTmxWWUE?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-21T06:54:05+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Het herstellen van de zeegrasvelden op het eiland Cu Lao Cham. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "baseline": false
+    },
+    {
       "id": "54d01e14713481014f",
       "title": "Cu Lao Cham Adası'ndaki deniz çayırlarını canlandırmak. - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iVGVuTnd5eks3bGhRdXFzekRnOW9WdS1VQlc1bG9tWW5OeWNqUlZVOXVYRjdrOS1oUmYwWjlleUJqSlhOY0FKd1F5ZWxYWldKeTZtWTI2amx5bmlCc1haLUx5bklocEhFUFVvZTdnQmNIN3B3TXc?oc=5",
@@ -438,7 +561,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -462,7 +585,7 @@
       ],
       "search_route": "Google News French (FR)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -486,7 +609,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -510,7 +633,7 @@
       ],
       "search_route": "Google News Thai (TH)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -534,7 +657,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -558,7 +681,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -582,7 +705,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -606,7 +729,7 @@
       ],
       "search_route": "Google News Norwegian (NO)",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -654,7 +777,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -706,6 +829,30 @@
       "baseline": false
     },
     {
+      "id": "aded678a084a41477e",
+      "title": "Ekosistem Padang Lamun Haadapi Ancaman Pencemaran - InfoPublik",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHdxSGxPZVZDUjB1WEV6SFNldkM2MFROc3B0MVJWSWY0Ymk4My1XWUYwYVpfZ3djc01MVmNlVlZzRS1HMThGb0ZreFhncXdBSzlWd3RCNWJwMUthRkYyMTJDRXN5X0V3LWx3bEd6ZjVXbk43Y1BRZTFyVnBKMWdjYTJEQlRlZUZZaVMxb0gzai1McGdOMEJvMzl6OGJpdw?oc=5",
+      "outlet": "InfoPublik",
+      "domain": "news.google.com",
+      "published_at": "2026-10-20T10:46:00+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Ekosistem Padang Lamun Haadapi Ancaman Pencemaran InfoPublik",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "baseline": false
+    },
+    {
       "id": "889f976b17584a5e19",
       "title": "Hồi sinh những thảm cỏ biển ở Cù Lao Chàm - Báo Nông nghiệp và Môi trường",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOE8yc2tkZDV0ZmdmczVXYURicWxneTc4Mi03c3pvRkdHSHp4OEI0RlU2M3VPQUVpWmI1UjZSY2t2SGxqRXo3SjN3VXFPV1MyaFExT2RPYi1ydHJSel9jU0ppOUxKRE83UlpCOWpiclJUejBlRXcxbEhMaHo2V2RNVmVMaEs0cEZtWS1iSlZR?oc=5",
@@ -726,7 +873,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -1089,7 +1236,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "baseline": false
     },
     {
@@ -18107,11 +18254,11 @@
     "languages": [
       [
         "English",
-        280
+        282
       ],
       [
         "Indonesian",
-        90
+        91
       ],
       [
         "German",
@@ -18135,7 +18282,7 @@
       ],
       [
         "Spanish",
-        30
+        32
       ],
       [
         "Italian",
@@ -18143,7 +18290,7 @@
       ],
       [
         "Dutch",
-        14
+        15
       ],
       [
         "Vietnamese",
@@ -18197,7 +18344,7 @@
     "countries": [
       [
         "GB",
-        113
+        114
       ],
       [
         "DE",
@@ -18229,7 +18376,7 @@
       ],
       [
         "ID",
-        34
+        35
       ],
       [
         "China",
@@ -18240,24 +18387,24 @@
         17
       ],
       [
+        "United Kingdom",
+        15
+      ],
+      [
+        "NL",
+        15
+      ],
+      [
         "Italy",
         15
       ],
       [
-        "United Kingdom",
-        14
-      ],
-      [
-        "NL",
-        14
+        "ES",
+        13
       ],
       [
         "US",
         13
-      ],
-      [
-        "ES",
-        11
       ],
       [
         "Spain",
@@ -18415,7 +18562,7 @@
     "outlets": [
       [
         "Vietnam.vn",
-        18
+        20
       ],
       [
         "antaranews.com",
@@ -18617,7 +18764,7 @@
     "themes": [
       [
         "General seagrass news",
-        568
+        573
       ],
       [
         "Restoration",
@@ -18625,19 +18772,19 @@
       ],
       [
         "Science & discovery",
-        43
+        44
       ],
       [
         "Conservation & policy",
         38
       ],
       [
-        "Development & infrastructure",
+        "Wildlife & biodiversity",
         32
       ],
       [
-        "Wildlife & biodiversity",
-        31
+        "Development & infrastructure",
+        32
       ],
       [
         "Climate & heat",
@@ -18663,11 +18810,11 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        487
+        492
       ],
       [
         "GDELT",
-        265
+        266
       ]
     ]
   }
