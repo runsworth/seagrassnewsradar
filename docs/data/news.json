@@ -1,10 +1,133 @@
 {
-  "generated_at": "2026-10-24T09:46:53.383661+00:00",
+  "generated_at": "2026-10-25T10:07:37.802816+00:00",
   "baseline_complete": true,
-  "article_count": 755,
+  "article_count": 761,
   "new_today": 6,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "8cdce4eb7e88d7793d",
+      "title": "การอนุรักษ์แหล่งหญ้าทะเล ส่งเสริมการดำรงชีวิตในหมู่บ้านชายฝั่ง - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fODFqNV9PVDkzc1JoYUh6MGMxdXNWNkVJNWl2TVY1LUVTYmw4eXg1Q21kam0yWWxSQ3Fqc0toVjk0aVJCQ2ZwNTItMVkwZFpJVklSaVczZUhsMUUzcWdxdlpiTkFUTUpST3FDdngxYkM1ckZ3Q2Nj?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-25T09:51:04+00:00",
+      "language": "Thai",
+      "source_country": "TH",
+      "image": "",
+      "description": "การอนุรักษ์แหล่งหญ้าทะเล ส่งเสริมการดำรงชีวิตในหมู่บ้านชายฝั่ง Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Thai (TH)",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "baseline": false
+    },
+    {
+      "id": "60d3ef89397677e039",
+      "title": "神戸市 兵庫運河にアマモの種をまく 生物多様性の保全 - サンテレビ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12SDdVdFYwT2xQUzN6bnR5ckt1OEZSam9qeUViOWxJbnFaX1dieDhIUkVDYXpFNU1Ea2RiNTE3VE84ZWZfRWIzdy10VXFmWENueDF5TFdCSHdsS3Ntbm16ZDY0eGJmb1Bw?oc=5",
+      "outlet": "サンテレビ",
+      "domain": "news.google.com",
+      "published_at": "2026-10-25T09:30:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "神戸市 兵庫運河にアマモの種をまく 生物多様性の保全 サンテレビ",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "baseline": false
+    },
+    {
+      "id": "ff523b66399fdfe6cf",
+      "title": "Komşu iki ülkenin deniz çayırları korunacak - Haber 7",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRF90R2oxUjg2N2pLU01oU0pSWjNURnFEMXAta2JyUERDN0JPMnotbFRtdk5JSDZDejFzTURWX21wdW9WdFIxelJOYjBQWUt0NloyVjRZUVItdlF3MFpnSG13TDNZdXZkS01uaVVMSzJyZ3A2WFpSTjE4QmZMLWJSVE5tT2M2cjk0UWdmRlN3?oc=5",
+      "outlet": "Haber 7",
+      "domain": "news.google.com",
+      "published_at": "2026-10-24T23:23:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Komşu iki ülkenin deniz çayırları korunacak Haber 7",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "baseline": false
+    },
+    {
+      "id": "f5d54d028af1c0ead2",
+      "title": "Why volunteers are gluing seeds to clam shells in Connecticut",
+      "url": "https://www.popsci.com/environment/gluing-seeds-clams-connecticut",
+      "outlet": "popsci.com",
+      "domain": "popsci.com",
+      "published_at": "2026-10-24T15:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/10/eelgrass-seeds-clams-lead.png?quality=85",
+      "description": "",
+      "themes": [
+        "Restoration",
+        "Community & culture"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "baseline": false
+    },
+    {
+      "id": "0e652c2475ac0d31ea",
+      "title": "Del mar a la mesa: 'Posidonia oceanica' en un sustrato que mejora el sabor y aroma del tomate - Alicante Plaza",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbFdQcm5JMVZwN1pHNmZoV2lyc2s0Ung2V3pOVWZTSHBrQmhnX0xjQm1jM3VpUXZlNTNGc3V5Nlozc1J3SUJUX05MeEFiekxZblhwY3hTTFpBcW4weDdLNHpVWjJMNmZfeFpRdTZlYm5YcTB0VklEOElJZWFucElvVFRHSDJuZFJ2aVBYeXRQd1dkMEV6RmRsZ1d6R0o3R2l0b3ZXS3dNYThBS0dxdnM5eVlfU29Zdm5EYVJ0dVpEcEk2VU5MSDhaY2diMnRhT05DdTUxclJMUWE?oc=5",
+      "outlet": "Alicante Plaza",
+      "domain": "news.google.com",
+      "published_at": "2026-10-24T11:51:00+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "Del mar a la mesa: 'Posidonia oceanica' en un sustrato que mejora el sabor y aroma del tomate Alicante Plaza",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "baseline": false
+    },
     {
       "id": "64ce61aa2d09a68ecb",
       "title": "Seagrass meadows bounce back with new fish communities - JCU Australia - James Cook University",
@@ -27,7 +150,31 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
+      "baseline": false
+    },
+    {
+      "id": "9b69267f00cc481535",
+      "title": "Une meilleure surveillance des herbiers marins pourrait favoriser la biodiversité - CORDIS",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFVTUTJ2eTkyUll6aXBWOExCcEg3ak9leXEyNTUtd1loSUNtTTVGYnMxZFctLWI0RHpCZ1hRa3lFdE9QTFlQWFVxMDNaUmxCUmh2NDl3SVZVdHd6QW92U3VscU9vSU1XeVcyTEVqRXBUTmtQTU80d3NRT3lBa0R6cEhGdV80dUZ4Y3BPblBhWTU1M0xUTFBSUkUzTGxNTTJUZkpjQ2VYcF8?oc=5",
+      "outlet": "CORDIS",
+      "domain": "news.google.com",
+      "published_at": "2026-10-24T00:32:07+00:00",
+      "language": "French",
+      "source_country": "FR",
+      "image": "",
+      "description": "Une meilleure surveillance des herbiers marins pourrait favoriser la biodiversité CORDIS",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News French (FR)",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -77,7 +224,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -101,7 +248,7 @@
       ],
       "search_route": "Google News Russian (RU)",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -149,7 +296,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -173,7 +320,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -197,7 +344,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -221,7 +368,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -245,7 +392,7 @@
       ],
       "search_route": "Google News Chinese (TW)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -269,7 +416,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -293,7 +440,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -317,7 +464,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -391,7 +538,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -415,7 +562,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -439,7 +586,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -465,7 +612,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -513,7 +660,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -537,7 +684,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -561,7 +708,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -585,7 +732,7 @@
       ],
       "search_route": "Google News French (FR)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -609,7 +756,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -633,7 +780,7 @@
       ],
       "search_route": "Google News Thai (TH)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -657,7 +804,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -681,7 +828,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -705,7 +852,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -729,7 +876,7 @@
       ],
       "search_route": "Google News Norwegian (NO)",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -777,7 +924,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "baseline": false
     },
     {
@@ -18254,7 +18401,7 @@
     "languages": [
       [
         "English",
-        282
+        283
       ],
       [
         "Indonesian",
@@ -18266,7 +18413,7 @@
       ],
       [
         "Turkish",
-        57
+        58
       ],
       [
         "Korean",
@@ -18274,7 +18421,7 @@
       ],
       [
         "Japanese",
-        45
+        46
       ],
       [
         "Chinese",
@@ -18282,7 +18429,7 @@
       ],
       [
         "Spanish",
-        32
+        33
       ],
       [
         "Italian",
@@ -18293,11 +18440,11 @@
         15
       ],
       [
-        "Vietnamese",
-        8
+        "Thai",
+        9
       ],
       [
-        "Thai",
+        "Vietnamese",
         8
       ],
       [
@@ -18330,7 +18477,7 @@
       ],
       [
         "French",
-        2
+        3
       ],
       [
         "Polish",
@@ -18347,6 +18494,10 @@
         114
       ],
       [
+        "United States",
+        62
+      ],
+      [
         "DE",
         62
       ],
@@ -18355,12 +18506,8 @@
         62
       ],
       [
-        "United States",
-        61
-      ],
-      [
         "TR",
-        57
+        58
       ],
       [
         "KR",
@@ -18368,7 +18515,7 @@
       ],
       [
         "JP",
-        45
+        46
       ],
       [
         "Australia",
@@ -18400,7 +18547,7 @@
       ],
       [
         "ES",
-        13
+        14
       ],
       [
         "US",
@@ -18411,11 +18558,11 @@
         11
       ],
       [
-        "VN",
-        8
+        "TH",
+        9
       ],
       [
-        "TH",
+        "VN",
         8
       ],
       [
@@ -18463,12 +18610,12 @@
         4
       ],
       [
-        "NO",
+        "FR",
         3
       ],
       [
-        "FR",
-        2
+        "NO",
+        3
       ],
       [
         "Germany",
@@ -18562,7 +18709,7 @@
     "outlets": [
       [
         "Vietnam.vn",
-        20
+        21
       ],
       [
         "antaranews.com",
@@ -18764,11 +18911,11 @@
     "themes": [
       [
         "General seagrass news",
-        573
+        578
       ],
       [
         "Restoration",
-        49
+        50
       ],
       [
         "Science & discovery",
@@ -18792,7 +18939,7 @@
       ],
       [
         "Community & culture",
-        14
+        15
       ],
       [
         "Blue carbon",
@@ -18810,11 +18957,11 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        492
+        497
       ],
       [
         "GDELT",
-        266
+        267
       ]
     ]
   }
