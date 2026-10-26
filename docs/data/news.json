@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T10:07:37.802816+00:00",
+  "generated_at": "2026-10-26T11:31:44.871105+00:00",
   "baseline_complete": true,
-  "article_count": 761,
-  "new_today": 6,
+  "article_count": 775,
+  "new_today": 14,
   "lookback_days_this_run": 4,
   "articles": [
     {
@@ -30,6 +30,30 @@
       "baseline": false
     },
     {
+      "id": "ff25772136eb881607",
+      "title": "Elefanti e coccodrilli : così la vita nel deserto 7 milioni di anni fa",
+      "url": "https://www.corriere.it/buone-notizie/26_ottobre_24/elefanti-e-coccodrilli-cosi-la-vita-nel-deserto-7-milioni-di-anni-fa-ff40e2e1-7c1e-4ae3-8fbd-b2bf318e4xlk.shtml",
+      "outlet": "corriere.it",
+      "domain": "corriere.it",
+      "published_at": "2026-10-25T09:45:00+00:00",
+      "language": "Italian",
+      "source_country": "Italy",
+      "image": "https://dimages2.corriereobjects.it/files/og_thumbnail/uploads/2026/10/24/6adc708a08dbb.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "baseline": false
+    },
+    {
       "id": "60d3ef89397677e039",
       "title": "神戸市 兵庫運河にアマモの種をまく 生物多様性の保全 - サンテレビ",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12SDdVdFYwT2xQUzN6bnR5ckt1OEZSam9qeUViOWxJbnFaX1dieDhIUkVDYXpFNU1Ea2RiNTE3VE84ZWZfRWIzdy10VXFmWENueDF5TFdCSHdsS3Ntbm16ZDY0eGJmb1Bw?oc=5",
@@ -51,6 +75,30 @@
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-25",
       "last_seen": "2026-10-25",
+      "baseline": false
+    },
+    {
+      "id": "bffb75bc23527ad42a",
+      "title": "Your National Park Bucket List Might Be Missing This Caribbean Island",
+      "url": "https://www.caribjournal.com/2026/10/24/your-national-parks-bucket-list-might-be-missing-this-caribbean-island",
+      "outlet": "caribjournal.com",
+      "domain": "caribjournal.com",
+      "published_at": "2026-10-24T23:30:00+00:00",
+      "language": "English",
+      "source_country": "Jamaica",
+      "image": "https://www.caribjournal.com/wp-content/uploads/2026/10/virgin-islands-national-park.webp",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
       "baseline": false
     },
     {
@@ -78,6 +126,30 @@
       "baseline": false
     },
     {
+      "id": "f676474ff3b7f7e92d",
+      "title": "India Blue Economy : Why Ocean Health Must Come Before Economic Growth",
+      "url": "https://www.indiawaterportal.org/environment/sustainability/can-indias-blue-economy-grow-while-protecting-ocean-health",
+      "outlet": "indiawaterportal.org",
+      "domain": "indiawaterportal.org",
+      "published_at": "2026-10-24T16:00:00+00:00",
+      "language": "English",
+      "source_country": "India",
+      "image": "https://media.assettype.com/indiawaterportal%2F2026-10-24%2Fcrvjxnu5%2Flead.jpg?&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "baseline": false
+    },
+    {
       "id": "f5d54d028af1c0ead2",
       "title": "Why volunteers are gluing seeds to clam shells in Connecticut",
       "url": "https://www.popsci.com/environment/gluing-seeds-clams-connecticut",
@@ -99,7 +171,31 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-26",
+      "baseline": false
+    },
+    {
+      "id": "9d47485c8483bab160",
+      "title": "Attenborough new Blue Planet shows dolphin astonishing secret weapon - a sea sponge",
+      "url": "https://www.aol.co.uk/articles/attenboroughs-blue-planet-shows-dolphins-130304000.html",
+      "outlet": "aol.co.uk",
+      "domain": "aol.co.uk",
+      "published_at": "2026-10-24T13:45:00+00:00",
+      "language": "English",
+      "source_country": "United Kingdom",
+      "image": "https://hermes.media.transform.aol.com/f3f6c581efd76653b7e5c3be8cd343be0ac34427/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/24/a347e6b4-6ea9-34cd-9cd4-012c7beb4a54/0b47de27-ddaa-4215-91dc-2251ea79536e.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
       "baseline": false
     },
     {
@@ -126,6 +222,150 @@
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-25",
       "last_seen": "2026-10-25",
+      "baseline": false
+    },
+    {
+      "id": "0afb542e83cf3d9d2f",
+      "title": "薔琵颱風襲澎湖37件災情 「 鹽水煙 」 重創林木 | 地方",
+      "url": "https://www.cna.com.tw/news/aloc/202610240138.aspx",
+      "outlet": "cna.com.tw",
+      "domain": "cna.com.tw",
+      "published_at": "2026-10-24T11:30:00+00:00",
+      "language": "Chinese",
+      "source_country": "Taiwan",
+      "image": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261024/1364x768_wmky_0_C20261024000090.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "baseline": false
+    },
+    {
+      "id": "45fd7b79a0af72f3d3",
+      "title": "Bangga ! Dua Srikandi Indonesia Boyong Gelar Juara Wirausaha Sosial Dunia di Shanghai – News",
+      "url": "https://news.batampos.co.id/bangga-dua-srikandi-indonesia-boyong-gelar-juara-wirausaha-sosial-dunia-di-shanghai",
+      "outlet": "news.batampos.co.id",
+      "domain": "news.batampos.co.id",
+      "published_at": "2026-10-24T05:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://news.batampos.co.id/storage/2026/10/Azalea-Ayuningtyas-kiri-dan-Jihan-Alfiyyah.webp",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "baseline": false
+    },
+    {
+      "id": "bd4fb3182a85ae3054",
+      "title": "My Borneo adventure following in the footsteps of royalty",
+      "url": "https://www.thetimes.com/travel/destinations/asia-travel/borneo-sabah-safari-adventure-f3x5d6dnt",
+      "outlet": "thetimes.com",
+      "domain": "thetimes.com",
+      "published_at": "2026-10-24T05:30:00+00:00",
+      "language": "English",
+      "source_country": "Unknown",
+      "image": "https://www.thetimes.com/imageserver/image/1094216f-3844-47e6-a1e5-99523ce90af7.jpg?strip=all&format=webp&crop=5287px%2C2973px%2C0px%2C280px",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "baseline": false
+    },
+    {
+      "id": "8abeef19ae42ce3f6e",
+      "title": "Dua Wirausaha Perempuan Indonesia Juara Kompetisi Kewirausahaan Sosial Dunia",
+      "url": "https://koran-jakarta.com/2026-10-24/dua-wirausaha-perempuan-indonesia-juara-kompetisi-kewirausahaan-sosial-dunia",
+      "outlet": "koran-jakarta.com",
+      "domain": "koran-jakarta.com",
+      "published_at": "2026-10-24T02:30:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://media.koran-jakarta.com/images/image-article/2026-10/24/dua-wirausaha-perempuan-indonesia-juara-kompetisi-kewirausahaan-sosial-dunia-6adc0ad070ca5.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "baseline": false
+    },
+    {
+      "id": "4da9780b30732bc094",
+      "title": "Tumpahan Minyak dari Kapal Tanker Mengancam Lingkungan Laut , UEA Tutup Seluruh Pantai dan Pesisir",
+      "url": "https://koran-jakarta.com/2026-10-24/tumpahan-minyak-dari-kapal-tanker-mengancam-lingkungan-laut-uea-tutup-seluruh-pantai-dan-pesisir",
+      "outlet": "koran-jakarta.com",
+      "domain": "koran-jakarta.com",
+      "published_at": "2026-10-24T02:30:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://media.koran-jakarta.com/images/image-article/2026-10/24/tumpahan-minyak-dari-kapal-tanker-mengancam-lingkungan-laut-uea-tutup-seluruh-pantai-dan-pesisir-6adc0d76b1b91.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "baseline": false
+    },
+    {
+      "id": "bf41c8e87322c9782c",
+      "title": "10 Makanan Terpedas di Dunia Versi PepperScale , Ada Kari hingga Mi Kuah Korea",
+      "url": "https://www.liputan6.com/lifestyle/read/8317139/10-makanan-terpedas-di-dunia-versi-pepperscale-ada-kari-hingga-mi-kuah-korea",
+      "outlet": "liputan6.com",
+      "domain": "liputan6.com",
+      "published_at": "2026-10-24T02:00:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn1-production-images-kly.akamaized.net/Cop4FEKxMRF0n1_5rqpW1IprLTc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/972084/original/093753700_1441004104-20150901-Sichuan_Hotpot.JPG",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
       "baseline": false
     },
     {
@@ -178,6 +418,30 @@
       "baseline": false
     },
     {
+      "id": "4e0189a3f25e3eed24",
+      "title": "Gubernur Maluku Dorong APINDO Perluas Investasi dan Ciptakan Lapangan Kerja",
+      "url": "https://news.republika.co.id/berita/tndt6g6930000/gubernur-maluku-dorong-apindo-perluas-investasi-dan-ciptakan-lapangan-kerja",
+      "outlet": "news.republika.co.id",
+      "domain": "news.republika.co.id",
+      "published_at": "2026-10-23T23:30:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://static.republika.co.id/uploads/images/kanal_slide/070358400-1792794616-IMG_6782jpeg.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "baseline": false
+    },
+    {
       "id": "f0bbc8daf5fbc12534",
       "title": "Del mar a la mesa: la UA obtiene de restos de ‘Posidonia oceanica’ un sustrato que mejora el sabor y aroma del tomate - Universidad de Alicante",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOSC0zVjhidUd5X1FCM0ZPSDk3ZFV1ZHVzSnJvQUNSSzc4blgyazhNcjRkaF82dTlpX29kcEptbmJMbHZnTWR1Y09rMkpaR19FZ1JvNzdVOHpaNFpPT3RHOHpvTGd0VU9PLURTVkpCR1hHYVBfTTJNY3JiSHQ5bUhWdDNQeTF2T012RzRPOFdNYlJZOGZpZjF0OThSdnZpZTVyRGotMU9hazc4NnpTV2FObEJCUWhNaGtLWEZ1eVp1UElMbUFNb2wzZFA3UUVPbUxPXzNrdTJ5Q3REZEdjVFFrRThHbXdMSnhvVDNRTm45b29GMXY0VGM0N0NYWndfSjhkTVBXaEg4M01vemRuSUJnRDQ3aW9Za2s?oc=5",
@@ -225,6 +489,79 @@
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-25",
+      "baseline": false
+    },
+    {
+      "id": "4a104d566103eb1556",
+      "title": "Governments cannot protect the ocean while sidelining coastal communities",
+      "url": "https://www.greenpeace.org/international/story/86650/governments-cannot-protect-ocean-sidelining-coastal-communities",
+      "outlet": "greenpeace.org",
+      "domain": "greenpeace.org",
+      "published_at": "2026-10-22T23:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://www.greenpeace.org/static/planet4-international-stateless/2024/03/e099344e-gp1swhos.jpg",
+      "description": "",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "baseline": false
+    },
+    {
+      "id": "e72a456547cea26424",
+      "title": "Governments Cant Protect Oceans by Sidelining Coastal Communities",
+      "url": "https://www.miragenews.com/governments-cant-protect-oceans-by-sidelining-1765220",
+      "outlet": "miragenews.com",
+      "domain": "miragenews.com",
+      "published_at": "2026-10-22T22:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://www.greenpeace.org.au/wp/wp-content/uploads/2015/05/SA-9.jpg",
+      "description": "",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "baseline": false
+    },
+    {
+      "id": "e2cda58c5cc912372a",
+      "title": "Farm Runoff and Record July Sea Temperatures Strain Europe Waters",
+      "url": "https://econotimes.com/Farm-Runoff-and-Record-July-Sea-Temperatures-Strain-Europe-s-Waters-1760290",
+      "outlet": "econotimes.com",
+      "domain": "econotimes.com",
+      "published_at": "2026-10-22T15:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://wfuxxvxhdynkhcrlavdu.supabase.co/storage/v1/object/public/article-media/articles/4ad378d83908732cd2b022b62aad501918e1af725049fd5a2be729ca425d0af7.webp",
+      "description": "",
+      "themes": [
+        "Climate & heat",
+        "Pollution & water quality"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
       "baseline": false
     },
     {
@@ -18401,11 +18738,11 @@
     "languages": [
       [
         "English",
-        283
+        290
       ],
       [
         "Indonesian",
-        91
+        96
       ],
       [
         "German",
@@ -18425,7 +18762,7 @@
       ],
       [
         "Chinese",
-        40
+        41
       ],
       [
         "Spanish",
@@ -18433,7 +18770,7 @@
       ],
       [
         "Italian",
-        22
+        23
       ],
       [
         "Dutch",
@@ -18494,15 +18831,15 @@
         114
       ],
       [
+        "Indonesia",
+        67
+      ],
+      [
         "United States",
-        62
+        65
       ],
       [
         "DE",
-        62
-      ],
-      [
-        "Indonesia",
         62
       ],
       [
@@ -18534,15 +18871,15 @@
         17
       ],
       [
+        "Italy",
+        16
+      ],
+      [
         "United Kingdom",
-        15
+        16
       ],
       [
         "NL",
-        15
-      ],
-      [
-        "Italy",
         15
       ],
       [
@@ -18566,6 +18903,14 @@
         8
       ],
       [
+        "India",
+        7
+      ],
+      [
+        "Unknown",
+        7
+      ],
+      [
         "MX",
         7
       ],
@@ -18584,14 +18929,6 @@
       [
         "IT",
         7
-      ],
-      [
-        "India",
-        6
-      ],
-      [
-        "Unknown",
-        6
       ],
       [
         "IN",
@@ -18616,6 +18953,14 @@
       [
         "NO",
         3
+      ],
+      [
+        "Jamaica",
+        2
+      ],
+      [
+        "Taiwan",
+        2
       ],
       [
         "Germany",
@@ -18662,10 +19007,6 @@
         1
       ],
       [
-        "Taiwan",
-        1
-      ],
-      [
         "Canada",
         1
       ],
@@ -18698,10 +19039,6 @@
         1
       ],
       [
-        "Jamaica",
-        1
-      ],
-      [
         "Jordan",
         1
       ]
@@ -18717,11 +19054,15 @@
       ],
       [
         "koran-jakarta.com",
-        8
+        10
       ],
       [
         "NDR.de",
         8
+      ],
+      [
+        "liputan6.com",
+        6
       ],
       [
         "Bioengineer.org",
@@ -18752,16 +19093,16 @@
         5
       ],
       [
-        "liputan6.com",
-        5
-      ],
-      [
         "The Times of India",
         5
       ],
       [
         "Son Dakika",
         5
+      ],
+      [
+        "aol.co.uk",
+        4
       ],
       [
         "RRI.co.id",
@@ -18792,15 +19133,15 @@
         4
       ],
       [
+        "miragenews.com",
+        3
+      ],
+      [
         "PR TIMES",
         3
       ],
       [
         "Haberler",
-        3
-      ],
-      [
-        "aol.co.uk",
         3
       ],
       [
@@ -18856,6 +19197,18 @@
         3
       ],
       [
+        "caribjournal.com",
+        2
+      ],
+      [
+        "thetimes.com",
+        2
+      ],
+      [
+        "econotimes.com",
+        2
+      ],
+      [
         "yoursun.com",
         2
       ],
@@ -18890,28 +19243,12 @@
       [
         "Futura, le média qui explore le monde",
         2
-      ],
-      [
-        "Infobae",
-        2
-      ],
-      [
-        "静岡新聞DIGITAL",
-        2
-      ],
-      [
-        "Oceanographic Magazine",
-        2
-      ],
-      [
-        "ecojournal.co.kr",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        578
+        589
       ],
       [
         "Restoration",
@@ -18923,7 +19260,7 @@
       ],
       [
         "Conservation & policy",
-        38
+        40
       ],
       [
         "Wildlife & biodiversity",
@@ -18935,7 +19272,7 @@
       ],
       [
         "Climate & heat",
-        23
+        24
       ],
       [
         "Community & culture",
@@ -18946,12 +19283,12 @@
         10
       ],
       [
-        "Fisheries & food",
+        "Pollution & water quality",
         9
       ],
       [
-        "Pollution & water quality",
-        8
+        "Fisheries & food",
+        9
       ]
     ],
     "discovery_sources": [
@@ -18961,7 +19298,7 @@
       ],
       [
         "GDELT",
-        267
+        281
       ]
     ]
   }
