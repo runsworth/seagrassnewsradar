@@ -1,10 +1,470 @@
 {
-  "generated_at": "2026-10-26T11:31:44.871105+00:00",
+  "generated_at": "2026-10-27T10:58:08.420737+00:00",
   "baseline_complete": true,
-  "article_count": 775,
-  "new_today": 14,
+  "article_count": 795,
+  "new_today": 20,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "a431ea3888cb03f5f9",
+      "title": "「海の環境を守っていきたい」小学生がアマモの役割を学ぶ 福岡 - TVer",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkVUJiY0ZWYVZ5WTVGVEVsQ2M1cDhzOV9STzA1N3ZEaXEzR3pFUHRqQjFPaVZJSkMxbU5fSkRTNktXeE02X3VWNFZUWQ?oc=5",
+      "outlet": "TVer",
+      "domain": "news.google.com",
+      "published_at": "2026-10-27T10:34:48+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "「海の環境を守っていきたい」小学生がアマモの役割を学ぶ 福岡 TVer",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "fbab1e29b650d50b63",
+      "title": "「海の環境を守っていきたい」小学生がアマモの役割を学ぶ 福岡（2026年10月27日掲載）｜FBS NEWS NNN - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdF9xRVZnblZ6eDZDRDFLN0ZFdUNkek9xTXlXemtsbFEtdnJvaFFkbGN5MmRsRUQ0VkZkaTBBcW5JcnY2d1BOcmtUZE1ycWh2UVEwRVAwZnNWeWZ2UVUxQmFFNWZuNmZESnVLdFlBSjFTeEdXMlRteWNjZmRxX1gwbkZmaw?oc=5",
+      "outlet": "日テレNEWS NNN",
+      "domain": "news.google.com",
+      "published_at": "2026-10-27T10:07:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "「海の環境を守っていきたい」小学生がアマモの役割を学ぶ 福岡（2026年10月27日掲載）｜FBS NEWS NNN 日テレNEWS NNN",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "1faf42044df15ae723",
+      "title": "Florida county releases clams and plants seagrass for restoration - Treasure Coast News",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUGluT3RVanR2NEMwUUhvZ0ZNN3A1XzFhRkJybmNIdEhYQmZyQkp0X0NkT2Vxb3BVc2s4bFZHcktOMVRtLVEydWRieHZ3SVI3MGZSVlB6Y1Zscmh1QWJmekdwc29fWGtCMmdDSWMtcjQzbldrRXd2RFlpdWhGN09ibXBERjRXN1ZrbHN0cENNT3FOcU4zdXFuaTRLYjBKVGtkTDVLN3FzdDhHelVrcjQ2OTgtWjd0RWgwTTFJMHRvTmptY1gxT1oycjhVNlF3N1ZPTjJxSmxTcjYxbFNmRndYTHUxbkNRYlhBS0Z4ZW5oQ1E?oc=5",
+      "outlet": "Treasure Coast News",
+      "domain": "news.google.com",
+      "published_at": "2026-10-27T09:11:35+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Florida county releases clams and plants seagrass for restoration Treasure Coast News",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "ad98b6082745378d29",
+      "title": "Florida clams used to revive Indian River Lagoon seagrass ecosystem - Treasure Coast News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTkM4OHdzZVFRRG5yeFotTDN2LWd1dEplV0c1RU10Z0c3WWtDQkI4VDNfRVVYOGctV2daZWRiajFCSDJBdEJPWURBNHJLbl9IMHBHbmtlUnF6OXExdGNWQ29pRmxBZXR2b0xEYkhMUkowbWVLNHZ5OHlQTnNsNU1SWXBKNF9vMll2N2ZtOUQ2VUlyUktHeldkcUVCZ2JLci1EdXo2Z3pBMWdnRHFfMWJ4ZzhfM2ZoLW1STDQtSTMxX2x0Z3NhUHN0aUNIQ3AxeVZXQW1RZ1RTT3NRR1l3My1yMXRvRGE2QQ?oc=5",
+      "outlet": "Treasure Coast News",
+      "domain": "news.google.com",
+      "published_at": "2026-10-27T09:11:34+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Florida clams used to revive Indian River Lagoon seagrass ecosystem Treasure Coast News",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "04f5e34d7bad7dd448",
+      "title": "東京・お台場の海に「藻場」を作ろう…海草「アマモ」の種まき会参加者募集「多様な生物のゆりかごに」 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ES1hpcEZuRzdkQ3NaY0VXaFFrTGJzNk5ES2RhUHpzME5TNUY1NjVSRkNNRUI1RElFa2pEcmgtekZScGZfWUhhcks4SzAtUFlreGwyN2pHU1hPcEZYbTZvUFNVaEc2QQ?oc=5",
+      "outlet": "読売新聞",
+      "domain": "news.google.com",
+      "published_at": "2026-10-27T05:26:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "東京・お台場の海に「藻場」を作ろう…海草「アマモ」の種まき会参加者募集「多様な生物のゆりかごに」 読売新聞",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "36fe1b13dc2a9bedb3",
+      "title": "C3 Philippines empowers women fishers to lead seagrass conservation in Roxas - Palawan News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMy00ckRXWTNXeWYxdTN1WmowaUhxc0xNOVpxRHNKVU1FVExFVUVxLVRjOXdLUzRIampqQ0wxNFluNWdlc2VVZWtaUzRpUTIyRXJkUVZ4Zzlhbkg1S1FXN09LUlJKM3JpUVdMSGJQNnpYN0p3OHUtNUtBQ05GV01sWHg3MjhNQWFfdlFHZVVtUXoyWHRqWHF1T3h2c3JtZlgwMG1iYw?oc=5",
+      "outlet": "Palawan News",
+      "domain": "news.google.com",
+      "published_at": "2026-10-27T05:00:28+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "C3 Philippines empowers women fishers to lead seagrass conservation in Roxas Palawan News",
+      "themes": [
+        "Conservation & policy",
+        "Wildlife & biodiversity",
+        "Fisheries & food"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "c40c3de2c306870d91",
+      "title": "Keberadaan Teripang di Balik Mosaik Habitat Lamun Teluk Tomini - Darilaut.id",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORDV1VXQ4bXhCaUZYQjZOR1FqZC1xMUVuWHpfenZPUDljcTZnWkVkOWQzT0FuMmhYTUhySW1ocHV6cHlIU1BQSTZGbGtfSE5FOXpKUG00Mlg0ZXZRYjdpTjUwQTJ2S09wUG9meDJuM1VtNzhkOGFNTTYzcjlsbnNMN3NOM2M4TTdYbTZFZFE5YTNvLVXSAZgBQVVfeXFMTXNVLTBfVW1Yc1FTN01UR05WeVctbm5wM2lLQlVCMllRTC1kX1dNVHJ6SFdxOGktWlI3UTNLLTJTdUd4MXNZNUR1Tml1ZFkwUDh1NWc4d1N4UHFNYTAtNmNYenZjd1lRVE1MUzFXQlF0NWZFUzktYk45VGpkV2VjZEdPdGt1dVppeUh2MWd1QVdZWk55cDRBWUY?oc=5",
+      "outlet": "Darilaut.id",
+      "domain": "news.google.com",
+      "published_at": "2026-10-27T03:33:44+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Keberadaan Teripang di Balik Mosaik Habitat Lamun Teluk Tomini Darilaut.id",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "3bc9dc77c127fc855d",
+      "title": "Turtle Grazing Strips Seagrass Meadows to the Brink—but Two Years of Relief Reveals Startling Recovery - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNVFPVG9Pck5yamh0MVVoSXBWekJxUkkxdVBiZ3FlN0hVZ184dlVkREt5QUlRLVJlY0d6SWJVU2FWVXhlcjZhUXRWMVhPU0RVbFQxTGVUV3pCVEFXUGtpSlgwRVI4UTZ1Ykg4ZDZrZFl4ckI0N2ZqZUJrY2xtc0haVlREU2FCQW1rbW84MEotbncxUFpJYkt2d3pKcnJxWnBaZExOXzRwbEQyQ0tnVThLQ19nSVJCaFJxaVBlTlp4RFdKTUJDOWc?oc=5",
+      "outlet": "Bioengineer.org",
+      "domain": "news.google.com",
+      "published_at": "2026-10-26T20:49:07+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Turtle Grazing Strips Seagrass Meadows to the Brink—but Two Years of Relief Reveals Startling Recovery Bioengineer.org",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "3bfef54055f2776093",
+      "title": "한반도 연안 잘피 군락 탄소 96~99% 퇴적층에 저장 - 비건뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaX3BDc3hQZ2JmN09WQW5uN1YtM1pUZlNZczZQck1ScjliS0s0UWZlLUpSWTVTTzRGc1R1NEJDQmFlNl9rN1pNdkhTa0hzZl9HYTVUSmN2TjNKNUxVaGpfdEtLYWFsUQ?oc=5",
+      "outlet": "비건뉴스",
+      "domain": "news.google.com",
+      "published_at": "2026-10-26T10:48:59+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "한반도 연안 잘피 군락 탄소 96~99% 퇴적층에 저장 비건뉴스",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "374583053e23533904",
+      "title": "Kristallklares Wasser nach dem Seegras-Prinzip - Edison",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbDlIYVY1UVktVS05S2w5SXpTNmJ3bUVWMS1hZl8xRDdOUVBvSjVzNXFsbmhhWG1LekZQejNPS1EwQXYxSW1tQkxBenNudWlLZnJnOGpMRjc2aHpoNk9xRFhzakZkbExjMWpYOUNCdzRUQk9ueFhiS0MwdENobU85bjEzdnZ0WmJDUlRNcA?oc=5",
+      "outlet": "Edison",
+      "domain": "news.google.com",
+      "published_at": "2026-10-26T10:32:17+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Kristallklares Wasser nach dem Seegras-Prinzip Edison",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "57fd1f92afe9a9fb3f",
+      "title": "大西洋海草Zostera marina相关促生细菌的分离表征与最小区微生物群落鉴定 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPLVVrMkFEM0lHMUlZeXdPWEVCLTZWcmRqMXNYS1E0V3YwYW1rYVd3LWdhczBHa29MYlNDSEhGaTdfM3RIQ2s3S0VBMjE1bWhtSDFfc1RWLWg3bTVCeGs1WnpJWFBOMHZKU29F?oc=5",
+      "outlet": "生物通",
+      "domain": "news.google.com",
+      "published_at": "2026-10-25T16:01:01+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "大西洋海草Zostera marina相关促生细菌的分离表征与最小区微生物群落鉴定 生物通",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Zostera Marina"
+      ],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "7092cc7a6c47589743",
+      "title": "保护海草床，促进沿海村庄的生计。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vLXhGcXdENlRTNW1EYVlMNkxFR1lFUHRIUDN1WHhZTWl6Y0dKOW00NlIzZHJ2MjhlU3dhdjJiNEgzX05pUnQ2aFRwczN5SHh6M1pIM3habjhTX0lMS2Z4WF9oQ1lTZGQ4VkFDSkh3aUVLelRHXzQ2Y2hnbw?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-25T14:50:43+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "保护海草床，促进沿海村庄的生计。 Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "63f1436abe214a9c0c",
+      "title": "Moradabad News: कारोबार : जूट-समुद्री घास के उत्पादों में वियतनाम की चुनौती बनने लगा मुरादाबाद - Hindustan",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdzZTQWN6bnFVRUhmbERzQzRHLWRodWRxOEcyVWFhVmc0a2cybnZUam9DTUdRbWpZbVk4YU1qXzNWZWxsRC01QmctaGotalhCWFBHZTRrNGlnamtUbzNWdGFLMHlYZnFtR19OT1VsWFpRQTNSeWlXUzMza0xrX0xHa1IzNUtxM1lqSUI4bjFzSEZCbmZMODFsbXNwN1pDeFlVRGZCZjIzZVlLMDJJa080TkRwVzM4LU5nWEVTZkwxQ2pjblFOVTg5Yk85cFRoMVNkeGJ2cDFhZjhVZXpLR05rNmVlcGJTeEowdFMxZ0JwYm1sOTgzWEEwX0lpc3laT3RPQUxn0gGDAkFVX3lxTFB3NlNBY3pucVVFSGZsRHNDNEctZGh1ZHE4RzJVYWFWZzRrZzJudlRqb0NNR1FtalltWThhTWpfM1ZlbGxELTVCZy1oai1qWEJYUEdlNGs0aWdqa1RvM1Z0YUsweVhmcW1HX05PVWxYWlFBM1J5aVdTMzNrTGtfTEdrUjM1S3EzWWpJQjhuMXNIRkJuZkw4MWxtc3A3WkN4WVVEZkJmMjNlWUswMklrTzRORHBXMzgtTmdYRVNmTDFDamNuUU5VODliTzlwVGgxU2R4YnZwMWFmOFVlektHTms2ZWVwYlN4SjB0UzFnQnBibWw5ODNYQTBfSWlzeVpPdE9BTGc?oc=5",
+      "outlet": "Hindustan",
+      "domain": "news.google.com",
+      "published_at": "2026-10-25T12:37:40+00:00",
+      "language": "Hindi",
+      "source_country": "IN",
+      "image": "",
+      "description": "Moradabad News: कारोबार : जूट-समुद्री घास के उत्पादों में वियतनाम की चुनौती बनने लगा मुरादाबाद Hindustan",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Hindi (IN)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "46c275952009e5469e",
+      "title": "الحفاظ على مروج الأعشاب البحرية، وتعزيز سبل العيش في القرى الساحلية. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CU1ZaRHQ3YndNRU9HSklteWJOUFhpeFYxUjF3c3hXc3Y2NjFPNkJQeWdlSnZ6TjRicmJVYlJiYzlfcUFmLV94dDQ3b2RZdk1XMzl6OUJMVXBtWmtGMUxYMDV6TWQtRFdPZTBjSWJtazB1NnEzZHdJ?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-25T11:32:55+00:00",
+      "language": "Arabic",
+      "source_country": "AE",
+      "image": "",
+      "description": "الحفاظ على مروج الأعشاب البحرية، وتعزيز سبل العيش في القرى الساحلية. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Arabic (AE)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "82dcc36ac422c14003",
+      "title": "Preserving the seagrass beds, fostering livelihoods in coastal villages. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JeWZtVnA1dXBnUTgwckd3UklPYTVqTlE3OWhNa2p1OGh5UC1CWkRjcmpYQ0NsSktQRXNCUjlTcEJKZTZINXdtT2NaVDU4VmtfUm5ZXzRsMFZnUHFGWnNrZC1sdVRaUmJJdWhZRTJMeF9vYzc2LTI4?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-25T10:59:07+00:00",
+      "language": "Vietnamese",
+      "source_country": "VN",
+      "image": "",
+      "description": "Preserving the seagrass beds, fostering livelihoods in coastal villages. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Vietnamese (VN)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "6bbd480edce04b3cfc",
+      "title": "Preservar os bancos de ervas marinhas, promovendo meios de subsistência em aldeias costeiras. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mU0xWTnlkQkZyWmdxU0tCY3VZc25qTUk0Ym5LM1BvTDNMdk8ySnhxck1tZzIzX2NFZmFibGV6RnZiN1hjYzJsZ0F5Mzk1enNQRGZnRGJWbmNWbUhROEJDbld6ODlXeF9WaVJVVEZFYVZBNGFKcDNv?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-25T10:36:55+00:00",
+      "language": "Portuguese",
+      "source_country": "PT",
+      "image": "",
+      "description": "Preservar os bancos de ervas marinhas, promovendo meios de subsistência em aldeias costeiras. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Portuguese (PT)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "dc4c3f418169e3ed1a",
+      "title": "समुद्री घास के मैदानों का संरक्षण करना, तटीय गांवों में आजीविका को बढ़ावा देना। - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UNDdfSm1DUnNvWF9rQnIwQ3k3Znh2ck1HbUNVTDQyazNyWF9oQ0hYS0k4Yl9uNUViWXVWN3JCbHNINzdBUHVFbTE5dFFpLVZXaWtlTEpxeXdpdFh1RUNjR3ktSlJ5Nzk3OHBncENaaGU3cTZldnJz?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-25T10:25:19+00:00",
+      "language": "Hindi",
+      "source_country": "IN",
+      "image": "",
+      "description": "समुद्री घास के मैदानों का संरक्षण करना, तटीय गांवों में आजीविका को बढ़ावा देना। Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Hindi (IN)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "86a417fd0b0ab3b415",
+      "title": "Het behoud van de zeegrasvelden en het bevorderen van het levensonderhoud in kustdorpen. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PX3BCNU13UFRNTEhUSzhpNllXZzJnUVVxSUpsU3lOaE9Pd2ktSlBCV01BdlVPTUkwY0xtdER6QWpQNUIwTG90SHFUSXpqN1k3cUFiSXZhYVJJR1lnNHZFNEZLb1YwQXplbjRPQWVITFhMQng5eWM4?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-25T10:20:43+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Het behoud van de zeegrasvelden en het bevorderen van het levensonderhoud in kustdorpen. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
+      "id": "74b91cbd240a1b05a7",
+      "title": "Erhaltung der Seegraswiesen, Förderung der Lebensgrundlagen in Küstendörfern. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44RzFMTThUdG9mVUFrY09RQ1Q3X0JTMFNFbTdxOUpPdl90aFZnTnpkajBpUTFzdnZjZ3VMQXN4TXpFcE5PLXM1Y3AycjhDVGlleFJGeWxIZmpLa1pNbTNLc1Qxcm5HckZBWEp6S0l4QUU1a0hSMGlj?oc=5",
+      "outlet": "Vietnam.vn",
+      "domain": "news.google.com",
+      "published_at": "2026-10-25T10:20:40+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Erhaltung der Seegraswiesen, Förderung der Lebensgrundlagen in Küstendörfern. Vietnam.vn",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
     {
       "id": "8cdce4eb7e88d7793d",
       "title": "การอนุรักษ์แหล่งหญ้าทะเล ส่งเสริมการดำรงชีวิตในหมู่บ้านชายฝั่ง - Vietnam.vn",
@@ -78,6 +538,30 @@
       "baseline": false
     },
     {
+      "id": "09eec8b6c5da702805",
+      "title": "神戸市 兵庫運河にアマモの種をまく 生物多様性の保全／兵庫県（サンテレビ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16eHBWRVJGX3pIaG9DaUFqa0I3ZUR0TWdhRHhEa0N3Nl9tZ1E0Z2NEakpSYXFLS1I1bGQyLUNvamZGZHdvYmt2eVJMdE9IbUlzWGR2LXh3emphYV8xODVVUWV5c3Q4Ukd6M1ZqWlNFM1l4WDFORUNEX3pLS2s5Y1k?oc=5",
+      "outlet": "Yahoo!ニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-10-25T09:03:26+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "神戸市 兵庫運河にアマモの種をまく 生物多様性の保全／兵庫県（サンテレビ） Yahoo!ニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "baseline": false
+    },
+    {
       "id": "bffb75bc23527ad42a",
       "title": "Your National Park Bucket List Might Be Missing This Caribbean Island",
       "url": "https://www.caribjournal.com/2026/10/24/your-national-parks-bucket-list-might-be-missing-this-caribbean-island",
@@ -122,7 +606,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-27",
       "baseline": false
     },
     {
@@ -171,7 +655,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "baseline": false
     },
     {
@@ -221,7 +705,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-27",
       "baseline": false
     },
     {
@@ -390,7 +874,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-27",
       "baseline": false
     },
     {
@@ -414,7 +898,7 @@
       ],
       "search_route": "Google News French (FR)",
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-27",
       "baseline": false
     },
     {
@@ -488,7 +972,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-27",
       "baseline": false
     },
     {
@@ -1213,7 +1697,7 @@
       ],
       "search_route": "Google News Norwegian (NO)",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-27",
       "baseline": false
     },
     {
@@ -18738,31 +19222,31 @@
     "languages": [
       [
         "English",
-        290
+        294
       ],
       [
         "Indonesian",
-        96
+        97
       ],
       [
         "German",
-        62
+        64
       ],
       [
         "Turkish",
         58
       ],
       [
-        "Korean",
-        48
+        "Japanese",
+        50
       ],
       [
-        "Japanese",
-        46
+        "Korean",
+        49
       ],
       [
         "Chinese",
-        41
+        43
       ],
       [
         "Spanish",
@@ -18774,31 +19258,31 @@
       ],
       [
         "Dutch",
-        15
+        16
+      ],
+      [
+        "Vietnamese",
+        9
       ],
       [
         "Thai",
         9
       ],
       [
-        "Vietnamese",
+        "Arabic",
         8
       ],
       [
         "Portuguese",
-        7
+        8
       ],
       [
-        "Arabic",
+        "Hindi",
         7
       ],
       [
         "Swahili",
         7
-      ],
-      [
-        "Hindi",
-        5
       ],
       [
         "Norwegian",
@@ -18828,7 +19312,7 @@
     "countries": [
       [
         "GB",
-        114
+        118
       ],
       [
         "Indonesia",
@@ -18840,19 +19324,19 @@
       ],
       [
         "DE",
-        62
+        64
       ],
       [
         "TR",
         58
       ],
       [
-        "KR",
-        48
+        "JP",
+        50
       ],
       [
-        "JP",
-        46
+        "KR",
+        49
       ],
       [
         "Australia",
@@ -18860,15 +19344,19 @@
       ],
       [
         "ID",
-        35
+        36
+      ],
+      [
+        "CN",
+        19
       ],
       [
         "China",
         19
       ],
       [
-        "CN",
-        17
+        "NL",
+        16
       ],
       [
         "Italy",
@@ -18877,10 +19365,6 @@
       [
         "United Kingdom",
         16
-      ],
-      [
-        "NL",
-        15
       ],
       [
         "ES",
@@ -18895,12 +19379,24 @@
         11
       ],
       [
+        "VN",
+        9
+      ],
+      [
         "TH",
         9
       ],
       [
-        "VN",
+        "AE",
         8
+      ],
+      [
+        "PT",
+        8
+      ],
+      [
+        "IN",
+        7
       ],
       [
         "India",
@@ -18915,24 +19411,12 @@
         7
       ],
       [
-        "PT",
-        7
-      ],
-      [
-        "AE",
-        7
-      ],
-      [
         "KE",
         7
       ],
       [
         "IT",
         7
-      ],
-      [
-        "IN",
-        5
       ],
       [
         "Philippines",
@@ -19046,7 +19530,7 @@
     "outlets": [
       [
         "Vietnam.vn",
-        21
+        28
       ],
       [
         "antaranews.com",
@@ -19061,11 +19545,15 @@
         8
       ],
       [
-        "liputan6.com",
+        "Bioengineer.org",
+        7
+      ],
+      [
+        "Yahoo!ニュース",
         6
       ],
       [
-        "Bioengineer.org",
+        "liputan6.com",
         6
       ],
       [
@@ -19085,10 +19573,6 @@
         6
       ],
       [
-        "Yahoo!ニュース",
-        5
-      ],
-      [
         "ｄメニューニュース",
         5
       ],
@@ -19099,6 +19583,10 @@
       [
         "Son Dakika",
         5
+      ],
+      [
+        "日テレNEWS NNN",
+        4
       ],
       [
         "aol.co.uk",
@@ -19133,6 +19621,10 @@
         4
       ],
       [
+        "비건뉴스",
+        3
+      ],
+      [
         "miragenews.com",
         3
       ],
@@ -19142,10 +19634,6 @@
       ],
       [
         "Haberler",
-        3
-      ],
-      [
-        "日テレNEWS NNN",
         3
       ],
       [
@@ -19197,6 +19685,18 @@
         3
       ],
       [
+        "Treasure Coast News",
+        2
+      ],
+      [
+        "Palawan News",
+        2
+      ],
+      [
+        "Darilaut.id",
+        2
+      ],
+      [
         "caribjournal.com",
         2
       ],
@@ -19227,32 +19727,16 @@
       [
         "bali.viva.co.id",
         2
-      ],
-      [
-        "TBS NEWS DIG",
-        2
-      ],
-      [
-        "비건뉴스",
-        2
-      ],
-      [
-        "Pressmare",
-        2
-      ],
-      [
-        "Futura, le média qui explore le monde",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        589
+        606
       ],
       [
         "Restoration",
-        50
+        51
       ],
       [
         "Science & discovery",
@@ -19260,11 +19744,11 @@
       ],
       [
         "Conservation & policy",
-        40
+        41
       ],
       [
         "Wildlife & biodiversity",
-        32
+        34
       ],
       [
         "Development & infrastructure",
@@ -19279,22 +19763,22 @@
         15
       ],
       [
+        "Fisheries & food",
+        10
+      ],
+      [
         "Blue carbon",
         10
       ],
       [
         "Pollution & water quality",
         9
-      ],
-      [
-        "Fisheries & food",
-        9
       ]
     ],
     "discovery_sources": [
       [
         "Google News RSS",
-        497
+        517
       ],
       [
         "GDELT",
