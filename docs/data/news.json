@@ -1,10 +1,155 @@
 {
-  "generated_at": "2026-10-27T10:58:08.420737+00:00",
+  "generated_at": "2026-10-28T11:37:43.678370+00:00",
   "baseline_complete": true,
-  "article_count": 795,
-  "new_today": 20,
+  "article_count": 801,
+  "new_today": 6,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "88723f7173e78b0eee",
+      "title": "Meet the divers reviving damaged seagrass meadows beneath the Baltic Sea - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tZWw5LXJ4OWJZUDJfQ0pFY3lRUWxjaXNqVlZHcmhUZ0lSQmdiQXRLRXhqaGlMSHFZT2QtZkpvWFkwbV9rdTFEMy1nWmp0ZURLOXJqMlFnSGl0bFdmVEJfcnRMcHljTEFBVDh6XzloQXE1MUcxbGxySzlVa9IBe0FVX3lxTE4zWE5tVGNQZ09hOXUzMUZERGN4bG1ERXFHOXhHNVpVUlZiLW90UFdydXlYai01eXAwd3lOMFlDSnZ5bHN6SElQNkR4azJveDlLdV9XSC1JRThzSlktQnlQOFBYb3NNWnpENFJVZnJuSUdSZ281QVZ6SXZ6dw?oc=5",
+      "outlet": "DW.com",
+      "domain": "news.google.com",
+      "published_at": "2026-10-28T10:59:13+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Meet the divers reviving damaged seagrass meadows beneath the Baltic Sea DW.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "baseline": false
+    },
+    {
+      "id": "8a7a2c017f47507ffd",
+      "title": "At The Bar with Joseph Moussa - National Beverage Manager for Seagrass Boutique Hospitality Group - The Write Drop",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3lWdWg2ZlB1a3Vpb1NkNFYyQVRjYXBQYU1qZzQ0REdjcmZOeDlsT0gwQzI2U0wzOGZfdy1RR3JZZEg5bnItcnJhd01adXpqcWtZVXZORHAtYlVXZGhRSWlkZ3lBeWluUVNPVG9jTFNYOFgzYU9sdDllRl90M3luY0RlNGh6NUZYWUlWRXRDZXVXRjBseUZEYlRyZEhVTENpekNaZEJwRW5Mc1lrMWZaQlU2emF3bmtFTDhDN1ZkMzk4UQ?oc=5",
+      "outlet": "The Write Drop",
+      "domain": "news.google.com",
+      "published_at": "2026-10-28T05:27:59+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "At The Bar with Joseph Moussa - National Beverage Manager for Seagrass Boutique Hospitality Group The Write Drop",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "baseline": false
+    },
+    {
+      "id": "0baf95a751c8a326c9",
+      "title": "Scientists isolate bacteria predicted to boost seagrass growth and restoration - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSV9xT1FfU0FjVkRSbno0Q3R0XzhhcmFnVHZlNnVpVWZlTGs3RGp2ZG8tODBaYkNaWDlaYm5YbC0ySHZOLXluSVZ3UUlMeG5BYnRfcmlXYTB5RUpiRWh6OWVETXBzcGZDM2hCMFhvRmhxakxaaE5GSi1EWExOenFOWlpEZmE3UjM1T2FHTUxRTGZDTUplb2lBSHM1UG8tS21IT09xUW9n?oc=5",
+      "outlet": "Bioengineer.org",
+      "domain": "news.google.com",
+      "published_at": "2026-10-28T01:10:30+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Scientists isolate bacteria predicted to boost seagrass growth and restoration Bioengineer.org",
+      "themes": [
+        "Restoration",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "baseline": false
+    },
+    {
+      "id": "239f7b16f5495619cb",
+      "title": "Kemer Üç Adalar'da deniz çayırı dikimiyle ekosistem - Yeni Alanya",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHh4dmxiRnBLM21SMURjVmFUb2p5QXl0OGwxdkE2dTJqVGMybzZmYnVkYTU2RDZFdUEtUk81WlBRaXY4bzNQcDB2NUY2d1BSUWhpZlNpZjZteEdRRXZiUFdxdko3dlNKTHp0blpkUl9XYmQ4MThERGZ5bnVJUm0tNlBGTmlFcjA?oc=5",
+      "outlet": "Yeni Alanya",
+      "domain": "news.google.com",
+      "published_at": "2026-10-27T16:09:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Kemer Üç Adalar'da deniz çayırı dikimiyle ekosistem Yeni Alanya",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "baseline": false
+    },
+    {
+      "id": "2c4b4fb8c825f42d78",
+      "title": "Warum Ibizas Strände das Seegras im Winter brauchen - Ibiza HEUTE",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQak51R3RyWjcweFFqcDg4OUhxZk54WmlFRzgxSUh0RnZ6c3E1SFBzY2ZGVGlzRGctOG1MS1NVcVkxdnB1SlgxbmlqQlhQS0Y2X3Q0eEY1VTNpeWlITUhHcXl2cjQ2bkZsYmpwYVFJd2NINmg3YXB4WFJ5X1RxQk1RSkIwM1YxNTQ?oc=5",
+      "outlet": "Ibiza HEUTE",
+      "domain": "news.google.com",
+      "published_at": "2026-10-27T11:56:54+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Warum Ibizas Strände das Seegras im Winter brauchen Ibiza HEUTE",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "baseline": false
+    },
+    {
+      "id": "fc7908ef389eb7b42c",
+      "title": "Nesli Tehlike Altındaki Deniz Çayırları Ve Pinalar Tuzla'da Kayda Alındı - N Gazete",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3RUV2NMUEZkZ0lWcmxCTnczQTFZMDUwSm02Q1hHRkRZSXU4YThQZ1lSQm1VZ2dnT1NiY3hxd3ViQWxodmpxUDBkX3JGWnFUbzdsTFhZN1NrY05NWEc4ZGhyTGNKbjh0RERJS3pIQnEwbXJkVkFKLTdndVdCa19fUFJuSjBXazJvUkhXRTl5LUxGYk90aVVtMEMzcXhhV0o0V05mTkZ5S1ZLRVAyNDNMXzBWMmNYWWp4Y0dR0gG7AUFVX3lxTE5DdFRXY0xQRmRnSVZybEJOdzNBMVkwNTBKbTZDWEdGRFlJdThhOFBnWVJCbVVnZ2dPU2JjeHF3dWJBbGh2anFQMGRfckZacVRvN2xMWFk3U2tjTk1YRzhkaHJMY0puOHRERElLekhCcTBtcmRWQUotN2d1V0JrX19QUm5KMFdrMm9SSFdFOXktTEZiT3RpVW0wQzNxeGFXSjRXTmZORnlLVktFUDI0M0xfMFYyY1hZanhjR1E?oc=5",
+      "outlet": "N Gazete",
+      "domain": "news.google.com",
+      "published_at": "2026-10-27T11:09:47+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Nesli Tehlike Altındaki Deniz Çayırları Ve Pinalar Tuzla'da Kayda Alındı N Gazete",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "baseline": false
+    },
     {
       "id": "a431ea3888cb03f5f9",
       "title": "「海の環境を守っていきたい」小学生がアマモの役割を学ぶ 福岡 - TVer",
@@ -26,7 +171,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -50,7 +195,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -74,7 +219,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -98,7 +243,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -122,7 +267,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -220,7 +365,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -244,7 +389,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -270,7 +415,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -318,7 +463,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -342,7 +487,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -390,7 +535,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -414,7 +559,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -438,7 +583,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -486,7 +631,7 @@
       ],
       "search_route": "Google News Thai (TH)",
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -510,7 +655,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -558,7 +703,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -582,7 +727,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -630,7 +775,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -655,7 +800,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -679,7 +824,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -705,7 +850,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -898,7 +1043,7 @@
       ],
       "search_route": "Google News French (FR)",
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -5341,7 +5486,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-28",
       "baseline": false
     },
     {
@@ -19222,7 +19367,7 @@
     "languages": [
       [
         "English",
-        294
+        297
       ],
       [
         "Indonesian",
@@ -19230,11 +19375,11 @@
       ],
       [
         "German",
-        64
+        65
       ],
       [
         "Turkish",
-        58
+        60
       ],
       [
         "Japanese",
@@ -19312,23 +19457,23 @@
     "countries": [
       [
         "GB",
-        118
+        121
       ],
       [
         "Indonesia",
         67
       ],
       [
+        "DE",
+        65
+      ],
+      [
         "United States",
         65
       ],
       [
-        "DE",
-        64
-      ],
-      [
         "TR",
-        58
+        60
       ],
       [
         "JP",
@@ -19541,12 +19686,12 @@
         10
       ],
       [
-        "NDR.de",
+        "Bioengineer.org",
         8
       ],
       [
-        "Bioengineer.org",
-        7
+        "NDR.de",
+        8
       ],
       [
         "Yahoo!ニュース",
@@ -19571,6 +19716,10 @@
       [
         "ANTARA News",
         6
+      ],
+      [
+        "DW.com",
+        5
       ],
       [
         "ｄメニューニュース",
@@ -19598,10 +19747,6 @@
       ],
       [
         "islands.com",
-        4
-      ],
-      [
-        "DW.com",
         4
       ],
       [
@@ -19685,6 +19830,10 @@
         3
       ],
       [
+        "Ibiza HEUTE",
+        2
+      ],
+      [
         "Treasure Coast News",
         2
       ],
@@ -19723,24 +19872,20 @@
       [
         "greenreport.it",
         2
-      ],
-      [
-        "bali.viva.co.id",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        606
+        611
       ],
       [
         "Restoration",
-        51
+        52
       ],
       [
         "Science & discovery",
-        44
+        45
       ],
       [
         "Conservation & policy",
@@ -19778,7 +19923,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        517
+        523
       ],
       [
         "GDELT",
