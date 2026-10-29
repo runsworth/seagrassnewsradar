@@ -1,10 +1,155 @@
 {
-  "generated_at": "2026-10-28T11:37:43.678370+00:00",
+  "generated_at": "2026-10-29T11:44:17.864581+00:00",
   "baseline_complete": true,
-  "article_count": 801,
+  "article_count": 807,
   "new_today": 6,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "84c88e56e5d9318af5",
+      "title": "Peneliti Berpacu Pulihkan Padang Lamun demi Pertahankan Ekosistem Laut - detikNews",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSHZRZzI5Q1BWT3FtWFl5UFI3NjZVZHN3US1YRE9IZWJzQnJuZUFtZDY2NVJaM21iZ0M5eG5KdW10dmkzRy1nMFlsVTRqcHhiNGpCOEI5MWs5YjVtcUlnX2VWRmh6VHptcEJtNnFoOGN3V095WHVYck9JQmtxNm4yNDBhYmMxYk02OHZfRWJHaEpkQmF2WWlqcFZyVTcydnlCU1JuTElLdk5UQdIBrwFBVV95cUxON0Q4Z2JZbzl5X1duT3hFUHQwVTNEVEZzSmlQSHBpcVdCczI4RWt3TkxtUEZxWmFvb2VBOEFHV0VLN25UM1NZQ0dBN1E3SlMtb1RWYlRGZU9ZT00wS2tQOGxPdV8tOGZ5eEE2OVBTRHhkUEQ1SmJFd1ZQVE9yYzBxcUJ3QTd0UE9nOW5Ea2NmVHRqbW9oa3FtczlDWjliTzFLdDNYZUhqMnRQNHNNTlpz?oc=5",
+      "outlet": "detikNews",
+      "domain": "news.google.com",
+      "published_at": "2026-10-29T10:55:31+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Peneliti Berpacu Pulihkan Padang Lamun demi Pertahankan Ekosistem Laut detikNews",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "baseline": false
+    },
+    {
+      "id": "f1dbc5d4fb367c0907",
+      "title": "WATERLINE: Five Years Underwater —So…Why Aren't We Planting Seagrass Yet? - yoursun.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRXFsNXBrYXdidkZQQmtXQndJM2t6SER0aDdjNTBxYmdXX1gxbGVreDNQU0FaenlVWkFVd0MwaHRteFRLbC1rMEFRdU5MRVB3VHBrdVZWRUhBcXpjYmpBdTZIcFRJbXRXRkpzdkQ1TW5OMkdoY295cVBkUkRyZ0x1b3FKd1o4Q1U1UDRUS3VkMEpCS050YUtwZ25IMXFDUnFCUmc2ZzFJaFB0VFd6N0hoOTd2U21GdkphbnA3V0RJNEJRR2tKdFMxU3p1SGlFRWQ4Yk8xSXJKeklXa0MwMmxXaGc1U1lQYkxjUVNQV0xCc1c2TFNQYUlyWGxQQTRzdw?oc=5",
+      "outlet": "yoursun.com",
+      "domain": "news.google.com",
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "WATERLINE: Five Years Underwater —So…Why Aren't We Planting Seagrass Yet? yoursun.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "baseline": false
+    },
+    {
+      "id": "7690c426c335e49c0b",
+      "title": "Dugongos: os gigantes pacíficos que ajudam a salvar as pradarias marinhas - Surftotal",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZFdRNVZVOEg4a3NzZkk0eDFqYzkyMkpWZHZla0hQQ3JRalFTbmtCSVVTd2R0VEhWWTljQkEtZ3RFLVNRWUwweUJiVG1VVXFsYmRnclRXRXk3dXJleTUwSS1iT00wSEJCaWNONUJqYlY3LUhWSFgtVmlsOUZmNzJmcTVRY0RlZTlmbmFQamtPd3ZvWEZiYnBJSFlpNGVDZ1pySi03VXc0bEpGV2R3dHd6TTZZTlpmWVB4S2NaVHJIeE5tSVRTWE94cQ?oc=5",
+      "outlet": "Surftotal",
+      "domain": "news.google.com",
+      "published_at": "2026-10-29T08:58:19+00:00",
+      "language": "Portuguese",
+      "source_country": "BR",
+      "image": "",
+      "description": "Dugongos: os gigantes pacíficos que ajudam a salvar as pradarias marinhas Surftotal",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Portuguese (BR)",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "baseline": false
+    },
+    {
+      "id": "ae1c648cecc333d5fb",
+      "title": "How Do We Protect And Restore Seagrass? - Mirage News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6dndmeVF4VzAzSnkyMnpweHRCNnpsOE9LaTRGS0w5MDFiODhuc1BBU1ltRzVVdy14N2haSnl4VmZKbE5CRGdkNFppalpiU1RYNUhfVjlmUkpfeERROWJBZTliTWZJdXludGE3bU9qNGZoRXZsRl9WS2xiNnJKNkk?oc=5",
+      "outlet": "Mirage News",
+      "domain": "news.google.com",
+      "published_at": "2026-10-29T05:52:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "How Do We Protect And Restore Seagrass? Mirage News",
+      "themes": [
+        "Restoration",
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "baseline": false
+    },
+    {
+      "id": "3ea1a5887230697f5c",
+      "title": "Peneliti Berpacu Pulihkan Padang Lamun di Laut Baltik demi Pertahankan Habitat Asli - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcW1lQnR0ejdmNmV5Z24xZHdlRlNzZzZQa3pKRVBHWm5vVF9yZ3RyVmk4eVVjZENrWi1sV1VvQ0FIZFdxXzhsaEtqQ3NkMXRPRUlCYUFjcS1PLXRpOVowaTNGSTJUaXE5QmVlVjJWQkpMZEV1Z2FFdGFpUVJPMnlJVnRWMlIyWE1jTUY0MG9tMkJfalNqSXE4QzRtUWozbDZKM01V0gGjAUFVX3lxTE5xbWVCdHR6N2Y2ZXlnbjFkd2VGU3NnNlBrekpFUEdabm9UX3JndHJWaTh5VWNkQ2taLWxXVW9DQUhkV3FfOGxoS2pDc2QxdE9FSUJhQWNxLU8tdGk5WjBpM0ZJMlRpcTlCZWVWMlZCSkxkRXVnYUV0YWlRUk8yeUlWdFYyUjJYTWNNRjQwb20yQl9qU2pJcThDNG1RajNsNkozTVU?oc=5",
+      "outlet": "DW.com",
+      "domain": "news.google.com",
+      "published_at": "2026-10-29T02:11:32+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Peneliti Berpacu Pulihkan Padang Lamun di Laut Baltik demi Pertahankan Habitat Asli DW.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "baseline": false
+    },
+    {
+      "id": "c6893585df6feaa7dd",
+      "title": "The Race to Restore Damaged Seagrass Meadows - LatestLY",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVk5KWjZfMkVSN1lpNEhTOVdkUUNqUGpJd24xNDNoOXpBaHp2SXc1ODFmcGpjSE1Jd2VoMUhJdXdSU0JvVTRvV1lxVmtSeTBMZGNjVGlXSmVBMU1pZE5KUjFXZ3d1bW53Mm8zeTQ2NGQzSzRERUgxQmF0REJPNGJhZXpfTjhpZUNjT1piNU53dXJOeHIyZ0ZNVkV30gGfAUFVX3lxTE16WkExM1BiSEwtX0VNX3FVb3ctQTY3Z2xTUEFZX1ppVlNaTUNzbEJaakZaRzRBb3pybzJDTzJubnhYdkR5dm9aVlZydy11RDhLV2lwTFd0dmVLVEFDWktjY2J5ZDVRUW5MMm41d2VzZkh5LVpDWmtKMTZmSzVCdVVhd25aeC04YVRhSjBmZWxIcFVvaHMzWVh6U1IzMUVQcw?oc=5",
+      "outlet": "LatestLY",
+      "domain": "news.google.com",
+      "published_at": "2026-10-28T11:40:17+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "The Race to Restore Damaged Seagrass Meadows LatestLY",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "baseline": false
+    },
     {
       "id": "88723f7173e78b0eee",
       "title": "Meet the divers reviving damaged seagrass meadows beneath the Baltic Sea - DW.com",
@@ -26,7 +171,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -50,7 +195,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -99,7 +244,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -123,7 +268,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -147,7 +292,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -171,7 +316,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -195,7 +340,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -219,7 +364,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -243,7 +388,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -267,7 +412,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -389,7 +534,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -415,7 +560,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -463,7 +608,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -487,7 +632,7 @@
       ],
       "search_route": "Google News Arabic (AE)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -511,7 +656,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -535,7 +680,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -559,7 +704,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -583,7 +728,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -607,7 +752,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -679,7 +824,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -703,7 +848,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -850,7 +995,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -5486,7 +5631,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "baseline": false
     },
     {
@@ -19367,11 +19512,11 @@
     "languages": [
       [
         "English",
-        297
+        300
       ],
       [
         "Indonesian",
-        97
+        99
       ],
       [
         "German",
@@ -19406,6 +19551,10 @@
         16
       ],
       [
+        "Portuguese",
+        9
+      ],
+      [
         "Vietnamese",
         9
       ],
@@ -19415,10 +19564,6 @@
       ],
       [
         "Arabic",
-        8
-      ],
-      [
-        "Portuguese",
         8
       ],
       [
@@ -19457,7 +19602,7 @@
     "countries": [
       [
         "GB",
-        121
+        124
       ],
       [
         "Indonesia",
@@ -19484,12 +19629,12 @@
         49
       ],
       [
-        "Australia",
-        37
+        "ID",
+        38
       ],
       [
-        "ID",
-        36
+        "Australia",
+        37
       ],
       [
         "CN",
@@ -19624,6 +19769,10 @@
         2
       ],
       [
+        "BR",
+        1
+      ],
+      [
         "Saudi Arabia",
         1
       ],
@@ -19694,6 +19843,10 @@
         8
       ],
       [
+        "DW.com",
+        6
+      ],
+      [
         "Yahoo!ニュース",
         6
       ],
@@ -19716,10 +19869,6 @@
       [
         "ANTARA News",
         6
-      ],
-      [
-        "DW.com",
-        5
       ],
       [
         "ｄメニューニュース",
@@ -19764,6 +19913,10 @@
       [
         "kupang.tribunnews.com",
         4
+      ],
+      [
+        "yoursun.com",
+        3
       ],
       [
         "비건뉴스",
@@ -19830,6 +19983,10 @@
         3
       ],
       [
+        "Mirage News",
+        2
+      ],
+      [
         "Ibiza HEUTE",
         2
       ],
@@ -19858,30 +20015,22 @@
         2
       ],
       [
-        "yoursun.com",
-        2
-      ],
-      [
         "Habertürk",
         2
       ],
       [
         "dw.com",
         2
-      ],
-      [
-        "greenreport.it",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        611
+        614
       ],
       [
         "Restoration",
-        52
+        54
       ],
       [
         "Science & discovery",
@@ -19889,11 +20038,11 @@
       ],
       [
         "Conservation & policy",
-        41
+        42
       ],
       [
         "Wildlife & biodiversity",
-        34
+        35
       ],
       [
         "Development & infrastructure",
@@ -19923,7 +20072,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        523
+        529
       ],
       [
         "GDELT",
