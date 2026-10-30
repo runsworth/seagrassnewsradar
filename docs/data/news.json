@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-10-29T11:44:17.864581+00:00",
+  "generated_at": "2026-10-30T11:36:59.189592+00:00",
   "baseline_complete": true,
-  "article_count": 807,
-  "new_today": 6,
+  "article_count": 812,
+  "new_today": 5,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "1e9f36671861523322",
+      "title": "Dosen UMI Terapkan Teknologi TERFS untuk Pulihkan Padang Lamun di Pesisir Takalar - Simpul Rakyat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGQ5b0s2UmEteVQ4cWFFUVo4Z2d6blFRTFJzaDBuX2FHeXBtRjV0dzh5UHkzbHRZSW1oUk50b0lCalE2NDJvQ1kwSHFHRWMydTZaM25jYlpBUS0xSU5CSkxMa1Y5QmJSLTJRZV9hU2thOHpvRzAtallyT1o0UEo1QVFfdFhKdmZxRWxwX0pTRXktMGUxQUpSWmxsQ3R5LUFzUWxVR2pvZldPd3JlV3FOc0hqLXE5TTU3c1lzejRKVjd6Vzg?oc=5",
+      "outlet": "Simpul Rakyat",
+      "domain": "news.google.com",
+      "published_at": "2026-10-30T11:30:10+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Dosen UMI Terapkan Teknologi TERFS untuk Pulihkan Padang Lamun di Pesisir Takalar Simpul Rakyat",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "baseline": false
+    },
+    {
+      "id": "ee23392bfa0a8209cd",
+      "title": "Die Unterwassergärtner*innen – Seegras renaturieren in Schleswig-Holstein - lübeckverliebt",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3NMUjBwMGNkelFtSGxsTE5TM2JKRWpKdGdpZXJtZUpBR01QN0gwS0RIZTVVTmhIZmN1RVppOFhXcTRfUzNoaG9MeGVWUmJoSTVRZHNWcXNxUmRKMW9tTFpJaXYzWW14MXRhLU1Xd1pmUmYzQjBUV1lnOGFxRHZUZk9LVThReXdXYzd4a0NpbVpzaUxERlVZOEk0UEp2alZaZk5EU3V6Vklsdnc?oc=5",
+      "outlet": "lübeckverliebt",
+      "domain": "news.google.com",
+      "published_at": "2026-10-29T17:54:46+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Die Unterwassergärtner*innen – Seegras renaturieren in Schleswig-Holstein lübeckverliebt",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "baseline": false
+    },
+    {
+      "id": "eb8a3507788d075c7e",
+      "title": "Ilmuwan Pulihkan Padang Lamun Laut Baltik dengan Metode Baru - Lensa Hukum",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01R2x2OEFSTEN5Vm56aGtWWk9oZ2YxMDE5NTJiTWkxbzhENmdaNnB6dmRvQjhPaVBpdHNsdml2ZmdISEd0WHI4ZE1TYmFRZnVrcUNuREFNZlFRLWV3TE10dUZNNWVQU3lXYzRR?oc=5",
+      "outlet": "Lensa Hukum",
+      "domain": "news.google.com",
+      "published_at": "2026-10-29T12:21:29+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Ilmuwan Pulihkan Padang Lamun Laut Baltik dengan Metode Baru Lensa Hukum",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "baseline": false
+    },
     {
       "id": "84c88e56e5d9318af5",
       "title": "Peneliti Berpacu Pulihkan Padang Lamun demi Pertahankan Ekosistem Laut - detikNews",
@@ -26,7 +98,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -50,7 +122,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -74,7 +146,7 @@
       ],
       "search_route": "Google News Portuguese (BR)",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -99,7 +171,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -123,7 +195,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -147,7 +219,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -171,7 +243,31 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
+      "baseline": false
+    },
+    {
+      "id": "c5aaf1fa51b782c9b8",
+      "title": "Nichts geht mehr: Seegras legt Helgoland-Katamaran \"Halunder Jet\" lahm - CNV Medien",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0hiTEN6MHlqWFUyOE1YNWNvSVJTMDBLMm94VllGYVQyZW9ueHFOUTRJa1d6Z0RBM1dFcXVvWnNleWJDaVhRdjhWRWwzT01sY0ZRTDZ2aFdnUzlKVndGVTdyR0RTdzUtQWRYSnN1OTREeHFRZGc3cTFPM3lJbzFRNUZoSVJOaF9RaG1Dem00MF94YXpvWWNlUlQyX2N3ZGU4TFBKSWZkS21mRDdjalE?oc=5",
+      "outlet": "CNV Medien",
+      "domain": "news.google.com",
+      "published_at": "2026-10-28T09:28:25+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Nichts geht mehr: Seegras legt Helgoland-Katamaran \"Halunder Jet\" lahm CNV Medien",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -244,7 +340,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -272,6 +368,30 @@
       "baseline": false
     },
     {
+      "id": "24eaffe1f5392dabc5",
+      "title": "Wood and seagrass fibre-based materials including TPSea on hot sounding rocket structures - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fMVBLNXVzMXpOaEVYek41cVk3NW1PWnRjOFhfTTlTYWwzckFUclltWlRyeE42dVpmMFMtek0xcGM5MjBCR0dtUTRWOUE3WkdkYzhJYl9wYkE4RXdLcnZB?oc=5",
+      "outlet": "Nature",
+      "domain": "news.google.com",
+      "published_at": "2026-10-27T11:51:59+00:00",
+      "language": "Swahili",
+      "source_country": "KE",
+      "image": "",
+      "description": "Wood and seagrass fibre-based materials including TPSea on hot sounding rocket structures Nature",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Swahili (KE)",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "baseline": false
+    },
+    {
       "id": "fc7908ef389eb7b42c",
       "title": "Nesli Tehlike Altındaki Deniz Çayırları Ve Pinalar Tuzla'da Kayda Alındı - N Gazete",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3RUV2NMUEZkZ0lWcmxCTnczQTFZMDUwSm02Q1hHRkRZSXU4YThQZ1lSQm1VZ2dnT1NiY3hxd3ViQWxodmpxUDBkX3JGWnFUbzdsTFhZN1NrY05NWEc4ZGhyTGNKbjh0RERJS3pIQnEwbXJkVkFKLTdndVdCa19fUFJuSjBXazJvUkhXRTl5LUxGYk90aVVtMEMzcXhhV0o0V05mTkZ5S1ZLRVAyNDNMXzBWMmNYWWp4Y0dR0gG7AUFVX3lxTE5DdFRXY0xQRmRnSVZybEJOdzNBMVkwNTBKbTZDWEdGRFlJdThhOFBnWVJCbVVnZ2dPU2JjeHF3dWJBbGh2anFQMGRfckZacVRvN2xMWFk3U2tjTk1YRzhkaHJMY0puOHRERElLekhCcTBtcmRWQUotN2d1V0JrX19QUm5KMFdrMm9SSFdFOXktTEZiT3RpVW0wQzNxeGFXSjRXTmZORnlLVktFUDI0M0xfMFYyY1hZanhjR1E?oc=5",
@@ -292,7 +412,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -316,7 +436,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -340,7 +460,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -388,7 +508,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -412,7 +532,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -534,7 +654,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -608,7 +728,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -5631,7 +5751,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "baseline": false
     },
     {
@@ -19516,11 +19636,11 @@
       ],
       [
         "Indonesian",
-        99
+        101
       ],
       [
         "German",
-        65
+        67
       ],
       [
         "Turkish",
@@ -19563,15 +19683,15 @@
         9
       ],
       [
+        "Swahili",
+        8
+      ],
+      [
         "Arabic",
         8
       ],
       [
         "Hindi",
-        7
-      ],
-      [
-        "Swahili",
         7
       ],
       [
@@ -19605,12 +19725,12 @@
         124
       ],
       [
-        "Indonesia",
+        "DE",
         67
       ],
       [
-        "DE",
-        65
+        "Indonesia",
+        67
       ],
       [
         "United States",
@@ -19630,7 +19750,7 @@
       ],
       [
         "ID",
-        38
+        40
       ],
       [
         "Australia",
@@ -19677,6 +19797,10 @@
         9
       ],
       [
+        "KE",
+        8
+      ],
+      [
         "AE",
         8
       ],
@@ -19698,10 +19822,6 @@
       ],
       [
         "MX",
-        7
-      ],
-      [
-        "KE",
         7
       ],
       [
@@ -19919,6 +20039,10 @@
         3
       ],
       [
+        "Nature",
+        3
+      ],
+      [
         "비건뉴스",
         3
       ],
@@ -20017,16 +20141,12 @@
       [
         "Habertürk",
         2
-      ],
-      [
-        "dw.com",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        614
+        619
       ],
       [
         "Restoration",
@@ -20072,7 +20192,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        529
+        534
       ],
       [
         "GDELT",
