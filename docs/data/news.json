@@ -1,10 +1,59 @@
 {
-  "generated_at": "2026-10-30T11:36:59.189592+00:00",
+  "generated_at": "2026-10-31T11:13:05.651471+00:00",
   "baseline_complete": true,
-  "article_count": 812,
-  "new_today": 5,
+  "article_count": 815,
+  "new_today": 3,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "c6be5e63c1280fc549",
+      "title": "Connecticut volunteers are attaching eelgrass seeds to living clams to restore meadows that have shrunk b - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNSEZ2M2ZsNEZ1MExMUFlRdTZZR0Z2ak9ZUzF0MzZNVWFOUjhKZDJMdUtzWlJ1aDdxX2labGJXQjc3Nk12aFhIZ2xmSE5yMVZoWnlEQVhmLTMwZjZacDBma09xVVNZSk8tTlYtMGJlZzlSTXFTa0R5aVNzcFNTUXZibXVRcWxfYXFLMW5ZcjBxSndOVTYycG1Ld1VZdGdlWnpJUHZqNFBIWkxqOVFweEpILXJqeU1FaGRZMEk2UEFsT2FCTWItcGdZT3JMSllpaVNTS2xwUEhlcXdpeWVVbU5LNXR0dFlGOWljQ3dTYkMwdlIzcVdQcTNjY01TM3c2aXZnN05BZmZSNE04ampSeVUwTW44aERWQjVKRFMzR0JhdHI5N091R0t1ZktacHR5YkNmdkVpbE9jblhfQlZNekJqdGRyTzFVNUpiVXVtT3hucFZJRWwwY3RwZ1hVTUVnY09mSmQwaGZTRTkwVDRVRmZoc055NVhVbDJrTTNMeG9yZlZHSGtCZTRCck9R0gGPA0FVX3lxTE13MW9LMlNJS2llT2l0TEpZcjhPcXMxOXFqMEhsX0VoQVYxSGtFVTFlUUJ6NmF0YUszTDROYllaVkZlNk45VTU4V0QwT18xMkxUQlh0VEw1eURXNm9Pdl92UEJYVXZxM3pZcUg2MTcwdXRWa2Y4VlY1Qnhyc2hGZFhNY0FIaTFpVTFLSlAwTHFBMENLUU5GcEFyZ0lfUGtTTi0yRVg0MjdhaUJrRVVlVnRBbklEa2tyN2tYQ0FpZ2xRSXNKM0VsdGdVclduQWVZWFVDQkZya3c2dHA4YllrTFRtemZhcVAwbElUeDM1OVlQWndOVm9fZElaeUZ3MGZYdDJSNngzbTBLbEdpUE93MVZHeU9Cb2k1TlF6cnNDNDBmem1vMFE0UlNGbXdjT3MxUlcxRnF0dmxHLXdYZjk4dnpiblpvTmNQT0p3a3Mybzcwa1BrODFqNWdvdVpvSThjQlpGaHo0Q0ZWdGdrdEk3U1VmdmpQRDg4VmVyUkpOWW5ZNkFrYTVPWXdUWHV0cWJsRQ?oc=5",
+      "outlet": "The Times of India",
+      "domain": "news.google.com",
+      "published_at": "2026-10-31T09:31:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Connecticut volunteers are attaching eelgrass seeds to living clams to restore meadows that have shrunk b The Times of India",
+      "themes": [
+        "Restoration",
+        "Community & culture"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "baseline": false
+    },
+    {
+      "id": "71c242386d984b2703",
+      "title": "Geschmack nach Salz und Seegras: Das ist der erste KN-Aquavit - Kieler Nachrichten",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN3JZQU4ycS1UTHRuQUtQY1JNbEJnWklDYzFhSndSZmxjTTFIenNYOVhRbjExMUVSQ0tmZTl6NXFBMXQ2cGdwV0EtM0x5eDJ1bHE0SkJTdmNYUlVlV3BqV2NfcEtqT3BnMG54UHYxS2J0RFJuQ09sUW1vZ05ocEcwMjk5bk5CY1loemtvYzkyaXRUSVhWQ3pzdnBaVy1BckhnRXNxT2hJU29tYWdSSEFhU1JiTWdCYUc1d28walZZbkw1aGF1Wkgxbkg3cm03Y09JdG9vM213WQ?oc=5",
+      "outlet": "Kieler Nachrichten",
+      "domain": "news.google.com",
+      "published_at": "2026-10-30T17:31:15+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Geschmack nach Salz und Seegras: Das ist der erste KN-Aquavit Kieler Nachrichten",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "baseline": false
+    },
     {
       "id": "1e9f36671861523322",
       "title": "Dosen UMI Terapkan Teknologi TERFS untuk Pulihkan Padang Lamun di Pesisir Takalar - Simpul Rakyat",
@@ -26,7 +75,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "baseline": false
     },
     {
@@ -50,7 +99,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "baseline": false
     },
     {
@@ -98,7 +147,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "baseline": false
     },
     {
@@ -122,7 +171,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "baseline": false
     },
     {
@@ -146,7 +195,7 @@
       ],
       "search_route": "Google News Portuguese (BR)",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "baseline": false
     },
     {
@@ -195,7 +244,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "baseline": false
     },
     {
@@ -243,7 +292,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "baseline": false
     },
     {
@@ -267,7 +316,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "baseline": false
     },
     {
@@ -340,7 +389,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "baseline": false
     },
     {
@@ -388,7 +437,7 @@
       ],
       "search_route": "Google News Swahili (KE)",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "baseline": false
     },
     {
@@ -436,7 +485,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "baseline": false
     },
     {
@@ -460,7 +509,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "baseline": false
     },
     {
@@ -532,7 +581,31 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
+      "baseline": false
+    },
+    {
+      "id": "c0033d998dd15c4625",
+      "title": "東京・お台場の海に「藻場」を作ろう…海草「アマモ」の種まき会参加者募集「多様な生物のゆりかごに」：写真 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IV2c1N0xocTh3aE1HQVVfRkdqN0dmV0FiLVg0dmZ1bjB2UzNxUGJZQkpUbFVlOG9NTU0xcjRLVTNDcmdPS2oxaXJjR2E2Qmk4UE5wLVBJY1VSWUtxUXRxVmhOMkNPZE56ZkE?oc=5",
+      "outlet": "読売新聞",
+      "domain": "news.google.com",
+      "published_at": "2026-10-27T05:26:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "東京・お台場の海に「藻場」を作ろう…海草「アマモ」の種まき会参加者募集「多様な生物のゆりかごに」：写真 読売新聞",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
       "baseline": false
     },
     {
@@ -582,7 +655,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-31",
       "baseline": false
     },
     {
@@ -5751,7 +5824,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "baseline": false
     },
     {
@@ -19632,7 +19705,7 @@
     "languages": [
       [
         "English",
-        300
+        301
       ],
       [
         "Indonesian",
@@ -19640,7 +19713,7 @@
       ],
       [
         "German",
-        67
+        68
       ],
       [
         "Turkish",
@@ -19648,7 +19721,7 @@
       ],
       [
         "Japanese",
-        50
+        51
       ],
       [
         "Korean",
@@ -19722,11 +19795,11 @@
     "countries": [
       [
         "GB",
-        124
+        125
       ],
       [
         "DE",
-        67
+        68
       ],
       [
         "Indonesia",
@@ -19742,7 +19815,7 @@
       ],
       [
         "JP",
-        50
+        51
       ],
       [
         "KR",
@@ -19963,6 +20036,10 @@
         8
       ],
       [
+        "The Times of India",
+        6
+      ],
+      [
         "DW.com",
         6
       ],
@@ -19992,10 +20069,6 @@
       ],
       [
         "ｄメニューニュース",
-        5
-      ],
-      [
-        "The Times of India",
         5
       ],
       [
@@ -20119,6 +20192,10 @@
         2
       ],
       [
+        "読売新聞",
+        2
+      ],
+      [
         "Palawan News",
         2
       ],
@@ -20137,20 +20214,16 @@
       [
         "econotimes.com",
         2
-      ],
-      [
-        "Habertürk",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        619
+        621
       ],
       [
         "Restoration",
-        54
+        55
       ],
       [
         "Science & discovery",
@@ -20174,7 +20247,7 @@
       ],
       [
         "Community & culture",
-        15
+        16
       ],
       [
         "Fisheries & food",
@@ -20192,7 +20265,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        534
+        537
       ],
       [
         "GDELT",
