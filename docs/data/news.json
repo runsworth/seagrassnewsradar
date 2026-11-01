@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-10-31T11:13:05.651471+00:00",
+  "generated_at": "2026-11-01T12:01:13.806724+00:00",
   "baseline_complete": true,
-  "article_count": 815,
+  "article_count": 818,
   "new_today": 3,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "d1e8a8e87ad2c581f2",
+      "title": "アマモの苗床作り「海の環境を考える」 宇多津町のイベントでワークショップ アジのつかみ取りも 香川 (2026年11月1日掲載) - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9relpncHIyWDJ2aGxweXRNci1HQ1F0d0IySnQ2UDhmdktiMC1GNHhWNy1VRlZNOUswTzFYdl9GZ01uSTJJMnBJVTU5R2lISlNDMFlzQ0IyS29BTG9Jcnc?oc=5",
+      "outlet": "ライブドアニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-11-01T10:32:25+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "アマモの苗床作り「海の環境を考える」 宇多津町のイベントでワークショップ アジのつかみ取りも 香川 (2026年11月1日掲載) ライブドアニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "baseline": false
+    },
+    {
+      "id": "06fead3505420b41c3",
+      "title": "アマモの苗床作り「海の環境を考える」 宇多津町のイベントでワークショップ アジのつかみ取りも 香川 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bc29mSkdGUEVBaXp5eVpjZ0t1VWs0ZWhRTVVsc081Y1R6b2oxcWxxOW5Jd1RKeG9Sb2tkZUlrU0N5TkZVR05DUWpDVUdqc1dsUGRYT2xNcHU2OExwWFB2MTd5YnJRSDBkTmotSXRB?oc=5",
+      "outlet": "Excite エキサイト",
+      "domain": "news.google.com",
+      "published_at": "2026-11-01T09:19:30+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "アマモの苗床作り「海の環境を考える」 宇多津町のイベントでワークショップ アジのつかみ取りも 香川 Excite エキサイト",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "baseline": false
+    },
+    {
+      "id": "82488ea21dcf936067",
+      "title": "アマモの苗床作り「海の環境を考える」 宇多津町のイベントでワークショップ アジのつかみ取りも 香川（KSB瀬戸内海放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hZEdvdC1KME02eHUzcThudGhLNGIzQW1FbTBlUFBTR3gxUDRIYmhKRTlrOUpKZTlXb29JUk0yRkZ3V2xRQjlMNWRTWUItV0hHeTRLdXpnODhQLWJHZHNjQzBKSFNoQk85dHZPZ1RwV2VPZFlZWEhIRHZQeE9JSXM?oc=5",
+      "outlet": "Yahoo!ニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-11-01T09:04:49+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "アマモの苗床作り「海の環境を考える」 宇多津町のイベントでワークショップ アジのつかみ取りも 香川（KSB瀬戸内海放送） Yahoo!ニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "baseline": false
+    },
     {
       "id": "c6be5e63c1280fc549",
       "title": "Connecticut volunteers are attaching eelgrass seeds to living clams to restore meadows that have shrunk b - The Times of India",
@@ -27,7 +99,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-01",
       "baseline": false
     },
     {
@@ -75,7 +147,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-01",
       "baseline": false
     },
     {
@@ -99,7 +171,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-01",
       "baseline": false
     },
     {
@@ -147,7 +219,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-01",
       "baseline": false
     },
     {
@@ -195,7 +267,7 @@
       ],
       "search_route": "Google News Portuguese (BR)",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-01",
       "baseline": false
     },
     {
@@ -292,7 +364,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-01",
       "baseline": false
     },
     {
@@ -316,7 +388,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-01",
       "baseline": false
     },
     {
@@ -365,7 +437,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-01",
       "baseline": false
     },
     {
@@ -19721,7 +19793,7 @@
       ],
       [
         "Japanese",
-        51
+        54
       ],
       [
         "Korean",
@@ -19815,7 +19887,7 @@
       ],
       [
         "JP",
-        51
+        54
       ],
       [
         "KR",
@@ -20036,15 +20108,15 @@
         8
       ],
       [
+        "Yahoo!ニュース",
+        7
+      ],
+      [
         "The Times of India",
         6
       ],
       [
         "DW.com",
-        6
-      ],
-      [
-        "Yahoo!ニュース",
         6
       ],
       [
@@ -20219,7 +20291,7 @@
     "themes": [
       [
         "General seagrass news",
-        621
+        624
       ],
       [
         "Restoration",
@@ -20265,7 +20337,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        537
+        540
       ],
       [
         "GDELT",
