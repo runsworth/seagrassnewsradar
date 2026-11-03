@@ -1,10 +1,184 @@
 {
-  "generated_at": "2026-11-02T13:49:40.278836+00:00",
+  "generated_at": "2026-11-03T12:59:31.035625+00:00",
   "baseline_complete": true,
-  "article_count": 823,
-  "new_today": 5,
+  "article_count": 830,
+  "new_today": 7,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "233a013fbeacdef168",
+      "title": "Detectan una floración masiva de Posidonia oceanica en la costa de Murcia - Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdEMzWGFSWjhvR1ZPckZheGdRZE1MaVRaZHREcW0zU2FISG1mUVRLU281VkNJd05JVGlMOEdBaVhxVm9MbHJiVGFWOXlMUXBjXzAtMXBtZ2xYXzVHanZENC1pc0ZJYldveXFXQld5MGhKTjRwb0lJcS1PVllEMlFFeE9jMXYwNUZrSjRFRkh0Y0RvZGFuWWU1MTNDOE1DXzNUT1Y5cTd1Z1VnSllWNlpNM2c4OVBReE05TFRDTWdISXVrZ9IBxwFBVV95cUxPQ09pZ19aRlpsUFlUeGZvclVNMEdSTjFnWWtPTWN5a3FRZW5OcGlNbHJHUFRiTkdHQ0RrQzlnbzFyRDUwUU8teXd1V19Hei1aQ0VfQ3QyY2NVNmRHd0djN1hoXzhVNVdsYU1SWjd1bFpGWTlBQXA4dWpmZXdVb180WkVmS09YTk9CSHJRbmZmbXZMYVBKcXgzYlVWSG50RzU2MnExMll5bkNSaGFwU2pQZVRSTG5ady1KN0pseHMtSUd2UlN0QkJr?oc=5",
+      "outlet": "Demócrata",
+      "domain": "news.google.com",
+      "published_at": "2026-11-03T12:48:28+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "Detectan una floración masiva de Posidonia oceanica en la costa de Murcia Demócrata",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "baseline": false
+    },
+    {
+      "id": "62aa30a041685abbab",
+      "title": "Un equipo del IEO-CSIC detecta una floración masiva de Posidonia oceanica en el litoral murciano - Europa Press",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT2hHb2ZiWDBmSTBCTDVfQmVCN1p3YjhvTUU3U055c1JmWWtLbS1wb1VUR3JlS3lFTV9GVzRaUm5tYThiOUt2aDdmN1g0VGVnbnplSnBpTVYzc0llZlk1ZkxQV1E2N3BESzJ0MmNXLTl4Rng1S0xENng1dGpXZTlpS3Vab043WXJuTzA1NVFtZnZiejNKc19TX1Vkd195ZEYwbzBsWXNvb25mbjZzMXNKcnRhbzJrdTZKUDBHUHlYYjdJeklxRkVTdUxMMnljYzlvTkpLMg?oc=5",
+      "outlet": "Europa Press",
+      "domain": "news.google.com",
+      "published_at": "2026-11-03T12:47:24+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "Un equipo del IEO-CSIC detecta una floración masiva de Posidonia oceanica en el litoral murciano Europa Press",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "baseline": false
+    },
+    {
+      "id": "6b39606cc7eb959353",
+      "title": "잘피숲 성과 내건 김종덕號 수산자원공단, 징계 5명 전원 잘피 사업서 - 로이슈",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80cjg0WVJnbTZ4c3BsV3AybHdfSlRBalduRGk2YUJQd1B2QWU2MjhUMU9oYmpiSE52dnhfdjFiUzVLRTgwdXJGaDhSZmFlQ1hWUkVjLVRXVmQwUnJXZ2EycjBEVzVHYUlPbUVXOXRYQzJYQ1VvVTRNNkhB?oc=5",
+      "outlet": "로이슈",
+      "domain": "news.google.com",
+      "published_at": "2026-11-03T07:35:00+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "잘피숲 성과 내건 김종덕號 수산자원공단, 징계 5명 전원 잘피 사업서 로이슈",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "baseline": false
+    },
+    {
+      "id": "aaafc72eac710c9583",
+      "title": "Nieuwe inzichten in zeegrasherstel - Rijkswaterstaat",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSGJmTnE2aVd6dmpjb1hDUFJCYWtMMDhTbTZoclc0TU9yOEg4YkpLcHlDcUlIX0lwNVRfcFFuaFdSSk9IWTUxNkJSTy1fcWNJanVkcFNNUDdsdTBuVlFEaTR1bC15b2FIUlY0WGJPV0xTNERxTDlHTTZDVGdKUENFc1c3eThaYzRoWktENjA3bHpMZw?oc=5",
+      "outlet": "Rijkswaterstaat",
+      "domain": "news.google.com",
+      "published_at": "2026-11-02T16:13:22+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Nieuwe inzichten in zeegrasherstel Rijkswaterstaat",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "baseline": false
+    },
+    {
+      "id": "855d50384f805407de",
+      "title": "Cyprus to Test Insulation Made From Dead Seagrass in EU Project - Cyprus Inform",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdzhkUWs5dUdFZDhsNzlpdHpHMmhNeFlDRHBEaVhnMWI3LTA1dWlFZ0t0SUNwVlE0Y0kwZ2wtWUd2cjg2TzRnNV9zMEZfM2N0bGJYWVgtclZBSnEyTHlaSjVKNUNLZTVpajMxV1hxdnhOeDhTckhoM2toMHNMZW9VVHUyaEozUlNvS3FJdzFHMjcyYVV3MzE1aTBOWjRKcFJf?oc=5",
+      "outlet": "Cyprus Inform",
+      "domain": "news.google.com",
+      "published_at": "2026-11-02T15:54:14+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Cyprus to Test Insulation Made From Dead Seagrass in EU Project Cyprus Inform",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "baseline": false
+    },
+    {
+      "id": "97892bd11d29d911ab",
+      "title": "Cyprus to turn washed-up seagrass into eco-friendly building material - Cyprus Mail",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWlowamEtbmhBR0lpcWtVWHdlUWlXRWtEY0JWMkVXbUdmTWdiTmVsdDJHQ1BHUmw5U1lwdHlNWWRaY1lqTlZuckNYUF82QThfRnpaTW1tZ1lRNTFueWZIMTA2MG5TWnJObHVwT0oyOTdWZnZJU0RtN1JfMmRkOG16dUlDMWQ4cGpmMGJ4SXNKNkxqOFdxZkE5eVVSWlV5LUlBcnlPb1N6RQ?oc=5",
+      "outlet": "Cyprus Mail",
+      "domain": "news.google.com",
+      "published_at": "2026-11-02T15:46:29+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Cyprus to turn washed-up seagrass into eco-friendly building material Cyprus Mail",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "baseline": false
+    },
+    {
+      "id": "445e2849c76ee91ca6",
+      "title": "AMMIRARE, grande partecipazione a Cagliari: 116 esperti e rappresentanti delle istituzioni a confronto sulla tutela delle spiagge e sulla Posidonia oceanica - Regione Autonoma della Sardegna",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPTXp5YkdTdF9ocy12SkZIVHBKak4tdVdYM1Z5LVlwby04YTVNOEczOEd4RUdoTkFWNW5vcE9NMWhtZDR6MU9IbmIzQy1JblFiV2VQbkJYUkxXQXZsMjh3bk01WlNxbWE0ZVVCcXdtWHNBdnJqOXdsNUZHVXNxRl9kMHltT1U0M3VMVHFoZkFrRFFYSnZGZ25ST0FRTV83dm5icHNOamRubEM0aEtuS0VoNkpQZ1UydFRsUHJZcHppZnRfVkxxLWx5TUdjZC05N1ltT3ZBUGZ4RFFtZWRlWmF5RHVhZld6LWhYRkRVWHpmNG1OWDNIS05mZWs1Y0hLMWhpclAwel9rZ1Z4OXJ6a2xYQmdjWHVveDVfb1BhMUhfbw?oc=5",
+      "outlet": "Regione Autonoma della Sardegna",
+      "domain": "news.google.com",
+      "published_at": "2026-11-02T10:47:00+00:00",
+      "language": "Italian",
+      "source_country": "IT",
+      "image": "",
+      "description": "AMMIRARE, grande partecipazione a Cagliari: 116 esperti e rappresentanti delle istituzioni a confronto sulla tutela delle spiagge e sulla Posidonia oceanica Regione Autonoma della Sardegna",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Italian (IT)",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "baseline": false
+    },
     {
       "id": "4062f6ce78e2f8dec5",
       "title": "Kaltim berniat jual 1.157,51 ton karbon padang lamun ke Bank Dunia - ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
@@ -26,7 +200,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "baseline": false
     },
     {
@@ -50,7 +224,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "baseline": false
     },
     {
@@ -74,7 +248,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "baseline": false
     },
     {
@@ -99,7 +273,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "baseline": false
     },
     {
@@ -123,7 +297,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "baseline": false
     },
     {
@@ -171,7 +345,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "baseline": false
     },
     {
@@ -220,7 +394,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "baseline": false
     },
     {
@@ -268,7 +442,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "baseline": false
     },
     {
@@ -19161,7 +19335,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-11-03",
       "baseline": true
     },
     {
@@ -19898,7 +20072,7 @@
     "languages": [
       [
         "English",
-        304
+        306
       ],
       [
         "Indonesian",
@@ -19918,7 +20092,7 @@
       ],
       [
         "Korean",
-        49
+        50
       ],
       [
         "Chinese",
@@ -19926,15 +20100,15 @@
       ],
       [
         "Spanish",
-        33
+        35
       ],
       [
         "Italian",
-        23
+        24
       ],
       [
         "Dutch",
-        16
+        17
       ],
       [
         "Portuguese",
@@ -19988,7 +20162,7 @@
     "countries": [
       [
         "GB",
-        128
+        130
       ],
       [
         "DE",
@@ -20012,7 +20186,7 @@
       ],
       [
         "KR",
-        49
+        50
       ],
       [
         "ID",
@@ -20032,6 +20206,10 @@
       ],
       [
         "NL",
+        17
+      ],
+      [
+        "ES",
         16
       ],
       [
@@ -20041,10 +20219,6 @@
       [
         "United Kingdom",
         16
-      ],
-      [
-        "ES",
-        14
       ],
       [
         "US",
@@ -20061,6 +20235,10 @@
       [
         "TH",
         9
+      ],
+      [
+        "IT",
+        8
       ],
       [
         "IN",
@@ -20088,10 +20266,6 @@
       ],
       [
         "MX",
-        7
-      ],
-      [
-        "IT",
         7
       ],
       [
@@ -20412,7 +20586,7 @@
     "themes": [
       [
         "General seagrass news",
-        627
+        634
       ],
       [
         "Restoration",
@@ -20458,7 +20632,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        545
+        552
       ],
       [
         "GDELT",
