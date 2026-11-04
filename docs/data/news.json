@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-11-03T12:59:31.035625+00:00",
+  "generated_at": "2026-11-04T13:15:27.951019+00:00",
   "baseline_complete": true,
-  "article_count": 830,
-  "new_today": 7,
+  "article_count": 834,
+  "new_today": 4,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "4c99860b66706e19d3",
+      "title": "Cyprus joins EU project to develop building materials from seagrass-excavated soil - CBN.com.cy",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMnl5bWQyX3NMQ3BRekJfT0JNRkdoZ2NhbHZKVnpKSDBDc0xFbGNPUWozN1B5N3lvWklBQm8xM2tmU2JzQ1lWa0dESFpOYWVHVlZFcTIzNlJSRGNOVUJkb2x0VnJDSGttWXk4WkdZM0FwRnlINk9OV2FpRHlHYVVsSDFVZGRsSDdkN1M4Wm1hcExtRE5GWHFLOHZaNXRYcmx2b2NOSjhUc1FGdGxtUEtRLUhnVGZwMVp0UzYtVw?oc=5",
+      "outlet": "CBN.com.cy",
+      "domain": "news.google.com",
+      "published_at": "2026-11-04T06:54:44+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Cyprus joins EU project to develop building materials from seagrass-excavated soil CBN.com.cy",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "baseline": false
+    },
+    {
+      "id": "26577206924b080295",
+      "title": "Seagrass Helps Biscayne Bay Mangroves Keep Pace With Rising Seas - Mirage News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVjBBSEs0ZzlJUVFYMEhJQ3RGRzZnOWxNTFhtZC1TbXhRWG5KVXJoX2pwSHZZZHpjMDVleGhSVVlWNUkyYWRZNzlYVGE5QnFGZERLMkI1QTlMcFljZFluMHR5dFlzbWhtSlZjZXNoVVZCOXBJV3lZX0ZWa0N2Qm9pNlc1ZEVFU1BILXVv?oc=5",
+      "outlet": "Mirage News",
+      "domain": "news.google.com",
+      "published_at": "2026-11-03T19:02:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass Helps Biscayne Bay Mangroves Keep Pace With Rising Seas Mirage News",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "baseline": false
+    },
     {
       "id": "233a013fbeacdef168",
       "title": "Detectan una floración masiva de Posidonia oceanica en la costa de Murcia - Demócrata",
@@ -28,7 +76,59 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
+      "baseline": false
+    },
+    {
+      "id": "aa8573035d76a99b71",
+      "title": "Détectent une floraison massive de Posidonia oceanica sur la côte de Murcia - Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQejllYzRma2J3bmtpNURIX1JoMUdZNkxOX2M4WUJyNW8xRlRSSl90NkNyQ05UejBCU0YwMDZlWFBxbzBYbERFTGVBYTVPZHdXdE9meFF0Q2RNTG9IeUx4U1pZQTVSLXFZbU0yN29OTm8tRWl5R0xhcHVzbjUtYzN4Tkc0Zkl3ZllkVGZvT2hBNVJlN1BrenhRX29KbGFWMnppdXJGeXE5NnZmY2p6QmFnQ1QzNGpuZzJEN2w5N0txbmlwNFpYMXFualNEOG5Sd9IBzgFBVV95cUxQejllYzRma2J3bmtpNURIX1JoMUdZNkxOX2M4WUJyNW8xRlRSSl90NkNyQ05UejBCU0YwMDZlWFBxbzBYbERFTGVBYTVPZHdXdE9meFF0Q2RNTG9IeUx4U1pZQTVSLXFZbU0yN29OTm8tRWl5R0xhcHVzbjUtYzN4Tkc0Zkl3ZllkVGZvT2hBNVJlN1BrenhRX29KbGFWMnppdXJGeXE5NnZmY2p6QmFnQ1QzNGpuZzJEN2w5N0txbmlwNFpYMXFualNEOG5Sdw?oc=5",
+      "outlet": "Demócrata",
+      "domain": "news.google.com",
+      "published_at": "2026-11-03T12:48:28+00:00",
+      "language": "French",
+      "source_country": "FR",
+      "image": "",
+      "description": "Détectent une floraison massive de Posidonia oceanica sur la côte de Murcia Demócrata",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News French (FR)",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "baseline": false
+    },
+    {
+      "id": "1d8d6d554d797f55d2",
+      "title": "Rilevano una fioritura massiccia di Posidonia oceanica sulla costa di Murcia - Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOEZITmFBZVNIemJIdktfSzZKdjJUcmNXY2t2bXFleTliMjM4SDJyUnFUTm1qYU1JdF9yZmQxMlRTNDVUQmlhWV9Hbkt0VkxYUzd2ZlMwZ1FHMWZjaDJhbkZFNXNEcmJLbU9uYkg5c1RtZkxJOG4xX0ZuLUZnM3dtYlB6M2Y5QUxaLVRfSXU4R0J2d0ZUV1V3ckRZM3hoNU5UcTRKX1gtcERBTXdRWm1Fd1ktNXIwUkV1OFpjOFBWLXZjWUJvU1E1ekVFZ9IB0AFBVV95cUxPUUFqNHo3ck15X1hYUEJSNldfd0VXVW9sZEd2ZlQySVJnM0tWdS0taVotUDl0cDZZcnJtLTRLaUo2NVltMkNYNWlwUWlEY21kZUlEZ010THZfQVMtQUpaTDI4UGFhdjhibG9EX18zeV9rVFRyZ3JMTDA3RVZZWUlFUE1vRHdwUy1oMXEyZVdYSFFGNDFqWk94UVlqVGctVUNGaUN4cG9YbkVSV0F6LUZCYjRYWkp2c0JsNW9mWFhFMGprQjluanA3clJtMElEM2h6?oc=5",
+      "outlet": "Demócrata",
+      "domain": "news.google.com",
+      "published_at": "2026-11-03T12:48:28+00:00",
+      "language": "Italian",
+      "source_country": "IT",
+      "image": "",
+      "description": "Rilevano una fioritura massiccia di Posidonia oceanica sulla costa di Murcia Demócrata",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Italian (IT)",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
       "baseline": false
     },
     {
@@ -54,7 +154,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "baseline": false
     },
     {
@@ -78,7 +178,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "baseline": false
     },
     {
@@ -102,7 +202,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "baseline": false
     },
     {
@@ -126,7 +226,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "baseline": false
     },
     {
@@ -150,7 +250,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "baseline": false
     },
     {
@@ -176,7 +276,7 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "baseline": false
     },
     {
@@ -200,7 +300,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "baseline": false
     },
     {
@@ -224,7 +324,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "baseline": false
     },
     {
@@ -248,7 +348,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "baseline": false
     },
     {
@@ -297,7 +397,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "baseline": false
     },
     {
@@ -345,7 +445,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "baseline": false
     },
     {
@@ -418,7 +518,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-04",
       "baseline": false
     },
     {
@@ -20072,7 +20172,7 @@
     "languages": [
       [
         "English",
-        306
+        308
       ],
       [
         "Indonesian",
@@ -20104,7 +20204,7 @@
       ],
       [
         "Italian",
-        24
+        25
       ],
       [
         "Dutch",
@@ -20139,16 +20239,16 @@
         5
       ],
       [
+        "French",
+        4
+      ],
+      [
         "Russian",
         4
       ],
       [
         "Catalan",
         4
-      ],
-      [
-        "French",
-        3
       ],
       [
         "Polish",
@@ -20162,7 +20262,7 @@
     "countries": [
       [
         "GB",
-        130
+        132
       ],
       [
         "DE",
@@ -20229,16 +20329,16 @@
         11
       ],
       [
+        "IT",
+        9
+      ],
+      [
         "VN",
         9
       ],
       [
         "TH",
         9
-      ],
-      [
-        "IT",
-        8
       ],
       [
         "IN",
@@ -20273,16 +20373,16 @@
         5
       ],
       [
+        "FR",
+        4
+      ],
+      [
         "RU",
         4
       ],
       [
         "TW",
         4
-      ],
-      [
-        "FR",
-        3
       ],
       [
         "NO",
@@ -20475,6 +20575,14 @@
         4
       ],
       [
+        "Mirage News",
+        3
+      ],
+      [
+        "Demócrata",
+        3
+      ],
+      [
         "Palawan News",
         3
       ],
@@ -20551,10 +20659,6 @@
         3
       ],
       [
-        "Mirage News",
-        2
-      ],
-      [
         "Ibiza HEUTE",
         2
       ],
@@ -20577,16 +20681,12 @@
       [
         "thetimes.com",
         2
-      ],
-      [
-        "econotimes.com",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        634
+        638
       ],
       [
         "Restoration",
@@ -20632,7 +20732,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        552
+        556
       ],
       [
         "GDELT",
