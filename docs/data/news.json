@@ -1,10 +1,130 @@
 {
-  "generated_at": "2026-11-05T13:28:36.930403+00:00",
+  "generated_at": "2026-11-06T13:12:40.409039+00:00",
   "baseline_complete": true,
-  "article_count": 842,
-  "new_today": 8,
+  "article_count": 847,
+  "new_today": 5,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "1463b14cb61f09814d",
+      "title": "大地指纹 刻写百业新光景",
+      "url": "http://gz.people.com.cn/n2/2026/1106/c222152-41743150.html",
+      "outlet": "gz.people.com.cn",
+      "domain": "gz.people.com.cn",
+      "published_at": "2026-11-06T05:00:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "baseline": false
+    },
+    {
+      "id": "4af4bef619a0cbfda9",
+      "title": "小城机场 ， 开始大洗牌 _ 投资界",
+      "url": "https://news.pedaily.cn/202611/571423.shtml",
+      "outlet": "news.pedaily.cn",
+      "domain": "news.pedaily.cn",
+      "published_at": "2026-11-06T00:30:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "https://pic2.pedaily.cn/v1/142.png",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "baseline": false
+    },
+    {
+      "id": "106a8e04809de52178",
+      "title": "Seegraswiesen: Kohlenstoffspeicher in Nord- und Ostsee - Cleanthinking.de",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyVzhVSjVGa05HMzRWR3hXaFBlUTItQlNWX21TcGtkX1ZBdG1hYnY0WFBXLTZndXZCSWhRWV9CSDhJd3BtVnJ4SUJjaEFRdUtJajlwLWNB?oc=5",
+      "outlet": "Cleanthinking.de",
+      "domain": "news.google.com",
+      "published_at": "2026-11-05T18:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Seegraswiesen: Kohlenstoffspeicher in Nord- und Ostsee Cleanthinking.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "baseline": false
+    },
+    {
+      "id": "08db8a5f514a7c17db",
+      "title": "Anchoring on Posidonia seagrass in the Balearics falls to 4% in 2026 - Mallorca Global Mag",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GSDgzaS1vRmplUnhWS2RGZ25JSzU1RlQtWUhxT192Q20yMU5tR2NYU0FhU1Y4SExXYXh0T0U5bEg4a01CMzJVQjZmUGFPWnRZRFFpUnJHbWJzd1Z4NlRQbmJnWm9CR3JILXNhWTBNaXk?oc=5",
+      "outlet": "Mallorca Global Mag",
+      "domain": "news.google.com",
+      "published_at": "2026-11-05T15:38:33+00:00",
+      "language": "Spanish",
+      "source_country": "MX",
+      "image": "",
+      "description": "Anchoring on Posidonia seagrass in the Balearics falls to 4% in 2026 Mallorca Global Mag",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (MX)",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "baseline": false
+    },
+    {
+      "id": "3b2f48bcaa21c467f2",
+      "title": "イノカとジェックスの探究プログラムにアマモ甲子園枠が新設 採択校を発表 - Dellows News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5FQ1o1c2dkNm1aa0ZvZmE4VVo1UWZ5TlVMRi16T3FocVNTQ29LY1FBVTFZMGlTaHc4UlAxc2x1UGM4dWdjbnd3?oc=5",
+      "outlet": "Dellows News",
+      "domain": "news.google.com",
+      "published_at": "2026-11-05T13:10:02+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "イノカとジェックスの探究プログラムにアマモ甲子園枠が新設 採択校を発表 Dellows News",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "baseline": false
+    },
     {
       "id": "3400738bb0a1b37bdc",
       "title": "「INNOVATE AQUARIUM EGG 2026」の「アマモ甲子園」枠にパートナー企業として協賛します - ニコニコニュース",
@@ -26,7 +146,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "baseline": false
     },
     {
@@ -74,7 +194,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "baseline": false
     },
     {
@@ -99,7 +219,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "baseline": false
     },
     {
@@ -123,7 +243,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "baseline": false
     },
     {
@@ -219,7 +339,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "baseline": false
     },
     {
@@ -349,7 +469,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "baseline": false
     },
     {
@@ -397,7 +517,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "baseline": false
     },
     {
@@ -471,7 +591,7 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "baseline": false
     },
     {
@@ -495,7 +615,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "baseline": false
     },
     {
@@ -543,7 +663,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "baseline": false
     },
     {
@@ -20375,7 +20495,7 @@
       ],
       [
         "German",
-        69
+        70
       ],
       [
         "Turkish",
@@ -20383,7 +20503,7 @@
       ],
       [
         "Japanese",
-        57
+        58
       ],
       [
         "Korean",
@@ -20391,11 +20511,11 @@
       ],
       [
         "Chinese",
-        43
+        45
       ],
       [
         "Spanish",
-        35
+        36
       ],
       [
         "Italian",
@@ -20461,7 +20581,7 @@
       ],
       [
         "DE",
-        69
+        70
       ],
       [
         "Indonesia",
@@ -20477,7 +20597,7 @@
       ],
       [
         "JP",
-        57
+        58
       ],
       [
         "KR",
@@ -20492,11 +20612,11 @@
         37
       ],
       [
-        "CN",
-        19
+        "China",
+        21
       ],
       [
-        "China",
+        "CN",
         19
       ],
       [
@@ -20536,6 +20656,10 @@
         9
       ],
       [
+        "MX",
+        8
+      ],
+      [
         "IN",
         8
       ],
@@ -20557,10 +20681,6 @@
       ],
       [
         "Unknown",
-        7
-      ],
-      [
-        "MX",
         7
       ],
       [
@@ -20881,7 +21001,7 @@
     "themes": [
       [
         "General seagrass news",
-        643
+        647
       ],
       [
         "Restoration",
@@ -20901,7 +21021,7 @@
       ],
       [
         "Development & infrastructure",
-        32
+        33
       ],
       [
         "Climate & heat",
@@ -20927,11 +21047,11 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        564
+        567
       ],
       [
         "GDELT",
-        281
+        283
       ]
     ]
   }
