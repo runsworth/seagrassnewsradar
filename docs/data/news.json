@@ -1,10 +1,130 @@
 {
-  "generated_at": "2026-11-06T13:12:40.409039+00:00",
+  "generated_at": "2026-11-07T11:54:59.446833+00:00",
   "baseline_complete": true,
-  "article_count": 847,
-  "new_today": 5,
+  "article_count": 853,
+  "new_today": 6,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "5a3bef0269ea5e48be",
+      "title": "Sarı: Koruma altındaki deniz çayırlarında kayıp yok - Alparslan Diyarı",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY05jZUFlZ2dEZ2xGMUJFWTNwWTVyQ0RsUzA1Y2xWQkgyeUJxOEZkMjVPeWg5NUtRanhtQTk2eXRjN2N2ejFRZkhzUFNnRjl1bXk2MjJxY3JZTG9NT2gxUGl4d29iRnFIalB5cWR0UkllcV84Z1BlNjFnSnMzLWJvN05fRmN4TF9kVGJWeVZZem84bGhsTlI4UHdQSQ?oc=5",
+      "outlet": "Alparslan Diyarı",
+      "domain": "news.google.com",
+      "published_at": "2026-11-06T17:57:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Sarı: Koruma altındaki deniz çayırlarında kayıp yok Alparslan Diyarı",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "baseline": false
+    },
+    {
+      "id": "c240a4d3f0a8d52d88",
+      "title": "Deniz çayırlarında kayıp yok: DİPTE-İZ ikinci izleme sonucu - Haber Gündemim",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFFwTXpDZWVuMGRTNG1wSlpmX0VFSFNpNmp4SWV0dDBLNkZZRkVVUWlhS2JnZnFZVUpyWGNJcnpJTVJHMFEyam9vUk9Md0xOX3pSX1dONERnTXZTRnMzbl84NXdDSVNVSDhQcjJZUFozSlBuQkVQbW9aLVVGVDNvc3FXaWMtb0l2SHpGTktWU0hITkFvNjc5UEdJeWJ1anVLSThVc0lEUE50czg?oc=5",
+      "outlet": "Haber Gündemim",
+      "domain": "news.google.com",
+      "published_at": "2026-11-06T17:43:07+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Deniz çayırlarında kayıp yok: DİPTE-İZ ikinci izleme sonucu Haber Gündemim",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "baseline": false
+    },
+    {
+      "id": "1163df060a13ebb440",
+      "title": "Deniz Çayırlarında Koruma Altındaki Alanlarda Kayıp Yaşanmadı - https://www.ajansturkhaber.com/",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWR2YWxXUkhXbUJMMkVYb3dsSzFwenBGWXdBUFRwZ2ZIbUN4Q2o1cWJJU1pGQl9lNy1qNVRoemx1MkNTUjZOcGVoeWdFYVU3dnRpZTRUdUZLTWtOcUFqZlhmcjlMUlZyeDF1alNLbEt0SF8tR2F1MjBkRDNVaE9tNUxleGhLZFNXbUpNbTdkdXFIMDR1eURiNkVKWkxkUGpaY3NZ?oc=5",
+      "outlet": "https://www.ajansturkhaber.com/",
+      "domain": "news.google.com",
+      "published_at": "2026-11-06T15:46:17+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Deniz Çayırlarında Koruma Altındaki Alanlarda Kayıp Yaşanmadı https://www.ajansturkhaber.com/",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "baseline": false
+    },
+    {
+      "id": "9f9de3cc6da6e0c16f",
+      "title": "Deniz Çayırlarında Koruma Altındaki Alanlarda Sağlıklı Gelişim Kaydedildi - gazetegundem.tr",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQekF6cnVBTWFhVVRIdFRfQzB5ekR0SFNVY1RwT1BKYlNrWkNkRnAyY09aOWxvOGUxVHgycnJqMFhmbW13ZmhOOUJBSzRGYVUtMGhkTVNNc2IyT3NGbGVWMTMwM2tvYkxuOG5CTTd0SGhQeU1xa1J1bURHMDRLUHJlaHhFUVBtVk9yVExTVzJ0NU92Zy1fZ0c5dWdKbEotZFFQTjM5NWFOa3NXQ09aekp5UnhTc9IBswFBVV95cUxOZUtjMUx5NVhwSTlWekR1X2c5MDVPMFNtTkhqNjc4enZvczBXWFREMkZNV2xVZEJva0VRVDNjUzU2S2tZU0NOXzBiZVlJcGprVkJWd3JtME9aYjJ1a09jZ1d6Z0ktSE5qUnZObnlVbVlWQXYtTWtGem5ENDkxN2pJWlc2TEE1WHEySzd2VWI1aEt5M3hjOXBCUVZMOWthY1R1bGJoOFh3M2NmX0hfYXRxU3BpSQ?oc=5",
+      "outlet": "gazetegundem.tr",
+      "domain": "news.google.com",
+      "published_at": "2026-11-06T15:41:23+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Deniz Çayırlarında Koruma Altındaki Alanlarda Sağlıklı Gelişim Kaydedildi gazetegundem.tr",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "baseline": false
+    },
+    {
+      "id": "261fffdf06f12994ff",
+      "title": "Denizin altından sevindiren haber... Deniz çayırlarında kayıp yok - Ereğli Önder Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkZoaUJkbnNMRnBSa2ZhMXd5X2hTXzFpaGl0ekI2MXdDNHF3ZTJpSGhmUWppcDcyUmJLV05yM1BYaWg0akxLRkhEbkF0X3d0Q05OMkxGRERmVTQyWHBZcV85Wl9ldjdtaUZPZDFSUG1qT3RMWV9QMXdYdFd2QzNCVVE2UjktVGVuOXhqUGRNMm9JM0trbkR5Xw?oc=5",
+      "outlet": "Ereğli Önder Gazetesi",
+      "domain": "news.google.com",
+      "published_at": "2026-11-06T15:36:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Denizin altından sevindiren haber... Deniz çayırlarında kayıp yok Ereğli Önder Gazetesi",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "baseline": false
+    },
     {
       "id": "1463b14cb61f09814d",
       "title": "大地指纹 刻写百业新光景",
@@ -74,7 +194,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "baseline": false
     },
     {
@@ -98,7 +218,7 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "baseline": false
     },
     {
@@ -243,7 +363,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "baseline": false
     },
     {
@@ -268,6 +388,30 @@
       "search_route": "Google News German (DE)",
       "first_seen": "2026-11-05",
       "last_seen": "2026-11-05",
+      "baseline": false
+    },
+    {
+      "id": "8419003410602b43ee",
+      "title": "Seagrass sediment organic carbon burial rates are globally significant - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaNTZ1aGZZb19jRUkyYldxdkhxRmdIeGFNWlBFWW5yVWQ1LUktcGN4eUpfM0U5djE3RUNkclNDbVAzWmZZX3dMUG5UN3ozZVp3enJoQTZ2TV9fdEZ0NlNB?oc=5",
+      "outlet": "Nature",
+      "domain": "news.google.com",
+      "published_at": "2026-11-04T10:51:36+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass sediment organic carbon burial rates are globally significant Nature",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
       "baseline": false
     },
     {
@@ -469,7 +613,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "baseline": false
     },
     {
@@ -517,7 +661,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "baseline": false
     },
     {
@@ -3106,7 +3250,7 @@
       ],
       "search_route": "Google News Vietnamese (VN)",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-11-07",
       "baseline": false
     },
     {
@@ -20487,7 +20631,7 @@
     "languages": [
       [
         "English",
-        311
+        312
       ],
       [
         "Indonesian",
@@ -20499,7 +20643,7 @@
       ],
       [
         "Turkish",
-        60
+        65
       ],
       [
         "Japanese",
@@ -20577,7 +20721,7 @@
     "countries": [
       [
         "GB",
-        135
+        136
       ],
       [
         "DE",
@@ -20588,12 +20732,12 @@
         67
       ],
       [
-        "United States",
+        "TR",
         65
       ],
       [
-        "TR",
-        60
+        "United States",
+        65
       ],
       [
         "JP",
@@ -20858,6 +21002,10 @@
         5
       ],
       [
+        "Nature",
+        4
+      ],
+      [
         "Demócrata",
         4
       ],
@@ -20903,10 +21051,6 @@
       ],
       [
         "yoursun.com",
-        3
-      ],
-      [
-        "Nature",
         3
       ],
       [
@@ -21001,7 +21145,7 @@
     "themes": [
       [
         "General seagrass news",
-        647
+        653
       ],
       [
         "Restoration",
@@ -21047,7 +21191,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        567
+        573
       ],
       [
         "GDELT",
