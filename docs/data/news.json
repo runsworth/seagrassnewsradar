@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-11-07T11:54:59.446833+00:00",
+  "generated_at": "2026-11-08T12:10:44.775157+00:00",
   "baseline_complete": true,
-  "article_count": 853,
-  "new_today": 6,
+  "article_count": 855,
+  "new_today": 2,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "90e8da5f062b0cfda0",
+      "title": "Hundreds of seagrass shoots found in estuary - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SSHo0aThsclNpN1JoMHZzQWNBc3EzZU5HeFlhSGpEQ3pja2QyT3IyQTlpTzI3VXdLdzdMckJwbGZSNGlRUm9sc25oWU1BV0stMWhiLXVMQ3RRQTNXdlE?oc=5",
+      "outlet": "BBC",
+      "domain": "news.google.com",
+      "published_at": "2026-11-08T07:06:13+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Hundreds of seagrass shoots found in estuary BBC",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "baseline": false
+    },
+    {
+      "id": "571f3f7a8b4b37eddc",
+      "title": "The Meadow We Weave: The World's First Seagrass Ceilidh - Maine Public",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSlp6VmJHMHk0OHBCREZEWDU2VFd4QXRJX0pkRlQ3OVRaLWpvc2I0SnVUVkpxcF9aVzFrOUlRZkpHSmMwOGgzcTFSSklRX19RZk5yb0NObTcwN1BqQUJGTDdIa1ViaTJ4OXVQY0Z4YXRqaWw0M2dQeEV6YlNzYTRqOWI4M0JQVy02Y1RNV1RyaTE1MzdXQVM4NEhUSlpVeWF5b2hvb2Z4ZWhQeEdQQW9kTUJkSDNTZkJISHhnU1ktdFc0SFNy?oc=5",
+      "outlet": "Maine Public",
+      "domain": "news.google.com",
+      "published_at": "2026-11-07T19:14:24+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "The Meadow We Weave: The World's First Seagrass Ceilidh Maine Public",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "baseline": false
+    },
     {
       "id": "5a3bef0269ea5e48be",
       "title": "Sarı: Koruma altındaki deniz çayırlarında kayıp yok - Alparslan Diyarı",
@@ -194,7 +242,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "baseline": false
     },
     {
@@ -218,7 +266,7 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "baseline": false
     },
     {
@@ -363,7 +411,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "baseline": false
     },
     {
@@ -411,7 +459,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "baseline": false
     },
     {
@@ -613,7 +661,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "baseline": false
     },
     {
@@ -20631,7 +20679,7 @@
     "languages": [
       [
         "English",
-        312
+        314
       ],
       [
         "Indonesian",
@@ -20721,7 +20769,7 @@
     "countries": [
       [
         "GB",
-        136
+        138
       ],
       [
         "DE",
@@ -21145,7 +21193,7 @@
     "themes": [
       [
         "General seagrass news",
-        653
+        655
       ],
       [
         "Restoration",
@@ -21191,7 +21239,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        573
+        575
       ],
       [
         "GDELT",
