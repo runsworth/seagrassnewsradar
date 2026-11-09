@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-11-08T12:10:44.775157+00:00",
+  "generated_at": "2026-11-09T14:19:24.234739+00:00",
   "baseline_complete": true,
-  "article_count": 855,
+  "article_count": 857,
   "new_today": 2,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "a72165ff40eb89244f",
+      "title": "Human coastal activity threatens seagrass meadows, ULPGC study warns - La Voz Canaria",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYW9TVVhMd1BIeW9XVUIyd1JoQUcxUGotQXJ6bmp5R1pnS2JQc3RkVjlXbE1YV2E3VnQ3Z3FNWi1YU05KZ3VsX0lVMEltYXJURDdsdGFaUmkwRHVkN2hjUURrTy1XRnRtRXZfSXcwaExDenJFLVRqcmJ3MkpkNy1pQU1rOUxLUDNTMDJYc2JEOWhGbUd3TV9RRzZxbi1RcTdjU0pCVW9qaDdBdmpIenozdWI3SGJnRGV4Mkk1NjQ1OWhkUQ?oc=5",
+      "outlet": "La Voz Canaria",
+      "domain": "news.google.com",
+      "published_at": "2026-11-09T14:01:39+00:00",
+      "language": "Spanish",
+      "source_country": "MX",
+      "image": "",
+      "description": "Human coastal activity threatens seagrass meadows, ULPGC study warns La Voz Canaria",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (MX)",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "baseline": false
+    },
+    {
+      "id": "d9528830b2aa735b20",
+      "title": "As tartarugas podem levar-nos aos prados de ervas marinhas - SAPO",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUmh3bzJtOE5kbklRTnFvM0tOZGczSndSUGVuNHhVZ2oxQnc2cDRSM0JDY3hhUUgtOS1sSUNReTJnNlNXaU5sd09mRTlXRG5wdVFiYmJZeUtzUkQwMGxwal84aEgyUE8yaVZFajR1Z1M1Q3ZmQmNkQ0h2Tm92V2ZLYUJaeUxTNEJReTRnd3dYblF3ZG1qeDN0WDZrbllYV3R3SVpJRjhVd1IyQQ?oc=5",
+      "outlet": "SAPO",
+      "domain": "news.google.com",
+      "published_at": "2026-11-08T15:55:00+00:00",
+      "language": "Portuguese",
+      "source_country": "PT",
+      "image": "",
+      "description": "As tartarugas podem levar-nos aos prados de ervas marinhas SAPO",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Portuguese (PT)",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "baseline": false
+    },
     {
       "id": "90e8da5f062b0cfda0",
       "title": "Hundreds of seagrass shoots found in estuary - BBC",
@@ -26,7 +74,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "baseline": false
     },
     {
@@ -242,7 +290,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "baseline": false
     },
     {
@@ -266,7 +314,7 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "baseline": false
     },
     {
@@ -411,7 +459,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "baseline": false
     },
     {
@@ -10514,7 +10562,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-11-09",
       "baseline": false
     },
     {
@@ -19382,7 +19430,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-11-09",
       "baseline": true
     },
     {
@@ -20707,7 +20755,7 @@
       ],
       [
         "Spanish",
-        36
+        37
       ],
       [
         "Italian",
@@ -20719,7 +20767,7 @@
       ],
       [
         "Portuguese",
-        9
+        10
       ],
       [
         "Vietnamese",
@@ -20836,6 +20884,14 @@
         11
       ],
       [
+        "MX",
+        9
+      ],
+      [
+        "PT",
+        9
+      ],
+      [
         "IT",
         9
       ],
@@ -20848,10 +20904,6 @@
         9
       ],
       [
-        "MX",
-        8
-      ],
-      [
         "IN",
         8
       ],
@@ -20861,10 +20913,6 @@
       ],
       [
         "AE",
-        8
-      ],
-      [
-        "PT",
         8
       ],
       [
@@ -21166,6 +21214,10 @@
         3
       ],
       [
+        "SAPO",
+        2
+      ],
+      [
         "ライブドアニュース",
         2
       ],
@@ -21184,16 +21236,12 @@
       [
         "Darilaut.id",
         2
-      ],
-      [
-        "caribjournal.com",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        655
+        656
       ],
       [
         "Restoration",
@@ -21201,7 +21249,7 @@
       ],
       [
         "Science & discovery",
-        48
+        49
       ],
       [
         "Conservation & policy",
@@ -21239,7 +21287,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        575
+        577
       ],
       [
         "GDELT",
