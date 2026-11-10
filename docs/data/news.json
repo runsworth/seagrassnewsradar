@@ -1,10 +1,84 @@
 {
-  "generated_at": "2026-11-09T14:19:24.234739+00:00",
+  "generated_at": "2026-11-10T13:45:10.577578+00:00",
   "baseline_complete": true,
-  "article_count": 857,
-  "new_today": 2,
+  "article_count": 860,
+  "new_today": 3,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "494e46c470f0730fb3",
+      "title": "Søuld wins Danish Design Award 2026 for innovative eelgrass acoustic solutions - InteriorDaily",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUlZbGxuWUlKQ3lxUjVqMU5lUWEzZDNjcTNLR0E1dVluMG1ZMmp5dGVzaDNsOTFxQ2VBbkhVeGZYV2hjWDJGd1JDV1hxUEROTFY2cmx4QWliZTEweEdncGVBQmFJU0pFekh4U2ZwR3VaOU9seXJIY1l6am5VYnNMVy1iODlBc0c1Q2w2NVA2ZlFqb2s1OXpOekt0cGpiTV9mdnNYVDltVnZOWjJoRnU3ckFDQ2QxWVZIR0xEWnlwQmFzYXc?oc=5",
+      "outlet": "InteriorDaily",
+      "domain": "news.google.com",
+      "published_at": "2026-11-10T10:18:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Søuld wins Danish Design Award 2026 for innovative eelgrass acoustic solutions InteriorDaily",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "baseline": false
+    },
+    {
+      "id": "43f7e3cc2299827fc9",
+      "title": "High Caulerpa prolifera Occurrence Competes With Halodule wrightii Transplants in Mesocosms - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVltS09RSXJqOU1NUFBRRTByT0QycGwxajVTdi0tTlhBZjIzczhMSF9DNlJzMzBXOWVEUmdXTFZYTkE0LXdHOE1tc0pMd21yU0VGWkRhMk8wNl84Y3d6QlU2Z3NxNml2Z1NhVE0xWnlJZHEzMHByUEVuZW45Wmhid2ZqRVFPbGVJNGdsWE1FMUhlSTlIUzdhdlJnVEhoTHpHMGtDS19OWGVRWFhEUHY1QTc2a2ZpVUE?oc=5",
+      "outlet": "Bioengineer.org",
+      "domain": "news.google.com",
+      "published_at": "2026-11-10T08:03:45+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "High Caulerpa prolifera Occurrence Competes With Halodule wrightii Transplants in Mesocosms Bioengineer.org",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [
+        "Halodule Wrightii"
+      ],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "baseline": false
+    },
+    {
+      "id": "586cddd9d8fedc3797",
+      "title": "尾道のアマモ場、浦崎中生徒が地域を学び再生に動く 連載「びんごSDGs」学校の実践➁ - 中国新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUG5COG9GV1JVSlQzVXI2dTUzdWpsWkk0dHBfa0RsaHByblVxSlRWV3p6VkxQTk4xNjRYVEo4SHZyeWRncHVGN2xBdG5iVWtNTWN6TzAzMWFEdw?oc=5",
+      "outlet": "中国新聞デジタル",
+      "domain": "news.google.com",
+      "published_at": "2026-11-10T03:16:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "尾道のアマモ場、浦崎中生徒が地域を学び再生に動く 連載「びんごSDGs」学校の実践➁ 中国新聞デジタル",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "baseline": false
+    },
     {
       "id": "a72165ff40eb89244f",
       "title": "Human coastal activity threatens seagrass meadows, ULPGC study warns - La Voz Canaria",
@@ -26,7 +100,7 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "baseline": false
     },
     {
@@ -50,7 +124,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "baseline": false
     },
     {
@@ -74,7 +148,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "baseline": false
     },
     {
@@ -290,7 +364,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "baseline": false
     },
     {
@@ -314,7 +388,7 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "baseline": false
     },
     {
@@ -10562,7 +10636,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "baseline": false
     },
     {
@@ -19430,7 +19504,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-08-22",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "baseline": true
     },
     {
@@ -20727,7 +20801,7 @@
     "languages": [
       [
         "English",
-        314
+        316
       ],
       [
         "Indonesian",
@@ -20743,7 +20817,7 @@
       ],
       [
         "Japanese",
-        58
+        59
       ],
       [
         "Korean",
@@ -20817,7 +20891,7 @@
     "countries": [
       [
         "GB",
-        138
+        140
       ],
       [
         "DE",
@@ -20837,7 +20911,7 @@
       ],
       [
         "JP",
-        58
+        59
       ],
       [
         "KR",
@@ -21046,12 +21120,12 @@
         15
       ],
       [
-        "koran-jakarta.com",
+        "Bioengineer.org",
         10
       ],
       [
-        "Bioengineer.org",
-        9
+        "koran-jakarta.com",
+        10
       ],
       [
         "NDR.de",
@@ -21241,11 +21315,11 @@
     "themes": [
       [
         "General seagrass news",
-        656
+        658
       ],
       [
         "Restoration",
-        55
+        56
       ],
       [
         "Science & discovery",
@@ -21287,7 +21361,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        577
+        580
       ],
       [
         "GDELT",
