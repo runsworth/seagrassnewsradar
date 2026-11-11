@@ -1,10 +1,154 @@
 {
-  "generated_at": "2026-11-10T13:45:10.577578+00:00",
+  "generated_at": "2026-11-11T12:56:26.531572+00:00",
   "baseline_complete": true,
-  "article_count": 860,
-  "new_today": 3,
+  "article_count": 866,
+  "new_today": 6,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "4c4aa26e06e8bcbe1e",
+      "title": "アマモ再生へ種まき実証実験 玉野市沖、胸上漁協や里海研 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Sank4am8xVlZIN2NHRG5nUExNdnJJSjZSMlBIczIxUDkzMFhjbUZWb2pmaExrMVFXQXVlWExUeklXckJ2bVNPV0FmTm85Mm9vZGc?oc=5",
+      "outlet": "山陽新聞",
+      "domain": "news.google.com",
+      "published_at": "2026-11-11T10:06:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "アマモ再生へ種まき実証実験 玉野市沖、胸上漁協や里海研 山陽新聞",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "baseline": false
+    },
+    {
+      "id": "d562e07c958b4ad4dc",
+      "title": "博多湾でアマモ場づくり 光合成でCO2を吸収 海の環境を豊かに - TVer",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00Q3JfRGFPOF9NQzVSMFY3WXd3ZjdXTTEyUzhtc2RJVDJWclZLeDFTRzByVm92ekp2U0l3ZGJaMmdLVkdhVjRTNFFmVQ?oc=5",
+      "outlet": "TVer",
+      "domain": "news.google.com",
+      "published_at": "2026-11-11T04:51:40+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "博多湾でアマモ場づくり 光合成でCO2を吸収 海の環境を豊かに TVer",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "baseline": false
+    },
+    {
+      "id": "6d1575b1cb41340efe",
+      "title": "博多湾でアマモ場づくり 光合成でCO2を吸収 海の環境を豊かに (2026年11月11日掲載) - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HYnJud21LSGtSaWsyTWxmdlpnVEtScE5idWVmMFJ0X2FLX0J0dTNMTUViUnZ1UEJOQ2hRRmhWSTBrOUhFMDZoRl9kTl9yYVpVUVBVRTlaMkV4TExGd1E?oc=5",
+      "outlet": "ライブドアニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-11-11T04:22:32+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "博多湾でアマモ場づくり 光合成でCO2を吸収 海の環境を豊かに (2026年11月11日掲載) ライブドアニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "baseline": false
+    },
+    {
+      "id": "a939dc3139d25a6df6",
+      "title": "博多湾でアマモ場づくり 光合成でCO2を吸収 海の環境を豊かに（2026年11月10日掲載）｜FBS NEWS NNN - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTENVUVdZdTdnSmUzUXU2UTRhTWtRV25tamcwMWtGRE1yMU54QTg3TVZ0LV9NZGo1VlNTUl9vV3ZKNmtUa1RZNWFlR01TY0Fnam1scERWa0RZcG1uUGhUZWxNZF9XYk9MeldyWkV3WXFLY0RyS3M4bXNzRjZhZmR3RmhGMA?oc=5",
+      "outlet": "日テレNEWS NNN",
+      "domain": "news.google.com",
+      "published_at": "2026-11-11T03:15:01+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "博多湾でアマモ場づくり 光合成でCO2を吸収 海の環境を豊かに（2026年11月10日掲載）｜FBS NEWS NNN 日テレNEWS NNN",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "baseline": false
+    },
+    {
+      "id": "3c5b16b07ecf649890",
+      "title": "समुद्री घास आंतों के स्वास्थ्य के लिए अच्छी है, लेकिन इसकी आयोडीन सामग्री पर ध्यान देने की आवश्यकता है - VOI.ID",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBV3IxNlB0ZGJBeDhpLTk2MEgtU2t1cklFaVJHMUtPSTFIUkNCaFppV3dtMHViTlVMaW5OUXVMVlZ5V3hiNjd6Mi1UVdIBQkFVX3lxTFBtdWdyOERxQUNlZ01RWS1KM3FtcFllWWhwLS1hcFprYmhDZEs1bjR0Qk1Qa2doM0J6N0w3MFJMQTdGUQ?oc=5",
+      "outlet": "VOI.ID",
+      "domain": "news.google.com",
+      "published_at": "2026-11-10T23:35:00+00:00",
+      "language": "Hindi",
+      "source_country": "IN",
+      "image": "",
+      "description": "समुद्री घास आंतों के स्वास्थ्य के लिए अच्छी है, लेकिन इसकी आयोडीन सामग्री पर ध्यान देने की आवश्यकता है VOI.ID",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Hindi (IN)",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "baseline": false
+    },
+    {
+      "id": "ad5355a4596d52320a",
+      "title": "Återinventering av ålgräs 2025 - Länsstyrelsen",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmdyYzZ6NkxtM1duNkFLVHY2emRlTjN1SDhQZFhDbFJ1eGx1TElNbkczRDJZRHBNbDhZTlVITEs2M01JbGRHUzljcjVuWVpBUzhySXV2dG1XbVF4cVB1SDRfVHJ5NFhYeE9BVnFWQU5LOXl6b0pRVVdua2ZuQl9PZFgzNXlWQTZNbzlzWUJiSHV5bkNUQTg1dGpubTRmOTBOQnJSM2dqTlBSSGpzaXZR?oc=5",
+      "outlet": "Länsstyrelsen",
+      "domain": "news.google.com",
+      "published_at": "2026-11-10T14:59:35+00:00",
+      "language": "Swedish",
+      "source_country": "SE",
+      "image": "",
+      "description": "Återinventering av ålgräs 2025 Länsstyrelsen",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Swedish (SE)",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "baseline": false
+    },
     {
       "id": "494e46c470f0730fb3",
       "title": "Søuld wins Danish Design Award 2026 for innovative eelgrass acoustic solutions - InteriorDaily",
@@ -26,7 +170,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "baseline": false
     },
     {
@@ -52,7 +196,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "baseline": false
     },
     {
@@ -76,7 +220,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "baseline": false
     },
     {
@@ -100,7 +244,7 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "baseline": false
     },
     {
@@ -124,7 +268,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "baseline": false
     },
     {
@@ -148,7 +292,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "baseline": false
     },
     {
@@ -10636,7 +10780,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-09-12",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "baseline": false
     },
     {
@@ -20817,7 +20961,7 @@
       ],
       [
         "Japanese",
-        59
+        63
       ],
       [
         "Korean",
@@ -20844,16 +20988,16 @@
         10
       ],
       [
+        "Hindi",
+        9
+      ],
+      [
         "Vietnamese",
         9
       ],
       [
         "Thai",
         9
-      ],
-      [
-        "Hindi",
-        8
       ],
       [
         "Swahili",
@@ -20886,6 +21030,10 @@
       [
         "Greek",
         2
+      ],
+      [
+        "Swedish",
+        1
       ]
     ],
     "countries": [
@@ -20911,7 +21059,7 @@
       ],
       [
         "JP",
-        59
+        63
       ],
       [
         "KR",
@@ -20958,6 +21106,10 @@
         11
       ],
       [
+        "IN",
+        9
+      ],
+      [
         "MX",
         9
       ],
@@ -20976,10 +21128,6 @@
       [
         "TH",
         9
-      ],
-      [
-        "IN",
-        8
       ],
       [
         "KE",
@@ -21058,6 +21206,10 @@
         2
       ],
       [
+        "SE",
+        1
+      ],
+      [
         "BR",
         1
       ],
@@ -21132,6 +21284,10 @@
         8
       ],
       [
+        "山陽新聞",
+        7
+      ],
+      [
         "Yahoo!ニュース",
         7
       ],
@@ -21152,16 +21308,16 @@
         6
       ],
       [
-        "山陽新聞",
-        6
-      ],
-      [
         "Phys.org",
         6
       ],
       [
         "ANTARA News",
         6
+      ],
+      [
+        "日テレNEWS NNN",
+        5
       ],
       [
         "ｄメニューニュース",
@@ -21172,15 +21328,15 @@
         5
       ],
       [
+        "VOI.ID",
+        4
+      ],
+      [
         "Nature",
         4
       ],
       [
         "Demócrata",
-        4
-      ],
-      [
-        "日テレNEWS NNN",
         4
       ],
       [
@@ -21210,6 +21366,10 @@
       [
         "kupang.tribunnews.com",
         4
+      ],
+      [
+        "ライブドアニュース",
+        3
       ],
       [
         "Mirage News",
@@ -21245,10 +21405,6 @@
       ],
       [
         "수산인신문",
-        3
-      ],
-      [
-        "VOI.ID",
         3
       ],
       [
@@ -21288,11 +21444,11 @@
         3
       ],
       [
-        "SAPO",
+        "TVer",
         2
       ],
       [
-        "ライブドアニュース",
+        "SAPO",
         2
       ],
       [
@@ -21306,16 +21462,12 @@
       [
         "読売新聞",
         2
-      ],
-      [
-        "Darilaut.id",
-        2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        658
+        664
       ],
       [
         "Restoration",
@@ -21361,7 +21513,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        580
+        586
       ],
       [
         "GDELT",
