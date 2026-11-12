@@ -1,10 +1,157 @@
 {
-  "generated_at": "2026-11-11T12:56:26.531572+00:00",
+  "generated_at": "2026-11-12T13:58:21.884099+00:00",
   "baseline_complete": true,
-  "article_count": 866,
-  "new_today": 6,
+  "article_count": 879,
+  "new_today": 13,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "c52ceabc74d7a8cfd9",
+      "title": "Fino al 65% delle imbarcazioni da diporto ancora sulla Posidonia oceanica - Greenreport.it",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1ZKQVNYVVJ4QUkzN1RfaTdaMHRYbDF6QnphcTRIdk9LQTVpRm5FV2w0bTFSMFJ0RFMyaktjR2JzUktOZnpMVEYwZUo1R21fVENSTGVSMFBqb3M0RXBrQzdvbldlOHdYN245V1hsRWhodnpZUTBDUXlGQUlRaGV2ZmVyclhKQkQya1hLOWhBX2NBRzg5V0xnbjM3SXJxT2J4NlFGYTdqN1F4Nnc5eWkwMVpqZXNXdUdaalRmS3BkWGpDQQ?oc=5",
+      "outlet": "Greenreport.it",
+      "domain": "news.google.com",
+      "published_at": "2026-11-12T10:52:28+00:00",
+      "language": "Italian",
+      "source_country": "IT",
+      "image": "",
+      "description": "Fino al 65% delle imbarcazioni da diporto ancora sulla Posidonia oceanica Greenreport.it",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Italian (IT)",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "baseline": false
+    },
+    {
+      "id": "4123097680376ce0db",
+      "title": "Bahamas commits additional $75M to seagrass programme, plans new blue economy institute - Eye Witness News – Bahamas Latest News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbEhUMWMtV2FmSl8xbzVGdW5objdoS3JjQXJGWC1pc3FBOW5BazhkWEl1ajRERlFRT3QxVFNBUG1iblVDRl9lN0V1ZXF2QUs2ZExXZjlkWF80SGtVTWNwekxvWkVtbzExTF9ORmNuVzdTT2hURlRzbHBVVkRvVEhIdEdNZ1k4Yl9ZT1lWVWpnQktDdUtNdWJwNmZBRS00ajdWd2VrZEVpNVI?oc=5",
+      "outlet": "Eye Witness News – Bahamas Latest News",
+      "domain": "news.google.com",
+      "published_at": "2026-11-12T09:08:14+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Bahamas commits additional $75M to seagrass programme, plans new blue economy institute Eye Witness News – Bahamas Latest News",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "baseline": false
+    },
+    {
+      "id": "abd83d9415bd552bd8",
+      "title": "Seagrass Restoration Boost Ahead of WA Container Port - Mirage News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45U0pPaXRHTFBVLXpfNVZaTzNxNEg5TnBJclF4bnNjdWFPeS1sN3BPMzN2elJueVlKQVJhWlAxSFVSSWw4TElZUGFFM0xIM0Znb1lLTzRpLVBOUjF5Mi1PdlNzVnYxSDRWVXlCMnNnWWI1YWtCZ2hTM19CSGVGSHc?oc=5",
+      "outlet": "Mirage News",
+      "domain": "news.google.com",
+      "published_at": "2026-11-12T08:20:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass Restoration Boost Ahead of WA Container Port Mirage News",
+      "themes": [
+        "Restoration",
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "baseline": false
+    },
+    {
+      "id": "6373c5c2ded8b2c3bf",
+      "title": "Oil slicks seen from space : the devastating impact of boat strikes on fragile Gulf ecosystems",
+      "url": "https://peakoil.com/enviroment/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+      "outlet": "peakoil.com",
+      "domain": "peakoil.com",
+      "published_at": "2026-11-12T06:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://i.guim.co.uk/img/media/edaf20607ad86d1eaeb652f3e3941f4f2ea5bc51/193_0_5785_4627/master/5785.jpg?&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cc56c0609deb57c6327866ee38e4f36",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "baseline": false
+    },
+    {
+      "id": "6028247fa86e1509af",
+      "title": "To boost conservation of kelp forests , start by naming them ( commentary )",
+      "url": "https://news.mongabay.com/2026/11/to-boost-conservation-of-kelp-forests-start-by-naming-them-commentary",
+      "outlet": "news.mongabay.com",
+      "domain": "news.mongabay.com",
+      "published_at": "2026-11-12T04:00:00+00:00",
+      "language": "English",
+      "source_country": "Indonesia",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/11/10204648/Cape-fur-seal-by-Helen-Walne-1200x718.png",
+      "description": "",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "baseline": false
+    },
+    {
+      "id": "3513a3e79c83efae8f",
+      "title": "现在出发丨温泉 、 溶洞 、 候鸟 、 暖阳 ！ 这个秋假来毕节过暖冬",
+      "url": "https://www.gzstv.com/a/c10e22cb0b6a4aea8d0b126e04f3e556",
+      "outlet": "gzstv.com",
+      "domain": "gzstv.com",
+      "published_at": "2026-11-12T03:00:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "baseline": false
+    },
     {
       "id": "4c4aa26e06e8bcbe1e",
       "title": "アマモ再生へ種まき実証実験 玉野市沖、胸上漁協や里海研 - 山陽新聞",
@@ -26,7 +173,31 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
+      "baseline": false
+    },
+    {
+      "id": "b9d01adb687f2ae07e",
+      "title": "5 Kebiasaan Wanita Tiongkok Ini Bikin Awet Muda – Lifestyle",
+      "url": "https://lifestyle.batampos.co.id/5-kebiasaan-wanita-tiongkok-ini-bikin-awet-muda",
+      "outlet": "lifestyle.batampos.co.id",
+      "domain": "lifestyle.batampos.co.id",
+      "published_at": "2026-11-11T06:30:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://lifestyle.batampos.co.id/storage/2026/11/skincare.webp",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
       "baseline": false
     },
     {
@@ -98,7 +269,55 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
+      "baseline": false
+    },
+    {
+      "id": "49f0078671ea029a3b",
+      "title": "Island territories bring practical climate finance solutions to COP31",
+      "url": "https://www.radiocayman.gov.ky/news/island-territories-bring-practical-climate-finance-solutions-to-cop31",
+      "outlet": "radiocayman.gov.ky",
+      "domain": "radiocayman.gov.ky",
+      "published_at": "2026-11-11T02:30:00+00:00",
+      "language": "English",
+      "source_country": "Cayman Islands",
+      "image": "https://www.radiocayman.gov.ky/cdn/assets/images/2026-11-10-17-52-16-111aaa.png",
+      "description": "",
+      "themes": [
+        "Climate & heat"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "baseline": false
+    },
+    {
+      "id": "57ff0e0affcb48662d",
+      "title": "Miami - Dade puts the brakes on Seaquarium makeover deal . Commissioners agreed to defer it",
+      "url": "https://www.wlrn.org/environment/2026-11-10/miami-dade-puts-the-brakes-on-seaquarium-makeover-deal-commissioners-agreed-to-defer-it",
+      "outlet": "wlrn.org",
+      "domain": "wlrn.org",
+      "published_at": "2026-11-11T02:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "http://npr-brightspot.s3.amazonaws.com/58/af/f17b5018423bae4540e4096150ff/kbi-seaquarium-theo-miller.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
       "baseline": false
     },
     {
@@ -122,7 +341,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "baseline": false
     },
     {
@@ -146,7 +365,7 @@
       ],
       "search_route": "Google News Swedish (SE)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "baseline": false
     },
     {
@@ -200,6 +419,30 @@
       "baseline": false
     },
     {
+      "id": "8aa4d8b278a72c1b1b",
+      "title": "Kandungan dalam rumput laut yang bermanfaat bagi usus",
+      "url": "https://www.antaranews.com/berita/5843439/kandungan-dalam-rumput-laut-yang-bermanfaat-bagi-usus",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-11-10T05:30:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/08/21/WhatsApp-Image-2026-08-21-at-13.14.52.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "baseline": false
+    },
+    {
       "id": "586cddd9d8fedc3797",
       "title": "尾道のアマモ場、浦崎中生徒が地域を学び再生に動く 連載「びんごSDGs」学校の実践➁ - 中国新聞デジタル",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUG5COG9GV1JVSlQzVXI2dTUzdWpsWkk0dHBfa0RsaHByblVxSlRWV3p6VkxQTk4xNjRYVEo4SHZyeWRncHVGN2xBdG5iVWtNTWN6TzAzMWFEdw?oc=5",
@@ -220,7 +463,55 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
+      "baseline": false
+    },
+    {
+      "id": "587269f34f4d1d656f",
+      "title": "Trains shift to new concrete bridge at Batiquitos Lagoon , replacing 1940s wooden trestle",
+      "url": "https://www.kpbs.org/news/environment/2026/11/09/trains-shift-to-new-concrete-bridge-at-batiquitos-lagoon-replacing-1940s-wooden-trestle",
+      "outlet": "kpbs.org",
+      "domain": "kpbs.org",
+      "published_at": "2026-11-10T02:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "http://kpbs-brightspot.s3.us-west-2.amazonaws.com/f1/48/66a9f13b414f9bfa703282c48dcc/wide-bridge-with-coaster.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "baseline": false
+    },
+    {
+      "id": "fe23af3d06797fc3f6",
+      "title": "Another study warns Seaquarium marina will put manatees in danger",
+      "url": "https://www.wlrn.org/environment/2026-11-09/another-study-warns-seaquarium-marina-will-put-manatees-in-danger",
+      "outlet": "wlrn.org",
+      "domain": "wlrn.org",
+      "published_at": "2026-11-10T02:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "http://npr-brightspot.s3.amazonaws.com/58/af/f17b5018423bae4540e4096150ff/kbi-seaquarium-theo-miller.jpeg",
+      "description": "",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
       "baseline": false
     },
     {
@@ -244,7 +535,32 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
+      "baseline": false
+    },
+    {
+      "id": "ce85dddbd054feb2c8",
+      "title": "Peat from ancient forests off Mozambique dates back up to about 5 , 000 years ; researchers found the submerged reefs share 41 small - fish and 44 megafauna species with nearby coral reefs despite having no living coral",
+      "url": "https://timesofindia.indiatimes.com/science/nature/ancient-peat-reefs-off-mozambique-thrive-with-marine-life-after-5000-years-underwater/articleshow/135641718.cms",
+      "outlet": "timesofindia.indiatimes.com",
+      "domain": "timesofindia.indiatimes.com",
+      "published_at": "2026-11-09T01:00:00+00:00",
+      "language": "English",
+      "source_country": "India",
+      "image": "https://static.toiimg.com/thumb/msid-135641843,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "description": "",
+      "themes": [
+        "Wildlife & biodiversity",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
       "baseline": false
     },
     {
@@ -268,7 +584,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "baseline": false
     },
     {
@@ -292,7 +608,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "baseline": false
     },
     {
@@ -20945,11 +21261,11 @@
     "languages": [
       [
         "English",
-        316
+        325
       ],
       [
         "Indonesian",
-        102
+        104
       ],
       [
         "German",
@@ -20969,7 +21285,7 @@
       ],
       [
         "Chinese",
-        45
+        46
       ],
       [
         "Spanish",
@@ -20977,7 +21293,7 @@
       ],
       [
         "Italian",
-        25
+        26
       ],
       [
         "Dutch",
@@ -21039,22 +21355,22 @@
     "countries": [
       [
         "GB",
-        140
+        142
+      ],
+      [
+        "Indonesia",
+        70
       ],
       [
         "DE",
         70
       ],
       [
-        "Indonesia",
-        67
+        "United States",
+        69
       ],
       [
         "TR",
-        65
-      ],
-      [
-        "United States",
         65
       ],
       [
@@ -21075,7 +21391,7 @@
       ],
       [
         "China",
-        21
+        22
       ],
       [
         "CN",
@@ -21106,6 +21422,10 @@
         11
       ],
       [
+        "IT",
+        10
+      ],
+      [
         "IN",
         9
       ],
@@ -21118,10 +21438,6 @@
         9
       ],
       [
-        "IT",
-        9
-      ],
-      [
         "VN",
         9
       ],
@@ -21130,16 +21446,16 @@
         9
       ],
       [
+        "India",
+        8
+      ],
+      [
         "KE",
         8
       ],
       [
         "AE",
         8
-      ],
-      [
-        "India",
-        7
       ],
       [
         "Unknown",
@@ -21206,6 +21522,10 @@
         2
       ],
       [
+        "Cayman Islands",
+        1
+      ],
+      [
         "SE",
         1
       ],
@@ -21269,7 +21589,7 @@
       ],
       [
         "antaranews.com",
-        15
+        16
       ],
       [
         "Bioengineer.org",
@@ -21282,6 +21602,10 @@
       [
         "NDR.de",
         8
+      ],
+      [
+        "news.mongabay.com",
+        7
       ],
       [
         "山陽新聞",
@@ -21304,10 +21628,6 @@
         6
       ],
       [
-        "news.mongabay.com",
-        6
-      ],
-      [
         "Phys.org",
         6
       ],
@@ -21326,6 +21646,14 @@
       [
         "Son Dakika",
         5
+      ],
+      [
+        "Mirage News",
+        4
+      ],
+      [
+        "wlrn.org",
+        4
       ],
       [
         "VOI.ID",
@@ -21372,7 +21700,7 @@
         3
       ],
       [
-        "Mirage News",
+        "timesofindia.indiatimes.com",
         3
       ],
       [
@@ -21444,54 +21772,46 @@
         3
       ],
       [
+        "gzstv.com",
+        2
+      ],
+      [
+        "lifestyle.batampos.co.id",
+        2
+      ],
+      [
         "TVer",
-        2
-      ],
-      [
-        "SAPO",
-        2
-      ],
-      [
-        "Ibiza HEUTE",
-        2
-      ],
-      [
-        "Treasure Coast News",
-        2
-      ],
-      [
-        "読売新聞",
         2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        664
+        671
       ],
       [
         "Restoration",
-        56
+        57
       ],
       [
         "Science & discovery",
-        49
+        51
       ],
       [
         "Conservation & policy",
-        44
+        45
       ],
       [
         "Wildlife & biodiversity",
-        36
+        37
       ],
       [
         "Development & infrastructure",
-        33
+        35
       ],
       [
         "Climate & heat",
-        24
+        25
       ],
       [
         "Community & culture",
@@ -21513,11 +21833,11 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        586
+        589
       ],
       [
         "GDELT",
-        283
+        293
       ]
     ]
   }
