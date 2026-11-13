@@ -1,10 +1,204 @@
 {
-  "generated_at": "2026-11-12T13:58:21.884099+00:00",
+  "generated_at": "2026-11-13T13:25:12.068714+00:00",
   "baseline_complete": true,
-  "article_count": 879,
-  "new_today": 13,
+  "article_count": 887,
+  "new_today": 8,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "9bf1e2b7d6aa4ed6d7",
+      "title": "호미반도 해양생태공원 예타 통과…잘피·해조류 복원 추진 - 비건뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83UmQwbVZZdFY1aXdwQXhrOVdaT3VzN2loU25kR2RaNXMzLUZCajNnNlVqNk90c3lUTDdMMHp5eGd4azE3Z0VMR25NLVlUYkRSRmZNaEx1b1JsUWJnVmxWbVl1R0tVdw?oc=5",
+      "outlet": "비건뉴스",
+      "domain": "news.google.com",
+      "published_at": "2026-11-13T10:13:34+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "호미반도 해양생태공원 예타 통과…잘피·해조류 복원 추진 비건뉴스",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "baseline": false
+    },
+    {
+      "id": "8fc3e6f236d18b805a",
+      "title": "Penyu Hijau Terancam Perdagangan Ilegal, Lamun dan Karang Turut Rentan - gadget.qoo10.co.id",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YeEJ1eVVGcGpjNXlrUHBCTTl3UWVQY1dQdEVIYzFOYTh4cWRIWVd3YlBXODRhUzV6MFFsbzFKelpyelJveXd6aFlCWGVhcDluNHd6VnhBaGZXTkcyQkcyM1MzWnVQczdDVFVzcWxJNlQ?oc=5",
+      "outlet": "gadget.qoo10.co.id",
+      "domain": "news.google.com",
+      "published_at": "2026-11-13T09:35:00+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Penyu Hijau Terancam Perdagangan Ilegal, Lamun dan Karang Turut Rentan gadget.qoo10.co.id",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "baseline": false
+    },
+    {
+      "id": "b10150ff795b37bbca",
+      "title": "Pan to Zero: Can we bring a lost seagrass meadow back to life? - CGTN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ld01kc1gybnN4cnA5RHVEdzY1b1cxczhpZFk4bVZXNGtOLXo3ZkVUZUxYMWZnLW4zR0JxbDAzZXhQeEZTUFMtZWFuSEFYNXlhU1JtYTA3YXVja0k1R25lMXk3MU9lcTdBMXZNVnZDRFpqMVFkd2x6LQ?oc=5",
+      "outlet": "CGTN",
+      "domain": "news.google.com",
+      "published_at": "2026-11-13T08:03:45+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Pan to Zero: Can we bring a lost seagrass meadow back to life? CGTN",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "baseline": false
+    },
+    {
+      "id": "0ade31cd9746a83ccf",
+      "title": "Mangrove hingga Lamun Bisa Jadi Sumber Duit dari Pasar Karbon - detikFinance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbXlyRkJiYU9QRmN5SEVQYnlTUUhYSWpLOHdtc1ZFaVFTc1A4V3g4UzJ0TkZJZDNMOERadVZzM045VVUzbzVZaTRLck1BTnhjTldvZDNYbm1wVEJTWlNBeWRPS29iQXU1NzBPeXNlZkhDOTNsM2FWSzdrWk1PYTVfcEVMbEZfMkV4cE4tMmdJWXJnVXJCNzROcENyRzZuSW9fQUxuSFR5bjhEcGhLZEJsVNIBtgFBVV95cUxNbHY0VURmNDF4eXpsQS1tMVdnbEtGOFFjU2gtMG4tTmFaWGZSa0h2clhFUlhDb1VTT01wZTd5Yi1ONTVaTE9hYTN3aXkyaGxpZUVoWlo5ZklXcmJCVGQzY0ZIQWFRWlBMT3hrUXBhamxwU2lFQ1VnSC1Dc2FPT1FyV29TNzNBcnpmZjRSdWZzaXNHWUlrUW0xZXotR3gxLUZCc25aN2pjTUFoRjREbTJzMjhrN2ZPUQ?oc=5",
+      "outlet": "detikFinance",
+      "domain": "news.google.com",
+      "published_at": "2026-11-13T05:52:55+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Mangrove hingga Lamun Bisa Jadi Sumber Duit dari Pasar Karbon detikFinance",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "baseline": false
+    },
+    {
+      "id": "cfdb0267c086ad9541",
+      "title": "Seacoast High School students grow seagrass mats for stormwater drainage creeks - WJHG",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWtSbUV0SXloWUhyOVVSdFU2aXVBUllSdEFSU1FWT0NfWEZkVWxZWEUtRjlFX09UOWVRTTFZVUpzaFRKZk9nUXpqb3hnd0duUHdQUUVSNFZ3RkVSWVFodUJoR0Q0Y1M0LUh3QWZMVkRiZ1BxLWdFUzlfTlVWbjBSRjZ4UHQzclNBaHFxTmxFTXVoY2dKczBQMXA4MXIwNi12R3Mya0hkMU9xOHcz0gHAAUFVX3lxTE5vU3lGN3g4dms1eU1aMHhxWlVhRkJrcDBrU3Bxb01XbEwyZlNrek13N0JBWHVPT1ZhdG9RcVdPcFp0LXluWkQ3UnQzMVFUaWpxbi04V2RObVhUeTFONC1oN0J2bEtuLW5rNW5QajFBOGxlZG5yWEM4QmZieWF3aXV2OFgyYVVBVjdOVGVGZFhEMTl0LWtfal9WSVdOam5SS25penpWdVZPaUJRU0NkZ0lJdGd3R0tUVGlkVmNwSzRGWQ?oc=5",
+      "outlet": "WJHG",
+      "domain": "news.google.com",
+      "published_at": "2026-11-13T03:24:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seacoast High School students grow seagrass mats for stormwater drainage creeks WJHG",
+      "themes": [
+        "Climate & heat",
+        "Community & culture"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "baseline": false
+    },
+    {
+      "id": "4b9c06a19c86ddf3cb",
+      "title": "WA Govt sinks $5.4m into Cockburn Sound seagrass recovery - Inside State Government",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWjlzc3R3aFpuQnY2dTZfWEE0YS13cmtzbWlDS0ItS1FtSVVDNWplSkRkRXpXdDdrb3VlYlFva0ctV0lrdXlRTk5CUUt4QWJWX3Qtdm1lRks5YXBiM1lOUjhGMVdPYm9OMmVGTm15MnR1VkxXazVCOUVhOGlJOFEzSXM4cl9wMGtvQ0lBYmZ1enVOQjFXQ1h2bjBRYV9CUkU?oc=5",
+      "outlet": "Inside State Government",
+      "domain": "news.google.com",
+      "published_at": "2026-11-13T01:53:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "WA Govt sinks $5.4m into Cockburn Sound seagrass recovery Inside State Government",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "baseline": false
+    },
+    {
+      "id": "e90500456f1be80b9e",
+      "title": "海底种草破三关！山东团队给出海草床保护修复“中国方案” - 山东宣传网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JbkFvWldldDFyXy1lTl9HS0ZIRkstS2FHZDRJZS1OdV9HcnNITGVGM3Q0N0Frek5ZTXQydmVCWmtqWEhsVWdzRVhOZmc3ay1GUUZKazV5ZEc1WDdpMnJPRDhDNXZ1OVBCVnRXb1o5OA?oc=5",
+      "outlet": "山东宣传网",
+      "domain": "news.google.com",
+      "published_at": "2026-11-13T01:44:00+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "海底种草破三关！山东团队给出海草床保护修复“中国方案” 山东宣传网",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "baseline": false
+    },
+    {
+      "id": "8546530478751c5f94",
+      "title": "Seagrass restoration gets boost as part of Westport plan - Daily Cargo News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVkpBZmphcTM1SERDc0NlMUdhRnpBNDdmTmJ1cERybktrNWEtWG1UYWlTZGFsdWFlellEcUZmM0Mxb1ZpLUJyOGh3SGtfMk1zenRTYy1uaVk2OWFnOFI0RUFPay1CT09qVURaUWpWZ3VjYkh3ZnV5bjdaYzVOTUc2Y3FwYThWeXJENFBNZUYzSVXSAaABQVVfeXFMUHhwSDhoZjhBdlZxZWdDcy1MX2s1anQzWXlncHNaVC11MXhDSHV4dG56U2p6NEg2RS12ZGVacF9Td091aUxBNnBOX2JHYTItZDI0Rk44Y2RkcW9XX0VUN1MyMXlQSnpmcWdhbS1oR0owSnRoZTFqSk5HakJpTTZTZzZQSzkya3R6UGh2WWxSWXFsNHZLVTlPVXZyUV9IVmF0dQ?oc=5",
+      "outlet": "Daily Cargo News",
+      "domain": "news.google.com",
+      "published_at": "2026-11-13T00:49:11+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass restoration gets boost as part of Westport plan Daily Cargo News",
+      "themes": [
+        "Restoration",
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "baseline": false
+    },
     {
       "id": "c52ceabc74d7a8cfd9",
       "title": "Fino al 65% delle imbarcazioni da diporto ancora sulla Posidonia oceanica - Greenreport.it",
@@ -28,7 +222,7 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -52,7 +246,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -101,7 +295,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -125,7 +319,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -149,7 +343,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -173,7 +367,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -197,7 +391,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -221,7 +415,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -245,7 +439,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -269,7 +463,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -293,7 +487,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -317,7 +511,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -341,7 +535,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -365,7 +559,7 @@
       ],
       "search_route": "Google News Swedish (SE)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -389,7 +583,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -439,7 +633,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -463,7 +657,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -487,7 +681,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -511,7 +705,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -535,7 +729,7 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -584,7 +778,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "baseline": false
     },
     {
@@ -21261,11 +21455,11 @@
     "languages": [
       [
         "English",
-        325
+        329
       ],
       [
         "Indonesian",
-        104
+        106
       ],
       [
         "German",
@@ -21281,11 +21475,11 @@
       ],
       [
         "Korean",
-        50
+        51
       ],
       [
         "Chinese",
-        46
+        47
       ],
       [
         "Spanish",
@@ -21355,7 +21549,7 @@
     "countries": [
       [
         "GB",
-        142
+        146
       ],
       [
         "Indonesia",
@@ -21379,11 +21573,11 @@
       ],
       [
         "KR",
-        50
+        51
       ],
       [
         "ID",
-        41
+        43
       ],
       [
         "Australia",
@@ -21395,7 +21589,7 @@
       ],
       [
         "CN",
-        19
+        20
       ],
       [
         "NL",
@@ -21648,6 +21842,10 @@
         5
       ],
       [
+        "비건뉴스",
+        4
+      ],
+      [
         "Mirage News",
         4
       ],
@@ -21709,10 +21907,6 @@
       ],
       [
         "yoursun.com",
-        3
-      ],
-      [
-        "비건뉴스",
         3
       ],
       [
@@ -21787,11 +21981,11 @@
     "themes": [
       [
         "General seagrass news",
-        671
+        676
       ],
       [
         "Restoration",
-        57
+        58
       ],
       [
         "Science & discovery",
@@ -21799,7 +21993,7 @@
       ],
       [
         "Conservation & policy",
-        45
+        46
       ],
       [
         "Wildlife & biodiversity",
@@ -21807,15 +22001,15 @@
       ],
       [
         "Development & infrastructure",
-        35
+        36
       ],
       [
         "Climate & heat",
-        25
+        26
       ],
       [
         "Community & culture",
-        16
+        17
       ],
       [
         "Pollution & water quality",
@@ -21833,7 +22027,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        589
+        597
       ],
       [
         "GDELT",
