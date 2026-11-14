@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-11-13T13:25:12.068714+00:00",
+  "generated_at": "2026-11-14T12:29:22.734277+00:00",
   "baseline_complete": true,
-  "article_count": 887,
-  "new_today": 8,
+  "article_count": 889,
+  "new_today": 2,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "5c6ddcd3c8389cabcb",
+      "title": "瀬戸内海を豊かな海へ アマモの再生活動を学ぶワークショップ 子供たちが団子作りに挑戦 広島 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qQk84V3pXSER3WjBDWW1lTjBKLU5qekEyV2lEZEg4cVRwbmJlU1ViXzFTWFVGVjVPWTF0aGdGaUtIS1VTUlFkZnB4TmpxNXJBeUlyNEQ0R3J3d1Z0X1lQcHRqYWVKZzVGUS1oUNIBckFVX3lxTE9paGZ2a0tuZnFaaXhma3ltdGVMdlRrM0ZKcFVvNjlhX1dYeDlhY1B0NHN0M0ZvZkZCQzZZWE56UXp1WV9EMHR3V0VCQjJZN0dHLURiNGlKalN0VlN2WDlQOWk3MkI5eXhFVHV4bnBBZHZFZw?oc=5",
+      "outlet": "ｄメニューニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-11-14T10:47:44+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "瀬戸内海を豊かな海へ アマモの再生活動を学ぶワークショップ 子供たちが団子作りに挑戦 広島 ｄメニューニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "baseline": false
+    },
     {
       "id": "9bf1e2b7d6aa4ed6d7",
       "title": "호미반도 해양생태공원 예타 통과…잘피·해조류 복원 추진 - 비건뉴스",
@@ -26,7 +50,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -50,7 +74,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -74,7 +98,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -98,7 +122,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -123,7 +147,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -171,7 +195,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -196,7 +220,31 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
+      "baseline": false
+    },
+    {
+      "id": "622d04ef39956addf7",
+      "title": "WA pours $5.4M into seagrass fix at future container port site - www.fullyloaded.com.au",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbU55SWZQUmpfM1hMYzM5MFhmaFYwTE1NN3RlRldlMjBwdl83ekpoZnJuUVZCS2tQRDRKZF9VdnFMNkgwSVpOOVhwWjlVT0h4VGZjYkZVN01NT0lfeDF2MjIzS3h6WjBiREJVd3Q1QmhSZ0Iyc3NpWHNoQW9BSVZ6dlVuUHA5S2xLYlh3RWNPcVdnSTlzS0tGOQ?oc=5",
+      "outlet": "www.fullyloaded.com.au",
+      "domain": "news.google.com",
+      "published_at": "2026-11-12T21:33:49+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "WA pours $5.4M into seagrass fix at future container port site www.fullyloaded.com.au",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -222,7 +270,7 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -271,7 +319,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -367,7 +415,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -415,7 +463,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -439,7 +487,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -463,7 +511,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -535,7 +583,7 @@
       ],
       "search_route": "Google News Hindi (IN)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -559,7 +607,7 @@
       ],
       "search_route": "Google News Swedish (SE)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -657,7 +705,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -729,7 +777,7 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "baseline": false
     },
     {
@@ -21455,7 +21503,7 @@
     "languages": [
       [
         "English",
-        329
+        330
       ],
       [
         "Indonesian",
@@ -21471,7 +21519,7 @@
       ],
       [
         "Japanese",
-        63
+        64
       ],
       [
         "Korean",
@@ -21549,7 +21597,7 @@
     "countries": [
       [
         "GB",
-        146
+        147
       ],
       [
         "Indonesia",
@@ -21569,7 +21617,7 @@
       ],
       [
         "JP",
-        63
+        64
       ],
       [
         "KR",
@@ -21810,6 +21858,10 @@
         7
       ],
       [
+        "ｄメニューニュース",
+        6
+      ],
+      [
         "The Times of India",
         6
       ],
@@ -21831,10 +21883,6 @@
       ],
       [
         "日テレNEWS NNN",
-        5
-      ],
-      [
-        "ｄメニューニュース",
         5
       ],
       [
@@ -21981,7 +22029,7 @@
     "themes": [
       [
         "General seagrass news",
-        676
+        677
       ],
       [
         "Restoration",
@@ -21996,12 +22044,12 @@
         46
       ],
       [
-        "Wildlife & biodiversity",
+        "Development & infrastructure",
         37
       ],
       [
-        "Development & infrastructure",
-        36
+        "Wildlife & biodiversity",
+        37
       ],
       [
         "Climate & heat",
@@ -22027,7 +22075,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        597
+        599
       ],
       [
         "GDELT",
