@@ -1,10 +1,84 @@
 {
-  "generated_at": "2026-11-14T12:29:22.734277+00:00",
+  "generated_at": "2026-11-15T12:56:54.312024+00:00",
   "baseline_complete": true,
-  "article_count": 889,
-  "new_today": 2,
+  "article_count": 894,
+  "new_today": 5,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "25291a4018f9d2f78f",
+      "title": "Stofzuigen tussen het zeegras - Resource online",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWpYWHJjbS1ranplSGhzR0FuTHFILVJlTTliUFlHREYxZnRMM0w1VzA0dHpybmsya2V2WnU3VEJXZVpBUVRvYUlmTmhVQVBjOUNEOHNjMEtrOWFEZUNwVmpCdmZha1lGckFwby1RQWEtNk42bjhrbjhaZU5hdnowZ2dxLWlGXzVVTEE?oc=5",
+      "outlet": "Resource online",
+      "domain": "news.google.com",
+      "published_at": "2026-11-15T10:56:06+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Stofzuigen tussen het zeegras Resource online",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "baseline": false
+    },
+    {
+      "id": "ebbb44dd87a22769b4",
+      "title": "잘피숲 복원부터 바다거북 보호까지…포항 호미반도에 1007억원 투입 - 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc1RkeS1wQjFiV1lGTGI5TXRLekI3N2lQbXlSeUdBd0o1V0w5SWNzTnBhYjRsX2s4UG9jTWJJNktSVXNHMGVncWNDcFp0YUh1MXB1QTJtSEp0QTdRX2F6dDRUQTJoek5tNEI2cjFMcEhLR3pWQlFkRldIWER1dGdEbQ?oc=5",
+      "outlet": "이데일리",
+      "domain": "news.google.com",
+      "published_at": "2026-11-15T09:36:25+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "잘피숲 복원부터 바다거북 보호까지…포항 호미반도에 1007억원 투입 이데일리",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "baseline": false
+    },
+    {
+      "id": "af9cc5327e10058c6b",
+      "title": "El Cabo Singular crea dos nuevas estaciones de seguimiento de praderas de Posidonia oceanica en el Parque Natural de Cabo de Gata - Níjar - Revista Andalucía Económica",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLXZDX2VJRFNEVjl0SGV3Y1pkNXE3bXNhZlB0d1p5WkN2b2JWcWxvMUhTeHdnMU9fckRfLVF0LVZnNV9SRmZVQkFoVDJSVzk0RHp4VFcyWE05dHRxRlRTR011WXVjbkFGeERIUURVMEZoSzNiaVY4Z08wWHpRMkpNblhRUTZ1UnlfMzVtaFJYNzQ5QW9wWjFDcTE1bzVKdnpoeThPODhkejc1NnM4V3FDN0tWbkFsaFVxc2c5UC1JUndBcUVEaVRiX0lWOUlVVVk2TUc0RjZoSG9UV083ckRZd3BGeUJUcHlTb2haT2ZrTkczNTQ1bDFMUEFQYw?oc=5",
+      "outlet": "Revista Andalucía Económica",
+      "domain": "news.google.com",
+      "published_at": "2026-11-14T13:00:00+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "El Cabo Singular crea dos nuevas estaciones de seguimiento de praderas de Posidonia oceanica en el Parque Natural de Cabo de Gata - Níjar Revista Andalucía Económica",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "baseline": false
+    },
     {
       "id": "5c6ddcd3c8389cabcb",
       "title": "瀬戸内海を豊かな海へ アマモの再生活動を学ぶワークショップ 子供たちが団子作りに挑戦 広島 - ｄメニューニュース",
@@ -30,6 +104,55 @@
       "baseline": false
     },
     {
+      "id": "38d24ffd673cf109fa",
+      "title": "瀬戸内海を豊かな海へ アマモの再生活動を学ぶワークショップ 子供たちが団子作りに挑戦 広島（テレビ新広島） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05a045dTRlS1BmZ2lnOTJNNjBzZ25DMjA0STEzejNPRVJUNlpmS01ueC0xc0lSREVYRE9HX3JneUdpVWhUdHI0SnRDTW1pTVZ2QlZydWRuczJZYkJIU0g1NXhTUFhUNzFEcXBaN21hbFN4VkhwNENPQ3ZNazVJWVk?oc=5",
+      "outlet": "Yahoo!ニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-11-14T09:37:01+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "瀬戸内海を豊かな海へ アマモの再生活動を学ぶワークショップ 子供たちが団子作りに挑戦 広島（テレビ新広島） Yahoo!ニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "baseline": false
+    },
+    {
+      "id": "3d683aadb9d3bf191a",
+      "title": "City ENRO surveys 282 transects to assess seagrass health in city bay - Palawan News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcnJLZVZYdzNXSXFldVVaYjdPcGdGcHJoTnpGZWZtZ21PTUtOWVJZckRyT1NOeUhvaEN0czU4RVVpODNoS0xWdzluMTBtRF9GU2hpNGpEZXNqX252cWpoSFcwMGM3bTR5OUlGUXp3YWxJNDRrbTZRVks3enNHdzdkV1hua3kwaXpCMkRGdFprclJuajl0Q0laMkhvUQ?oc=5",
+      "outlet": "Palawan News",
+      "domain": "news.google.com",
+      "published_at": "2026-11-14T06:00:34+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "City ENRO surveys 282 transects to assess seagrass health in city bay Palawan News",
+      "themes": [
+        "Conservation & policy",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "baseline": false
+    },
+    {
       "id": "9bf1e2b7d6aa4ed6d7",
       "title": "호미반도 해양생태공원 예타 통과…잘피·해조류 복원 추진 - 비건뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83UmQwbVZZdFY1aXdwQXhrOVdaT3VzN2loU25kR2RaNXMzLUZCajNnNlVqNk90c3lUTDdMMHp5eGd4azE3Z0VMR25NLVlUYkRSRmZNaEx1b1JsUWJnVmxWbVl1R0tVdw?oc=5",
@@ -50,7 +173,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "baseline": false
     },
     {
@@ -74,7 +197,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "baseline": false
     },
     {
@@ -122,7 +245,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "baseline": false
     },
     {
@@ -171,7 +294,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-15",
       "baseline": false
     },
     {
@@ -195,7 +318,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "baseline": false
     },
     {
@@ -220,7 +343,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "baseline": false
     },
     {
@@ -270,7 +393,7 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "baseline": false
     },
     {
@@ -343,7 +466,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-15",
       "baseline": false
     },
     {
@@ -367,7 +490,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-15",
       "baseline": false
     },
     {
@@ -391,7 +514,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-15",
       "baseline": false
     },
     {
@@ -607,7 +730,7 @@
       ],
       "search_route": "Google News Swedish (SE)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "baseline": false
     },
     {
@@ -21503,7 +21626,7 @@
     "languages": [
       [
         "English",
-        330
+        331
       ],
       [
         "Indonesian",
@@ -21514,16 +21637,16 @@
         70
       ],
       [
+        "Japanese",
+        65
+      ],
+      [
         "Turkish",
         65
       ],
       [
-        "Japanese",
-        64
-      ],
-      [
         "Korean",
-        51
+        52
       ],
       [
         "Chinese",
@@ -21531,7 +21654,7 @@
       ],
       [
         "Spanish",
-        37
+        38
       ],
       [
         "Italian",
@@ -21539,7 +21662,7 @@
       ],
       [
         "Dutch",
-        18
+        19
       ],
       [
         "Portuguese",
@@ -21597,7 +21720,7 @@
     "countries": [
       [
         "GB",
-        147
+        148
       ],
       [
         "Indonesia",
@@ -21612,16 +21735,16 @@
         69
       ],
       [
+        "JP",
+        65
+      ],
+      [
         "TR",
         65
       ],
       [
-        "JP",
-        64
-      ],
-      [
         "KR",
-        51
+        52
       ],
       [
         "ID",
@@ -21641,11 +21764,11 @@
       ],
       [
         "NL",
-        18
+        19
       ],
       [
         "ES",
-        16
+        17
       ],
       [
         "Italy",
@@ -21842,6 +21965,10 @@
         10
       ],
       [
+        "Yahoo!ニュース",
+        8
+      ],
+      [
         "NDR.de",
         8
       ],
@@ -21851,10 +21978,6 @@
       ],
       [
         "山陽新聞",
-        7
-      ],
-      [
-        "Yahoo!ニュース",
         7
       ],
       [
@@ -21888,6 +22011,10 @@
       [
         "Son Dakika",
         5
+      ],
+      [
+        "Palawan News",
+        4
       ],
       [
         "비건뉴스",
@@ -21947,10 +22074,6 @@
       ],
       [
         "timesofindia.indiatimes.com",
-        3
-      ],
-      [
-        "Palawan News",
         3
       ],
       [
@@ -22029,7 +22152,7 @@
     "themes": [
       [
         "General seagrass news",
-        677
+        680
       ],
       [
         "Restoration",
@@ -22037,11 +22160,11 @@
       ],
       [
         "Science & discovery",
-        51
+        52
       ],
       [
         "Conservation & policy",
-        46
+        48
       ],
       [
         "Development & infrastructure",
@@ -22075,7 +22198,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        599
+        604
       ],
       [
         "GDELT",
