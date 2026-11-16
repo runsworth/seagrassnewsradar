@@ -1,10 +1,252 @@
 {
-  "generated_at": "2026-11-15T12:56:54.312024+00:00",
+  "generated_at": "2026-11-16T13:58:47.049192+00:00",
   "baseline_complete": true,
-  "article_count": 894,
-  "new_today": 5,
+  "article_count": 904,
+  "new_today": 10,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "c6f925ab307e38bb5b",
+      "title": "Ocean Alive restaura 1.486 m² de pradarias marinhas no Sado em seis anos - Notícias ao Minuto",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWg0ekFpaUhNVTN6Z1ZVTXM4eFhYZ2ZQN2RXT3dSOTJ0b3BzWVJHQ2ZsWE95UTREUTFxdUczNlJNQ1FSWnM0MEs0VGRaRDhDeGtWdFE0bE5OQ0FKUG1QZkd0MndLX0dOVWlua3JjVExaWlVyV3hxM3lLaFVnYU1QX3VNQURhcUdwUDBXMUlCQ3h1Q1F1Y1F2eWpfaVE0d1MwaTQ3Q2tScV9nWThBM2tPMnVCY2tGNms?oc=5",
+      "outlet": "Notícias ao Minuto",
+      "domain": "news.google.com",
+      "published_at": "2026-11-16T13:02:00+00:00",
+      "language": "Portuguese",
+      "source_country": "PT",
+      "image": "",
+      "description": "Ocean Alive restaura 1.486 m² de pradarias marinhas no Sado em seis anos Notícias ao Minuto",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Portuguese (PT)",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "baseline": false
+    },
+    {
+      "id": "339095598cee412ef3",
+      "title": "Ocean Alive restaura e protege 1486 m² de pradarias marinhas no Sado em seis anos - Correio da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVEZqcjVRMjFLUmNPMEtfek5RTEU0VVhabTB2Yy1IYnFjcnpuX1djUXhNSm9yX1lKUVhBRlhPV29sWXp1SDZJZFNlYzhvQ1NSSUVURGR4ZXdja3JhZldhTlpmTFFHWWxqSzAyTlZxZzZfSTJGRFJ6RnJxQTgtWHZmN3o1VF82N3BmT19CQTlhbTlQRUtGUklyY1lsbXBGdVRjTFgxWjVydlRnWXB5QkVDV3J2YkZrRVNTS0HSAboBQVVfeXFMT1RGanI1UTIxS1JjTzBLX3pOUUxFNFVYWm0wdmMtSGJxY3J6bl9XY1F4TUpvcl9ZSlFYQUZYT1dvbFl6dUg2SWRTZWM4b0NTUklFVERkeGV3Y2tyYWZXYU5aZkxRR1lsakswMk5WcWc2X0kyRkRSekZycUE4LVh2Zjd6NVRfNjdwZk9fQkE5YW05UEVLRlJJcmNZbG1wRnVUY0xYMVo1cnZUZ1lweUJFQ1dydmJGa0VTU0tB?oc=5",
+      "outlet": "Correio da Manhã",
+      "domain": "news.google.com",
+      "published_at": "2026-11-16T11:28:00+00:00",
+      "language": "Portuguese",
+      "source_country": "BR",
+      "image": "",
+      "description": "Ocean Alive restaura e protege 1486 m² de pradarias marinhas no Sado em seis anos Correio da Manhã",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Portuguese (BR)",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "baseline": false
+    },
+    {
+      "id": "85e1723a4902f0814b",
+      "title": "Przywracanie trawy morskiej w Bałtyku - są pierwsze efekty akcji. Idzie świetnie! - Polskie Radio",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTmc1SEhMa3R2S3laWXdOc1ZJTFVlbUtyX3ZtaEc4RXdxRmttRENfY25PRmNsNmd5MHhWRnI2VXZxaUpodXI0QktjZjA4Nk9fTzJRSy05bktDMmNqLUZsMW1OMTlCblZmdnpwQllXYjNfYlNyUkJwVlpMVVUzQU9uRldxT1hwT21iOFpEdXA1UkNUR1B1YkxQMTUwdzE3bW1xN29XZnhkZUFlX0E5cE14Tk8teWJhdjhrU2tSTl82QTBJVlhVREhObnJn?oc=5",
+      "outlet": "Polskie Radio",
+      "domain": "news.google.com",
+      "published_at": "2026-11-16T10:25:00+00:00",
+      "language": "Polish",
+      "source_country": "PL",
+      "image": "",
+      "description": "Przywracanie trawy morskiej w Bałtyku - są pierwsze efekty akcji. Idzie świetnie! Polskie Radio",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Polish (PL)",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "baseline": false
+    },
+    {
+      "id": "0387f992e08d42512f",
+      "title": "[임채경의 Us for Earth, Earth for Us!] #8 \"우리도 모르게 지구를 구하고 있는 갯벌과 해초숲(잘피숲)을 지키자!\" - 이로운뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zWGprVWhHbUEyclg1OTNrcmlMOHlNWms5R19ZcHZHcDJhcVk1eklic3Zhbi1iZUpHYlBINWlLY3RQbl9tbnJHdVJhdGQ1Vkp0a2VRN3dpVDB6VEhZcjBMMnM2aUZ1Wnc?oc=5",
+      "outlet": "이로운뉴스",
+      "domain": "news.google.com",
+      "published_at": "2026-11-16T09:51:04+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "[임채경의 Us for Earth, Earth for Us!] #8 \"우리도 모르게 지구를 구하고 있는 갯벌과 해초숲(잘피숲)을 지키자!\" 이로운뉴스",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "baseline": false
+    },
+    {
+      "id": "d74b3f9ca43fa318ec",
+      "title": "Gestione sostenibile della Posidonia oceanica: lo studio di Ilaria Dentamare, dottoranda all’Università Parthenope - Ateneapoli",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ18xXzJpcG41MjdxdndqMHc2aEVTZ2FmNVlSbnZPMS11dEdyVWgybmdIdVhaZGdFNUVsbWdoMFYya3hRVGhJVVN2U1ljN3VrOHZWYnRJZTlaQ1M0R2FQV0RlMWVfM0pPa2xRX2FJa1pRUld5RGFuNUVLLWFiM0RYQ1VNZDVmeFNld3hDQmhGTkhCeHpPblFqV1ktRHJuVVNkczBEOVFWUEdBZEVDWm1wM3p5b3VLUU5yVk80YUJOU1VISHFJb3lDTW1DWEFOUlJhVmhRbzlZS0hwY2gtSnRHc0ZkQQ?oc=5",
+      "outlet": "Ateneapoli",
+      "domain": "news.google.com",
+      "published_at": "2026-11-16T09:50:08+00:00",
+      "language": "Italian",
+      "source_country": "IT",
+      "image": "",
+      "description": "Gestione sostenibile della Posidonia oceanica: lo studio di Ilaria Dentamare, dottoranda all’Università Parthenope Ateneapoli",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Italian (IT)",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "baseline": false
+    },
+    {
+      "id": "4e136e4b5c50ae59c0",
+      "title": "Bodrum’un Deniz Çayırları Cop31 Gündeminde, 2 Bin 185 Hektarlık Alan İçin Koruma Çağrısı - Muğla Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFVnNnNWSl9VcXl6QllNVUFPRzdYRHpvY2NESGlXNmRZYVlsbTRTMm5DU3VYWFFIZHoxdVg4R3ZzODZ6TEhsWDdCRDZaa18yVkZGbG52TjBJVmRnTHB3VlYtZ0ZnQzBac3NONHZRYlEtNnhpWEc1UUtqTWZmMmNqaW5HQmdmX284WEdRMVdLaDB0clFuRDQxZmZMN1I0LWhHOWxnV21SQnNDWEpQNnFaWFdQMmZxZGZFaXZ2NkNabkJodw?oc=5",
+      "outlet": "Muğla Gazetesi",
+      "domain": "news.google.com",
+      "published_at": "2026-11-16T08:47:57+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Bodrum’un Deniz Çayırları Cop31 Gündeminde, 2 Bin 185 Hektarlık Alan İçin Koruma Çağrısı Muğla Gazetesi",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "baseline": false
+    },
+    {
+      "id": "b87e11591c2c624d9e",
+      "title": "威海市海草床本底调查项目顺利通过专家评审 - 威海新闻网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rcXU2U1NEM0EzS2VxVk9jbFI2bUdaWEFSeG9QX2JYMVFsYWgzSUdpQjhZWEtsemJqdlpDZk9Ub2R5TkRiWXkwUlJNa1p1alE5NjVEbm9JdmlaYmtXVXRPR2J0ZVoxS0l0aGV4azl3?oc=5",
+      "outlet": "威海新闻网",
+      "domain": "news.google.com",
+      "published_at": "2026-11-16T08:43:08+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "威海市海草床本底调查项目顺利通过专家评审 威海新闻网",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "baseline": false
+    },
+    {
+      "id": "bb1ae24266245d5cf8",
+      "title": "Deniz Çayırlarının Geleceği COP31’de Tartışılacak - Bodrum Kent TV",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRThQaTBMWmw0Tmc0SDloQk05MV9rNzFhWGRsSmJmNlJKZW5JaGZJQi1yZk5sbFVjZjRSa3JSOE9MbFI4d1pyU0pVVDA1Zl9XWXJFYlYwMXlVLVIyVXhtdVRDd3EtZi0zVEh5M3BtSWhJU2Z1TkFSbjdKNU16YWVzZFBHS0dodHVBdWfSAY8BQVVfeXFMTWRrdW96MU01V3dpY3IzVUJZRjJKT0lNU3E3ZG4zLWo3clhCd2lBRGVVdHE3VkV3TUU5a2JBQzJYREROb3pmZ0tfVEhvVUFhZHhUX0pQQzdIZ1ZYdTFTam1MU0JqMnVMYzM3aEdQX1p1aXdBUF9CeklJSTVUTVIxdUVudmdjNHdfQUFDZXBFN2M?oc=5",
+      "outlet": "Bodrum Kent TV",
+      "domain": "news.google.com",
+      "published_at": "2026-11-16T08:43:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Deniz Çayırlarının Geleceği COP31’de Tartışılacak Bodrum Kent TV",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "baseline": false
+    },
+    {
+      "id": "923c491d29e3e37305",
+      "title": "Seagrass (2019) - IMDb",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlJUMXc4V05pOW03cGUzWkdKYmRoaFAyY1pwZUNybzBsVXdGWWJlWWVkWGJKT0I1NmtDVGhKVWp2QnV6dXpYZ1ZUWVNfakh6ajltTkFCMFh4enViNHNvdHMwWG1Rdi1ZZGRRSndfUG9YMXRwRS1Za1MwWWZ0Z2lNNVQ3dXZleDJxUXNN?oc=5",
+      "outlet": "IMDb",
+      "domain": "news.google.com",
+      "published_at": "2026-11-15T16:18:17+00:00",
+      "language": "Spanish",
+      "source_country": "MX",
+      "image": "",
+      "description": "Seagrass (2019) IMDb",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (MX)",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "baseline": false
+    },
+    {
+      "id": "28f33b6b8011c941a5",
+      "title": "中國東部沿海修復海草床 重建海洋生態系統 - 巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPdHhQMVBtMS13MHp3ZzZES3ZTTTJKejM0VGp0TjFtRE9jRDFLaC0tVWZhQkhGZlB0Ul9wWkFnX3Z3UjJDSV9XUTN0cy02TVk3Z0tEQ3RvSlFvdWxFLWtBSXJLVEhidi1tQm9WZFVlYjFOeHNDdHJaeTM4Z1A4TzlQeGxPUldSM3pzYndvWEpUbG5rZ1FRTmtYV3dZSjBVQTJDUDdmcW01UGd1dU8zSW01aDN3TE5sSDVURUh0Skh2VVZQRnBQaVluUGlBMUgyLUxQMEZWR2lRZlF2a0NZRVRTNzRPdUxEbzlRNDFEZWlkZXNINVZqMGd5UWFSSDFJYVl4YmNWNDRUMnlYM0ozOGFLczJIaXhtTllTYXNEQldzS0xlczZ4dkVpSko3eUdoU1N4eGxLZGNVUEZmQlpVLTJGTV9LSXIxLXBuSW00?oc=5",
+      "outlet": "巴士的報",
+      "domain": "news.google.com",
+      "published_at": "2026-11-15T14:35:00+00:00",
+      "language": "Chinese",
+      "source_country": "TW",
+      "image": "",
+      "description": "中國東部沿海修復海草床 重建海洋生態系統 巴士的報",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (TW)",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "baseline": false
+    },
     {
       "id": "25291a4018f9d2f78f",
       "title": "Stofzuigen tussen het zeegras - Resource online",
@@ -50,7 +292,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "baseline": false
     },
     {
@@ -124,7 +366,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "baseline": false
     },
     {
@@ -173,7 +415,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "baseline": false
     },
     {
@@ -197,7 +439,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "baseline": false
     },
     {
@@ -245,7 +487,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "baseline": false
     },
     {
@@ -270,7 +512,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-16",
       "baseline": false
     },
     {
@@ -318,7 +560,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "baseline": false
     },
     {
@@ -538,7 +780,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-16",
       "baseline": false
     },
     {
@@ -21637,28 +21879,28 @@
         70
       ],
       [
+        "Turkish",
+        67
+      ],
+      [
         "Japanese",
         65
       ],
       [
-        "Turkish",
-        65
-      ],
-      [
         "Korean",
-        52
+        53
       ],
       [
         "Chinese",
-        47
+        49
       ],
       [
         "Spanish",
-        38
+        39
       ],
       [
         "Italian",
-        26
+        27
       ],
       [
         "Dutch",
@@ -21666,7 +21908,7 @@
       ],
       [
         "Portuguese",
-        10
+        12
       ],
       [
         "Hindi",
@@ -21706,7 +21948,7 @@
       ],
       [
         "Polish",
-        2
+        3
       ],
       [
         "Greek",
@@ -21735,16 +21977,16 @@
         69
       ],
       [
+        "TR",
+        67
+      ],
+      [
         "JP",
         65
       ],
       [
-        "TR",
-        65
-      ],
-      [
         "KR",
-        52
+        53
       ],
       [
         "ID",
@@ -21760,7 +22002,7 @@
       ],
       [
         "CN",
-        20
+        21
       ],
       [
         "NL",
@@ -21783,23 +22025,23 @@
         13
       ],
       [
+        "IT",
+        11
+      ],
+      [
         "Spain",
         11
       ],
       [
-        "IT",
+        "PT",
+        10
+      ],
+      [
+        "MX",
         10
       ],
       [
         "IN",
-        9
-      ],
-      [
-        "MX",
-        9
-      ],
-      [
-        "PT",
         9
       ],
       [
@@ -21827,6 +22069,10 @@
         7
       ],
       [
+        "TW",
+        5
+      ],
+      [
         "Philippines",
         5
       ],
@@ -21839,12 +22085,16 @@
         4
       ],
       [
-        "TW",
-        4
+        "PL",
+        3
       ],
       [
         "NO",
         3
+      ],
+      [
+        "BR",
+        2
       ],
       [
         "Jamaica",
@@ -21860,10 +22110,6 @@
       ],
       [
         "Malaysia",
-        2
-      ],
-      [
-        "PL",
         2
       ],
       [
@@ -21892,10 +22138,6 @@
       ],
       [
         "SE",
-        1
-      ],
-      [
-        "BR",
         1
       ],
       [
@@ -22152,11 +22394,11 @@
     "themes": [
       [
         "General seagrass news",
-        680
+        688
       ],
       [
         "Restoration",
-        58
+        60
       ],
       [
         "Science & discovery",
@@ -22198,7 +22440,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        604
+        614
       ],
       [
         "GDELT",
