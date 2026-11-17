@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-11-16T13:58:47.049192+00:00",
+  "generated_at": "2026-11-17T14:52:51.237678+00:00",
   "baseline_complete": true,
-  "article_count": 904,
-  "new_today": 10,
+  "article_count": 906,
+  "new_today": 2,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "b61de45d6e62bdc206",
+      "title": "Seagrass - The Wildlife Trusts",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xNFd0RTNrd0JVQllPM1JRT0xBXzNBR1lYV2lGMGJCNm5xcXg2X0d0LWJ0S3FlcGpaeU52YTJjb0xZT1lwdUZiTjJ0ajdkU193SXc?oc=5",
+      "outlet": "The Wildlife Trusts",
+      "domain": "news.google.com",
+      "published_at": "2026-11-17T06:04:20+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass The Wildlife Trusts",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "baseline": false
+    },
+    {
+      "id": "552e83a1a202d4142d",
+      "title": "Hold the salsa: Making eelgrass tortillas at McClancy HS to restore Long Island Sound - QNS.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDYktVbmFnYWsxWTJZZWVadHB2b2o3N182cGRrVGZEZ04wV19GTjBOZElBWEYyN0lHQVBFT0NMOXlOVy1YWkVfT1ZZdU9yM3pvcVJmNW5qZEQ1MFhYTmMxVDJUVFVNTDFFbTQyUTM4UThkNFVMTmdfZ0FVQlM?oc=5",
+      "outlet": "QNS.com",
+      "domain": "news.google.com",
+      "published_at": "2026-11-16T20:00:26+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Hold the salsa: Making eelgrass tortillas at McClancy HS to restore Long Island Sound QNS.com",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "baseline": false
+    },
     {
       "id": "c6f925ab307e38bb5b",
       "title": "Ocean Alive restaura 1.486 m² de pradarias marinhas no Sado em seis anos - Notícias ao Minuto",
@@ -50,7 +98,7 @@
       ],
       "search_route": "Google News Portuguese (BR)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "baseline": false
     },
     {
@@ -74,7 +122,7 @@
       ],
       "search_route": "Google News Polish (PL)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "baseline": false
     },
     {
@@ -98,7 +146,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "baseline": false
     },
     {
@@ -124,7 +172,7 @@
       ],
       "search_route": "Google News Italian (IT)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "baseline": false
     },
     {
@@ -148,7 +196,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "baseline": false
     },
     {
@@ -172,7 +220,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "baseline": false
     },
     {
@@ -196,7 +244,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "baseline": false
     },
     {
@@ -220,7 +268,7 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "baseline": false
     },
     {
@@ -292,7 +340,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "baseline": false
     },
     {
@@ -366,7 +414,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "baseline": false
     },
     {
@@ -415,7 +463,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "baseline": false
     },
     {
@@ -487,7 +535,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "baseline": false
     },
     {
@@ -560,7 +608,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "baseline": false
     },
     {
@@ -780,7 +828,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "baseline": false
     },
     {
@@ -21868,7 +21916,7 @@
     "languages": [
       [
         "English",
-        331
+        333
       ],
       [
         "Indonesian",
@@ -21962,7 +22010,7 @@
     "countries": [
       [
         "GB",
-        148
+        150
       ],
       [
         "Indonesia",
@@ -22398,7 +22446,7 @@
       ],
       [
         "Restoration",
-        60
+        61
       ],
       [
         "Science & discovery",
@@ -22409,11 +22457,11 @@
         48
       ],
       [
-        "Development & infrastructure",
-        37
+        "Wildlife & biodiversity",
+        38
       ],
       [
-        "Wildlife & biodiversity",
+        "Development & infrastructure",
         37
       ],
       [
@@ -22440,7 +22488,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        614
+        616
       ],
       [
         "GDELT",
