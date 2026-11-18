@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:52:51.237678+00:00",
+  "generated_at": "2026-11-18T14:32:23.585925+00:00",
   "baseline_mode": false,
   "sources": {
     "gdelt": {
@@ -12,8 +12,8 @@
     "google_news_rss": {
       "name": "Google News RSS",
       "ok": true,
-      "fetched": 1623,
-      "kept": 16,
+      "fetched": 1679,
+      "kept": 22,
       "feeds": 58,
       "errors": []
     }

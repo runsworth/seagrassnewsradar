@@ -1,10 +1,274 @@
 {
-  "generated_at": "2026-11-17T14:52:51.237678+00:00",
+  "generated_at": "2026-11-18T14:32:23.585925+00:00",
   "baseline_complete": true,
-  "article_count": 906,
-  "new_today": 2,
+  "article_count": 918,
+  "new_today": 12,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "8920a93e4ea984967a",
+      "title": "İzmir Haberleri - COP31'de deniz çayırları için kritik çağrı - Yerel Haberler - Hürriyet",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJ0V01OLTRhNHNvMVpGcnZWdFB0UzZ3WDgxZUl0Y2hxSXRsUjNvWWdaTl80Um92T0dPQUhNZ3RUdlhnaTZmcWtLazlwUjAzYWpGWW96MG1rR3UwOXN5Xzc5ejNjZGxhU3ltTTRZaFREclZjQks2dWZJb0tLS3ZXcE1PMnNWTW5xeWluUmZERC01ODkwSmExeFFfLXdvOHNa?oc=5",
+      "outlet": "Hürriyet",
+      "domain": "news.google.com",
+      "published_at": "2026-11-18T12:33:19+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "İzmir Haberleri - COP31'de deniz çayırları için kritik çağrı - Yerel Haberler Hürriyet",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "baseline": false
+    },
+    {
+      "id": "332c19ac79b936960d",
+      "title": "COP31: Bodrum Deniz Çayırlarını Koruma ve Çözüm Önerileri - Bodrum Olay Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVThlYVdhUWJobUtHS205RTFWN3BVaXBLbTBaY2pYWDBlSWJ2b01SaHUyalNHSmk5d0NtRlFvR2ltcVcybnB6TC1nUVlpbXN0SGxEVlBUc2FaQlJ3c2YzTUZFbk02MldmZFIwZkhIbFY0RXozb0NXVGltXzEyYUFIRWxrRXVfWHQwN0J3SkFUMjlqRzhtcVh1X0lUaV9nWV9keFA3OFQyWTkyTGM?oc=5",
+      "outlet": "Bodrum Olay Gazetesi",
+      "domain": "news.google.com",
+      "published_at": "2026-11-18T11:01:26+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "COP31: Bodrum Deniz Çayırlarını Koruma ve Çözüm Önerileri Bodrum Olay Gazetesi",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "baseline": false
+    },
+    {
+      "id": "18fbdeb424d2dcdaa4",
+      "title": "“สุชาติ” น้อมนำพระดำริ “เจ้าฟ้าสิริวัณณวรีฯ” เร่งขับเคลื่อนอนุรักษ์ทะเลไทยครบวงจร ฟื้นฟูปะการัง-หญ้าทะเล ดูแลสัตว์ทะเลหายาก สร้างเครือข่ายอนุรักษ์อย่างยั่งยืน - ไทยโพสต์",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjbUNWN2Z4NVpVNXNGWDNvZG5HNVdhdkY5X2RFSzNoTGs5VmNSSktWdGU5QlNBUXdxSzZDLXhvSll2dmVEbDBsZV81SGRQZkJ1cUs1NUhpZDhGMVIzZkpYb200OEJOdw?oc=5",
+      "outlet": "ไทยโพสต์",
+      "domain": "news.google.com",
+      "published_at": "2026-11-18T10:47:56+00:00",
+      "language": "Thai",
+      "source_country": "TH",
+      "image": "",
+      "description": "“สุชาติ” น้อมนำพระดำริ “เจ้าฟ้าสิริวัณณวรีฯ” เร่งขับเคลื่อนอนุรักษ์ทะเลไทยครบวงจร ฟื้นฟูปะการัง-หญ้าทะเล ดูแลสัตว์ทะเลหายาก สร้างเครือข่ายอนุรักษ์อย่างยั่งยืน ไทยโพสต์",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Thai (TH)",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "baseline": false
+    },
+    {
+      "id": "466a79ba6f0b03edbd",
+      "title": "\"สุชาติ\" น้อมนำพระดำริ \"เจ้าฟ้าสิริวัณณวรีฯ\" เร่งขับเคลื่อนอนุรักษ์ทะเลไทยครบวงจร ฟื้นฟูปะการัง-หญ้าทะเล ดูแลสัตว์ทะเลหายาก สร้างเครือข่ายอนุรักษ์อย่างยั่งยืน - topnews.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82RTl2MFhjOUd2RXRiU2FPcVloZ05fa3RIVDE0RzZBN2tFUHExR2kwZjA3akp4WEdpT1VwVTB1cTFDX1U3UDdMLWVDQ1pudU0?oc=5",
+      "outlet": "topnews.co.th",
+      "domain": "news.google.com",
+      "published_at": "2026-11-18T10:03:57+00:00",
+      "language": "Thai",
+      "source_country": "TH",
+      "image": "",
+      "description": "\"สุชาติ\" น้อมนำพระดำริ \"เจ้าฟ้าสิริวัณณวรีฯ\" เร่งขับเคลื่อนอนุรักษ์ทะเลไทยครบวงจร ฟื้นฟูปะการัง-หญ้าทะเล ดูแลสัตว์ทะเลหายาก สร้างเครือข่ายอนุรักษ์อย่างยั่งยืน topnews.co.th",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Thai (TH)",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "baseline": false
+    },
+    {
+      "id": "e9fd5f1eb0926eed79",
+      "title": "Pemerintah Luncurkan 3 Proyek Karbon Biru di COP31 Turki, Optimalisasi Mangrove & Padang Lamun - MetroTVNews.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMGpscEVPYkNsSkdzazVtSUNOcUZ2ZWZ0ZC03bjBxZTkwcXhqRGo1MFp6eU93THJQMkdIQldWbGtlWmRORFZHZWNlR0laakR4SnFaUXBrMW1tcVpjSXc4QkRBRDZBOWswSkNVNDlTMGhhSXhQRlFyLUFOaHB0YUxyNkpOY1ozcWw4TWRzcVhWVS1qeHd3Z2daVHNnOVd0anJCemdORVo4YmFaZzhKR0ZJbGV5alk4ZGlNTkJPQUxwcVY1Y3hqV1RhSGV0andvUQ?oc=5",
+      "outlet": "MetroTVNews.com",
+      "domain": "news.google.com",
+      "published_at": "2026-11-18T09:50:09+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Pemerintah Luncurkan 3 Proyek Karbon Biru di COP31 Turki, Optimalisasi Mangrove & Padang Lamun MetroTVNews.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "baseline": false
+    },
+    {
+      "id": "f8ebcef7f8e575a966",
+      "title": "In 1992, Spain placed 358 concrete anti-trawling reefs off Alicante to protect 540 hectares of seagrass; - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOaHY4MUJ1MUs3QUxIQW4zLUxsRTVXaEs5YlNzWU01VHZJQ1pZVEhJd3BucWFwSGlpZy1UMktfMXVHdVB3Qk44M2xjSDNjVmFra2hiOUl4dF9FWkFFZHBKQnNrdUpWbHBzT0VROXdVWlI5SEV3RlN6alRTdjlMVXRyWHFsQzBMS0JZejRIZHBRRTRjbGJfMWRydGFzc3dJOGx6ZXlkV0Zua3NzVEppTk8ydU1lbWRReXRROUYyYk1nWmZPTWlqaHY3MGZqcktBZElJVThsczlBdm8zQjNkMm9uOV8wVFBSd2x4THpmMGxRYkM3a0dGV2VUdG42RGlMbHlUSDVWTWRJVDZTcmM0clBkN3JjaDJPaldVQzVlU1RCMzZJR2FOYjBIbXN5Y1RlVGYxenFzSXl6U0c4SXRDTUF2UUxRVUNtLUZWX3BBbDdfNmw5VzJqSUQ1NW5tdzFMaTRkamdQQmNR0gHrAkFVX3lxTFBqWWRHaS1wbHlDWjRSVno2djNxbHV0ODBzYkFHbmNWX21BTGU4NXp6R1V5ajBvY0RNOExGVHFoOGZsaDBidGFGSUdjWjRZWmllSk9LZTlQSmNBWEFwVXRjcFZuZ1FMVG1iLW4wcTZ3U1A2cTdkQ1hQOWZ5dkZ6UDFNWkJMLThVLUZuNndRNEVxY3Z1alhjbXlyM1JqeWZST0x0d2JCSUFFbHZsWU5ZRnJRdHowWElzRVNnSWFaLWhlcFFxMWJBa0EyOXJJblhFSy04MF90YUhuM2JKUThwVFMwZTRlRGZwOExMbnZxdFNLNkFmX1VWd1B1UXEyeFFmbG42Skt0YXF1LVAtdTM5WmFrS2VfbzEyNVlRVEhaTkNGcVl4bDlFTFFLT3l1MVZmdHdnTlJxZHZ2aUhUdFRVakdwU3ZlWXVkdXhkQXVwQ3hqazZ3aGhlRXhkb1ZkdHFGX29FcHVvV2czdHpnUQ?oc=5",
+      "outlet": "The Times of India",
+      "domain": "news.google.com",
+      "published_at": "2026-11-18T08:20:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "In 1992, Spain placed 358 concrete anti-trawling reefs off Alicante to protect 540 hectares of seagrass; The Times of India",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "baseline": false
+    },
+    {
+      "id": "cec2d908bc429f8100",
+      "title": "Manfaatkan Mangrove dan Padang Lamun, Pemerintah Kembangkan 3 Proyek Karbon Biru - MetroTVNews.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2VyQ0JtX0hvOHR3VDBtOGZpZzRDNTUyQUhxaXdoUFVtQ1dFakNyTVNMeW9TekNoZy0ydUJRZTJGYk1Rd3BnVnFmZVYyWjVCYndUQUs1OVdDZHU0LTRmZ21zcjVjWHgtY1h5Z3phVTVYMXAyamFkWFFVUng4RmlhcllFRWt1RGJ2S0FIbHBZa3padTBaalJ3NWk3Rjg5R1dibElJOTdoemlESExjLU8xbkV1akJTSnZLZHZOWE53?oc=5",
+      "outlet": "MetroTVNews.com",
+      "domain": "news.google.com",
+      "published_at": "2026-11-18T07:05:50+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Manfaatkan Mangrove dan Padang Lamun, Pemerintah Kembangkan 3 Proyek Karbon Biru MetroTVNews.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "baseline": false
+    },
+    {
+      "id": "6d6b1271f1c49ed05c",
+      "title": "Seagrass scientist Jud Kenworthy shaped by his coastal youth - Coastal Review",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamdVbGF4Y3NnS25TLW5GN0RmLV9VemtzS3ljNDY1M1ZYMHR6czlmU3BrMVNiRlRnZHRlQkZjQWp4NGJPUXgtV3ljdnh1a0ZKRzBoSXNsU1RNNms4X0ItdFVCUHJRcEF6TU9JMmtsdXJuakNKdGxNdEJqWTljYXk1ZmJQMEkzWGVyU1R0YS14OU92Z0t4amZMY2c1dw?oc=5",
+      "outlet": "Coastal Review",
+      "domain": "news.google.com",
+      "published_at": "2026-11-18T05:03:01+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass scientist Jud Kenworthy shaped by his coastal youth Coastal Review",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "baseline": false
+    },
+    {
+      "id": "8b8c7478bcaa64be85",
+      "title": "Peneliti UI Dorong Mangrove dan Lamun Jadi Kriteria Awal Desain Giant Sea Wall Pantura - Banten Raya",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeTVrQkEzQ0JheWNfWnIwdGdkcVM4Y2ZoNHBQeVFpZUdNRG1kSmQzbmp5MzV4S0pQd3J6cHItTkg3SHlmdjFDaWNHZnNWbWRiV3JmYXN4N0NxeC1oYnRyenM0X3cyMTJocUVld3F2V2JTazFWelFxOXpDX1JzMjNjRUJzNlhkbGVBWUJHblVvd3UxWVMyTGt0NDUyMXQ4aUpmYnNNU0dfWF82NUEwTzA0ZklYWnljbktIZXlfYmtQU2VhdF9ucy1WQw?oc=5",
+      "outlet": "Banten Raya",
+      "domain": "news.google.com",
+      "published_at": "2026-11-18T03:58:53+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Peneliti UI Dorong Mangrove dan Lamun Jadi Kriteria Awal Desain Giant Sea Wall Pantura Banten Raya",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "baseline": false
+    },
+    {
+      "id": "25500fcd7222dda4a1",
+      "title": "Maldivian Hawksbill Sea Turtles Forage in Expanding Seagrass Meadows - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHdzR2N1X0otcWlmdHVDTTduaWtHOUN1VndUbERPdzZZRUgteGxuZDBzbTZZRlFEMUFwMmZyaXhWOVRBOUZiS1JKaXRWa3hCVHRZUHQxUWNyRGIxZjNleDhUaU9hVlhvOVZIM3JCOHdITjlYSzdEY1FWOFc5M01BaGFBWE5SZXhaWENRMDJiTHNKcVlNYkxOQg?oc=5",
+      "outlet": "Bioengineer.org",
+      "domain": "news.google.com",
+      "published_at": "2026-11-17T19:15:28+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Maldivian Hawksbill Sea Turtles Forage in Expanding Seagrass Meadows Bioengineer.org",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "baseline": false
+    },
+    {
+      "id": "72180dede6858a8880",
+      "title": "Seagrass: A Primer on an Underwater Climate Powerhouse - The Pew Charitable Trusts",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa0tvcDNDOEphZ0c3M2NLQS1PZEJESnhkeUxseGo4OUIzYXhSMXAycXJGemZwaGZYV3NKOE9ZZ3lyMVRudFkxZlRGRXhkTW1MQW5iZDRPQ09rZTg3MDdRT1hzRHJSS1NDRVRaNEdwTnk1cTlZU3pkYjNQMTFsN3NEZkJNRWZwZEpIckJ5dkVPdzVOV3BQZmlOaEFxRFJZeFFhUF9NM0JvQ3lPN3BZTllnTUUzYXF0UjJyWVE?oc=5",
+      "outlet": "The Pew Charitable Trusts",
+      "domain": "news.google.com",
+      "published_at": "2026-11-17T14:36:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass: A Primer on an Underwater Climate Powerhouse The Pew Charitable Trusts",
+      "themes": [
+        "Climate & heat"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "baseline": false
+    },
     {
       "id": "b61de45d6e62bdc206",
       "title": "Seagrass - The Wildlife Trusts",
@@ -26,7 +290,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "baseline": false
     },
     {
@@ -98,7 +362,7 @@
       ],
       "search_route": "Google News Portuguese (BR)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "baseline": false
     },
     {
@@ -122,7 +386,7 @@
       ],
       "search_route": "Google News Polish (PL)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "baseline": false
     },
     {
@@ -196,7 +460,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "baseline": false
     },
     {
@@ -220,7 +484,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "baseline": false
     },
     {
@@ -244,7 +508,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "baseline": false
     },
     {
@@ -268,7 +532,7 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "baseline": false
     },
     {
@@ -340,7 +604,31 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
+      "baseline": false
+    },
+    {
+      "id": "f6abd3e5ed8ad1325c",
+      "title": "China's eastern coast restores seagrass meadow to rebuild marine ecosystem - 巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON0Flb21jU3BONnNfS0J6YmJlXzJDQWZkXzVuMm1JbFFvUnhMbGZVZkNFbUVZQ05CQTl6NGR1djJfeFZ3V1JvNDhzdWt0LUpfeUFybmkyUGgtRWtLdXY4UDlYVm52bWZ0ZW1GYTZmNElvWE1FblRGNkVkcVRWWWd5bS0zZk45VzU5X0hwdTctdTliNkdVNDg3SmpMamM2RnNKcDFfYWYxcW5PQXNvX3dEZVJIZ01JX25RTFJMbmp6Umt5WGs?oc=5",
+      "outlet": "巴士的報",
+      "domain": "news.google.com",
+      "published_at": "2026-11-15T09:22:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "China's eastern coast restores seagrass meadow to rebuild marine ecosystem 巴士的報",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
       "baseline": false
     },
     {
@@ -828,7 +1116,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "baseline": false
     },
     {
@@ -21916,11 +22204,11 @@
     "languages": [
       [
         "English",
-        333
+        338
       ],
       [
         "Indonesian",
-        106
+        109
       ],
       [
         "German",
@@ -21928,7 +22216,7 @@
       ],
       [
         "Turkish",
-        67
+        69
       ],
       [
         "Japanese",
@@ -21959,15 +22247,15 @@
         12
       ],
       [
+        "Thai",
+        11
+      ],
+      [
         "Hindi",
         9
       ],
       [
         "Vietnamese",
-        9
-      ],
-      [
-        "Thai",
         9
       ],
       [
@@ -22010,7 +22298,7 @@
     "countries": [
       [
         "GB",
-        150
+        155
       ],
       [
         "Indonesia",
@@ -22021,12 +22309,12 @@
         70
       ],
       [
-        "United States",
+        "TR",
         69
       ],
       [
-        "TR",
-        67
+        "United States",
+        69
       ],
       [
         "JP",
@@ -22038,7 +22326,7 @@
       ],
       [
         "ID",
-        43
+        46
       ],
       [
         "Australia",
@@ -22073,6 +22361,10 @@
         13
       ],
       [
+        "TH",
+        11
+      ],
+      [
         "IT",
         11
       ],
@@ -22094,10 +22386,6 @@
       ],
       [
         "VN",
-        9
-      ],
-      [
-        "TH",
         9
       ],
       [
@@ -22248,7 +22536,7 @@
       ],
       [
         "Bioengineer.org",
-        10
+        11
       ],
       [
         "koran-jakarta.com",
@@ -22263,6 +22551,10 @@
         8
       ],
       [
+        "The Times of India",
+        7
+      ],
+      [
         "news.mongabay.com",
         7
       ],
@@ -22272,10 +22564,6 @@
       ],
       [
         "ｄメニューニュース",
-        6
-      ],
-      [
-        "The Times of India",
         6
       ],
       [
@@ -22427,38 +22715,38 @@
         3
       ],
       [
-        "gzstv.com",
+        "Hürriyet",
         2
       ],
       [
-        "lifestyle.batampos.co.id",
+        "MetroTVNews.com",
         2
       ],
       [
-        "TVer",
+        "Coastal Review",
         2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        688
+        695
       ],
       [
         "Restoration",
-        61
+        62
       ],
       [
         "Science & discovery",
-        52
+        53
       ],
       [
         "Conservation & policy",
-        48
+        49
       ],
       [
         "Wildlife & biodiversity",
-        38
+        39
       ],
       [
         "Development & infrastructure",
@@ -22466,7 +22754,7 @@
       ],
       [
         "Climate & heat",
-        26
+        27
       ],
       [
         "Community & culture",
@@ -22488,7 +22776,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        616
+        628
       ],
       [
         "GDELT",
