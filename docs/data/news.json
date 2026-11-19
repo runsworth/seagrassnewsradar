@@ -1,10 +1,228 @@
 {
-  "generated_at": "2026-11-18T14:32:23.585925+00:00",
+  "generated_at": "2026-11-19T14:40:21.944546+00:00",
   "baseline_complete": true,
-  "article_count": 918,
+  "article_count": 930,
   "new_today": 12,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "0879d0ba76838dc93e",
+      "title": "Teulada Moraira mejora el índice de conservación de Posidonia oceanica - elperiodic.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEQ0N2ZiM1hhNmtWRjF3SmZGVlJGbVAtbkJaekRrV3ZmNDNsTDh0RjlHbGdRa29sTGd4RzZkWXFjODVyNWs5OEVUNTBYNEFYYkZmWjB4LU9Dek1SZEF6VE9idkhJOTVsQ2lyTHR4SldEb3F5M0wyV3puUC1LMXlnZkNVd29RZzhrRHk2RFJhYjdyb3VDZ0QzbUkwSVpya2VwZlA0bUtmYw?oc=5",
+      "outlet": "elperiodic.com",
+      "domain": "news.google.com",
+      "published_at": "2026-11-19T13:59:22+00:00",
+      "language": "Spanish",
+      "source_country": "ES",
+      "image": "",
+      "description": "Teulada Moraira mejora el índice de conservación de Posidonia oceanica elperiodic.com",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Spanish (ES)",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "baseline": false
+    },
+    {
+      "id": "a58bbb8315aa8e5b0c",
+      "title": "Kato Pyrgos harbour set for €8.5m fix against seagrass build-up - Philenews",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmZ3OHhNbTBXWExrYU1TZmhTWFA3X0ZYRlpidzhvWnJvTHZ6dUZzZEZwRFA4QVhocV9KQWdtaDlweGJkQk1jWmY1dFNvRjEyS0dYOXBQcFpva0Eyb2locS03OUxKcWFjRXNyQng3UjFUZ2lkZ1g5a2JVbjU2LUpCSG93?oc=5",
+      "outlet": "Philenews",
+      "domain": "news.google.com",
+      "published_at": "2026-11-19T11:30:42+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Kato Pyrgos harbour set for €8.5m fix against seagrass build-up Philenews",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "baseline": false
+    },
+    {
+      "id": "8d7e3b03b64ec0422a",
+      "title": "Zeekomkommertelers herstellen zeegras in Australische Haaienbaai - EOS Wetenschap",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3p0MGgwZWg1TGZpMmRGSHBfU1RISE02RWNYalRQTDFySkxScUk0bE1hT3F0dXhTVlJvSlY3ZGo3QjNrVnp1WTliQWpoUmVmZDQ0aG1NdXNEdFNERVZ4LVN4enN3MUk0WnY2Qkt4ZDI2RU5CWGRvZ2VaUDhKcGk2ZW1mTTR6UXBweEpVaTZyUm40eHNIT282ZW5fQ3Q2UjVNLTV6OS0zU3o5MG1YNjM0R0VoOHA?oc=5",
+      "outlet": "EOS Wetenschap",
+      "domain": "news.google.com",
+      "published_at": "2026-11-19T10:17:05+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Zeekomkommertelers herstellen zeegras in Australische Haaienbaai EOS Wetenschap",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "baseline": false
+    },
+    {
+      "id": "30c25e15e52ec72f0f",
+      "title": "海のゆりかご「アマモ」藻場は減少 種とカキ殻包み”アマモ団子\"作戦で再生に取り組む「継続が大事」広島 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BWDhxMTM4MVpoYzJkbHJ6WG5udUxSQUE5RFVRUVl0VEdSTG91enJ1ZmRQejNIbUdWRXhLOUx6b0pBb3lIeTdtYTVReE8ydnAtY2Q5V2VxYmNVcWpySXM4Um11LTNnLXhkeGUtYWln?oc=5",
+      "outlet": "Excite エキサイト",
+      "domain": "news.google.com",
+      "published_at": "2026-11-19T09:43:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "海のゆりかご「アマモ」藻場は減少 種とカキ殻包み”アマモ団子\"作戦で再生に取り組む「継続が大事」広島 Excite エキサイト",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "baseline": false
+    },
+    {
+      "id": "3f4a4f0b33713510c8",
+      "title": "海のゆりかご「アマモ」藻場は減少 種とカキ殻包み”アマモ団子\"作戦で再生に取り組む「継続が大事」広島（テレビ新広島） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yM0NQTGM5Sm1TcHhwLWIyeWg4cVB2TVNyaEtqTTgzeW42NFh5YU5yaER4OGtEZGpPRHlDbWtrQUlxLVpxekdHS25nVlpKMmhGczhnMXBKU3F2Q2NzVTloWU9PQjFpNzlyemxQSUlpLWtqdE53Y3pxdFljQXB4LWs?oc=5",
+      "outlet": "Yahoo!ニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-11-19T09:32:02+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "海のゆりかご「アマモ」藻場は減少 種とカキ殻包み”アマモ団子\"作戦で再生に取り組む「継続が大事」広島（テレビ新広島） Yahoo!ニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "baseline": false
+    },
+    {
+      "id": "62edf24fba2c025dfa",
+      "title": "基于食物网营养网络与能量流动视角的七连屿西沙海草床保护研究 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KY3VUNlhDRnVOUVdmZDdNZk9JYW1SeEpHVFdGOXVhUUFSbllfdlFSdU84ZnF1U3RrMUFhLUszNHQxekdWQ3g5YWIwa3RZRklEZEtEWGxyejlqc0xMNHptMW9Sd0F0Zy1XSE9ORXdB?oc=5",
+      "outlet": "生物通",
+      "domain": "news.google.com",
+      "published_at": "2026-11-19T03:40:29+00:00",
+      "language": "Chinese",
+      "source_country": "CN",
+      "image": "",
+      "description": "基于食物网营养网络与能量流动视角的七连屿西沙海草床保护研究 生物通",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Chinese (CN)",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "baseline": false
+    },
+    {
+      "id": "e20153a127bb7a5c75",
+      "title": "COP31'de deniz çayırları için kritik çağrı - bodrum haber merkezi",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMDBFREYwaGhCUGhZdjdodG9sSjdaeVlhbU4zVnRLYUZTdnFwdWt0bTFCNnNsUTlNdF9fY3R4S3lpNTRqbU5OTmktOTY5T0JMMkduLURHUGhwWGEwNEVjVENBX1NhQmlQeGhtX05jNkxKLWxpbGZ4ODZubGZBbHZCZk5xcVNBNXNLUUE?oc=5",
+      "outlet": "bodrum haber merkezi",
+      "domain": "news.google.com",
+      "published_at": "2026-11-18T18:17:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "COP31'de deniz çayırları için kritik çağrı bodrum haber merkezi",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "baseline": false
+    },
+    {
+      "id": "4ea12c367295469d23",
+      "title": "Projeto de Recuperação no Sado Salva 1.500 m² de Pradarias Marinhas - SAPO",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb3hyX0xiUUEybDdvVWUzc2xVY3lVYm4ySTFNNzdrc2hWQlhmaDBLMGZneFBCTTVpeTRyN0xPN05fUFVzMmVjYzlNX2JCeGd5Z3BFNEhOSXJHWkJYM1drMEMxLW5JakxqY2NEMnd4MFdMaGNCQndEQlFsYUx0WHI0THhSVkhZdGVXR183TlIxekVDbzE0emNpNVVCb2txNVU5bGhUMEVJMGdwbmRKS05QUFFVbzZ3bDBmX3c?oc=5",
+      "outlet": "SAPO",
+      "domain": "news.google.com",
+      "published_at": "2026-11-18T17:30:00+00:00",
+      "language": "Portuguese",
+      "source_country": "PT",
+      "image": "",
+      "description": "Projeto de Recuperação no Sado Salva 1.500 m² de Pradarias Marinhas SAPO",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Portuguese (PT)",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "baseline": false
+    },
+    {
+      "id": "8c3ab7f9398689f1a9",
+      "title": "Ocean Alive salva quase 1.500 m² de pradarias marinhas no Sado - Beachcam",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOel9EZ2VkWVJsTk5MWWVXYmoxSWZTWjZyd1Y1SFVFaC11OFlwOHdOWVU0eFJseUZrcGJnNHB2SU5iMFk5bWNTMVUzWGViNDJ2dXlnaVpIYnA3bFFUdGhhWEROckNGZ0hHMmFwWFd5WHdqOEFRTzBEZUdjRnV0YjZoVW54Qjh1a2Ntb1VzWXNQak5qaUlmNHp1alFXZERXWEJibHhWRzhrY3VPUlk0YnFjbTBLX3NuZEE?oc=5",
+      "outlet": "Beachcam",
+      "domain": "news.google.com",
+      "published_at": "2026-11-18T15:07:15+00:00",
+      "language": "Portuguese",
+      "source_country": "PT",
+      "image": "",
+      "description": "Ocean Alive salva quase 1.500 m² de pradarias marinhas no Sado Beachcam",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Portuguese (PT)",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "baseline": false
+    },
     {
       "id": "8920a93e4ea984967a",
       "title": "İzmir Haberleri - COP31'de deniz çayırları için kritik çağrı - Yerel Haberler - Hürriyet",
@@ -26,7 +244,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -122,7 +340,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -146,7 +364,31 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "baseline": false
+    },
+    {
+      "id": "04c25fbbd7a3ecee54",
+      "title": "COP31'de Deniz Çayırları İçin Kritik Çağrı - Bodrum Kent TV",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM2xyVHB6MnF6Y0ZXOXozWnM5TGF3YU5EQmhYR2pZUFNwSU1uZmNMNXV4ZVhnak0yc0gwanNCZGtqaElpbTB2TG8yUy1ZQ3VPTnJsMGVNcXdXME9NLXFaUUhqYk9iUzUxQVZubkdqeklwTi1JMnItcUR6M2ZYZlBladIBhgFBVV95cUxNdjBycERyV3FXcUxCcU9tMmtqVXRzaWVhVExJYXcxdkUtdkxpS3VHdFlIUE5BZTNYTlFnVThtVFlqS0FFZ2E2YndqOGJRaXZnaDIyWlRzaFpRSzc0MlFBaXd6NVFtb1p3VDVIRDdFTHhOWTducWdOMGo3TjUzV3pMcDU2akpjdw?oc=5",
+      "outlet": "Bodrum Kent TV",
+      "domain": "news.google.com",
+      "published_at": "2026-11-18T07:47:00+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "COP31'de Deniz Çayırları İçin Kritik Çağrı Bodrum Kent TV",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -170,7 +412,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -194,7 +436,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -218,7 +460,31 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "baseline": false
+    },
+    {
+      "id": "c99ddeb31ebbfe3a99",
+      "title": "Sado recupera parte do que perdeu: projeto salva quase 1.500 m² de pradarias marinhas - Diário do Distrito",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2FwYVExbEItaDhrUF9HWDBBbXF2UV9MNFlyMXg1THcxeVBqZFpKcW1nWEc0UHIwOXc4aER3c2F1ZnNnVTlBc1RMdWRvblRRQlE2NmZGYnpHemJJc0ExNjV6YXRJbGRWLWxBYlJwX2liekg4MlludUdETUlpWDJ3X0p3?oc=5",
+      "outlet": "Diário do Distrito",
+      "domain": "news.google.com",
+      "published_at": "2026-11-17T20:36:55+00:00",
+      "language": "Portuguese",
+      "source_country": "PT",
+      "image": "",
+      "description": "Sado recupera parte do que perdeu: projeto salva quase 1.500 m² de pradarias marinhas Diário do Distrito",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Portuguese (PT)",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -266,7 +532,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -290,7 +556,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -314,7 +580,32 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-19",
+      "baseline": false
+    },
+    {
+      "id": "d1e8fbe694ccb2c62b",
+      "title": "Seagrass, Science and Summer: Externs Tackle Coastal Conservation in Woods Hole Marine Lab - Florida Atlantic University",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NWWZUODdFQTYycjdPYVdFQzFYTUdyZVJCVGplalVPTVVlLWZaZXVXa1JZMXh3RjNrVVUtSlBpS0hkUzhzYlUyb3dVMnVpQTFsdXBwQ0tQMjhxWUg5aWZYeEdkME5tLXZHNE96YnNRRjVQNlY5X2pYdVR3?oc=5",
+      "outlet": "Florida Atlantic University",
+      "domain": "news.google.com",
+      "published_at": "2026-11-16T19:43:01+00:00",
+      "language": "Swahili",
+      "source_country": "KE",
+      "image": "",
+      "description": "Seagrass, Science and Summer: Externs Tackle Coastal Conservation in Woods Hole Marine Lab Florida Atlantic University",
+      "themes": [
+        "Conservation & policy",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Swahili (KE)",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -362,7 +653,7 @@
       ],
       "search_route": "Google News Portuguese (BR)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -386,7 +677,7 @@
       ],
       "search_route": "Google News Polish (PL)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -460,7 +751,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -484,7 +775,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -508,7 +799,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -532,7 +823,7 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -604,7 +895,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -1116,7 +1407,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "baseline": false
     },
     {
@@ -22204,23 +22495,23 @@
     "languages": [
       [
         "English",
-        338
+        339
       ],
       [
         "Indonesian",
         109
       ],
       [
+        "Turkish",
+        71
+      ],
+      [
         "German",
         70
       ],
       [
-        "Turkish",
-        69
-      ],
-      [
         "Japanese",
-        65
+        67
       ],
       [
         "Korean",
@@ -22228,11 +22519,11 @@
       ],
       [
         "Chinese",
-        49
+        50
       ],
       [
         "Spanish",
-        39
+        40
       ],
       [
         "Italian",
@@ -22240,15 +22531,19 @@
       ],
       [
         "Dutch",
-        19
+        20
       ],
       [
         "Portuguese",
-        12
+        15
       ],
       [
         "Thai",
         11
+      ],
+      [
+        "Swahili",
+        9
       ],
       [
         "Hindi",
@@ -22257,10 +22552,6 @@
       [
         "Vietnamese",
         9
-      ],
-      [
-        "Swahili",
-        8
       ],
       [
         "Arabic",
@@ -22298,7 +22589,11 @@
     "countries": [
       [
         "GB",
-        155
+        156
+      ],
+      [
+        "TR",
+        71
       ],
       [
         "Indonesia",
@@ -22309,16 +22604,12 @@
         70
       ],
       [
-        "TR",
-        69
-      ],
-      [
         "United States",
         69
       ],
       [
         "JP",
-        65
+        67
       ],
       [
         "KR",
@@ -22333,20 +22624,20 @@
         37
       ],
       [
+        "CN",
+        22
+      ],
+      [
         "China",
         22
       ],
       [
-        "CN",
-        21
-      ],
-      [
         "NL",
-        19
+        20
       ],
       [
         "ES",
-        17
+        18
       ],
       [
         "Italy",
@@ -22355,6 +22646,10 @@
       [
         "United Kingdom",
         16
+      ],
+      [
+        "PT",
+        13
       ],
       [
         "US",
@@ -22373,12 +22668,12 @@
         11
       ],
       [
-        "PT",
+        "MX",
         10
       ],
       [
-        "MX",
-        10
+        "KE",
+        9
       ],
       [
         "IN",
@@ -22390,10 +22685,6 @@
       ],
       [
         "India",
-        8
-      ],
-      [
-        "KE",
         8
       ],
       [
@@ -22544,7 +22835,7 @@
       ],
       [
         "Yahoo!ニュース",
-        8
+        9
       ],
       [
         "NDR.de",
@@ -22647,6 +22938,14 @@
         4
       ],
       [
+        "SAPO",
+        3
+      ],
+      [
+        "Florida Atlantic University",
+        3
+      ],
+      [
         "ライブドアニュース",
         3
       ],
@@ -22715,22 +23014,14 @@
         3
       ],
       [
-        "Hürriyet",
-        2
-      ],
-      [
-        "MetroTVNews.com",
-        2
-      ],
-      [
-        "Coastal Review",
+        "Excite エキサイト",
         2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        695
+        704
       ],
       [
         "Restoration",
@@ -22738,11 +23029,11 @@
       ],
       [
         "Science & discovery",
-        53
+        54
       ],
       [
         "Conservation & policy",
-        49
+        51
       ],
       [
         "Wildlife & biodiversity",
@@ -22750,7 +23041,7 @@
       ],
       [
         "Development & infrastructure",
-        37
+        38
       ],
       [
         "Climate & heat",
@@ -22776,7 +23067,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        628
+        640
       ],
       [
         "GDELT",
