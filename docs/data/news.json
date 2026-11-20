@@ -1,10 +1,130 @@
 {
-  "generated_at": "2026-11-19T14:40:21.944546+00:00",
+  "generated_at": "2026-11-20T14:20:53.549097+00:00",
   "baseline_complete": true,
-  "article_count": 930,
-  "new_today": 12,
+  "article_count": 937,
+  "new_today": 7,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "36dc3fb4f24eea7532",
+      "title": "Shandong'da 100 hektardan fazla deniz çayırı restore edildi, kuğu sayısı yükseldi - Son Dakika",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZllSY1AtZHVod2kyb09zSzRIaF8tRFVVdHo3dHFJUnNIb0N0NGllM0ZmNlF2ZnFNTS13NlRQRkJlZDJhQV8wa2lrTTA4TVB0QUtPdVE4WllEZUFkSjYyU0V4SWh6UjlnTElFTEh0QldPV1ZLcEFxaklrX2w3dk1SSWc5TzBKRHZRaHZ1aEdrdFNMQThjRW1OWVg4aFU3LXJL0gGcAUFVX3lxTE01S3M1a1lEUDdXbmhNZkRpVWxPcEttblNtUXpxV0swZkk2YUNfWHVHLVpOcHZ3cDVtT2lrZngyekE5OUhGZlJ1elY0aVJWdUxSQVJIemQtQ2xqYllqbFlCcEVCbHpmUk02SmtMLWl6R3FGak5ESDdab29raHZlZnpaUkJJUE9maUYwQ2xLZ2xpQVBBZFF6RTQ5YW5KaQ?oc=5",
+      "outlet": "Son Dakika",
+      "domain": "news.google.com",
+      "published_at": "2026-11-20T13:39:52+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Shandong'da 100 hektardan fazla deniz çayırı restore edildi, kuğu sayısı yükseldi Son Dakika",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "baseline": false
+    },
+    {
+      "id": "139e038dd177b72087",
+      "title": "Seagrass: An underrated marine superstar - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEFlWXNpNi1fbVlRY1dXaEJqcTRvM0lObG9xN1JfQkRCeExDT0JMZm5IdXdBNW0ybTJDQVh4MVFsN3lqNV8yX1JRX2pVTGZ4OWUtd0ktVUN2NDdzVG1rNXNoXzY3TGtDN2ZxRFlWeTF1NklRWjJfMENvbGRJWE5JMEd3?oc=5",
+      "outlet": "DW.com",
+      "domain": "news.google.com",
+      "published_at": "2026-11-20T10:42:07+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Seagrass: An underrated marine superstar DW.com",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "baseline": false
+    },
+    {
+      "id": "7fbbbcac1324bbece6",
+      "title": "Burgers’ Zoo vecht tegen algen in zeegrasaquarium met hulp van stofzuigende duikers - De Gelderlander",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMTFwLUJKSGp5dVRqcXgxRWlmVExZR2l5X0h3czA1MVFWZXNMSnhuTGxlNXFLWEZvc1NEMTB6T1RYbWYtcGJiTUNzWlI1c0tlMENPWW9wd0VMUG9DVTdjLXltcmVsY2dEeWNaYld4VTJ3MzU2ZnJkX3JqRGNhRDlvclp6bnJyS0VFYjZJTDlTN2FDdFlOaXZIdVpBcmgtUVU0bzdQc0lnamNFQXlYLVpHVmpIQkFCSFhROGFfRndfekZFMHhsN1E?oc=5",
+      "outlet": "De Gelderlander",
+      "domain": "news.google.com",
+      "published_at": "2026-11-20T07:45:06+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Burgers’ Zoo vecht tegen algen in zeegrasaquarium met hulp van stofzuigende duikers De Gelderlander",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "baseline": false
+    },
+    {
+      "id": "523eef3c66b0ce5f43",
+      "title": "The grass is not greener: Saving Malaysia's seagrass key to reviving marine ecology - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS0RCdDN0WnVhdk5iaDNQMU1xRDNPbzBzdnBqUXo0X2prN3dYcFBzbHNUTEQ3RVdjWXJsZmpjdEpLcmx3Wm0wd1lLZVJmOEpTVDhmcXBFMkVGSWhJcHVSc1Vub3pjY3FvLWhVY2pyYjZ6ZXloT3J6UFhET3VUYWowT3ZfUkpiOUJiNFVSLVN3?oc=5",
+      "outlet": "The Straits Times",
+      "domain": "news.google.com",
+      "published_at": "2026-11-19T21:00:00+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "The grass is not greener: Saving Malaysia's seagrass key to reviving marine ecology The Straits Times",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "baseline": false
+    },
+    {
+      "id": "0ffeada775bba6aa91",
+      "title": "Turizm Cenneti Bodrum'da Deniz Çayırlarını Eden Yapılaşma, Kirlilik ve Yoğun Tekne Trafiği COP31 Gündemine Taşındı - Muğla Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXhzQ1ZjUEplbk84U3ZQbzR2azdWR2dhbHl0bVg3TkdCYXRlWGpGdEZoVzNPcldBc3FsZ1lteUNKai1meUYtSmtlU09TTnFFVHU5bXlNc3RwY2UtSXNtRm8ybjRHY0N5LUR3TjltYTFNX1gwZWduc0xQdmZTMWNBN3pGNlJjeEdsYURaY1dMbkdCMjUyTE9MNmRaOWR5aTRlZEF1SFB4RDE4VjIwYlM3SFhUU0o5QjBJa3VRYXViWUlQZlho?oc=5",
+      "outlet": "Muğla Gazetesi",
+      "domain": "news.google.com",
+      "published_at": "2026-11-19T20:46:42+00:00",
+      "language": "Turkish",
+      "source_country": "TR",
+      "image": "",
+      "description": "Turizm Cenneti Bodrum'da Deniz Çayırlarını Eden Yapılaşma, Kirlilik ve Yoğun Tekne Trafiği COP31 Gündemine Taşındı Muğla Gazetesi",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Turkish (TR)",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "baseline": false
+    },
     {
       "id": "0879d0ba76838dc93e",
       "title": "Teulada Moraira mejora el índice de conservación de Posidonia oceanica - elperiodic.com",
@@ -28,7 +148,33 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
+      "baseline": false
+    },
+    {
+      "id": "2df1f879cb9424acb1",
+      "title": "Area marina protetta delle Cinque Terre: la posidonia oceanica è in fiore - Città della Spezia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdEZzaFpObWNGdGczRm1vbG9FU1NSWHA2d2pxdXNEeXdXdzRlT25vd2taMkV4R2t4TldrUHBUVDRFclZyWkFSRFlscmlOcDVsMVZPbGdsRU5NLWZLRlM0ZEVjREdkaTEtdTFoOENPc3ZUWEFsN3doWU9nVU4ybkM4RVBNUi1hRFFVbUhNTU9iYk5KUTEza3Z1aHYyN2pQVU9oczI0Q01PMHhHRkR2enl1enJkXzY5LThOMWs4R0dlbmZXdw?oc=5",
+      "outlet": "Città della Spezia",
+      "domain": "news.google.com",
+      "published_at": "2026-11-19T13:25:00+00:00",
+      "language": "Italian",
+      "source_country": "IT",
+      "image": "",
+      "description": "Area marina protetta delle Cinque Terre: la posidonia oceanica è in fiore Città della Spezia",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Italian (IT)",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -52,7 +198,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -76,7 +222,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -100,7 +246,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -124,7 +270,31 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
+      "baseline": false
+    },
+    {
+      "id": "84eada0340b353a886",
+      "title": "海のゆりかご「アマモ」藻場は減少 種とカキ殻包み”アマモ団子”作戦で再生に取り組む「継続が大事」広島 - FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwdXFtdDRMUEdZSGpQeWNCeUpDZzRDcXlEZEprdng1SVJoSXhqQlZYWUtRYWs1RnAtNkNCXzNJSzBYSm1GVlVvb1g0NWJOZw?oc=5",
+      "outlet": "FNNプライムオンライン",
+      "domain": "news.google.com",
+      "published_at": "2026-11-19T09:30:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "海のゆりかご「アマモ」藻場は減少 種とカキ殻包み”アマモ団子”作戦で再生に取り組む「継続が大事」広島 FNNプライムオンライン",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -148,7 +318,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -172,7 +342,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -196,7 +366,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -220,7 +390,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -244,7 +414,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -340,7 +510,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -388,7 +558,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -412,7 +582,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -460,7 +630,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -484,7 +654,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -508,7 +678,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -532,7 +702,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -556,7 +726,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -605,7 +775,7 @@
       ],
       "search_route": "Google News Swahili (KE)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -653,7 +823,7 @@
       ],
       "search_route": "Google News Portuguese (BR)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -677,7 +847,7 @@
       ],
       "search_route": "Google News Polish (PL)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -751,7 +921,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -775,7 +945,7 @@
       ],
       "search_route": "Google News Chinese (CN)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -799,7 +969,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -823,7 +993,7 @@
       ],
       "search_route": "Google News Spanish (MX)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "baseline": false
     },
     {
@@ -22495,7 +22665,7 @@
     "languages": [
       [
         "English",
-        339
+        341
       ],
       [
         "Indonesian",
@@ -22503,7 +22673,7 @@
       ],
       [
         "Turkish",
-        71
+        73
       ],
       [
         "German",
@@ -22511,7 +22681,7 @@
       ],
       [
         "Japanese",
-        67
+        68
       ],
       [
         "Korean",
@@ -22527,11 +22697,11 @@
       ],
       [
         "Italian",
-        27
+        28
       ],
       [
         "Dutch",
-        20
+        21
       ],
       [
         "Portuguese",
@@ -22589,11 +22759,11 @@
     "countries": [
       [
         "GB",
-        156
+        158
       ],
       [
         "TR",
-        71
+        73
       ],
       [
         "Indonesia",
@@ -22609,7 +22779,7 @@
       ],
       [
         "JP",
-        67
+        68
       ],
       [
         "KR",
@@ -22633,7 +22803,7 @@
       ],
       [
         "NL",
-        20
+        21
       ],
       [
         "ES",
@@ -22656,11 +22826,11 @@
         13
       ],
       [
-        "TH",
-        11
+        "IT",
+        12
       ],
       [
-        "IT",
+        "TH",
         11
       ],
       [
@@ -22842,6 +23012,10 @@
         8
       ],
       [
+        "DW.com",
+        7
+      ],
+      [
         "The Times of India",
         7
       ],
@@ -22854,11 +23028,11 @@
         7
       ],
       [
-        "ｄメニューニュース",
+        "Son Dakika",
         6
       ],
       [
-        "DW.com",
+        "ｄメニューニュース",
         6
       ],
       [
@@ -22875,10 +23049,6 @@
       ],
       [
         "日テレNEWS NNN",
-        5
-      ],
-      [
-        "Son Dakika",
         5
       ],
       [
@@ -23014,18 +23184,18 @@
         3
       ],
       [
-        "Excite エキサイト",
+        "Muğla Gazetesi",
         2
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        704
+        710
       ],
       [
         "Restoration",
-        62
+        63
       ],
       [
         "Science & discovery",
@@ -23067,7 +23237,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        640
+        647
       ],
       [
         "GDELT",
