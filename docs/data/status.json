@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:20:53.549097+00:00",
+  "generated_at": "2026-11-21T13:41:48.373237+00:00",
   "baseline_mode": false,
   "sources": {
     "gdelt": {
@@ -11,14 +11,11 @@
     },
     "google_news_rss": {
       "name": "Google News RSS",
-      "ok": false,
-      "fetched": 1613,
-      "kept": 34,
-      "feeds": 56,
-      "errors": [
-        "French/FR: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=herbiers+marins+OR+phan%C3%A9rogames+m",
-        "Hindi/IN: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%A6%E"
-      ]
+      "ok": true,
+      "fetched": 1891,
+      "kept": 36,
+      "feeds": 58,
+      "errors": []
     }
   },
   "coverage": {
