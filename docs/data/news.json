@@ -1,10 +1,132 @@
 {
-  "generated_at": "2026-11-21T13:41:48.373237+00:00",
+  "generated_at": "2026-11-22T13:35:33.433382+00:00",
   "baseline_complete": true,
-  "article_count": 948,
+  "article_count": 959,
   "new_today": 11,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "0b6fc536622c0d574a",
+      "title": "Mazotos residents protest planned desalination plant",
+      "url": "https://cyprus-mail.com/2026/11/22/mazotos-residents-protest-planned-desalination-plant",
+      "outlet": "cyprus-mail.com",
+      "domain": "cyprus-mail.com",
+      "published_at": "2026-11-22T12:30:00+00:00",
+      "language": "English",
+      "source_country": "Cyprus",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "baseline": false
+    },
+    {
+      "id": "dba303599675a4869e",
+      "title": "Green sea turtles move from Endangered to Least Concern : How decades of conservation efforts helped save the marine species",
+      "url": "https://timesofindia.indiatimes.com/etimes/animals/green-sea-turtles-move-from-endangered-to-least-concern-how-decades-of-conservation-efforts-helped-save-the-marine-species/articleshow/136065085.cms",
+      "outlet": "timesofindia.indiatimes.com",
+      "domain": "timesofindia.indiatimes.com",
+      "published_at": "2026-11-22T00:30:00+00:00",
+      "language": "English",
+      "source_country": "India",
+      "image": "https://static.toiimg.com/thumb/msid-136065100,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "description": "",
+      "themes": [
+        "Conservation & policy",
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "baseline": false
+    },
+    {
+      "id": "5b3e4a9c13f65472ea",
+      "title": "Ramen Halal dan Sandal Legendaris Berkolaborasi , Hadirkan Menu dan Produk Eksklusif",
+      "url": "https://www.liputan6.com/lifestyle/read/8339447/ramen-halal-dan-sandal-legendaris-berkolaborasi-hadirkan-menu-dan-produk-eksklusif",
+      "outlet": "liputan6.com",
+      "domain": "liputan6.com",
+      "published_at": "2026-11-22T00:30:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn1-production-images-kly.akamaized.net/YGudz6RAX_FAlxdtY9k1_Ftge3k=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9402395/original/058641800_1795194327-WhatsApp_Image_2026-11-20_at_19.38.43.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "baseline": false
+    },
+    {
+      "id": "540467608171c39272",
+      "title": "空铁博弈之下 ， 小城机场的生存之路在何方 ？",
+      "url": "https://www.163.com/dy/article/LC902PE00519A56K.html",
+      "outlet": "163.com",
+      "domain": "163.com",
+      "published_at": "2026-11-22T00:30:00+00:00",
+      "language": "Chinese",
+      "source_country": "China",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "baseline": false
+    },
+    {
+      "id": "c0b8665979ec30fba2",
+      "title": "Conservation Law Foundation plans to sue EPA over Great Bay pollution",
+      "url": "https://vnews.com/2026/11/21/clf-plans-great-bay-lawsuit",
+      "outlet": "vnews.com",
+      "domain": "vnews.com",
+      "published_at": "2026-11-21T20:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/11/rss_import_101255_img_1_d4b6290869474090a92ffff1bf6bd358.jpg?fit=2560%2C1920&ssl=1",
+      "description": "",
+      "themes": [
+        "Conservation & policy",
+        "Pollution & water quality"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "baseline": false
+    },
     {
       "id": "fbad14b14eb3160376",
       "title": "Dense Seagrass Meadows Drive Marine Food Web Stability in the Qilianyu Islands - Bioengineer.org",
@@ -26,7 +148,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -50,7 +172,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -74,7 +196,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -98,7 +220,31 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
+      "baseline": false
+    },
+    {
+      "id": "26f12b744c75bafbb8",
+      "title": "KKP Jalin Komitmen Restorasi 13.500 Hektare Mangrove Dan Lamun Di COP31 - Validnews",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRDdBZDNRX20zOF9xTHNZcTVWWUpnWWs5Q1NYbW9xRUZnTzVXekFrWXFKZGJ5R2FoODU4VVFHTHFnR0VyTmtaam9MRjZpeVZURVRlcWRFLXlTUGtKSGFERmhKNFNrNFVmaElMM1QzLVVCaVVaOTRBQVVqamExbHdvdWtfWE5XRTR1VVp4dGhid2tMM1JkbldFalF2UjVaMmJMbmFsS2t6WEV2X2ljUUJEVEZHNTJRSFc5eDM5eg?oc=5",
+      "outlet": "Validnews",
+      "domain": "news.google.com",
+      "published_at": "2026-11-21T10:06:00+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "KKP Jalin Komitmen Restorasi 13.500 Hektare Mangrove Dan Lamun Di COP31 Validnews",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -122,7 +268,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -194,7 +340,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -244,7 +390,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -268,7 +414,103 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
+      "baseline": false
+    },
+    {
+      "id": "70a0d45dd3a8987d6c",
+      "title": "Karimunjawa Jepara diusulkan menjadi KEK Pariwisata Berkelanjutan",
+      "url": "https://www.antaranews.com/berita/5866979/karimunjawa-jepara-diusulkan-menjadi-kek-pariwisata-berkelanjutan",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-11-20T06:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/11/20/karimunjawa.jpg.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "baseline": false
+    },
+    {
+      "id": "0dc10e33bfa5b0aa59",
+      "title": "Promo JSM Indomaret Periode 20 - 22 November 2026 , Daia - Cadburry Diskon hingga 40 %",
+      "url": "https://momsmoney.kontan.co.id/news/promo-jsm-indomaret-periode-20-22-november-2026-daia-cadburry-diskon-hingga-40",
+      "outlet": "momsmoney.kontan.co.id",
+      "domain": "momsmoney.kontan.co.id",
+      "published_at": "2026-11-20T06:15:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://foto.kontan.co.id/TjQCgN3EyXXJWaDxhagTYnztV_o=/smart/filters:format(webp)/2026/02/13/1134397277p.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "baseline": false
+    },
+    {
+      "id": "090e8f7d5dea6f73d8",
+      "title": "Indonesia Bawa Tiga Proyek Karbon Biru ke COP31 , Ini Potensinya",
+      "url": "https://ecologic.harianjogja.com/r-1279596/indonesia-bawa-tiga-proyek-karbon-biru-ke-cop31-ini-potensinya",
+      "outlet": "ecologic.harianjogja.com",
+      "domain": "ecologic.harianjogja.com",
+      "published_at": "2026-11-20T05:30:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://imgcdn.harianjogja.com/images/posts/2026/11/20/1279596/mangrove-ist-freepik.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "baseline": false
+    },
+    {
+      "id": "70f1962194ff8ea2c9",
+      "title": "Dari pesisir ke panggung iklim , diplomasi karbon biru Indonesia",
+      "url": "https://www.antaranews.com/berita/5866599/dari-pesisir-ke-panggung-iklim-diplomasi-karbon-biru-indonesia",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-11-20T03:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/11/18/WhatsApp-Image-2026-11-18-at-08.24.09.jpeg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -292,7 +534,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -316,7 +558,31 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
+      "baseline": false
+    },
+    {
+      "id": "5fa7533d3bdae80a29",
+      "title": "Between Valencia And Alicante Is A Lesser - Known Escape With Seaside Beauty , Sandy Beaches , And Lively Dining",
+      "url": "https://www.aol.com/articles/between-valencia-alicante-lesser-known-154500000.html",
+      "outlet": "aol.com",
+      "domain": "aol.com",
+      "published_at": "2026-11-19T19:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "https://hermes.media.static.aol.com/media/2026/11/19/55ccebac-257f-349d-b6b8-c999fd9fad9a/eff55c13-1c12-4620-a7d9-3698ed0ad8b8.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -340,7 +606,7 @@
       ],
       "search_route": "Google News French (FR)",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -366,7 +632,7 @@
       ],
       "search_route": "Google News Spanish (ES)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -442,7 +708,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -466,7 +732,7 @@
       ],
       "search_route": "Google News Dutch (NL)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -514,7 +780,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -610,7 +876,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -658,7 +924,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -682,7 +948,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -778,7 +1044,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -802,7 +1068,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -826,7 +1092,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -850,7 +1116,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -874,7 +1140,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -898,7 +1164,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -922,7 +1188,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -970,7 +1236,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -1189,7 +1455,7 @@
       ],
       "search_route": "Google News Turkish (TR)",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "baseline": false
     },
     {
@@ -22933,11 +23199,11 @@
     "languages": [
       [
         "English",
-        342
+        346
       ],
       [
         "Indonesian",
-        114
+        120
       ],
       [
         "Turkish",
@@ -22957,7 +23223,7 @@
       ],
       [
         "Chinese",
-        50
+        51
       ],
       [
         "Spanish",
@@ -23030,12 +23296,16 @@
         159
       ],
       [
+        "Indonesia",
+        75
+      ],
+      [
         "TR",
         73
       ],
       [
-        "Indonesia",
-        70
+        "United States",
+        71
       ],
       [
         "DE",
@@ -23046,27 +23316,23 @@
         69
       ],
       [
-        "United States",
-        69
-      ],
-      [
         "KR",
         53
       ],
       [
         "ID",
-        51
+        52
       ],
       [
         "Australia",
         37
       ],
       [
-        "CN",
-        22
+        "China",
+        23
       ],
       [
-        "China",
+        "CN",
         22
       ],
       [
@@ -23110,6 +23376,10 @@
         10
       ],
       [
+        "India",
+        9
+      ],
+      [
         "KE",
         9
       ],
@@ -23120,10 +23390,6 @@
       [
         "VN",
         9
-      ],
-      [
-        "India",
-        8
       ],
       [
         "AE",
@@ -23198,6 +23464,10 @@
         2
       ],
       [
+        "Cyprus",
+        1
+      ],
+      [
         "Cayman Islands",
         1
       ],
@@ -23261,7 +23531,7 @@
       ],
       [
         "antaranews.com",
-        16
+        18
       ],
       [
         "Bioengineer.org",
@@ -23278,6 +23548,10 @@
       [
         "NDR.de",
         8
+      ],
+      [
+        "liputan6.com",
+        7
       ],
       [
         "DW.com",
@@ -23304,10 +23578,6 @@
         6
       ],
       [
-        "liputan6.com",
-        6
-      ],
-      [
         "Phys.org",
         6
       ],
@@ -23318,6 +23588,18 @@
       [
         "日テレNEWS NNN",
         5
+      ],
+      [
+        "timesofindia.indiatimes.com",
+        4
+      ],
+      [
+        "163.com",
+        4
+      ],
+      [
+        "momsmoney.kontan.co.id",
+        4
       ],
       [
         "Palawan News",
@@ -23388,10 +23670,6 @@
         3
       ],
       [
-        "timesofindia.indiatimes.com",
-        3
-      ],
-      [
         "yoursun.com",
         3
       ],
@@ -23424,10 +23702,6 @@
         3
       ],
       [
-        "163.com",
-        3
-      ],
-      [
         "뉴스탭",
         3
       ],
@@ -23437,10 +23711,6 @@
       ],
       [
         "idw - Informationsdienst Wissenschaft",
-        3
-      ],
-      [
-        "momsmoney.kontan.co.id",
         3
       ],
       [
@@ -23459,11 +23729,11 @@
     "themes": [
       [
         "General seagrass news",
-        719
+        727
       ],
       [
         "Restoration",
-        65
+        66
       ],
       [
         "Science & discovery",
@@ -23471,11 +23741,11 @@
       ],
       [
         "Conservation & policy",
-        51
+        53
       ],
       [
         "Wildlife & biodiversity",
-        39
+        40
       ],
       [
         "Development & infrastructure",
@@ -23491,7 +23761,7 @@
       ],
       [
         "Pollution & water quality",
-        10
+        11
       ],
       [
         "Fisheries & food",
@@ -23505,11 +23775,11 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        658
+        659
       ],
       [
         "GDELT",
-        293
+        303
       ]
     ]
   }
