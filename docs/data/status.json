@@ -1,26 +1,21 @@
 {
-  "generated_at": "2026-11-22T13:35:33.433382+00:00",
+  "generated_at": "2026-11-23T16:28:02.411094+00:00",
   "baseline_mode": false,
   "sources": {
     "gdelt": {
       "name": "GDELT",
       "ok": false,
-      "fetched": 10,
-      "kept": 10,
+      "fetched": 0,
+      "kept": 0,
       "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22Cymodocea+nodosa%22+OR+%22Cymodocea+serrulata%22+OR+%22Enhalus+acoroides%22+OR+%22Syringodium+filiforme%22+OR+Phyllospadix%29&mode=artlist&format=json&maxrecords=250&timespan=4d&sort=datedesc"
     },
     "google_news_rss": {
       "name": "Google News RSS",
-      "ok": false,
-      "fetched": 1784,
-      "kept": 28,
-      "feeds": 54,
-      "errors": [
-        "Portuguese/BR: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=seagrass+OR+Halodule+OR+Halophila&hl=p",
-        "Dutch/NL: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Zostera+marina%22&hl=nl&gl=NL&ceid=",
-        "Danish/DK: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%C3%A5legr%C3%A6s&hl=no&gl=NO&ceid=NO:",
-        "Polish/PL: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Zostera&hl=pl&gl=PL&ceid=PL%3Apl"
-      ]
+      "ok": true,
+      "fetched": 1796,
+      "kept": 21,
+      "feeds": 58,
+      "errors": []
     }
   },
   "coverage": {
