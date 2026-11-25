@@ -1,10 +1,322 @@
 {
-  "generated_at": "2026-11-24T16:23:12.881053+00:00",
+  "generated_at": "2026-11-25T16:01:52.840078+00:00",
   "baseline_complete": true,
-  "article_count": 972,
-  "new_today": 9,
+  "article_count": 989,
+  "new_today": 17,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "f7abfd552dd10faf7b",
+      "title": "캠코,통영\"해양숲 조성\"위해 선촌어촌계...'잘피2천주 이식' - 한스경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFdE5DYmJSZE9BdVJXWjZiNk1heEhjS2RzUlU1VVJKSVp4RUNiOVhPVzA1bTgteXQyOG8zRWhTci1RQjIwZ3pqSm1QZlNIbGZzaTkzQ282YUVWX2VfVmVjMXM0c3RBYXpRMHFERg?oc=5",
+      "outlet": "한스경제",
+      "domain": "news.google.com",
+      "published_at": "2026-11-25T13:00:36+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "캠코,통영\"해양숲 조성\"위해 선촌어촌계...'잘피2천주 이식' 한스경제",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "6e05c068f67e36f8c7",
+      "title": "한국자산관리공사, 통영에 잘피 2000주…연간 탄소 25톤 저감 기대 - 뉴스타운",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fd09GQzdmdkgxRWx2X1locjZCcGRaY3ZsOWstU0NSRlVFR29ObktiYW9BM1NndXQ3VjJIdkRFZVZDeDBZb0FPbloyZklReGZyRGQzLVhzX2tkUUZmWk10NFU3cGM2blp6NU9WVy1B?oc=5",
+      "outlet": "뉴스타운",
+      "domain": "news.google.com",
+      "published_at": "2026-11-25T12:50:18+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "한국자산관리공사, 통영에 잘피 2000주…연간 탄소 25톤 저감 기대 뉴스타운",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "ecf19217e0252ea2b4",
+      "title": "[함께가자 우리ESG] 캠코, 통영 해양구역에 잘피숲 조성 - 뉴스락",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90NzlUbElWV2lRWER2WE9tUDAtUUNnSGdlQ2hmQXBSVWNGWEsyZGhqTzJFaGJIaFU4dmJ5TXl1T0pGb0Npc1ZPaFFMSnhTU3BoMlF6QXFuc3phX1R4M0xpRWtyQUEteS00QTVuUA?oc=5",
+      "outlet": "뉴스락",
+      "domain": "news.google.com",
+      "published_at": "2026-11-25T08:04:00+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "[함께가자 우리ESG] 캠코, 통영 해양구역에 잘피숲 조성 뉴스락",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "fd1775898b1c5ea377",
+      "title": "캠코, 통영 해양보호구역 잘피숲 조성... 탄소 저감, 해양 생태계 복원 지원 - 가야일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUWl3MkxfcGYwMlN0QXlPS1FiQW1lR3V4UGNzeUtSUU5YWlFVb0hpbEZEVF9lNFFGVzA2NkNsUGx2Tk1sWUFWN2U2RkVFeFhDVG4wbVVZV3BFX192TDZPZGhGbnFuR1la?oc=5",
+      "outlet": "가야일보",
+      "domain": "news.google.com",
+      "published_at": "2026-11-25T06:33:00+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "캠코, 통영 해양보호구역 잘피숲 조성... 탄소 저감, 해양 생태계 복원 지원 가야일보",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "226d26dcc402e896c8",
+      "title": "Sengketa Sewa Tambak Rp175 Juta , Pengusaha Rumput Laut Surabaya Laporkan Pemilik Lahan ke Polisi",
+      "url": "https://beritajatim.com/sengketa-sewa-tambak-rp175-juta-pengusaha-rumput-laut-surabaya-laporkan-pemilik-lahan-ke-polisi",
+      "outlet": "beritajatim.com",
+      "domain": "beritajatim.com",
+      "published_at": "2026-11-25T05:45:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://beritajatim.com/wp-content/uploads/2026/11/polrestabes.webp",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "30c4a51927aeaeacea",
+      "title": "Guru pencetak generasi penyelamat laut Indonesia",
+      "url": "https://www.antaranews.com/berita/5876707/guru-pencetak-generasi-penyelamat-laut-indonesia",
+      "outlet": "antaranews.com",
+      "domain": "antaranews.com",
+      "published_at": "2026-11-25T05:15:00+00:00",
+      "language": "Indonesian",
+      "source_country": "Indonesia",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2026/11/25/1000310865.jpg",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "aff88fc6f2281c7dce",
+      "title": "캠코, 통영 해역에 잘피숲 조성…블루카본 확대 나서 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBUVhqOV9aVzJxZlJnQ2pVaDBCek9EYTZjZnQ0YlhFY1V6RzlmbklnYnp4ZXFaNW8tUkdudEtmT3ZCQUZHVzhwUzJsVUVjd0d0Ny1hc3ByeUZ5c2VKbThUX1FORzQ?oc=5",
+      "outlet": "매일일보",
+      "domain": "news.google.com",
+      "published_at": "2026-11-25T04:43:38+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "캠코, 통영 해역에 잘피숲 조성…블루카본 확대 나서 매일일보",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "90da43bcda5f69169a",
+      "title": "캠코, 통영 해양보호구역에 잘피숲 조성…연간 탄소 25t 저감 기대 - 국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByY1pyN09yZTVDTFJ4d1RtRTNqS3NWcjBReEE3THdqTjdHRzlIV3l2d0N4ejl3ZXdzTEw0RXN6VXFCTkpHSmhtYThJRkdnMXJyVFhIMnlla3ZqQkRQeUF4QWxQZXBNUEhoc0hINzNR?oc=5",
+      "outlet": "국제뉴스",
+      "domain": "news.google.com",
+      "published_at": "2026-11-25T04:18:41+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "캠코, 통영 해양보호구역에 잘피숲 조성…연간 탄소 25t 저감 기대 국제뉴스",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "58719c97e59ffab6fb",
+      "title": "浜名湖の海草「アマモ」による二酸化炭素吸収の可能性など紹介 脱炭素社会へセミナー=浜松市中央区（静岡放送（SBS）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aUFFGel9VUFpFM3U3OWh4VTR0bTg0eFduOXF0Q0pSN19xbnk1M0MyaC1GTFM4a3RCQUp6S1g2Q1JIV0pxN2ZRV2VBSHc4RlRESWZkby1jZkQyR0pRbGVfc2dMU1hvbDdvT0N2cDVuWTk1RTQ5Zy1idnVRUkY1SjA?oc=5",
+      "outlet": "Yahoo!ニュース",
+      "domain": "news.google.com",
+      "published_at": "2026-11-25T02:57:16+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "浜名湖の海草「アマモ」による二酸化炭素吸収の可能性など紹介 脱炭素社会へセミナー=浜松市中央区（静岡放送（SBS）） Yahoo!ニュース",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "ee209e214d42dbd857",
+      "title": "浜名湖の海草「アマモ」による二酸化炭素吸収の可能性など紹介 脱炭素社会へセミナー＝浜松市中央区 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4WUpPMUhheEpOSDZlamNyeERrRnk0Y0F0SGlaa0J1Zkd2V3EwQXU1T3FWRGZpZ1g4MnhvYUtiMzdZWmtCd2dvU2QxY28yb2ZlLTZYbjFJSQ?oc=5",
+      "outlet": "TBS NEWS DIG",
+      "domain": "news.google.com",
+      "published_at": "2026-11-25T02:30:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "浜名湖の海草「アマモ」による二酸化炭素吸収の可能性など紹介 脱炭素社会へセミナー＝浜松市中央区 TBS NEWS DIG",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "98163ae564389888f0",
+      "title": "Miral inspires youth with ‘Voices of Seagrass’ initiative - Travel Daily Media",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0JZc3IxVGZCQmtGSFI4d0k1SE9GRXBpeWdOemRRQnF6UEtPX0tPNmwzWUc2cHNxMG56ZUNUekZUWEZYcDNxSlZIbk9DdTFkb1BJYUZEakFaMmhDZjI3VXpieWRNVEVPQXRGYTdFcXlEZjNUZC1vQzNVbUNRQjl2UV9XX0xEMWFickRMYUFid01FUjA?oc=5",
+      "outlet": "Travel Daily Media",
+      "domain": "news.google.com",
+      "published_at": "2026-11-24T23:12:29+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Miral inspires youth with ‘Voices of Seagrass’ initiative Travel Daily Media",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "aea62dd7bf18476c62",
+      "title": "Juan Manuel Ruiz Fernández ( CSIC ): El Mar Menor es un « ejemplo de libro » del colapso costero",
+      "url": "https://www.elmercuriodigital.net/2026/11/juan-manuel-ruiz-fernandez-csic-el-mar.html",
+      "outlet": "elmercuriodigital.net",
+      "domain": "elmercuriodigital.net",
+      "published_at": "2026-11-24T22:30:00+00:00",
+      "language": "Spanish",
+      "source_country": "Spain",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "72b26289e4feb13c28",
+      "title": "いのち環（めぐ）る浜名湖＝カーボンクレジット創出 アマモの役割 紹介 浜松で静銀セミナー - 静岡新聞DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zYjQxdHF4U0JTMkJDUTRwU2Jza3dlRVBwSFNjeUJmb2FoYnpwMm9jUHUyMjU5Um5ILVEzamJHT3IzRDdBZkRVZHVlWFNGQQ?oc=5",
+      "outlet": "静岡新聞DIGITAL",
+      "domain": "news.google.com",
+      "published_at": "2026-11-24T21:00:00+00:00",
+      "language": "Japanese",
+      "source_country": "JP",
+      "image": "",
+      "description": "いのち環（めぐ）る浜名湖＝カーボンクレジット創出 アマモの役割 紹介 浜松で静銀セミナー 静岡新聞DIGITAL",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Japanese (JP)",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
     {
       "id": "65ef8f9d16d33c32e4",
       "title": "Seagrass Rhizome Extract Inhibits Escherichia coli and Candida albicans Biofilms - Bioengineer.org",
@@ -26,7 +338,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -50,7 +362,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -74,7 +386,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -98,7 +410,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -123,7 +435,55 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "be3387a3cf03e3a442",
+      "title": "Green Overseas Programme Looks To Improve Climate Finance And Resilience For Pacific Territories",
+      "url": "https://www.scoop.co.nz/stories/WO2611/S00237/green-overseas-programme-looks-to-improve-climate-finance-and-resilience-for-pacific-territories.htm",
+      "outlet": "scoop.co.nz",
+      "domain": "scoop.co.nz",
+      "published_at": "2026-11-24T02:30:00+00:00",
+      "language": "English",
+      "source_country": "New Zealand",
+      "image": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
+      "description": "",
+      "themes": [
+        "Climate & heat"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "db749421f2630590ba",
+      "title": "wild shores of singapore : Your feedback wanted on Pasir Ris plans",
+      "url": "https://wildshores.blogspot.com/2026/11/your-feedback-wanted-on-pasir-ris-plans.html",
+      "outlet": "wildshores.blogspot.com",
+      "domain": "wildshores.blogspot.com",
+      "published_at": "2026-11-24T01:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "",
+      "description": "",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -147,7 +507,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -171,7 +531,31 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "505b44931ed8218c33",
+      "title": "Cape Coral Island Hopping Boat Rental: Protect Pine Island Sound Seagrass and Avoid Fines - PRLog",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYnhiUkNMUV9KYlhaZDBtdzB4djhVQ0d4UXlEZ0l5VUl3MGpGNGJNTk1fdlgwT1ZDR3JIS21HQzNEd2U4dFpCWUtfSXBseDVmaUFUbkQwTVNYRDhCdS1pRDAza3AzdlJja0ZlcmlVcGFUTEZKcUdXRGFVVHJwRm5nYk43V2g5MjZHc1g0UExJdEc5ZGFOYndRdXpSVlZYUFAwa0dYRnlNY0R3TDhOcUFvbUFyeDJXRDV2MjBabUVMbE41UQ?oc=5",
+      "outlet": "PRLog",
+      "domain": "news.google.com",
+      "published_at": "2026-11-23T06:56:51+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Cape Coral Island Hopping Boat Rental: Protect Pine Island Sound Seagrass and Avoid Fines PRLog",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -196,7 +580,31 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
+      "baseline": false
+    },
+    {
+      "id": "52965c5afa0af7766c",
+      "title": "Herstel zeegras - The Portugal News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX0wxTVd4OHlSWHhkbV9yVjkxVzhvbE13QTNmYXpnMVV4WFhZNEs0SnNneFJQYXpUb1JiZ21fQzBiVC1qeU8wTTJyS3VNd2RxN3dPOUJLMnRQNWlEQVFVZHhSZVl3MTM2NGlyUlpJVWZGME41RDVaM1U5Vmc1amxwRw?oc=5",
+      "outlet": "The Portugal News",
+      "domain": "news.google.com",
+      "published_at": "2026-11-22T15:44:01+00:00",
+      "language": "Dutch",
+      "source_country": "NL",
+      "image": "",
+      "description": "Herstel zeegras The Portugal News",
+      "themes": [
+        "Development & infrastructure"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Dutch (NL)",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -220,7 +628,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -244,7 +652,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -268,7 +676,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -293,7 +701,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -317,7 +725,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -341,7 +749,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -366,7 +774,7 @@
       ],
       "search_route": "GDELT translingual",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -438,7 +846,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -462,7 +870,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -486,7 +894,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -510,7 +918,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -534,7 +942,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -558,7 +966,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -606,7 +1014,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -630,7 +1038,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -2425,7 +2833,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "baseline": false
     },
     {
@@ -23513,11 +23921,15 @@
     "languages": [
       [
         "English",
-        349
+        353
       ],
       [
         "Indonesian",
-        126
+        128
+      ],
+      [
+        "Japanese",
+        73
       ],
       [
         "Turkish",
@@ -23528,12 +23940,8 @@
         72
       ],
       [
-        "Japanese",
-        70
-      ],
-      [
         "Korean",
-        53
+        59
       ],
       [
         "Chinese",
@@ -23541,7 +23949,7 @@
       ],
       [
         "Spanish",
-        41
+        42
       ],
       [
         "Italian",
@@ -23549,7 +23957,7 @@
       ],
       [
         "Dutch",
-        21
+        22
       ],
       [
         "Portuguese",
@@ -23607,11 +24015,15 @@
     "countries": [
       [
         "GB",
-        162
+        164
       ],
       [
         "Indonesia",
-        75
+        77
+      ],
+      [
+        "JP",
+        73
       ],
       [
         "TR",
@@ -23623,19 +24035,15 @@
       ],
       [
         "United States",
-        71
+        72
       ],
       [
-        "JP",
-        70
+        "KR",
+        59
       ],
       [
         "ID",
         58
-      ],
-      [
-        "KR",
-        53
       ],
       [
         "Australia",
@@ -23646,12 +24054,12 @@
         23
       ],
       [
-        "CN",
+        "NL",
         22
       ],
       [
-        "NL",
-        21
+        "CN",
+        22
       ],
       [
         "ES",
@@ -23678,11 +24086,11 @@
         13
       ],
       [
-        "TH",
-        11
+        "Spain",
+        12
       ],
       [
-        "Spain",
+        "TH",
         11
       ],
       [
@@ -23778,6 +24186,10 @@
         2
       ],
       [
+        "New Zealand",
+        1
+      ],
+      [
         "Cyprus",
         1
       ],
@@ -23845,19 +24257,19 @@
       ],
       [
         "antaranews.com",
-        18
+        19
       ],
       [
         "Bioengineer.org",
         13
       ],
       [
-        "koran-jakarta.com",
+        "Yahoo!ニュース",
         10
       ],
       [
-        "Yahoo!ニュース",
-        9
+        "koran-jakarta.com",
+        10
       ],
       [
         "NDR.de",
@@ -23976,6 +24388,18 @@
         4
       ],
       [
+        "TBS NEWS DIG",
+        3
+      ],
+      [
+        "静岡新聞DIGITAL",
+        3
+      ],
+      [
+        "wildshores.blogspot.com",
+        3
+      ],
+      [
         "SAPO",
         3
       ],
@@ -24026,24 +24450,12 @@
       [
         "Sohu",
         3
-      ],
-      [
-        "idw - Informationsdienst Wissenschaft",
-        3
-      ],
-      [
-        "L'Unione Sarda.it",
-        3
-      ],
-      [
-        "搜狐网",
-        3
       ]
     ],
     "themes": [
       [
         "General seagrass news",
-        735
+        747
       ],
       [
         "Restoration",
@@ -24051,23 +24463,23 @@
       ],
       [
         "Conservation & policy",
-        55
+        58
       ],
       [
         "Science & discovery",
         54
       ],
       [
+        "Development & infrastructure",
+        40
+      ],
+      [
         "Wildlife & biodiversity",
         40
       ],
       [
-        "Development & infrastructure",
-        39
-      ],
-      [
         "Climate & heat",
-        28
+        29
       ],
       [
         "Community & culture",
@@ -24089,11 +24501,11 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        672
+        684
       ],
       [
         "GDELT",
-        303
+        308
       ]
     ]
   }
