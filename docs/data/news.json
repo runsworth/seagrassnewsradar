@@ -1,10 +1,132 @@
 {
-  "generated_at": "2026-11-25T16:01:52.840078+00:00",
+  "generated_at": "2026-11-26T15:45:34.019835+00:00",
   "baseline_complete": true,
-  "article_count": 989,
-  "new_today": 17,
+  "article_count": 1001,
+  "new_today": 12,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "db4ae7f012db1abdba",
+      "title": "Posidonia oceanica, il tesoro sommerso della Sicilia: perché proteggerla significa salvare le nostre coste - Be Sicily Mag",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbmp0NGlDbDNzVXFPNURnMkpBZnVhN0xidHMzNzUyY2pORUJjYUtFeDg2TDJOb0dDdG90aTV2ZUM0LXBhYlFnN09zazF3UmFIVkhFTWIyQ1JoVzNqRlZiQmk1S01aZkM1RUhVM1huT1BqdTYwWUI3cFlYNHpsV0ZCQnJxUDJaMnVLRWE0UXpISzBlQW83cWJaQnZfOFVvbVJYeXVXNzVzRGZWTl9JZUVMa05IcDdBejdLQjRjVS1Pc19tU244d3I0ZVF2eWprZ0xhb2JYMWtaY3pweTdSeVVUemVUVlM?oc=5",
+      "outlet": "Be Sicily Mag",
+      "domain": "news.google.com",
+      "published_at": "2026-11-26T14:31:18+00:00",
+      "language": "Italian",
+      "source_country": "IT",
+      "image": "",
+      "description": "Posidonia oceanica, il tesoro sommerso della Sicilia: perché proteggerla significa salvare le nostre coste Be Sicily Mag",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Posidonia Oceanica"
+      ],
+      "relevance": 8,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Italian (IT)",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "baseline": false
+    },
+    {
+      "id": "ae4703929003db60bb",
+      "title": "캠코, 통영 해양보호구역에 잘피숲 조성... 탄소 저감 및 해양 생태계 복원 지원 - 마일드경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KREZUb2twVUhxUTMxRGoySzUtOGNNSjNuUVFfczhUYUdaYkswZ3Eya3B6VmlkM1ZJNTZ4eFdySllib0tPaDMxbFJmZjBPYzduR1VmZl9JMldEU3VGOV81WWdfLUo2TVhDNkw4?oc=5",
+      "outlet": "마일드경제",
+      "domain": "news.google.com",
+      "published_at": "2026-11-26T12:27:16+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "캠코, 통영 해양보호구역에 잘피숲 조성... 탄소 저감 및 해양 생태계 복원 지원 마일드경제",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "baseline": false
+    },
+    {
+      "id": "1473dfe1f32ec80cdb",
+      "title": "Build Blue plant in Boltenhagen größte Seegras-Anlage - Cleanthinking.de",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoTzR4dkIySnRUT2JyOE9CWHhCekJQSnBJc3VqWVNGUDUzeDEyN18xYmNMY1JUTmNZdHp2R3dkcXo0b3ZkV3RqSWo5MFJRWlNremhTaF8xTlJINkVDS3ZGaHJ3?oc=5",
+      "outlet": "Cleanthinking.de",
+      "domain": "news.google.com",
+      "published_at": "2026-11-26T11:00:00+00:00",
+      "language": "German",
+      "source_country": "DE",
+      "image": "",
+      "description": "Build Blue plant in Boltenhagen größte Seegras-Anlage Cleanthinking.de",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News German (DE)",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "baseline": false
+    },
+    {
+      "id": "22f1295c1a1a3ac1a5",
+      "title": "Bukan Cuma Mangrove! BRIN Temukan Padang Lamun Mampu Redam Energi Gelombang Laut hingga 60% - Industry.co.id",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWk1CaDg0ZmlBV0NPbnV3WkFzNE9MMVRyUW9XZERLX2JJQmMyUndneTBkSTlXaTBQeEo0UzZNT0VFWGJhNDc2Qm9VeGxFbnE1UXN0UVJpOFU0QXI2eTlQTFlsZmlGVTZSRjR3eVdjakVqZzRzei1CZmowSDJhSlN2MXdCR3F6amp1MWxFUVRyMFgwbHJsRVU5SHF1YVhZQVd3Ylp0MkRZUHZwS3hoYTRYc0xMOHhLVFVIOS1VQS0wNUJLYlZFSGlF?oc=5",
+      "outlet": "Industry.co.id",
+      "domain": "news.google.com",
+      "published_at": "2026-11-26T01:25:00+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Bukan Cuma Mangrove! BRIN Temukan Padang Lamun Mampu Redam Energi Gelombang Laut hingga 60% Industry.co.id",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "baseline": false
+    },
+    {
+      "id": "82dce0ff29316dc1bc",
+      "title": "캠코, 통영에 잘피 2000주 이식…해양숲 관리에 1000만원 지원 - 비즈월드",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15Ny1ENEh1SEt2TlhLdzN1TXpUTmNLTW1qTldMUTA3Q3NBVE91eXB5WW1fTUY1Zy1SSzE1NjlkM3NFb2t6WGVDclA1VGlkRE0zZVkyMUl6WWctWGlyaFFHclJHWlJ6Rkk3ZGg0?oc=5",
+      "outlet": "비즈월드",
+      "domain": "news.google.com",
+      "published_at": "2026-11-26T00:19:00+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "캠코, 통영에 잘피 2000주 이식…해양숲 관리에 1000만원 지원 비즈월드",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "baseline": false
+    },
     {
       "id": "f7abfd552dd10faf7b",
       "title": "캠코,통영\"해양숲 조성\"위해 선촌어촌계...'잘피2천주 이식' - 한스경제",
@@ -26,7 +148,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -50,7 +172,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -78,6 +200,30 @@
       "baseline": false
     },
     {
+      "id": "b615705534c9d7a0f9",
+      "title": "캠코, 통영 해역에 잘피숲 조성…연간 탄소 25톤 저감 기대 - 직썰",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6YXVfQmxTVHBtY21ZVm10TmppYWdhc2VWOVNJUWsyVUxhZVRyRlJYQ2REMEItT01pbWtkcG8xMElZLWVXVllrenhoVlk5MnlpMHFoUlgwZU9DODdIREpkNV9zY3pVLTNwNURtatIBbEFVX3lxTFB6YXVfQmxTVHBtY21ZVm10TmppYWdhc2VWOVNJUWsyVUxhZVRyRlJYQ2REMEItT01pbWtkcG8xMElZLWVXVllrenhoVlk5MnlpMHFoUlgwZU9DODdIREpkNV9zY3pVLTNwNURtag?oc=5",
+      "outlet": "직썰",
+      "domain": "news.google.com",
+      "published_at": "2026-11-25T07:55:35+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "캠코, 통영 해역에 잘피숲 조성…연간 탄소 25톤 저감 기대 직썰",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "baseline": false
+    },
+    {
       "id": "fd1775898b1c5ea377",
       "title": "캠코, 통영 해양보호구역 잘피숲 조성... 탄소 저감, 해양 생태계 복원 지원 - 가야일보",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUWl3MkxfcGYwMlN0QXlPS1FiQW1lR3V4UGNzeUtSUU5YWlFVb0hpbEZEVF9lNFFGVzA2NkNsUGx2Tk1sWUFWN2U2RkVFeFhDVG4wbVVZV3BFX192TDZPZGhGbnFuR1la?oc=5",
@@ -98,7 +244,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -126,6 +272,30 @@
       "baseline": false
     },
     {
+      "id": "6a02f5e139b1fe29d6",
+      "title": "캠코, 통영 잘피숲 조성…블루카본 확충 - 넷제로뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wUjBnbUl4OTI2N0Q3Sy1xeWZpSjZnOE1ZOUt5emNNVDI2ZndNUWt6ZE1udHB0R2dlM0pLVG0yWUUyR0NKeklMV3RCQ25FTlkySUw5MEIzSUdSSV9OYnNBNm0wWnZlX1VsX3fSAW5BVV95cUxOWlA5RUZKTGVaVVZfNUhkdFJNY09XWkc4STZOb3dUNEhjUEc0MG9LMm9xbVV3NC1JNFVLbzhKdW9mcFFxNmRVLTREM0dnNVk4a0lMSkhFSnZmeUU3MVd2bDhZdnFLZFRyLU84OEZvZw?oc=5",
+      "outlet": "넷제로뉴스",
+      "domain": "news.google.com",
+      "published_at": "2026-11-25T05:41:44+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "캠코, 통영 잘피숲 조성…블루카본 확충 넷제로뉴스",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "baseline": false
+    },
+    {
       "id": "30c4a51927aeaeacea",
       "title": "Guru pencetak generasi penyelamat laut Indonesia",
       "url": "https://www.antaranews.com/berita/5876707/guru-pencetak-generasi-penyelamat-laut-indonesia",
@@ -150,6 +320,30 @@
       "baseline": false
     },
     {
+      "id": "c80a189dcd26d5e5e9",
+      "title": "캠코, 통영 해양보호구역에 잘피숲 조성…탄소 저감 기여 - CNB뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wNGlJYk45M3d0eXhvbXl2RXdUSm94RDloQk5HR1J3d1Nfa2hWZzkyZVdqM2o4bHloYWwta2JpWWZRWE1ieDJxeUJUQ1ZBUnVFbHpuQXBSVjlxRjBfTzhzLVotc3RHRE9nSUJz?oc=5",
+      "outlet": "CNB뉴스",
+      "domain": "news.google.com",
+      "published_at": "2026-11-25T05:00:32+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "캠코, 통영 해양보호구역에 잘피숲 조성…탄소 저감 기여 CNB뉴스",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "baseline": false
+    },
+    {
       "id": "aff88fc6f2281c7dce",
       "title": "캠코, 통영 해역에 잘피숲 조성…블루카본 확대 나서 - 매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBUVhqOV9aVzJxZlJnQ2pVaDBCek9EYTZjZnQ0YlhFY1V6RzlmbklnYnp4ZXFaNW8tUkdudEtmT3ZCQUZHVzhwUzJsVUVjd0d0Ny1hc3ByeUZ5c2VKbThUX1FORzQ?oc=5",
@@ -170,7 +364,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -194,7 +388,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -218,7 +412,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -242,7 +436,31 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
+      "baseline": false
+    },
+    {
+      "id": "c4c73279fb16417122",
+      "title": "캠코, 통영 해양보호구역에 500㎡ 잘피숲 조성 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WakdnZm1GWE1XLThZcnotRGs1eVhXam5sSlJ0TXkyOHYwNG5ndTB3OVZkVi1SNmxKcXpwNUNRSmc1WlZhWGR3VE9sY1Z3U3V5cnNsSFBLdHBOVDBBSUNvcjhUN09pWG1ER0VsOEdWYUtxblVqSUQw0gF3QVVfeXFMTVZqR2dmbUZYTVctOFlyei1EazV5WFdqbmxKUnRNeTI4djA0bmd1MHc5VmRWLVI2bEpxenA1Q1FKZzVaVmFYZHdUT2xjVndTdXlyc2xIUEt0cE5UMEFJQ29yOFQ3T2lYbURHRWw4R1ZhS3FuVWpJRDA?oc=5",
+      "outlet": "핀포인트뉴스",
+      "domain": "news.google.com",
+      "published_at": "2026-11-25T01:50:11+00:00",
+      "language": "Korean",
+      "source_country": "KR",
+      "image": "",
+      "description": "캠코, 통영 해양보호구역에 500㎡ 잘피숲 조성 핀포인트뉴스",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Korean (KR)",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -314,7 +532,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -386,7 +604,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -410,7 +628,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -435,7 +653,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -487,6 +705,30 @@
       "baseline": false
     },
     {
+      "id": "1ce854dd7c07c71d49",
+      "title": "Em Göcek, nenhuma âncora toca o fundo para salvar pradarias marinhas - Público",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeHhkSWdKX1huQTJDU2psdGhGZHAwUW90R1pjQ3NBMnlYZlcxZEhBcl81UHotQ19pbGpFTlJXWXozNXkxVENHSDlabHgxc2ZKUEprSFZ0M3FydFN3TU00LXJxVFRXR3ZNU1Bic0RMVVIyTTR6Vll2Vm9BNWRnc0tmenZDMGNSbkJ4Z0ZsWGNIbnYyU1JzaUdHelpzY0lta0NESll1ZDF3UmtPVFBtODdrWERlOTlXUQ?oc=5",
+      "outlet": "Público",
+      "domain": "news.google.com",
+      "published_at": "2026-11-23T12:38:00+00:00",
+      "language": "Portuguese",
+      "source_country": "PT",
+      "image": "",
+      "description": "Em Göcek, nenhuma âncora toca o fundo para salvar pradarias marinhas Público",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Portuguese (PT)",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "baseline": false
+    },
+    {
       "id": "32f9b6b48fe3eee6b4",
       "title": "BRIN Kembangkan Lamun untuk Redam Gelombang Pesisir - www.suaralandak.co.id",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Rbkxtd0hEZ2d6eVlxd2JGVWFDci0zSldNSUw5UDNvOUJkRm9NczdMRzQ2SFY3czU2ODVTc0d1em9Md2RHRUJmRU1PMkhfcnJSTDVxc3YxeHpYV2lpSURLSG1VS0FMWW8zM1BuQzhVUHhaU1RoUEVvZg?oc=5",
@@ -507,7 +749,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -531,7 +773,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -580,7 +822,56 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
+      "baseline": false
+    },
+    {
+      "id": "336b04e0b6f5a7bea6",
+      "title": "Indonesia Partners with Private Firms to Restore 13,500 Hectares of Mangroves, Seagrass - Tempo.co English",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHNuQVZrczBuR3B1dFNoNzJkU2RYQzA1eFo4YWZYNmVSTW0tU1o1cVRKWGp5S1R2RWRFdlhJRHIyM3lhYkxjTjhtcFdoNnpMMXg1QWZKdDFZa1B3WTA2U3RZZHhyNlpJOVlkbHRISU5naTFkV19DSzRDSjJSUWFjemdPMVpjNDE3Wl9TbkM3T3ltSWxRZXVaU3dPblhCdmxTSXRLa2J2bjQzckRnWHlRdHlmNG1Zci0yS0E?oc=5",
+      "outlet": "Tempo.co English",
+      "domain": "news.google.com",
+      "published_at": "2026-11-23T00:12:24+00:00",
+      "language": "Swahili",
+      "source_country": "KE",
+      "image": "",
+      "description": "Indonesia Partners with Private Firms to Restore 13,500 Hectares of Mangroves, Seagrass Tempo.co English",
+      "themes": [
+        "Restoration"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Swahili (KE)",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "baseline": false
+    },
+    {
+      "id": "a2709edfeba8736e56",
+      "title": "In 2026, a community-made underwater reef was placed near protected seagrass meadows in Italy; citizen sc - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPeTh2QnlBbGl0aHZiSGFUZ2UxaGkyTnhDWE1vQVdVVl9aaUZQU1FRdmh2SFZBZmRROUhSOWgwaHNUbXZZeFYwTXpNX3k1Vnl1UXBJOS03cGRDOFcyUENxN0VoVnhJZkJ2YjFuVUxKWnRFb2lYQjMwSGlwMm5sQzRWUXE1Qldudk9hRFVQNnVvdkxGeXEyTWYyV1g0a1IzdGU2d3EzVDU3blRyd2gwZDRoMHJITUIwcFhKQ3NZS05MMnZmVHNFUTMtUHgtc3VQbVN4aWlLRDk4RVN0UXkyRk55cy1DTk1JS3Fna05JRmIyQ2ZHdno1d3RCLXMwd04yQlFNOE9DdlZyMmVOU1ZvRHl4QWxJMmNEcGNYQWVtek5zYnFCQWdSbUgxdjdNMTZtTW4zWjVUWXpkX2lqdkpNYnp5Snk3N3lBVUhSTEZlZkp3YXlFeFdU0gHaAkFVX3lxTE1LcVhkdGpJcGhFN09nQW9MbEVlVkFJaTZydmJrcEZJZTRjS3BMNWdqUC1xRDZncnNucER0NjBPVDl6aXRPT3pNelEyOW5xUzFXckRCMVI0UzRpNTdMMkZ5bHllTHpNa2paWVdUNUVNYTdiNE91Wkt1cVplZjRFZlpPUHVhaG5UNi1aV241eVBMM0lCQ1hYd0p1WnRRM0lQTEZtR1VBZHU0NnRtbEZLWmJNS3dDM3BmRGVmcUMxZEJtMTA0VlFZMXNiZDZMS0ZIbkJvSks3LXBFOGUyWlRFdTJvM2p6akJlVEZjRWhlc2g3TWxfT1k0Yk90emEzNjQ3V1pkTzRWWk5RdTRVU3haanBKUWZ6MkFZUVlBOXZXWFRMTzVyWVpqNDZBdC1lc3FaUGVEV2NSZTFtWVk4MElRSEZMWFo2VnI0RnJTdFVESE1jSVFTRVU4LUlpRWc?oc=5",
+      "outlet": "The Times of India",
+      "domain": "news.google.com",
+      "published_at": "2026-11-22T16:10:00+00:00",
+      "language": "Swahili",
+      "source_country": "KE",
+      "image": "",
+      "description": "In 2026, a community-made underwater reef was placed near protected seagrass meadows in Italy; citizen sc The Times of India",
+      "themes": [
+        "Conservation & policy",
+        "Community & culture"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Swahili (KE)",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -676,7 +967,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -2833,7 +3124,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "baseline": false
     },
     {
@@ -23925,7 +24216,11 @@
       ],
       [
         "Indonesian",
-        128
+        129
+      ],
+      [
+        "German",
+        73
       ],
       [
         "Japanese",
@@ -23936,12 +24231,8 @@
         73
       ],
       [
-        "German",
-        72
-      ],
-      [
         "Korean",
-        59
+        65
       ],
       [
         "Chinese",
@@ -23953,7 +24244,7 @@
       ],
       [
         "Italian",
-        29
+        30
       ],
       [
         "Dutch",
@@ -23961,15 +24252,15 @@
       ],
       [
         "Portuguese",
-        16
+        17
+      ],
+      [
+        "Swahili",
+        11
       ],
       [
         "Thai",
         11
-      ],
-      [
-        "Swahili",
-        9
       ],
       [
         "Hindi",
@@ -24022,6 +24313,10 @@
         77
       ],
       [
+        "DE",
+        73
+      ],
+      [
         "JP",
         73
       ],
@@ -24030,20 +24325,16 @@
         73
       ],
       [
-        "DE",
-        72
-      ],
-      [
         "United States",
         72
       ],
       [
         "KR",
-        59
+        65
       ],
       [
         "ID",
-        58
+        59
       ],
       [
         "Australia",
@@ -24075,11 +24366,11 @@
       ],
       [
         "PT",
-        14
+        15
       ],
       [
         "IT",
-        13
+        14
       ],
       [
         "US",
@@ -24088,6 +24379,10 @@
       [
         "Spain",
         12
+      ],
+      [
+        "KE",
+        11
       ],
       [
         "TH",
@@ -24099,10 +24394,6 @@
       ],
       [
         "India",
-        9
-      ],
-      [
-        "KE",
         9
       ],
       [
@@ -24272,6 +24563,10 @@
         10
       ],
       [
+        "The Times of India",
+        8
+      ],
+      [
         "NDR.de",
         8
       ],
@@ -24281,10 +24576,6 @@
       ],
       [
         "DW.com",
-        7
-      ],
-      [
-        "The Times of India",
         7
       ],
       [
@@ -24455,15 +24746,15 @@
     "themes": [
       [
         "General seagrass news",
-        747
+        754
       ],
       [
         "Restoration",
-        68
+        69
       ],
       [
         "Conservation & policy",
-        58
+        62
       ],
       [
         "Science & discovery",
@@ -24483,7 +24774,7 @@
       ],
       [
         "Community & culture",
-        17
+        18
       ],
       [
         "Blue carbon",
@@ -24501,7 +24792,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        684
+        696
       ],
       [
         "GDELT",
