@@ -1,10 +1,58 @@
 {
-  "generated_at": "2026-11-26T15:45:34.019835+00:00",
+  "generated_at": "2026-11-27T15:34:01.271649+00:00",
   "baseline_complete": true,
-  "article_count": 1001,
-  "new_today": 12,
+  "article_count": 1007,
+  "new_today": 6,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "9e28b445b8f96ce9d5",
+      "title": "Diesel Tanker Capsizes Off Ibiza, Killing One Crew Member and Raising Fears for Protected Seagrass - Nature World News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObFFXUzZsb1JHd2VsNmdqWWpRZGRDU29mNVlRWEM4c0xDcjQwdEg1bjRIN011OGgyNG5Jd3VwQUZ1OGpDSlpvUk5JMkZYWnZSM3Y2M0pvLVZTSk1feUxCUGpGNGVTUFpudm9SRi03Rkg5cnctRU40N0RzUkdXOEI3SzlDVWRXNEZySHp0T2VUdDdTR1BaWVlDbDRMQ3hmamdqTUhFZTJnNTFTSTFyY2w1THNXc0c1eEpVVFpLMWlkOFBmNlpyYkpFaHZPdkgxLXUyQ09iaE0wUGR5eHgwNFNyWGpzNA?oc=5",
+      "outlet": "Nature World News",
+      "domain": "news.google.com",
+      "published_at": "2026-11-27T07:27:27+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Diesel Tanker Capsizes Off Ibiza, Killing One Crew Member and Raising Fears for Protected Seagrass Nature World News",
+      "themes": [
+        "Conservation & policy"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "baseline": false
+    },
+    {
+      "id": "309894f3b6c2a8ed02",
+      "title": "Path to Zero: Can we bring a lost seagrass meadow back to life? - CGTN",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUzBCbXJGSDZsbUxDT2JNRHNWdHRta0hlVUp1QmRfNWtBSUZQV0lQOE9GM0lQYWhuekp5YjJpYVYwSkJDRGpmMXFCMWhhTk1RSTZFSFpXMUZwbjhyU3UtUzUtMEVVMFpRZmtzWU1ydno4aFVUYXRmbUVaNWRpUzdhY0ZxU241VEJKcmp0N0ZvVUU2NUtrZVJZbmVMMmJaVXMySGlnYmJWeFlWbjdvMVVUT29GTURVeGVtNEJv?oc=5",
+      "outlet": "CGTN",
+      "domain": "news.google.com",
+      "published_at": "2026-11-27T02:36:16+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Path to Zero: Can we bring a lost seagrass meadow back to life? CGTN",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "baseline": false
+    },
     {
       "id": "db4ae7f012db1abdba",
       "title": "Posidonia oceanica, il tesoro sommerso della Sicilia: perché proteggerla significa salvare le nostre coste - Be Sicily Mag",
@@ -32,6 +80,30 @@
       "baseline": false
     },
     {
+      "id": "528187d861c7c59aac",
+      "title": "Crew member dies after diesel tanker sinks off Ibiza ; Spain launches pollution plan",
+      "url": "https://wiky.com/2026/11/26/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-spain-launches-pollution-plan",
+      "outlet": "wiky.com",
+      "domain": "wiky.com",
+      "published_at": "2026-11-26T12:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "image": "",
+      "description": "",
+      "themes": [
+        "Pollution & water quality"
+      ],
+      "taxa": [],
+      "relevance": 5,
+      "discovery_sources": [
+        "GDELT"
+      ],
+      "search_route": "GDELT translingual",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "baseline": false
+    },
+    {
       "id": "ae4703929003db60bb",
       "title": "캠코, 통영 해양보호구역에 잘피숲 조성... 탄소 저감 및 해양 생태계 복원 지원 - 마일드경제",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KREZUb2twVUhxUTMxRGoySzUtOGNNSjNuUVFfczhUYUdaYkswZ3Eya3B6VmlkM1ZJNTZ4eFdySllib0tPaDMxbFJmZjBPYzduR1VmZl9JMldEU3VGOV81WWdfLUo2TVhDNkw4?oc=5",
@@ -52,7 +124,31 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
+      "baseline": false
+    },
+    {
+      "id": "deb928cfefd613faff",
+      "title": "Black Sea Eelgrass Traps Substantial Microparticles While Resident Fauna Retain Few - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTDJBRkVscms0eGVBMkhTSmZrM3VNZ0UyUnlfZ3Z3SlFYSXljZkVtcW1MYTdLS3oyOWlXelBHRWcyMTlCYzdmWWVSeGNnQ3Y1MHVnWmNHQXpWOG4zUFpOTUJuTWlnazRzeEoyOUJmcWQyeEVZMUxEeWMxV0RXeDROMWVneVlNM1EtaC1aakkwdWxLQVFWanR0UGVwc3l2dmc0R1pDMUgwc2xtT19h?oc=5",
+      "outlet": "Bioengineer.org",
+      "domain": "news.google.com",
+      "published_at": "2026-11-26T11:11:32+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Black Sea Eelgrass Traps Substantial Microparticles While Resident Fauna Retain Few Bioengineer.org",
+      "themes": [
+        "Wildlife & biodiversity"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -76,7 +172,31 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
+      "baseline": false
+    },
+    {
+      "id": "4d659711d11953d249",
+      "title": "Pola Kemunculan Musiman Morfotaksa Mikroalga di Ekosistem Lamun Tropis pada Teluk-teluk Pesisir Indonesia - Universitas Airlangga",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWTl5QnpIX1QyUmFuZ1FFZzRDRVd6U3I1OTFRa3ZWZ1lESkxlS1FaQU5OWXIwandyN0UtbENTNUhmYUZ6ZUw4ZGg3OEJtaExMV0djTDVFaGN4YUJfd2NXQW5yOGxGV1UwVVRIbmVTMG04aXpUcnFONTNhNC1xRFQ0OHlGODc0T2ZIRGhHeDd6OXlNNmZlYnU5bW5BT3BXS2hNZHVhNWhqLUNrdVZBUjFMOHN6VmsybHlwSTBuc200anhTelhH?oc=5",
+      "outlet": "Universitas Airlangga",
+      "domain": "news.google.com",
+      "published_at": "2026-11-26T05:00:28+00:00",
+      "language": "Indonesian",
+      "source_country": "ID",
+      "image": "",
+      "description": "Pola Kemunculan Musiman Morfotaksa Mikroalga di Ekosistem Lamun Tropis pada Teluk-teluk Pesisir Indonesia Universitas Airlangga",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Indonesian (ID)",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -100,7 +220,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -124,7 +244,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -148,7 +268,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -172,7 +292,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -196,7 +316,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -220,7 +340,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -244,7 +364,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -292,7 +412,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -340,7 +460,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -364,7 +484,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -388,7 +508,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -412,7 +532,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -436,7 +556,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -460,7 +580,7 @@
       ],
       "search_route": "Google News Korean (KR)",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -532,7 +652,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -604,7 +724,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -653,7 +773,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -725,7 +845,7 @@
       ],
       "search_route": "Google News Portuguese (PT)",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -749,7 +869,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -822,7 +942,33 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
+      "baseline": false
+    },
+    {
+      "id": "d2404600c289e98b25",
+      "title": "Marevivo, ripopolati 100 mq di cymodocea nodosa nel Golfo di Trieste 25/09/2023 - L'eco del sud",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb05CNkl6QnV6dmpKV0FOdXltX3JSMGpRY2xOUmxFYkllSnVtMFFGTHA5cDVCQWN5MHVBOGhFM3FRNWRIWnBMTG5uNWpDVG1jeUxmZ3h6QkVhX1Y0dWFyYUVqbmFna2l5NDI0aTJ1dlJtZHVCV2stR2RrbEt1YmJXeWlyWGlrRjlScThVV1d4ZkF5Q1d4aW1qREtXdm5yZnFjV0w4ZEtyZWJiNmx4MFJHOQ?oc=5",
+      "outlet": "L'eco del sud",
+      "domain": "news.google.com",
+      "published_at": "2026-11-23T02:33:22+00:00",
+      "language": "Italian",
+      "source_country": "IT",
+      "image": "",
+      "description": "Marevivo, ripopolati 100 mq di cymodocea nodosa nel Golfo di Trieste 25/09/2023 L'eco del sud",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [
+        "Cymodocea Nodosa"
+      ],
+      "relevance": 12,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News Italian (IT)",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -846,7 +992,7 @@
       ],
       "search_route": "Google News Swahili (KE)",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -1329,7 +1475,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "baseline": false
     },
     {
@@ -24212,11 +24358,11 @@
     "languages": [
       [
         "English",
-        353
+        357
       ],
       [
         "Indonesian",
-        129
+        130
       ],
       [
         "German",
@@ -24244,7 +24390,7 @@
       ],
       [
         "Italian",
-        30
+        31
       ],
       [
         "Dutch",
@@ -24306,11 +24452,15 @@
     "countries": [
       [
         "GB",
-        164
+        167
       ],
       [
         "Indonesia",
         77
+      ],
+      [
+        "United States",
+        73
       ],
       [
         "DE",
@@ -24325,16 +24475,12 @@
         73
       ],
       [
-        "United States",
-        72
-      ],
-      [
         "KR",
         65
       ],
       [
         "ID",
-        59
+        60
       ],
       [
         "Australia",
@@ -24365,12 +24511,12 @@
         16
       ],
       [
-        "PT",
+        "IT",
         15
       ],
       [
-        "IT",
-        14
+        "PT",
+        15
       ],
       [
         "US",
@@ -24552,7 +24698,7 @@
       ],
       [
         "Bioengineer.org",
-        13
+        14
       ],
       [
         "Yahoo!ニュース",
@@ -24746,7 +24892,7 @@
     "themes": [
       [
         "General seagrass news",
-        754
+        757
       ],
       [
         "Restoration",
@@ -24754,18 +24900,18 @@
       ],
       [
         "Conservation & policy",
-        62
+        63
       ],
       [
         "Science & discovery",
         54
       ],
       [
-        "Development & infrastructure",
-        40
+        "Wildlife & biodiversity",
+        41
       ],
       [
-        "Wildlife & biodiversity",
+        "Development & infrastructure",
         40
       ],
       [
@@ -24777,11 +24923,11 @@
         18
       ],
       [
-        "Blue carbon",
-        11
+        "Pollution & water quality",
+        12
       ],
       [
-        "Pollution & water quality",
+        "Blue carbon",
         11
       ],
       [
@@ -24792,11 +24938,11 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        696
+        701
       ],
       [
         "GDELT",
-        308
+        309
       ]
     ]
   }
