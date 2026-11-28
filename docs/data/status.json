@@ -1,21 +1,34 @@
 {
-  "generated_at": "2026-11-27T15:34:01.271649+00:00",
+  "generated_at": "2026-11-28T14:30:09.212001+00:00",
   "baseline_mode": false,
   "sources": {
     "gdelt": {
       "name": "GDELT",
       "ok": false,
-      "fetched": 1,
-      "kept": 1,
+      "fetched": 0,
+      "kept": 0,
       "error": "429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22Cymodocea+nodosa%22+OR+%22Cymodocea+serrulata%22+OR+%22Enhalus+acoroides%22+OR+%22Syringodium+filiforme%22+OR+Phyllospadix%29&mode=artlist&format=json&maxrecords=250&timespan=4d&sort=datedesc"
     },
     "google_news_rss": {
       "name": "Google News RSS",
-      "ok": true,
-      "fetched": 2555,
-      "kept": 30,
-      "feeds": 58,
-      "errors": []
+      "ok": false,
+      "fetched": 1987,
+      "kept": 17,
+      "feeds": 46,
+      "errors": [
+        "English/GB: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Zostera+marina%22+OR+%22Posidonia+o",
+        "English/US: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=seagrass+OR+eelgrass&hl=en-US&gl=US&ce",
+        "Spanish/ES: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=pastos+marinos+OR+praderas+marinas&hl=",
+        "French/FR: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Zostera+marina%22+OR+%22Posidonia+o",
+        "Danish/DK: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%C3%A5legr%C3%A6s&hl=da&gl=DK&ceid=DK%",
+        "Norwegian/NO: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Zostera+marina%22&hl=no&gl=NO&ceid=",
+        "Polish/PL: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=trawy+morskie+OR+trawa+morska&hl=pl&gl",
+        "Greek/GR: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%CE%B8%CE%B1%CE%BB%CE%AC%CF%83%CF%83%C",
+        "Turkish/TR: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Zostera+OR+Posidonia&hl=tr&gl=TR&ceid=",
+        "Arabic/AE: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=seagrass+OR+Halophila+OR+Halodule&hl=a",
+        "Korean/KR: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%EC%9E%98%ED%94%BC+OR+%EC%9E%98%ED%94%",
+        "Swahili/KE: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=nyasi+bahari&hl=sw&gl=KE&ceid=KE%3Asw"
+      ]
     }
   },
   "coverage": {

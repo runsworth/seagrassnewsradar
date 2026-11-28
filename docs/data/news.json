@@ -1,10 +1,83 @@
 {
-  "generated_at": "2026-11-27T15:34:01.271649+00:00",
+  "generated_at": "2026-11-28T14:30:09.212001+00:00",
   "baseline_complete": true,
-  "article_count": 1007,
-  "new_today": 6,
+  "article_count": 1010,
+  "new_today": 3,
   "lookback_days_this_run": 4,
   "articles": [
+    {
+      "id": "f6ac4078f512573930",
+      "title": "Camel, Tamar and Falmouth seagrass in line for water fine money - CornishStuff",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdmo3Z1AzbkFSa3JHSkFibVNlSFVMZ1FKM2RRRGhJXzlXM2EyN25aQlNJNV9ONHY1cm1MU0RpbjBmN2w1XzFNLTlkQ2E5OU9YQy14OXF5WXVaUjU0SDVsMnM5YTZSczVJc1Z1dUN2cjJNSW9VeTFuVlFiNHpyNmlqUXdXTEpPOUJuREFJQ0JFc0VMaDVVY0ZiNmw0bV80aVBiSlE?oc=5",
+      "outlet": "CornishStuff",
+      "domain": "news.google.com",
+      "published_at": "2026-11-28T08:45:43+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Camel, Tamar and Falmouth seagrass in line for water fine money CornishStuff",
+      "themes": [
+        "General seagrass news"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "baseline": false
+    },
+    {
+      "id": "ad2fdf0998a6973fb8",
+      "title": "Arcachon Bay Study Finds Partial Seagrass Restoration Optimizes Coastal Sediment Dynamics - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOemxEbnJEZ01iei1YWm1qY2lzd3ZFUkNBVldwVGVvUDQzQThyWlJmNkJtempSM3VzeGdfbE1xeFJBQnhmY2dwbDU4Wk52eWFLTkc3VDZ3Wl9wcWFLeXpWOS1KbHl0Z1NDcEluZE1BU0lkNkNVbFlyVXNUOXR2S1Rqb2pVbTZFcndHT0VJaHRaM0cxSnRoNm45Z1laV2FMSXdYY3hLZ2IyckNhY2VOUUVfbkw4Qno?oc=5",
+      "outlet": "Bioengineer.org",
+      "domain": "news.google.com",
+      "published_at": "2026-11-27T19:52:35+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "Arcachon Bay Study Finds Partial Seagrass Restoration Optimizes Coastal Sediment Dynamics Bioengineer.org",
+      "themes": [
+        "Restoration",
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "baseline": false
+    },
+    {
+      "id": "d1e1996dcb78b15ea6",
+      "title": "ESRA published seagrass plan with over 50 researchers - Denkstrom",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSXpXdllrVmFSWUd1NW5IV1NtQXpmdkhqd0NrZFF1dVBjTHJzc1V6SFZTa28yMTVRZzlqbHZhNldFNHkzc01tRTQzRG42RFZmYVliWGxQZk1BaXkxZXc2QmdRQVFMYW94enRQWDJBRzlYbmdvOXJpcEFuLXJuWlhJMGxxSkQwMGlib1g5YXhKMGYxUQ?oc=5",
+      "outlet": "Denkstrom",
+      "domain": "news.google.com",
+      "published_at": "2026-11-27T08:46:51+00:00",
+      "language": "English",
+      "source_country": "GB",
+      "image": "",
+      "description": "ESRA published seagrass plan with over 50 researchers Denkstrom",
+      "themes": [
+        "Science & discovery"
+      ],
+      "taxa": [],
+      "relevance": 6,
+      "discovery_sources": [
+        "Google News RSS"
+      ],
+      "search_route": "Google News English (GB)",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "baseline": false
+    },
     {
       "id": "9e28b445b8f96ce9d5",
       "title": "Diesel Tanker Capsizes Off Ibiza, Killing One Crew Member and Raising Fears for Protected Seagrass - Nature World News",
@@ -26,7 +99,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-27",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "baseline": false
     },
     {
@@ -50,7 +123,7 @@
       ],
       "search_route": "Google News English (GB)",
       "first_seen": "2026-11-27",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "baseline": false
     },
     {
@@ -172,7 +245,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "baseline": false
     },
     {
@@ -196,7 +269,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-27",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "baseline": false
     },
     {
@@ -220,7 +293,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "baseline": false
     },
     {
@@ -532,7 +605,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "baseline": false
     },
     {
@@ -556,7 +629,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "baseline": false
     },
     {
@@ -652,7 +725,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "baseline": false
     },
     {
@@ -724,7 +797,7 @@
       ],
       "search_route": "Google News Indonesian (ID)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "baseline": false
     },
     {
@@ -748,7 +821,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-28",
       "baseline": false
     },
     {
@@ -773,7 +846,7 @@
       ],
       "search_route": "Google News German (DE)",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "baseline": false
     },
     {
@@ -3270,7 +3343,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-28",
       "baseline": false
     },
     {
@@ -15108,7 +15181,7 @@
       ],
       "search_route": "Google News Japanese (JP)",
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-11-28",
       "baseline": false
     },
     {
@@ -24358,7 +24431,7 @@
     "languages": [
       [
         "English",
-        357
+        360
       ],
       [
         "Indonesian",
@@ -24452,7 +24525,7 @@
     "countries": [
       [
         "GB",
-        167
+        170
       ],
       [
         "Indonesia",
@@ -24698,7 +24771,7 @@
       ],
       [
         "Bioengineer.org",
-        14
+        15
       ],
       [
         "Yahoo!ニュース",
@@ -24892,11 +24965,11 @@
     "themes": [
       [
         "General seagrass news",
-        757
+        758
       ],
       [
         "Restoration",
-        69
+        70
       ],
       [
         "Conservation & policy",
@@ -24904,7 +24977,7 @@
       ],
       [
         "Science & discovery",
-        54
+        56
       ],
       [
         "Wildlife & biodiversity",
@@ -24938,7 +25011,7 @@
     "discovery_sources": [
       [
         "Google News RSS",
-        701
+        704
       ],
       [
         "GDELT",
